@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Diritto Disciplinare – Esercitazione</title>
+<meta name="description" content="Esercitazione sui quesiti a risposta multipla di Diritto Disciplinare militare.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="testata">
+  <div class="dentro">
+    <h1>Diritto Disciplinare<small>Banca dati dei quesiti · 8° Corso Applicativo</small></h1>
+    <nav><a href="index.html">Manuale</a><a href="esercitazione.html" aria-current="page">Esercitazione</a></nav>
+  </div>
+</header>
+<main>
+
+<section id="impostazioni">
+  <div class="tabs ui" role="group" aria-label="Modalità">
+    <button class="tab" data-modo="studio"><b>Studio</b><span>percorso guidato, spiegazione subito</span></button>
+    <button class="tab" data-modo="allenamento"><b>Allenamento</b><span>ordine casuale, correzione subito</span></button>
+    <button class="tab" data-modo="simulazione"><b>Simulazione d'esame</b><span>correzione alla fine</span></button>
+    <button class="tab" data-modo="ripasso"><b>Ripasso errori</b><span id="n-errori">quesiti sbagliati</span></button>
+  </div>
+
+  <div class="card">
+    <p id="descrizione-modo" class="piccolo" style="margin-top:0"></p>
+
+    <fieldset>
+      <legend>Argomenti</legend>
+      <div class="riga-azioni" style="margin-top:0">
+        <button type="button" id="tutti">Tutti</button><button type="button" id="nessuno">Nessuno</button>
+        <select id="lezione" aria-label="Lezione"><option value="">Tutte le lezioni</option></select>
+      </div>
+      <div class="argomenti" id="argomenti"></div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Filtri</legend>
+      <div class="scelte">
+        <label>Tipo <select id="tipo"><option value="">tutti</option></select></label>
+        <label>Difficoltà <select id="difficolta"><option value="">tutte</option><option value="1">1 – base</option>
+          <option value="2">2 – media</option><option value="3">3 – alta</option></select></label>
+        <label><input type="checkbox" id="solo-test"> punti d'esame</label>
+        <label><input type="checkbox" id="solo-aula"> domande poste in aula</label>
+        <label><input type="checkbox" id="mai-visti"> mai visti</label>
+      </div>
+    </fieldset>
+
+    <fieldset id="opzioni-simulazione">
+      <legend>Simulazione</legend>
+      <div class="scelte">
+        <label>Quesiti <input type="number" id="n-quesiti" min="5" max="200" value="30" style="width:5em"></label>
+        <label>Tempo <select id="tempo"><option value="0">nessun limite</option><option value="30">30 minuti</option>
+          <option value="45">45 minuti</option><option value="60">60 minuti</option></select></label>
+      </div>
+    </fieldset>
+
+    <div class="riga-azioni">
+      <button class="primario" id="inizia">Inizia</button>
+      <span class="piccolo" id="conteggio"></span>
+    </div>
+  </div>
+
+  <div class="card ui">
+    <div class="stat" id="miei-progressi"></div>
+    <div class="riga-azioni"><button id="azzera">Azzera i miei progressi</button></div>
+  </div>
+</section>
+
+<section id="prova" class="nascosto">
+  <div class="barra"><span id="posizione"></span><span id="timer"></span><span id="punteggio"></span></div>
+  <div class="avanzamento"><div id="barra"></div></div>
+  <div class="card">
+    <div id="etichette"></div>
+    <p class="domanda" id="domanda"></p>
+    <div class="opzioni" id="opzioni"></div>
+    <div id="correzione"></div>
+  </div>
+  <div class="riga-azioni ui">
+    <button id="indietro">‹ Precedente</button>
+    <button id="soluzione">Mostra la soluzione</button>
+    <button class="primario" id="avanti">Successivo ›</button>
+    <button id="termina">Termina</button>
+  </div>
+</section>
+
+<section id="risultato" class="nascosto">
+  <div class="card">
+    <div class="risultato-grande" id="voto"></div>
+    <p id="giudizio" class="ui"></p>
+    <div class="riga-azioni"><button class="primario" id="nuova">Nuova prova</button>
+      <button id="solo-errate">Rivedi solo le errate</button></div>
+  </div>
+  <div class="card" id="revisione"></div>
+</section>
+
+<noscript><p class="avviso">Per esercitarsi serve JavaScript.</p></noscript>
+</main>
+<footer>Raccolta personale · nessun carattere ufficiale · i progressi restano solo in questo browser.</footer>
+<script src="app.js"></script>
+</body>
+</html>
