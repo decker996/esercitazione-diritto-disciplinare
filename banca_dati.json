@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
  "aggiornata": "2026-10-21",
- "totale": 170,
+ "totale": 301,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -52,6 +52,12 @@
    "parte": "II – I doveri dei militari"
   },
   {
+   "slug": "doveri-superiori",
+   "titolo": "Doveri dei superiori",
+   "descrizione": "doveri propri dei superiori (art. 725 TUROM) (II.5.e)",
+   "parte": "II – I doveri dei militari"
+  },
+  {
    "slug": "doveri-fuori-servizio",
    "titolo": "Doveri fuori servizio",
    "descrizione": "libera uscita, licenza, alloggiamento, abito civile, comunicazioni obbligatorie (art. 748 TUROM) (II.10)",
@@ -82,6 +88,12 @@
    "parte": "V – Le sanzioni disciplinari"
   },
   {
+   "slug": "richiamo",
+   "titolo": "Il richiamo",
+   "descrizione": "richiamo verbale e scritto (art. 1359 COM) (V.2.b)",
+   "parte": "V – Le sanzioni disciplinari"
+  },
+  {
    "slug": "sanzioni-stato",
    "titolo": "Le sanzioni di stato",
    "descrizione": "sospensione disciplinare, cessazione dalla ferma o rafferma, perdita del grado per rimozione (art. 1357 COM) (V.3)",
@@ -98,6 +110,66 @@
    "titolo": "Potestà sanzionatoria",
    "descrizione": "titolarità (art. 1354 COM), autorità competenti di corpo e di stato, deleghe, reparto e corpo ai fini disciplinari (V.4)",
    "parte": "V – Le sanzioni disciplinari"
+  },
+  {
+   "slug": "notizia-accertamenti",
+   "titolo": "Notizia e accertamenti",
+   "descrizione": "notizia della mancanza, rapporto disciplinare, accertamenti preliminari (art. 1397 COM) (VII.1.a-c)",
+   "parte": "VII – L'accertamento delle mancanze"
+  },
+  {
+   "slug": "rapporti-penale-disciplinare",
+   "titolo": "Procedimento penale e disciplinare",
+   "descrizione": "pregiudiziale penale, art. 1393 COM, art. 653 c.p.p., esame del giudicato penale, art. 260 c.p.m.p. (VII.1.d; VIII.1.c)",
+   "parte": "VII – L'accertamento delle mancanze"
+  },
+  {
+   "slug": "azione-disciplinare",
+   "titolo": "L'azione disciplinare",
+   "descrizione": "natura, obbligatorietà, discrezionalità e motivazione, esortazione, decadenza (VII.2)",
+   "parte": "VII – L'accertamento delle mancanze"
+  },
+  {
+   "slug": "procedimento-generalita",
+   "titolo": "Il procedimento: contestazione e difesa",
+   "descrizione": "natura e scopo, contestazione degli addebiti e diritto di difesa (art. 1370 COM), difensore, annullamento, rinnovazione, estinzione (VIII.1)",
+   "parte": "VIII – I procedimenti disciplinari"
+  },
+  {
+   "slug": "procedimento-corpo",
+   "titolo": "Procedimento di corpo",
+   "descrizione": "procedimento ex art. 1398 COM, fasi, provvedimento, comunicazione (VIII.2)",
+   "parte": "VIII – I procedimenti disciplinari"
+  },
+  {
+   "slug": "procedimento-consegna-rigore",
+   "titolo": "Procedimento per la consegna di rigore",
+   "descrizione": "art. 1399 COM, commissione di disciplina per la consegna di rigore (VIII.3)",
+   "parte": "VIII – I procedimenti disciplinari"
+  },
+  {
+   "slug": "cessazione-effetti",
+   "titolo": "Cessazione degli effetti",
+   "descrizione": "cessazione degli effetti delle sanzioni di corpo (art. 1369 COM) (IX.5)",
+   "parte": "IX – I procedimenti di secondo grado"
+  },
+  {
+   "slug": "autotutela",
+   "titolo": "Autotutela",
+   "descrizione": "annullamento, revoca, riforma in materia disciplinare (IX.7)",
+   "parte": "IX – I procedimenti di secondo grado"
+  },
+  {
+   "slug": "disciplina-polizia-giudiziaria",
+   "titolo": "Disciplina della p.g.",
+   "descrizione": "disciplina della p.g. (artt. 16-18 disp. att. c.p.p.) (XI.2)",
+   "parte": "XI – Altri sistemi disciplinari"
+  },
+  {
+   "slug": "tecniche-redazionali",
+   "titolo": "Tecniche redazionali",
+   "descrizione": "redazione di contestazioni, provvedimenti e motivazioni (modelli della Guida tecnica)",
+   "parte": "Argomenti trasversali"
   }
  ],
  "quesiti": [
@@ -4430,6 +4502,3416 @@
    ],
    "lezione": 1,
    "data_lezione": "2026-10-14"
+  },
+  {
+   "id": "DD-L02-001",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Che cos'è l'azione disciplinare?",
+   "opzioni": {
+    "A": "la facoltà del militare di chiedere che la propria condotta sia valutata in sede disciplinare",
+    "B": "l'atto con cui il superiore non competente riferisce l'infrazione all'autorità titolare della potestà sanzionatoria",
+    "C": "il provvedimento finale con cui l'autorità competente infligge la sanzione disciplinare",
+    "D": "il potere-dovere di sottoporre un militare a procedimento disciplinare"
+   },
+   "corretta": "D",
+   "spiegazione": "L'azione disciplinare è il potere-dovere di sottoporre un militare a procedimento disciplinare: è l'iniziativa del procedimento. Non coincide con il rapporto disciplinare (art. 1397 COM), che è una notizia qualificata indirizzata a chi ha la potestà sanzionatoria, né con la sanzione, che è l'atto finale ed eventuale del procedimento. L'iniziativa è sempre d'ufficio: non esiste un interesse legittimo del militare a farsi punire.",
+   "riferimenti": [
+    "COM artt. 1397-1398"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 232"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-002",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Un militare si presenta spontaneamente al comandante di reparto e si autoaccusa di una mancanza. Il procedimento disciplinare che ne segue:",
+   "opzioni": {
+    "A": "diventa a iniziativa di parte, perché è l'interessato ad averlo sollecitato",
+    "B": "non può essere instaurato, perché l'autoincolpazione equivale a rinuncia alle giustificazioni",
+    "C": "resta a iniziativa d'ufficio, perché non esiste un interesse legittimo a farsi punire",
+    "D": "deve essere instaurato con le forme della consegna di rigore, per garantire il militare difensore"
+   },
+   "corretta": "C",
+   "spiegazione": "L'iniziativa del procedimento disciplinare è strutturalmente d'ufficio: anche se il militare si autoincolpasse, il procedimento non diverrebbe per ciò solo a iniziativa di parte, perché chi si autoaccusa cura comunque un interesse pubblico e non esiste un interesse legittimo a essere puniti, ma al più un interesse di fatto o morale. L'autoaccusa non sostituisce la contestazione né le giustificazioni (art. 1370, co. 1, COM), e la forma del procedimento dipende dalla sanzione ipotizzabile, non dal modo in cui la notizia è giunta.",
+   "riferimenti": [
+    "COM art. 1370, co. 1",
+    "COM art. 1398"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 243"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-003",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Con quale atto si formalizza l'esercizio dell'azione disciplinare nel procedimento di corpo?",
+   "opzioni": {
+    "A": "con il rapporto disciplinare del superiore che ha rilevato l'infrazione",
+    "B": "con la constatazione della mancanza fatta al trasgressore",
+    "C": "con l'atto di contestazione degli addebiti, che apre il procedimento",
+    "D": "con la nota esplicativa inviata al comandante di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "L'azione disciplinare di corpo si formalizza con l'atto di contestazione degli addebiti, che apre il procedimento e va adottato e notificato senza ritardo (art. 1398, co. 1, COM). Constatazione e rapporto (art. 1397 COM) appartengono alla fase della notizia della mancanza, che precede il procedimento insieme agli accertamenti preliminari; la nota esplicativa al comandante di corpo segue invece la conclusione del procedimento.",
+   "riferimenti": [
+    "COM art. 1398, co. 1-2",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi pp. 239, 254"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-004",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo le istruzioni applicative dell'amministrazione della Difesa (Guida tecnica «Procedure disciplinari»), l'azione disciplinare:",
+   "opzioni": {
+    "A": "è obbligatoria, al verificarsi dei presupposti di fatto e di diritto, perché risponde ai principi di buon andamento e imparzialità e al servizio esclusivo della Nazione",
+    "B": "è obbligatoria solo per i fatti punibili con sanzioni di stato",
+    "C": "è facoltativa per i fatti bagatellari, per i quali basta l'esortazione",
+    "D": "è discrezionale, salvo i soli casi in cui sia richiesta dal procuratore generale militare"
+   },
+   "corretta": "A",
+   "spiegazione": "La Guida tecnica afferma che l'azione disciplinare è obbligatoria, naturalmente al verificarsi dei presupposti di fatto e di diritto, perché risponde ai principi di buon andamento e imparzialità (art. 97 Cost.) e garantisce l'effettività del «servizio esclusivo della Nazione» (art. 98 Cost.). Ne indica come indici gli artt. 1352, co. 2, 1397, 1398, co. 1, e 1392 COM e l'art. 751, n. 18, TUROM. Per i fatti bagatellari la via prevista è il richiamo, non l'esortazione, che presuppone l'assenza di una mancanza.",
+   "riferimenti": [
+    "Cost. artt. 97-98",
+    "COM artt. 1352, co. 2, 1397, 1398, co. 1, 1392",
+    "TUROM art. 751, co. 1, lett. a), n. 18"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica pp. 5-6",
+    "domande poste in aula, 17.10.2026, n. 3"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-005",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Secondo l'orientamento che ritiene l'azione disciplinare «in generale discrezionale», la scelta di non esercitarla:",
+   "opzioni": {
+    "A": "deve trovare giustificazione in valide e motivate ragioni e non può fondarsi sul mero arbitrio del superiore",
+    "B": "è insindacabile, perché rientra nel merito dell'azione di comando",
+    "C": "è consentita solo se il fatto è stato già sanzionato in sede penale",
+    "D": "richiede il preventivo nulla osta del comandante di corpo"
+   },
+   "corretta": "A",
+   "spiegazione": "Anche chi sostiene la discrezionalità dell'azione disciplinare esclude l'arbitrio: il mancato esercizio deve fondarsi su valide e motivate ragioni, e accanto alla regola esistono ipotesi di obbligatorietà previste dalla legge o dal regolamento (artt. 305 c.p.m.p., 1397, co. 7, e 1362, co. 7, lett. a, COM, 653, co. 1-bis, c.p.p.). Le due tesi sono perciò meno lontane di quanto sembri: cambia il punto di partenza, cioè chi deve giustificarsi. Nessuna norma subordina la scelta a un nulla osta del comandante di corpo.",
+   "riferimenti": [
+    "Cost. art. 97",
+    "COM artt. 1362, co. 7, e 1397, co. 7",
+    "c.p.m.p. art. 305"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 233"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-006",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Nella questione dell'obbligatorietà dell'azione disciplinare, qual è l'obbligo di cui si discute?",
+   "opzioni": {
+    "A": "l'obbligo di infliggere almeno il richiamo per ogni fatto disciplinarmente rilevante, senza possibilità di proscioglimento",
+    "B": "l'obbligo di procedere penalmente per ogni fatto che costituisca anche reato militare",
+    "C": "l'obbligo di trasmettere ogni fatto al comandante di corpo, unico titolare della potestà sanzionatoria",
+    "D": "l'obbligo di aprire il procedimento, cioè di sottoporre il fatto all'esame disciplinare, che può concludersi anche senza sanzione"
+   },
+   "corretta": "D",
+   "spiegazione": "Il problema non è l'obbligo di punire, ma quello di aprire il procedimento: fare la contestazione, ascoltare le giustificazioni, operare il vaglio disciplinare. Aprire un procedimento non significa punire: l'autorità comunica senza ritardo la propria decisione anche quando non ritiene di infliggere alcuna sanzione (art. 1398, co. 4, COM). La potestà sanzionatoria di corpo non è riservata al comandante di corpo (art. 1396 COM), e l'azione penale è altra cosa.",
+   "riferimenti": [
+    "COM art. 1398, co. 4",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 3"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-007",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 1352, co. 2, COM, invocato come primo indice dell'obbligatorietà dell'azione disciplinare, stabilisce che la violazione dei doveri del servizio e della disciplina militare:",
+   "opzioni": {
+    "A": "comporta sanzioni disciplinari di stato o sanzioni disciplinari di corpo",
+    "B": "comporta sanzioni di corpo e, nei casi più gravi, la denuncia all'autorità giudiziaria militare",
+    "C": "può comportare, secondo il prudente apprezzamento del superiore, sanzioni di stato o di corpo",
+    "D": "comporta sanzioni disciplinari solo se espressamente tipizzata dall'art. 751 TUROM"
+   },
+   "corretta": "A",
+   "spiegazione": "La norma dice «comporta», non «può comportare»: dove la legge si esprime in termini così netti, la violazione del dovere porta alla sanzione di stato o a quella di corpo. È la lettura della Direzione generale per il personale militare, cioè del Ministro della difesa, massimo organo gerarchico e disciplinare (art. 10 COM). L'art. 751 TUROM tipizza solo i comportamenti punibili con la consegna di rigore, non ogni illecito disciplinare.",
+   "riferimenti": [
+    "COM art. 1352, co. 1-2",
+    "COM art. 10, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 5"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-008",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Quale delle seguenti norme è indicata tra gli indici dell'obbligatorietà dell'azione disciplinare?",
+   "opzioni": {
+    "A": "l'art. 1359, co. 2, COM, per il quale il superiore nella linea gerarchica che infligge il richiamo non ha obbligo di rapporto",
+    "B": "l'art. 1363, co. 3, COM, che consente al militare di chiedere il riesame delle sanzioni di corpo",
+    "C": "l'art. 751, co. 1, lett. a), n. 18, TUROM, che punisce con la consegna di rigore la negligenza nel controllo sul comportamento disciplinare degli inferiori",
+    "D": "l'art. 1369 COM, sulla cessazione degli effetti delle sanzioni di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "Se la negligenza nel controllo disciplinare degli inferiori è punita con la sanzione di corpo più grave, il superiore non è libero di disinteressarsi delle mancanze dei dipendenti: per questo l'art. 751, n. 18, TUROM è tra gli indici dell'obbligatorietà, con gli artt. 1352, co. 2, 1397, 1398, co. 1, e 1392 COM. Le altre norme riguardano la competenza diffusa a infliggere il richiamo, il riesame e la cessazione degli effetti: istituti successivi o estranei alla scelta se procedere.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 18",
+    "TUROM artt. 725-726"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 6"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-009",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "L'art. 1397, co. 7, COM obbliga il comandante di corpo a instaurare il procedimento se l'infrazione rapportata è prevista tra i comportamenti punibili con la consegna di rigore. Quale norma elenca tali comportamenti?",
+   "opzioni": {
+    "A": "l'art. 1399 COM",
+    "B": "l'art. 1362 COM",
+    "C": "l'art. 732 TUROM",
+    "D": "l'art. 751 TUROM"
+   },
+   "corretta": "D",
+   "spiegazione": "I comportamenti punibili con la consegna di rigore sono elencati dall'art. 751 del D.P.R. 90/2010 (TUROM); la consegna di rigore non può essere inflitta se non per quei comportamenti (artt. 1358, co. 6, e 1362, co. 1, COM). L'art. 1362 COM disciplina la sanzione e le sue modalità di esecuzione, l'art. 1399 COM il procedimento per infliggerla, l'art. 732 TUROM le norme di comportamento generali.",
+   "riferimenti": [
+    "COM art. 1397, co. 7",
+    "TUROM art. 751",
+    "COM art. 1358, co. 6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 6"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-010",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.2.a",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Un rapporto disciplinare riferisce un'infrazione prevista tra i comportamenti punibili con la consegna di rigore. Chi è obbligato a instaurare il procedimento e con quale procedura?",
+   "opzioni": {
+    "A": "il comandante di corpo, con la procedura dell'art. 1399 COM",
+    "B": "il comandante di reparto, con il procedimento ordinario dell'art. 1398 COM",
+    "C": "il superiore che ha redatto il rapporto, previa autorizzazione del comandante di corpo",
+    "D": "il Comandante generale, con l'inchiesta formale"
+   },
+   "corretta": "A",
+   "spiegazione": "Per l'art. 1397, co. 7, COM il comandante di corpo «è obbligato» a instaurare il procedimento; il procedimento è quello speciale dell'art. 1399 COM, con la commissione di disciplina e il militare difensore. La consegna di rigore può essere inflitta esclusivamente dal comandante del corpo o dell'ente presso il quale il militare presta servizio (art. 1396, co. 1, COM). L'inchiesta formale riguarda le sanzioni di stato.",
+   "riferimenti": [
+    "COM art. 1397, co. 7",
+    "COM artt. 1396, co. 1, e 1399"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica pp. 146, 150"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-011",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un carabiniere commette un reato militare punito con la reclusione militare non superiore nel massimo a sei mesi. Il comandante di corpo decide di non chiedere il procedimento penale. Che cosa ne consegue?",
+   "opzioni": {
+    "A": "il fatto resta privo di sanzione, perché la mancata richiesta estingue ogni responsabilità",
+    "B": "il fatto può essere punito solo con il rimprovero, non essendovi stato giudizio penale",
+    "C": "il comandante deve instaurare il procedimento disciplinare, potendo punire il fatto con la consegna di rigore, e resta obbligato a comunicare la notizia di reato alla procura militare",
+    "D": "il comandante può limitarsi a un'esortazione scritta, poiché la scelta di non chiedere il procedimento penale è discrezionale"
+   },
+   "corretta": "C",
+   "spiegazione": "I reati puniti con la reclusione militare non superiore a sei mesi sono punibili a richiesta del comandante di corpo (art. 260, co. 2, c.p.m.p.). Se non la presenta, il comandante opera una sorta di depenalizzazione discrezionale ed è obbligato a procedere in via disciplinare: quei fatti possono essere puniti con la consegna di rigore (art. 1362, co. 7, lett. a, COM), con il procedimento dell'art. 1399 COM. Resta fermo l'obbligo di comunicare immediatamente la notizia di reato alla procura militare (art. 361 c.p.).",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2",
+    "COM art. 1362, co. 7, lett. a)",
+    "COM art. 1399",
+    "c.p. art. 361"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 234",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-012",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Entro quale termine il comandante di corpo può presentare la richiesta di procedimento per i reati dell'art. 260, co. 2, c.p.m.p.?",
+   "opzioni": {
+    "A": "entro dieci giorni dalla commissione del fatto",
+    "B": "entro novanta giorni dalla conclusione degli accertamenti preliminari",
+    "C": "entro un mese dal giorno in cui ha avuto notizia del fatto che costituisce il reato",
+    "D": "entro tre mesi dalla querela della persona offesa"
+   },
+   "corretta": "C",
+   "spiegazione": "Per l'art. 260, co. 4, c.p.m.p. la richiesta non può più essere proposta decorso un mese dal giorno in cui l'autorità ha avuto notizia del fatto che costituisce il reato. Entro quel termine il comandante sceglie tra la via penale e quella disciplinare. Il termine decorre dalla notizia, non dal fatto; i novanta giorni sono quelli del procedimento disciplinare di corpo (art. 1046 TUROM) e la querela è istituto diverso, del codice penale comune.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 4"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-013",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Per lo stesso fatto, punibile a richiesta ai sensi dell'art. 260, co. 2, c.p.m.p., è già stata inflitta la consegna di rigore. Il comandante di corpo può ancora presentare la richiesta di procedimento penale?",
+   "opzioni": {
+    "A": "sì, ma solo se la sanzione disciplinare è stata prima annullata in autotutela",
+    "B": "no: l'inflizione della consegna di rigore consuma il potere di richiesta, per il divieto di bis in idem",
+    "C": "no: la richiesta è revocata implicitamente dall'avvio del procedimento disciplinare",
+    "D": "sì: il sistema non configura un'alternatività in senso stretto tra le due vie, e la Corte costituzionale ha ritenuto non fondata la questione sollevata sul punto"
+   },
+   "corretta": "D",
+   "spiegazione": "La richiesta di procedimento non è preclusa dall'avvenuta inflizione di una sanzione disciplinare per lo stesso fatto: Corte cost., 13 luglio 2000 (dep. 31 luglio 2000), n. 406, ha dichiarato non fondata la questione di legittimità dell'art. 260, co. 2, c.p.m.p. nella parte in cui non preclude la richiesta dopo la consegna di rigore. La richiesta, una volta presentata, è atto formale e irrevocabile (art. 129 c.p.): non si revoca, né in modo implicito né espresso.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2",
+    "c.p. art. 129",
+    "Corte cost., 13 luglio 2000, n. 406"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-014",
+   "argomento": "disciplina-polizia-giudiziaria",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 305 c.p.m.p. prevede che chi esercita le funzioni di polizia giudiziaria militare e omette o ritarda l'esecuzione di un ordine dell'autorità giudiziaria militare sia punito:",
+   "opzioni": {
+    "A": "con la reclusione militare fino a sei mesi, a richiesta del comandante di corpo",
+    "B": "con sanzioni disciplinari dai superiori gerarchici, a richiesta del procuratore generale militare",
+    "C": "con la censura, inflitta da una commissione presieduta dal procuratore generale militare",
+    "D": "con la sospensione dall'impiego disposta dal giudice per le indagini preliminari"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 305 c.p.m.p. prevede sanzioni disciplinari inflitte dai superiori gerarchici, a richiesta del procuratore generale militare, per chi viola disposizioni di legge prive di una sanzione speciale, ricusa, omette o ritarda l'esecuzione di un ordine dell'autorità giudiziaria militare o lo esegue solo in parte o negligentemente. In quel caso l'azione disciplinare è obbligatoria, ferma la discrezionalità nella scelta della sanzione. Censura e sospensione decise da una commissione sono invece le sanzioni degli artt. 16-17 disp. att. c.p.p.",
+   "riferimenti": [
+    "c.p.m.p. art. 305",
+    "c.p.m.p. art. 301"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi pp. 233-234"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-015",
+   "argomento": "disciplina-polizia-giudiziaria",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Chi sono, secondo l'art. 301 c.p.m.p., le persone che esercitano le funzioni di polizia giudiziaria militare, cui si riferisce l'art. 305 c.p.m.p.?",
+   "opzioni": {
+    "A": "i comandanti di corpo, di distaccamento o di posto delle Forze armate e gli ufficiali e sottufficiali dei carabinieri, oltre agli altri ufficiali di polizia giudiziaria",
+    "B": "tutti i militari in servizio che assistono alla commissione di un reato militare",
+    "C": "i soli ufficiali dei carabinieri con funzioni di comandante di reparto",
+    "D": "i procuratori militari e i loro sostituti"
+   },
+   "corretta": "A",
+   "spiegazione": "Per l'art. 301 c.p.m.p. le funzioni di polizia giudiziaria militare sono esercitate, nell'ordine, dai comandanti di corpo, di distaccamento o di posto delle varie Forze armate e dagli ufficiali e sottufficiali dei carabinieri e dagli altri ufficiali di polizia giudiziaria; concorrendo più militari, dal più elevato in grado o dal più anziano. I magistrati del pubblico ministero dirigono le indagini, ma non sono polizia giudiziaria.",
+   "riferimenti": [
+    "c.p.m.p. art. 301",
+    "c.p.m.p. art. 305"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-016",
+   "argomento": "disciplina-polizia-giudiziaria",
+   "sinossi": "XI.2.b",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Della perdurante vigenza dell'art. 305 c.p.m.p. molti dubitano, a fronte delle norme di attuazione del codice di procedura penale del 1988. Quali sanzioni prevede l'art. 16 disp. att. c.p.p. per l'ufficiale o agente di polizia giudiziaria che, senza giustificato motivo, omette o ritarda l'esecuzione di un ordine dell'autorità giudiziaria?",
+   "opzioni": {
+    "A": "la censura e, nei casi più gravi, la sospensione dall'impiego per un tempo non eccedente sei mesi",
+    "B": "la consegna di rigore e, nei casi più gravi, la perdita del grado",
+    "C": "l'ammenda e l'interdizione temporanea dai pubblici uffici",
+    "D": "il richiamo e il rimprovero, inflitti dal superiore gerarchico"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 16, co. 1, disp. att. c.p.p. (D.Lgs. 271/1989) prevede la censura e, nei casi più gravi, la sospensione dall'impiego fino a sei mesi per gli ufficiali e agenti di polizia giudiziaria che omettono di riferire la notizia di reato o omettono, ritardano o eseguono male un ordine dell'autorità giudiziaria; fuori da queste trasgressioni restano ferme le sanzioni dei rispettivi ordinamenti (co. 3). Di qui il dubbio sulla sopravvivenza dell'art. 305 c.p.m.p., norma del 1941. Le altre opzioni mescolano sanzioni di corpo, di stato e penali.",
+   "riferimenti": [
+    "disp. att. c.p.p. art. 16",
+    "c.p.m.p. art. 305"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 358"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-017",
+   "argomento": "disciplina-polizia-giudiziaria",
+   "sinossi": "XI.2.c",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "Per le trasgressioni disciplinari della polizia giudiziaria previste dall'art. 16 disp. att. c.p.p., il procedimento:",
+   "opzioni": {
+    "A": "è promosso dal Ministro della difesa ed è deciso con inchiesta formale",
+    "B": "è promosso dal comandante di corpo ed è deciso dalla commissione di disciplina dell'art. 1400 COM",
+    "C": "è promosso dal procuratore militare ed è deciso dal giudice per le indagini preliminari",
+    "D": "è promosso dal procuratore generale presso la corte d'appello ed è deciso da un'apposita commissione"
+   },
+   "corretta": "D",
+   "spiegazione": "Le sanzioni dell'art. 16 disp. att. c.p.p. sono irrogate all'esito di un procedimento promosso dal procuratore generale presso la corte d'appello e deciso da un'apposita commissione (art. 17 disp. att. c.p.p.). È un sistema disciplinare a tutela della funzione di polizia giudiziaria, distinto da quello militare: per questo ci si chiede se il procuratore militare possa attivare queste sanzioni. Commissione di disciplina dell'art. 1400 COM e inchiesta formale appartengono invece al procedimento militare.",
+   "riferimenti": [
+    "disp. att. c.p.p. artt. 16-17"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 359"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-018",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Il procuratore militare segnala al Comando Legione che un maresciallo ha eseguito in ritardo e in modo incompleto una delega d'indagine. Come va qualificata la segnalazione ai fini disciplinari?",
+   "opzioni": {
+    "A": "come notizia informale, che il comandante può archiviare senza accertamenti",
+    "B": "come rapporto disciplinare: il procedimento non può non essere aperto",
+    "C": "come richiesta di procedimento penale, che preclude l'azione disciplinare",
+    "D": "come esposto anonimo, irrilevante finché il fatto non sia accertato con sentenza"
+   },
+   "corretta": "B",
+   "spiegazione": "Se il procuratore militare segnala alla linea di comando che una delega è stata eseguita male o in ritardo, quella segnalazione vale come rapporto disciplinare e il procedimento va aperto: è l'ipotesi dell'art. 305 c.p.m.p., e il comandante procederebbe anche senza la norma. L'apertura del procedimento non anticipa l'esito: il militare potrà giustificarsi (art. 1370, co. 1, COM). Il procedimento disciplinare non attende il giudicato penale, salvi i casi dell'art. 1393 COM.",
+   "riferimenti": [
+    "c.p.m.p. art. 305",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 17"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-019",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Per l'art. 653, co. 1-bis, c.p.p., la sentenza penale irrevocabile di condanna ha efficacia di giudicato nel giudizio disciplinare:",
+   "opzioni": {
+    "A": "quanto all'accertamento della sussistenza del fatto, della sua illiceità penale e all'affermazione che l'imputato lo ha commesso",
+    "B": "solo se il reato è stato commesso in servizio",
+    "C": "solo quanto alla qualificazione giuridica del fatto, restando libera la valutazione della sua sussistenza",
+    "D": "quanto alla specie e all'entità della sanzione disciplinare da infliggere"
+   },
+   "corretta": "A",
+   "spiegazione": "Il giudicato di condanna vincola il giudizio disciplinare su sussistenza del fatto, illiceità penale e commissione da parte dell'imputato (art. 653, co. 1-bis, c.p.p.). Per questo è un indice di obbligatorietà: l'amministrazione deve valutare la responsabilità disciplinare del condannato su elementi accertati in modo incontrovertibile. Resta all'amministrazione la valutazione disciplinare del fatto e la scelta della sanzione; il vincolo non dipende dal fatto che il reato sia stato commesso in servizio.",
+   "riferimenti": [
+    "c.p.p. art. 653, co. 1-bis"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 234"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-020",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quando la sentenza penale irrevocabile di assoluzione preclude l'azione disciplinare per lo stesso fatto (art. 653, co. 1, c.p.p.)?",
+   "opzioni": {
+    "A": "quando accerta che il fatto non sussiste, non costituisce illecito penale o che l'imputato non lo ha commesso",
+    "B": "in ogni caso di assoluzione, qualunque ne sia la formula",
+    "C": "solo quando accerta che il fatto non costituisce reato per difetto dell'elemento soggettivo",
+    "D": "solo quando il proscioglimento è dovuto all'estinzione del reato per prescrizione"
+   },
+   "corretta": "A",
+   "spiegazione": "La domanda chiede quando l'assoluzione vincola: per l'art. 653, co. 1, c.p.p. ha efficacia di giudicato nel giudizio disciplinare quanto all'accertamento che il fatto non sussiste o non costituisce illecito penale ovvero che l'imputato non lo ha commesso. In questi casi l'azione disciplinare è impromovibile per lo stesso fatto. Non vincola, invece, ogni assoluzione: il proscioglimento per ragioni processuali o per estinzione del reato non preclude un'autonoma valutazione disciplinare.",
+   "riferimenti": [
+    "c.p.p. art. 653, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 235"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-021",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Un militare è assolto con una formula terminativa, ma l'assoluzione deriva da ragioni di carattere processuale e non da un accertamento del giudice sull'infondatezza dell'accusa. Secondo l'interpretazione prevalente dell'art. 653 c.p.p., la sentenza:",
+   "opzioni": {
+    "A": "consente la sola sanzione del richiamo, essendo esclusa ogni sanzione trascritta",
+    "B": "preclude comunque l'azione disciplinare, perché conta solo la formula usata nel dispositivo",
+    "C": "obbliga l'amministrazione ad attendere la decisione sull'impugnazione del pubblico ministero",
+    "D": "non è ostativa a un'autonoma valutazione disciplinare dei fatti, perché il vincolo dell'art. 653 c.p.p. presuppone un effettivo accertamento"
+   },
+   "corretta": "D",
+   "spiegazione": "Il vincolo dell'art. 653 c.p.p. non discende dalla mera formula del dispositivo, ma da un accertamento compiuto dal giudice sull'infondatezza dell'imputazione o sull'estraneità dell'imputato. Se l'assoluzione deriva da ragioni processuali, la sentenza non impedisce un'autonoma valutazione disciplinare dei fatti: le regole e i limiti di prova del processo penale non si estendono al giudizio disciplinare, che risponde a finalità diverse. Nessuna norma limita in tal caso la scelta della sanzione al richiamo.",
+   "riferimenti": [
+    "c.p.p. art. 653, co. 1"
+   ],
+   "fonti": [
+    "Sinossi pp. 235-236"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-022",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 2, co. 9, della L. 241/1990, anch'esso richiamato tra gli indici dell'obbligatorietà, la mancata o tardiva emanazione del provvedimento costituisce:",
+   "opzioni": {
+    "A": "causa di nullità del provvedimento adottato oltre il termine",
+    "B": "silenzio-assenso sull'istanza dell'interessato",
+    "C": "elemento di valutazione della performance individuale, nonché di responsabilità disciplinare e amministrativo-contabile del dirigente e del funzionario inadempiente",
+    "D": "presupposto per la decadenza dell'amministrazione dal potere disciplinare"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 2, co. 9, L. 241/1990 collega la mancata o tardiva emanazione del provvedimento alla performance individuale e alla responsabilità disciplinare e amministrativo-contabile del dirigente e del funzionario inadempiente. Il ritardo, dunque, non travolge di per sé l'atto né fa decadere dal potere, ma ricade su chi lo ha causato: è la stessa logica che la giurisprudenza segue per il ritardo nel rapporto disciplinare. Il silenzio-assenso riguarda le istanze dei privati, non il procedimento disciplinare.",
+   "riferimenti": [
+    "L. 241/1990 art. 2, co. 9"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 234"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-023",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Tra gli indici dell'obbligatorietà la Guida tecnica richiama i termini dell'art. 1392 COM per instaurare il procedimento disciplinare di stato. Quali sono?",
+   "opzioni": {
+    "A": "90 giorni dalla conoscenza integrale della sentenza o del decreto penale irrevocabili, o del provvedimento di archiviazione; 60 giorni dalla conclusione degli accertamenti preliminari, se il procedimento nasce da un'infrazione disciplinare",
+    "B": "60 giorni dalla sentenza irrevocabile e 90 giorni dalla conoscenza dell'infrazione disciplinare",
+    "C": "180 giorni dalla sentenza irrevocabile e 270 giorni dalla conoscenza dell'infrazione",
+    "D": "30 giorni dalla notizia del fatto in entrambi i casi"
+   },
+   "corretta": "A",
+   "spiegazione": "Il procedimento di stato a seguito di giudizio penale va instaurato con la contestazione degli addebiti entro 90 giorni dalla conoscenza integrale della sentenza o del decreto penale irrevocabili o del provvedimento di archiviazione (art. 1392, co. 1, COM); quello a seguito di infrazione disciplinare entro 60 giorni dalla conclusione degli accertamenti preliminari (co. 2). I 270 giorni sono il termine di conclusione del procedimento a seguito di giudizio penale (co. 3); i 180 giorni sono quelli degli accertamenti preliminari di stato (art. 1041 TUROM). Termini precisi, che non lasciano margini all'inerzia.",
+   "riferimenti": [
+    "COM art. 1392, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 5"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-024",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Diversamente dagli accertamenti preliminari al procedimento di corpo, per quelli al procedimento disciplinare di stato il regolamento fissa un termine. Quale?",
+   "opzioni": {
+    "A": "30 giorni dalla ricezione del rapporto disciplinare",
+    "B": "180 giorni dalla conoscenza del fatto da parte dell'autorità competente",
+    "C": "60 giorni dall'inizio degli accertamenti",
+    "D": "90 giorni dalla commissione del fatto"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1041, co. 1, lett. s), n. 6, TUROM fissa in 180 giorni dalla conoscenza del fatto da parte dell'autorità competente il termine degli accertamenti preliminari disciplinari di stato; conclusi questi, la contestazione va fatta entro 60 giorni (art. 1392, co. 2, COM). Per il procedimento di corpo, invece, la legge dice solo «senza ritardo» (art. 1398, co. 1, COM), e la giurisprudenza usa i 30 giorni come parametro di ragionevolezza, non come termine.",
+   "riferimenti": [
+    "TUROM art. 1041, co. 1, lett. s), n. 6",
+    "COM art. 1392, co. 2",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "Sinossi p. 221"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-025",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "In un reparto il comandante apre il procedimento nei confronti di un militare per un ritardo e non lo apre nei confronti di un altro che, nello stesso periodo, ha commesso un fatto più grave. Sotto quale profilo la scelta è censurabile?",
+   "opzioni": {
+    "A": "contrasta con il principio di imparzialità e buon andamento: discrezionale non significa arbitrario, e la disparità di trattamento vizia l'azione amministrativa",
+    "B": "è censurabile soltanto in sede penale, come abuso d'ufficio",
+    "C": "è censurabile solo se il militare non sanzionato è di grado più elevato",
+    "D": "non è censurabile, perché la scelta se procedere è riservata al merito insindacabile dell'azione di comando"
+   },
+   "corretta": "A",
+   "spiegazione": "Aprire il procedimento a un militare e non a un altro per lo stesso fatto, o per un fatto più grave, è parziale e irragionevole, con i vizi dell'atto amministrativo che ne derivano: lo vieta il principio di buon andamento e imparzialità (art. 97, co. 2, Cost.). Anche chi ritiene l'azione discrezionale ammette che discrezionale non significa arbitrario. Sul piano pratico, la disparità mina l'autorità del comandante: il militare punito opporrà la tolleranza usata verso il collega.",
+   "riferimenti": [
+    "Cost. art. 97, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-026",
+   "argomento": "richiamo",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Il richiamo, che si infligge oralmente e senza trascrizione:",
+   "opzioni": {
+    "A": "è una sanzione disciplinare di corpo e l'atto finale di un procedimento, che comprende la contestazione e l'ascolto delle giustificazioni",
+    "B": "non è una sanzione, ma un intervento dell'azione di comando",
+    "C": "è una sanzione che può essere inflitta senza contestazione, data la sua lievità",
+    "D": "è una misura cautelare in attesa del procedimento per il rimprovero"
+   },
+   "corretta": "A",
+   "spiegazione": "Il richiamo è una sanzione disciplinare di corpo (art. 1358, co. 1, COM) e chiude un procedimento amministrativo: nessun provvedimento disciplinare, neppure il richiamo, può essere adottato fuori da un procedimento. Lo conferma l'art. 1370, co. 1, COM: nessuna sanzione senza contestazione degli addebiti e senza acquisire e vagliare le giustificazioni. Il procedimento può essere orale (art. 1398, co. 2), ma c'è. L'intervento correttivo dell'azione di comando è cosa diversa (art. 725, co. 2, lett. b, TUROM).",
+   "riferimenti": [
+    "COM art. 1358, co. 1",
+    "COM art. 1370, co. 1",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 242",
+    "domande poste in aula, 17.10.2026, n. 4"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-027",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 1370, co. 1, COM, nessuna sanzione disciplinare può essere inflitta:",
+   "opzioni": {
+    "A": "senza la previa autorizzazione del comandante di corpo",
+    "B": "senza il parere della commissione di disciplina",
+    "C": "senza contestazione degli addebiti e senza che siano state acquisite e vagliate le giustificazioni addotte dal militare interessato",
+    "D": "senza l'assistenza di un difensore scelto dal militare"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1370, co. 1, COM è la regola di garanzia di ogni procedimento disciplinare, richiamo compreso: contestazione degli addebiti e acquisizione e vaglio delle giustificazioni. Il parere della commissione di disciplina e il militare difensore sono previsti per la consegna di rigore e per i procedimenti di stato: i commi 2-5 dell'art. 1370 non si applicano ai procedimenti di corpo per sanzioni diverse dalla consegna di rigore (co. 6).",
+   "riferimenti": [
+    "COM art. 1370, co. 1 e 6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-028",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un superiore riprende a voce, in disparte e con tono energico, un militare che ha mancato, senza chiedergli spiegazioni e senza qualificare l'intervento. Quale domanda occorre porsi?",
+   "opzioni": {
+    "A": "se l'intervento debba essere trascritto nella documentazione personale",
+    "B": "se si tratti di una sanzione disciplinare (richiamo), che presuppone contestazione e giustificazioni, o di un intervento correttivo dell'azione di comando",
+    "C": "se il militare abbia diritto al difensore",
+    "D": "se il superiore debba comunicare l'intervento al compilatore del rapporto"
+   },
+   "corretta": "B",
+   "spiegazione": "Davanti a una ramanzina verbale occorre chiedersi se sia, sotto mentite spoglie, un richiamo, cioè una sanzione, o un intervento correttivo dell'azione di comando. L'art. 725, co. 2, lett. b), TUROM impone al superiore di riprendere il militare che ha mancato, se possibile, in disparte e con forma breve ed energica: è azione di comando, non un procedimento speciale per infliggere il richiamo. La sanzione esige invece contestazione e giustificazioni (art. 1370, co. 1, COM). Il richiamo, comunque, non si trascrive (art. 1359, co. 3, COM).",
+   "riferimenti": [
+    "TUROM art. 725, co. 2, lett. b)",
+    "COM art. 1370, co. 1",
+    "COM art. 1359, co. 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 175",
+    "domande poste in aula, 17.10.2026, n. 4"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-029",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Il richiamo, secondo l'art. 1359, co. 1, COM, è un ammonimento con cui sono punite:",
+   "opzioni": {
+    "A": "lievi trasgressioni alle norme della disciplina e del servizio",
+    "B": "lievi mancanze e omissioni causate da negligenza",
+    "C": "la recidiva nelle mancanze già sanzionate con il rimprovero",
+    "D": "le violazioni dei doveri diversi da quelli previsti dall'art. 751 TUROM"
+   },
+   "corretta": "B",
+   "spiegazione": "Il richiamo punisce le lievi mancanze e le omissioni causate da negligenza (art. 1359, co. 1, COM). Le lievi trasgressioni alle norme della disciplina e del servizio sono punite con il rimprovero, come la recidiva nelle mancanze punibili con il richiamo (art. 1360, co. 1); la recidiva nelle mancanze già sanzionate con il rimprovero e la violazione dei doveri diversi da quelli dell'art. 751 TUROM sono punite con la consegna (art. 1361, co. 1).",
+   "riferimenti": [
+    "COM art. 1359, co. 1",
+    "COM artt. 1360, co. 1, e 1361, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 171"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-030",
+   "argomento": "richiamo",
+   "sinossi": "V.2.c",
+   "tipo": "confronto",
+   "difficolta": 1,
+   "domanda": "Come qualifica la legge, rispettivamente, il richiamo e il rimprovero?",
+   "opzioni": {
+    "A": "il richiamo come dichiarazione di biasimo, il rimprovero come ammonimento",
+    "B": "entrambi come ammonimenti, distinti solo dalla forma orale o scritta",
+    "C": "il richiamo come ammonimento, il rimprovero come dichiarazione di biasimo",
+    "D": "il richiamo come esortazione, il rimprovero come sanzione"
+   },
+   "corretta": "C",
+   "spiegazione": "Il richiamo è un ammonimento (art. 1359, co. 1, COM); il rimprovero è una dichiarazione di biasimo (art. 1360, co. 1). Il richiamo è verbale e non si trascrive; il rimprovero è scritto, comunicato per iscritto e trascritto nella documentazione personale (artt. 1358, co. 2-3, e 1360, co. 3). Entrambi sono sanzioni: l'esortazione, invece, non lo è.",
+   "riferimenti": [
+    "COM artt. 1358, co. 2-3, 1359, co. 1, 1360, co. 1 e 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi pp. 171, 176"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-031",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Che cosa c'è, nel sistema disciplinare, sotto la «lieve mancanza» punita con il richiamo?",
+   "opzioni": {
+    "A": "la «mancanza minima», punita con l'annotazione nei registri del reparto",
+    "B": "la riservata personale, che è la sanzione di corpo più lieve",
+    "C": "nessun illecito disciplinare: sotto la lieve mancanza c'è solo l'esortazione, che non è una sanzione",
+    "D": "la consegna verbale, inflitta dal superiore diretto"
+   },
+   "corretta": "C",
+   "spiegazione": "La lieve mancanza è il gradino più basso dell'illecito disciplinare: per essa il canone legale prevede come minimo il richiamo (art. 1359, co. 1, COM). Sotto c'è l'esortazione, atto dell'azione di comando che non è sanzione e presuppone l'assenza di una mancanza. Le sanzioni di corpo sono tassative (artt. 1353 e 1358 COM): non esistono una «mancanza minima» o una «consegna verbale», e la riservata personale è la forma scritta dell'esortazione.",
+   "riferimenti": [
+    "COM artt. 1353, 1358, co. 1, 1359, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 9"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-032",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "L'indicazione dei presupposti del richiamo nell'art. 1359 COM costituisce il limite minimo per l'irrogazione della sanzione. Che cosa se ne ricava?",
+   "opzioni": {
+    "A": "che il richiamo può punire anche comportamenti né intenzionali né colposi, purché lievi",
+    "B": "che non sono punibili i comportamenti né intenzionali né colposi, mentre non è escluso che con il richiamo si puniscano, valutata la personalità e i precedenti, comportamenti più gravi",
+    "C": "che il richiamo può essere inflitto solo per omissioni, non per condotte attive",
+    "D": "che il richiamo non può mai punire comportamenti più gravi di una lieve mancanza"
+   },
+   "corretta": "B",
+   "spiegazione": "Il richiamo dovrebbe sanzionare mancanze lievi, tipicamente colpose; l'indicazione normativa è la soglia minima: ne discende che non possono essere puniti comportamenti che, pur integrando astrattamente una mancanza, non siano né intenzionali né colposi. Non è escluso, invece, che con il richiamo si puniscano comportamenti più gravi, in base alla valutazione discrezionale dell'autorità, che considera anche la personalità del manchevole e i suoi precedenti disciplinari e di servizio. L'art. 1359 punisce sia le lievi mancanze sia le omissioni negligenti.",
+   "riferimenti": [
+    "COM art. 1359, co. 1",
+    "COM art. 1355, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 171"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-033",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un superiore rileva una mancanza di un dipendente, del quale è competente a infliggere la sanzione. Che cosa deve, quanto meno, chiedersi?",
+   "opzioni": {
+    "A": "se il dipendente abbia già ricevuto richiami nell'anno solare",
+    "B": "se il fatto sia un illecito disciplinare e, in caso affermativo, se sia tale da richiedere un procedimento scritto o se basti il richiamo; se c'è una lieve mancanza, il richiamo va dato",
+    "C": "se il comandante di corpo approvi l'apertura del procedimento",
+    "D": "se il fatto sia stato rilevato in presenza di testimoni civili"
+   },
+   "corretta": "B",
+   "spiegazione": "Davanti a un fatto il superiore deve chiedersi se si tratti di un illecito disciplinare e in quale categoria di sanzioni, di corpo o di stato, ricada; e, tra le sanzioni di corpo, se il fatto richieda un procedimento cartolare o se basti il richiamo. Sotto la lieve mancanza non si scende: se la lieve mancanza c'è, il richiamo va dato. La concertazione con il superiore è prassi opportuna ma non vincolante; i precedenti rilevano nella scelta della sanzione (art. 1355 COM), non nella decisione se procedere.",
+   "riferimenti": [
+    "COM artt. 1352, 1355 e 1359"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 5"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-034",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché, secondo l'impostazione accolta a lezione, la tesi della facoltatività dell'azione disciplinare non fa i conti con la tassatività delle sanzioni e con il principio di legalità?",
+   "opzioni": {
+    "A": "perché le cause di giustificazione non si applicano all'illecito disciplinare",
+    "B": "perché la tassatività impone di infliggere sempre la sanzione massima prevista per la mancanza",
+    "C": "perché il principio di legalità vieta all'autorità ogni valutazione sulla gravità del fatto",
+    "D": "perché il legislatore ha fissato soglie (lieve mancanza → richiamo; lieve trasgressione → rimprovero) sotto le quali, salvo cause di giustificazione o di non punibilità, non si può scendere senza creare una fascia di impunità"
+   },
+   "corretta": "D",
+   "spiegazione": "Le sanzioni di corpo sono tassative (art. 1353 COM) e i loro presupposti operano come soglie: per la lieve mancanza almeno il richiamo (art. 1359), per la lieve trasgressione il rimprovero (art. 1360). Scendere sotto le soglie, fuori dalle cause di giustificazione o di non punibilità (le stesse del diritto penale, valide anche per gli illeciti amministrativi e disciplinari), crea una fascia di impunità che non viene censita. La tassatività non impone la sanzione massima né esclude la valutazione della gravità (art. 1355 COM).",
+   "riferimenti": [
+    "COM artt. 1353, 1355, 1359 e 1360"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 9"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-035",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un militare si presenta in servizio, in uniforme, con la barba incolta. Il superiore, competente, lo interpella e il militare si giustifica dicendo di aver fatto tardi. Che cosa prevede la norma, secondo l'impostazione accolta?",
+   "opzioni": {
+    "A": "nulla: il fatto è bagatellare e la valutazione di irrilevanza è rimessa al superiore",
+    "B": "il rapporto al comandante di corpo, perché il fatto è punibile con la consegna di rigore",
+    "C": "una riservata personale che segnali la mancanza al militare",
+    "D": "il richiamo, che si infligge subito, senza procedimento scritto, ascoltate le giustificazioni"
+   },
+   "corretta": "D",
+   "spiegazione": "La barba incolta di un militare in servizio e in uniforme è una mancanza palese, come la camicia sporca: chi la ritiene irrilevante sta già facendo una valutazione, e tollerarla innesca un meccanismo a catena che mina l'azione di comando. Secondo la norma va dato il richiamo: chiesta la ragione e ascoltata la giustificazione, il superiore lo infligge in un attimo, senza carte né formule (artt. 1359 e 1398, co. 2 e 5, COM). La riservata personale non può contenere rilievi disciplinari.",
+   "riferimenti": [
+    "COM art. 1359",
+    "COM art. 1398, co. 2 e 5",
+    "TUROM art. 720"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 13"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-036",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché il richiamo costituisce, nel sistema, la «via semplice» per i fatti bagatellari?",
+   "opzioni": {
+    "A": "perché può essere inflitto anche senza ascoltare il militare",
+    "B": "perché non dà luogo a trascrizione e non richiede comunicazione scritta del provvedimento: si infligge in un momento, senza carte né formule sacramentali",
+    "C": "perché non è impugnabile e non produce alcun effetto giuridico",
+    "D": "perché è inflitto solo dal comandante di corpo, che non ha obblighi di motivazione"
+   },
+   "corretta": "B",
+   "spiegazione": "Il legislatore ha previsto che il richiamo non si trascriva nella documentazione personale (art. 1359, co. 3, COM) e che non vi sia comunicazione scritta del provvedimento (art. 1398, co. 5) proprio per evitare la burocrazia: è una sanzione di facile ed economica applicazione, con sufficiente efficacia preventiva. Resta però una sanzione: presuppone contestazione e giustificazioni (art. 1370, co. 1), può essere inflitta da qualsiasi superiore (art. 1359, co. 2), conta ai fini della recidiva ed è impugnabile.",
+   "riferimenti": [
+    "COM art. 1359, co. 2-4",
+    "COM art. 1398, co. 5",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 172"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-037",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Di un richiamo concluso oralmente si può tener conto in un procedimento successivo?",
+   "opzioni": {
+    "A": "no, perché il richiamo orale non lascia traccia giuridica",
+    "B": "sì, ma solo ai fini della valutazione caratteristica annuale",
+    "C": "sì, per cinque anni e ai fini di qualunque sanzione di corpo",
+    "D": "sì, limitatamente al biennio successivo alla sua inflizione ed esclusivamente ai fini della recidiva nelle mancanze per le quali può essere inflitto il rimprovero"
+   },
+   "corretta": "D",
+   "spiegazione": "Per l'art. 1359, co. 4, COM si tiene conto del richiamo, limitatamente al biennio successivo alla sua inflizione, esclusivamente ai fini della recidiva nelle mancanze per le quali può essere inflitto il rimprovero. La recidiva nelle mancanze punibili con il richiamo è presupposto del rimprovero (art. 1360, co. 1). Il richiamo produce dunque effetti giuridici; il problema pratico è provarlo a distanza di tempo, se è stato dato solo a voce.",
+   "riferimenti": [
+    "COM art. 1359, co. 4",
+    "COM art. 1360, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 18"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-038",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un carabiniere arriva in ritardo al servizio. Ventisei mesi prima era stato punito con il richiamo per un ritardo analogo, debitamente documentato. Può il ritardo attuale essere punito con il rimprovero a titolo di recidiva?",
+   "opzioni": {
+    "A": "sì, perché la recidiva rileva senza limiti di tempo",
+    "B": "no, perché del richiamo si tiene conto solo nel biennio successivo alla sua inflizione: il ritardo va valutato in sé",
+    "C": "sì, purché il precedente richiamo sia stato trascritto nella documentazione personale",
+    "D": "no, perché la recidiva nelle mancanze punibili con il richiamo comporta la consegna, non il rimprovero"
+   },
+   "corretta": "B",
+   "spiegazione": "Del richiamo si tiene conto solo nel biennio successivo alla sua inflizione e solo ai fini della recidiva nelle mancanze punibili con il rimprovero (art. 1359, co. 4, COM): dopo ventisei mesi il precedente non fonda la recidiva, e il nuovo ritardo va valutato in sé (lieve mancanza → richiamo, salvo che sia di per sé una lieve trasgressione). Il richiamo non si trascrive mai (co. 3). La recidiva nelle mancanze punibili con il richiamo comporta il rimprovero (art. 1360, co. 1); la consegna punisce la recidiva nelle mancanze già sanzionate con il rimprovero (art. 1361, co. 1, lett. b).",
+   "riferimenti": [
+    "COM art. 1359, co. 3-4",
+    "COM artt. 1360, co. 1, e 1361, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-039",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.5.b",
+   "tipo": "confronto",
+   "difficolta": 1,
+   "domanda": "Quale delle seguenti sanzioni di corpo NON è comunicata per iscritto e NON è trascritta nella documentazione personale?",
+   "opzioni": {
+    "A": "il rimprovero",
+    "B": "la consegna",
+    "C": "la consegna di rigore",
+    "D": "il richiamo"
+   },
+   "corretta": "D",
+   "spiegazione": "Il richiamo è verbale (art. 1358, co. 2, COM), non dà luogo a trascrizione (art. 1359, co. 3) e il provvedimento non si comunica per iscritto (art. 1398, co. 5). Rimprovero, consegna e consegna di rigore sono invece comunicati per iscritto e trascritti nella documentazione personale (artt. 1360, co. 3, 1361, co. 2, e 1362, co. 8). Per richiamo e rimprovero non si parla di esecuzione: esauriscono la loro efficacia con la comunicazione, ma il rimprovero va trascritto.",
+   "riferimenti": [
+    "COM artt. 1358, co. 2, 1359, co. 3, 1360, co. 3, 1361, co. 2, 1362, co. 8, 1398, co. 5"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 194",
+    "domande poste in aula, 17.10.2026, n. 8"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-040",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Secondo le istruzioni applicative della Guida tecnica, come va inflitto e documentato il richiamo?",
+   "opzioni": {
+    "A": "per iscritto, con comunicazione al Ministero ai fini della recidiva",
+    "B": "per iscritto, con atto notificato e inserito nel fascicolo personale",
+    "C": "verbalmente, con successiva annotazione nello stato di servizio",
+    "D": "esclusivamente in forma verbale; è utile documentarlo con una «memoria agli atti» (allegato 4.N) conservata presso il reparto di dipendenza, in un contesto rigorosamente estraneo al fascicolo personale"
+   },
+   "corretta": "D",
+   "spiegazione": "La Guida tecnica vuole il richiamo inflitto esclusivamente in forma verbale, perché un atto scritto gli farebbe assumere una valenza maggiore di quella voluta dall'art. 1359, co. 3, COM; ritiene però utile documentarlo con la memoria agli atti dell'allegato 4.N, accentrata presso il reparto di dipendenza e fuori dal fascicolo personale. Il richiamo non si trascrive mai nella documentazione personale. A lezione si è suggerito di integrare il modello con il motivo e di notificare la memoria.",
+   "riferimenti": [
+    "COM art. 1359, co. 3-4"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica pp. 149, 173"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-041",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Che cosa attesta la «memoria agli atti» dell'allegato 4.N della Guida tecnica («Definizione del procedimento disciplinare con sanzione orale»)?",
+   "opzioni": {
+    "A": "il giorno e l'ora, i fatti contestati e la data della contestazione, la presenza dell'interessato, la valutazione della vicenda e l'ascolto delle giustificazioni, la definizione con la sanzione dell'art. 1359 COM",
+    "B": "il fatto, la proposta di sanzione e il parere del comandante di corpo",
+    "C": "la sola irrogazione del richiamo, con l'indicazione dei termini per il ricorso gerarchico",
+    "D": "le dichiarazioni dei testimoni e la qualificazione giuridica dell'infrazione proposta dal compilatore"
+   },
+   "corretta": "A",
+   "spiegazione": "Il modello 4.N attesta che, il giorno e all'ora indicati, il superiore, in merito ai fatti contestati in una certa data al militare e alla sua presenza, valutata la vicenda e sentite le giustificazioni, ha definito la posizione disciplinare con la sanzione dell'art. 1359 COM. Il modello non indica la clausola sui rimedi né, nella versione in uso, il fatto per cui il richiamo è stato inflitto: a lezione si è suggerito di aggiungere il motivo e di notificare la memoria. Le proposte di sanzione sono vietate nel rapporto, non pertinenti qui.",
+   "riferimenti": [
+    "COM art. 1359"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 173"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-042",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo Cons. Stato, sez. IV, 21 gennaio 2013, n. 347, il richiamo:",
+   "opzioni": {
+    "A": "è libero nella forma e può essere rivolto riservatamente anche per iscritto, e riprodotto per iscritto anche per finalità «partecipative» verso gli altri superiori, purché non sia trascritto né dia vita a un fascicolo personale ufficioso",
+    "B": "deve essere inflitto solo oralmente, a pena di nullità",
+    "C": "può essere riprodotto per iscritto solo per esigenze di memoria del superiore, senza trasmetterlo ad altri",
+    "D": "è un atto interno privo di effetti giuridici, non impugnabile"
+   },
+   "corretta": "A",
+   "spiegazione": "Il Consiglio di Stato ha affermato che il richiamo, libero nella forma, può essere rivolto riservatamente anche per iscritto, per rafforzarne la valenza monitoria, con la sola prescrizione di non trascriverlo nel fascicolo personale; e che può essere riprodotto per iscritto anche per finalità «partecipative», per rendere edotti gli altri superiori e consentire loro di valutare la recidiva. Quelle tracce non devono costituire un fascicolo personale ufficioso né una pubblicazione e restano coperte dal segreto d'ufficio. La limitazione alle sole esigenze di memoria era la tesi del giudice di primo grado, superata.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 21 gennaio 2013, n. 347",
+    "COM art. 1359, co. 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 174"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-043",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Un ufficiale sanzionato con la sospensione disciplinare sostiene di essere già stato richiamato a voce per gli stessi fatti e invoca il ne bis in idem. Del richiamo non c'è traccia negli atti né prova in giudizio. Secondo TAR Toscana, sez. I, 27 ottobre 2021, n. 1388:",
+   "opzioni": {
+    "A": "il richiamo non documentato né provato deve considerarsi inesistente ad ogni effetto, per l'amministrazione (recidiva) come per l'incolpato (ne bis in idem)",
+    "B": "il ne bis in idem è violato, perché il richiamo consuma il potere disciplinare sul fatto",
+    "C": "il richiamo orale si presume, perché la legge ne esclude la forma scritta",
+    "D": "spetta all'amministrazione provare che il richiamo non è stato inflitto"
+   },
+   "corretta": "A",
+   "spiegazione": "Il TAR Toscana ha escluso la violazione del ne bis in idem: la documentazione scritta del richiamo non è solo una facoltà di opportunità, ma condiziona la possibilità di farlo valere a qualsiasi fine, sicché un richiamo la cui esistenza non risulti documentata né provata è inesistente ad ogni effetto. È il «problema di prova amministrativa» del richiamo dato solo a voce, e la ragione per lasciarne traccia scritta, anche a tutela del militare.",
+   "riferimenti": [
+    "TAR Toscana, sez. I, 27 ottobre 2021, n. 1388",
+    "COM art. 1359, co. 3-4"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 19"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-044",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il richiamo è impugnabile con ricorso gerarchico?",
+   "opzioni": {
+    "A": "no, perché non è trascritto e non produce effetti esterni",
+    "B": "no, perché contro le sanzioni orali è ammessa solo l'istanza di riesame",
+    "C": "sì: produce effetti giuridici, perché la recidiva nelle mancanze punibili con il richiamo è presupposto del rimprovero",
+    "D": "sì, ma solo se inflitto da un superiore non collocato nella linea gerarchica"
+   },
+   "corretta": "C",
+   "spiegazione": "L'ammissibilità del ricorso contro il richiamo si desume dall'art. 1360, co. 1, COM, che consente di punire con il rimprovero la recidiva nelle mancanze punibili con il richiamo: il richiamo produce effetti giuridici (art. 1359, co. 4) e non è un atto interno privo di rilevanza esterna. Il ricorso gerarchico è deciso dall'organo gerarchicamente superiore a quello che ha inflitto la sanzione (art. 1363, co. 1), chiunque sia.",
+   "riferimenti": [
+    "COM artt. 1359, co. 4, 1360, co. 1, 1363, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 173"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-045",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Nella memoria agli atti con cui si documenta il richiamo va inserita la clausola sui termini e sull'autorità cui ricorrere?",
+   "opzioni": {
+    "A": "sì, a pena di nullità del richiamo",
+    "B": "no, perché contro il richiamo non è ammesso alcun ricorso",
+    "C": "tecnicamente si potrebbe aggiungere, ma la clausola va negli atti scritti notificati al destinatario e la memoria, di per sé, non è a lui indirizzata; se il militare chiede l'accesso, la memoria gli va consegnata",
+    "D": "sì, ma solo se il richiamo è inflitto dal comandante di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "La clausola enunciativa del regime dell'atto (termine e autorità cui ricorrere) va in ogni atto notificato al destinatario (art. 3, co. 4, L. 241/1990): la memoria agli atti del modello 4.N non è destinata al militare, che però, se chiede l'accesso, deve riceverla. Per questo è preferibile notificarla, specificando che non sarà trascritta, e porre le parti su un piano di parità. Il richiamo è comunque impugnabile; la mancanza della clausola non è causa di nullità.",
+   "riferimenti": [
+    "L. 241/1990 art. 3, co. 4",
+    "COM art. 1359, co. 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 26"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-046",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Che cosa impone l'art. 3, co. 4, della L. 241/1990 per ogni atto notificato al destinatario?",
+   "opzioni": {
+    "A": "l'indicazione del responsabile del procedimento e dell'ufficio competente",
+    "B": "l'indicazione del termine per presentare memorie scritte",
+    "C": "l'indicazione delle norme violate e delle circostanze di tempo e di luogo",
+    "D": "l'indicazione del termine e dell'autorità cui è possibile ricorrere"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 3, co. 4, L. 241/1990 impone di indicare in ogni atto notificato il termine e l'autorità cui è possibile ricorrere: è la «clausola enunciativa del regime dell'atto», che nei provvedimenti disciplinari scritti indica il ricorso gerarchico e i successivi rimedi. Il responsabile del procedimento è indicato nella comunicazione di avvio (artt. 7-8), che nel procedimento disciplinare è la contestazione; norme violate e circostanze del fatto sono contenuto della motivazione (art. 1398, co. 6, COM).",
+   "riferimenti": [
+    "L. 241/1990 art. 3, co. 4",
+    "D.P.R. 1199/1971 art. 1, co. 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 154"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-047",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "In una pattuglia composta da un appuntato e da un carabiniere, l'appuntato infligge al carabiniere il richiamo. Il carabiniere propone ricorso gerarchico. Chi lo decide?",
+   "opzioni": {
+    "A": "il comandante di corpo, unico competente sulle sanzioni di corpo",
+    "B": "lo stesso appuntato, in sede di riesame",
+    "C": "il comandante di compagnia, in quanto comandante di reparto ai fini disciplinari",
+    "D": "l'organo gerarchicamente superiore a quello che ha emesso il provvedimento, cioè il comandante di stazione"
+   },
+   "corretta": "D",
+   "spiegazione": "Il richiamo può essere inflitto da qualsiasi superiore (art. 1359, co. 2, COM), quindi anche dall'appuntato al carabiniere; il ricorso gerarchico è deciso dall'organo gerarchicamente superiore a quello che ha emesso il provvedimento (art. 1363, co. 1, COM), che nell'esempio è il comandante di stazione. È uno degli inconvenienti della potestà sanzionatoria diffusa: il superiore che decide il ricorso dipende da chi ha inflitto la sanzione, non dalla linea di comando del reparto.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1363, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 173",
+    "domande poste in aula, 17.10.2026, n. 20"
+   ],
+   "domanda_aula": true,
+   "test_vernice": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-048",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Il comandante di stazione infligge il richiamo a un carabiniere della propria stazione. Ha l'obbligo di fare rapporto?",
+   "opzioni": {
+    "A": "no: se il superiore è collocato nella linea gerarchica di dipendenza del militare non v'è obbligo di rapporto, anche se è opportuno documentare e riferire",
+    "B": "sì, al comandante di corpo, entro cinque giorni",
+    "C": "sì, perché il richiamo inflitto da un sottufficiale va sempre convalidato dal comandante di reparto",
+    "D": "no, perché il richiamo non può essere conosciuto da altri superiori"
+   },
+   "corretta": "A",
+   "spiegazione": "Per l'art. 1359, co. 2, COM il richiamo può essere inflitto da qualsiasi superiore e, se questi è nella linea gerarchica di dipendenza del militare, non v'è obbligo di rapporto. La mancanza dell'obbligo non è un divieto: nella prassi suggerita il comandante redige la memoria agli atti e riferisce con una nota esplicativa fino al comandante di corpo, che può annullare se ritiene necessaria una sanzione diversa. Nessuna norma prevede una convalida.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1372"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 173",
+    "domande poste in aula, 17.10.2026, n. 27"
+   ],
+   "domanda_aula": true,
+   "test_vernice": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-049",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La potestà sanzionatoria diffusa in materia di richiamo, che spetta a qualsiasi superiore, è considerata espressione di quale principio?",
+   "opzioni": {
+    "A": "del principio di gerarchia in senso personale («gerarchia tra persone»)",
+    "B": "del principio di gerarchia degli uffici, proprio delle amministrazioni civili",
+    "C": "del principio di sussidiarietà verticale",
+    "D": "del principio di separazione tra indirizzo politico e gestione"
+   },
+   "corretta": "A",
+   "spiegazione": "La competenza di qualsiasi superiore a infliggere il richiamo (art. 1359, co. 2, COM), anche fuori dalla linea gerarchica diretta, è un'affermazione del principio di gerarchia in senso stretto, la «gerarchia personale» o «tra persone», contrapposta alla gerarchia degli uffici delle amministrazioni civili. Genera però inconvenienti: uso eccessivo dello strumento, mancata conoscenza delle sanzioni da parte dei superiori diretti del punito, difficoltà di correggerle in autotutela.",
+   "riferimenti": [
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 172"
+   ],
+   "test_vernice": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-050",
+   "argomento": "autotutela",
+   "sinossi": "V.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un ufficiale di altra linea gerarchica infligge a un sottufficiale un richiamo per un fatto che meritava almeno il rimprovero. Il comandante di reparto del sottufficiale, venutone a conoscenza, vorrebbe annullarlo e procedere. Quale difficoltà incontra?",
+   "opzioni": {
+    "A": "nessuna: qualsiasi superiore del punito può annullare il richiamo e procedere ex novo",
+    "B": "deve attendere il ricorso gerarchico del sottufficiale",
+    "C": "il richiamo, una volta inflitto, non può essere annullato perché non è trascritto",
+    "D": "se non è anche superiore gerarchico diretto di chi ha inflitto il richiamo, non può annullarlo: dovrebbe chiedere un provvedimento di autotutela al superiore diretto di chi ha sanzionato, e poi procedere nella propria competenza"
+   },
+   "corretta": "D",
+   "spiegazione": "L'annullamento d'ufficio (art. 1372 COM, nei limiti dell'art. 21-nonies L. 241/1990) non spetta a qualsiasi superiore del manchevole: il comandante di reparto o di corpo che non è superiore gerarchico diretto di chi ha inflitto il richiamo non può annullarlo. Si dovrebbe chiedere l'autotutela al superiore diretto dell'autore della sanzione, per poi procedere: un percorso macchinoso, che è uno dei difetti della potestà diffusa in materia di richiamo. L'annullamento non dipende dal ricorso dell'interessato.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1372",
+    "L. 241/1990 art. 21-nonies"
+   ],
+   "fonti": [
+    "Sinossi pp. 172-173"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-051",
+   "argomento": "procedimento-corpo",
+   "sinossi": "IX.2.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Contro una sanzione disciplinare di corpo, quando è ammesso il ricorso al TAR o il ricorso straordinario al Presidente della Repubblica?",
+   "opzioni": {
+    "A": "in alternativa al ricorso gerarchico, a scelta del militare",
+    "B": "solo dopo che sia stato esperito il ricorso gerarchico o siano trascorsi novanta giorni dalla data di presentazione del ricorso gerarchico",
+    "C": "solo dopo il rigetto dell'istanza di riesame",
+    "D": "solo per la consegna di rigore"
+   },
+   "corretta": "B",
+   "spiegazione": "Per l'art. 1363, co. 2, COM, contro le sanzioni di corpo il ricorso giurisdizionale o straordinario non è ammesso se prima non è stato esperito il ricorso gerarchico o non sono trascorsi novanta giorni dalla sua presentazione: il ricorso gerarchico è condizione di proponibilità. L'istanza di riesame è una facoltà ulteriore (co. 3), non un presupposto. Decorsi novanta giorni senza decisione, il ricorso gerarchico si intende respinto (art. 6 D.P.R. 1199/1971).",
+   "riferimenti": [
+    "COM art. 1363, co. 2-3",
+    "D.P.R. 1199/1971 art. 6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 154"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-052",
+   "argomento": "procedimento-corpo",
+   "sinossi": "IX.2.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il superiore per il cui tramite va proposto il ricorso gerarchico contro una sanzione di corpo deve:",
+   "opzioni": {
+    "A": "allegarvi il proprio parere motivato sulla fondatezza",
+    "B": "inoltrarlo sollecitamente, senza pareri o commenti, all'autorità gerarchica immediatamente superiore a quella che ha inflitto la sanzione",
+    "C": "trattenerlo fino alla scadenza del termine per il riesame",
+    "D": "trasmetterlo al comandante di corpo, che lo decide in ogni caso"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1366 COM impone al superiore tramite di inoltrare il ricorso gerarchico sollecitamente e senza pareri o commenti all'autorità immediatamente superiore a quella che ha inflitto la sanzione: è l'organo sovraordinato dell'art. 1363, co. 1, COM. Il ricorso va proposto entro trenta giorni dalla notifica (art. 2 D.P.R. 1199/1971) e deciso entro novanta giorni (art. 1046, co. 1, lett. h, n. 8, TUROM).",
+   "riferimenti": [
+    "COM artt. 1363, co. 1, e 1366",
+    "D.P.R. 1199/1971 art. 2",
+    "TUROM art. 1046, co. 1, lett. h), n. 8"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-053",
+   "argomento": "procedimento-corpo",
+   "sinossi": "IX.2.b",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Quali termini indica la clausola sui rimedi nella comunicazione di un rimprovero, secondo il modello illustrato a lezione?",
+   "opzioni": {
+    "A": "ricorso gerarchico entro trenta giorni dalla notifica; poi ricorso al TAR o straordinario al Presidente della Repubblica, entro sessanta o centoventi giorni dalla notifica della decisione o decorsi novanta giorni dalla presentazione del ricorso gerarchico",
+    "B": "ricorso gerarchico entro sessanta giorni; ricorso al TAR entro trenta giorni",
+    "C": "istanza di riesame entro dieci giorni; ricorso al TAR entro centoventi giorni",
+    "D": "ricorso gerarchico entro novanta giorni; ricorso straordinario entro sessanta giorni"
+   },
+   "corretta": "A",
+   "spiegazione": "Il ricorso gerarchico si propone entro trenta giorni dalla notificazione o comunicazione dell'atto (art. 2 D.P.R. 1199/1971) all'autorità immediatamente superiore (artt. 1363 e 1366 COM); poi sono esperibili il ricorso al TAR, entro sessanta giorni (art. 29 c.p.a.), o il ricorso straordinario al Presidente della Repubblica, entro centoventi giorni (art. 9 D.P.R. 1199/1971), dalla notifica della decisione o decorsi novanta giorni dalla presentazione del ricorso gerarchico (art. 1363, co. 2, COM). Novanta giorni è anche il termine per decidere il ricorso gerarchico.",
+   "riferimenti": [
+    "D.P.R. 1199/1971 artt. 2, 6 e 9",
+    "c.p.a. art. 29",
+    "COM artt. 1363 e 1366"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-054",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Il superiore che rileva un'infrazione per la quale non è competente a infliggere la sanzione deve (art. 1397, co. 1, COM):",
+   "opzioni": {
+    "A": "segnalare il fatto alla procura militare",
+    "B": "contestare gli addebiti e acquisire le giustificazioni, poi trasmettere gli atti al comandante di corpo",
+    "C": "infliggere il richiamo e informarne il comandante di reparto",
+    "D": "far constatare la mancanza al trasgressore, procedere alla sua identificazione e fare rapporto senza ritardo"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1397, co. 1, COM scandisce tre momenti: constatazione della mancanza al trasgressore, identificazione, rapporto senza ritardo «allo scopo di consentire una tempestiva instaurazione del procedimento disciplinare». La contestazione degli addebiti spetta invece all'autorità competente, che con essa apre il procedimento. Il superiore non competente potrebbe infliggere il richiamo (art. 1359, co. 2), ma se fa rapporto ha già valutato che il richiamo non basta.",
+   "riferimenti": [
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 213",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-055",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "In che cosa la constatazione della mancanza differisce dalla contestazione degli addebiti?",
+   "opzioni": {
+    "A": "sono la stessa cosa, compiuta da autorità diverse",
+    "B": "la constatazione chiude il procedimento con il richiamo, la contestazione lo apre per le sanzioni più gravi",
+    "C": "la constatazione è scritta, la contestazione è sempre orale",
+    "D": "la constatazione è fatta da qualsiasi superiore che rileva l'infrazione e la rende nota al trasgressore, anche per interromperla; la contestazione è l'atto con cui il titolare della potestà sanzionatoria apre il procedimento"
+   },
+   "corretta": "D",
+   "spiegazione": "La constatazione è strutturalmente diversa dalla contestazione: rende il manchevole immediatamente edotto dell'infrazione, ha funzione di garanzia ed esprime l'obbligo di intervento immediato di qualsiasi superiore davanti a un'infrazione commessa alla sua presenza, anche per interromperla (con l'ordine, non con poteri coattivi diretti). La contestazione degli addebiti è invece l'atto con cui il titolare della potestà sanzionatoria instaura il procedimento (artt. 1370 e 1398 COM) e fissa il fatto su cui il militare si difende.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM artt. 1370, co. 1, e 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 213"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-056",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Un superiore non competente assiste a un'infrazione commessa in sua presenza, ma non la fa constatare al trasgressore e si limita a riferirla oralmente al comandante, che sanziona. Quale conseguenza, secondo la giurisprudenza recepita nelle istruzioni applicative?",
+   "opzioni": {
+    "A": "l'assenza della formale constatazione e del rapporto scritto è violazione di legge idonea a inficiare il procedimento instaurato",
+    "B": "il procedimento è valido, ma il superiore risponde disciplinarmente dell'omissione",
+    "C": "nessuna: la constatazione è facoltativa quando il comandante provvede oralmente",
+    "D": "il procedimento si converte automaticamente in procedimento per il richiamo"
+   },
+   "corretta": "A",
+   "spiegazione": "Le incombenze dell'art. 1397, co. 1, COM presuppongono la compresenza del superiore e del trasgressore; in tal caso l'assenza della formale constatazione nell'immediatezza è violazione di legge idonea a inficiare il procedimento poi instaurato (Cons. Stato, sez. II, parere 4 marzo 2013, n. 973, che ritiene viziato il procedimento anche quando l'autorità abbia provveduto oralmente). Nello stesso senso TAR Friuli-Venezia Giulia, sez. I, 30 agosto 2006, n. 580: il vizio della fase preliminare si riverbera sul provvedimento finale. Il rapporto, poi, deve essere scritto.",
+   "riferimenti": [
+    "COM art. 1397, co. 1 e 3",
+    "Cons. Stato, sez. II, parere 4 marzo 2013, n. 973",
+    "TAR Friuli-Venezia Giulia, sez. I, 30 agosto 2006, n. 580"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 146",
+    "Sinossi p. 215"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-057",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Fermato da un superiore di altro reparto per un'infrazione, un militare rifiuta di fornire le proprie generalità. Come va qualificato il rifiuto, secondo l'opinione accolta?",
+   "opzioni": {
+    "A": "come reato di rifiuto d'indicazioni sulla propria identità personale (art. 651 c.p.)",
+    "B": "più propriamente come disobbedienza; le generalità false integrerebbero invece l'art. 496 c.p.",
+    "C": "come semplice aggravante della mancanza originaria",
+    "D": "come reato di false dichiarazioni sull'identità (art. 496 c.p.)"
+   },
+   "corretta": "B",
+   "spiegazione": "L'identificazione dell'art. 1397 COM non ha finalità di pubblica sicurezza: mira solo alle sommarie generalità (grado, nome e cognome) e al reparto, per informare i superiori diretti del manchevole con il rapporto. L'invito a fornirle è un ordine del superiore: il rifiuto integra più propriamente il reato militare di disobbedienza che l'art. 651 c.p.; fornire generalità false integra invece l'art. 496 c.p. (false dichiarazioni sull'identità o su qualità personali).",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "c.p. artt. 496 e 651"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 213"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-058",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "L'identificazione del trasgressore prevista dall'art. 1397 COM riguarda:",
+   "opzioni": {
+    "A": "la qualifica e i precedenti disciplinari del militare",
+    "B": "le generalità complete, la residenza e un documento di identità, come per l'identificazione di polizia",
+    "C": "il solo numero di matricola",
+    "D": "le sommarie generalità (grado, nome e cognome) e il reparto di appartenenza"
+   },
+   "corretta": "D",
+   "spiegazione": "L'identificazione tende ad accertare le sommarie generalità del militare (basta il grado, il nome e il cognome) e il reparto di appartenenza, per rendere edotti i superiori diretti attraverso il rapporto; non ha finalità di pubblica sicurezza. I precedenti disciplinari non c'entrano: il rapporto riferisce solo fatti, e la loro valutazione spetta all'autorità competente.",
+   "riferimenti": [
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 213"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-059",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Da quale elemento si desume che il rapporto disciplinare deve avere forma scritta?",
+   "opzioni": {
+    "A": "dall'art. 1359, co. 2, COM, che lo esclude per il richiamo",
+    "B": "da nessuna norma: la forma scritta è solo una prassi",
+    "C": "dall'art. 1370 COM, che impone la forma scritta per ogni atto del procedimento",
+    "D": "dall'art. 1397, co. 3, COM, che parla di rapporto «inviato»"
+   },
+   "corretta": "D",
+   "spiegazione": "L'obbligo della forma scritta si desume dal tenore letterale dell'art. 1397, co. 3, COM, che fa riferimento all'«invio» del rapporto (direttamente al comandante di reparto o per via gerarchica al comandante di corpo). Il rapporto è una notizia qualificata, perché il fatto riferito deve considerarsi certo. L'art. 1370 non impone la forma scritta a ogni atto: il procedimento di corpo si svolge «anche oralmente» (art. 1398, co. 2).",
+   "riferimenti": [
+    "COM art. 1397, co. 3",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 146",
+    "Sinossi p. 214"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-060",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Il rapporto disciplinare, secondo l'art. 1397, co. 2, COM:",
+   "opzioni": {
+    "A": "deve indicare la sanzione ritenuta adeguata, per orientare l'autorità competente",
+    "B": "deve indicare con chiarezza e concisione ogni elemento di fatto obiettivo utile a configurare l'infrazione e non deve contenere proposte sulla specie e sull'entità della sanzione",
+    "C": "deve contenere il giudizio del compilatore sulla personalità del trasgressore",
+    "D": "deve qualificare giuridicamente l'infrazione, indicando le norme violate"
+   },
+   "corretta": "B",
+   "spiegazione": "Il rapporto riferisce solo i fatti, con chiarezza e concisione e con le circostanze di tempo e di luogo, senza proposte sulla sanzione (art. 1397, co. 2, COM) e senza valutazioni sulla personalità o sulla responsabilità del manchevole né sulla qualificazione giuridica del fatto: è l'autorità competente a configurare l'illecito, a contestarlo indicando le regole violate e ad adottare i provvedimenti del caso.",
+   "riferimenti": [
+    "COM art. 1397, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 214"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-061",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un superiore redige un rapporto che, oltre ai fatti, contiene giudizi negativi sulla personalità del trasgressore e propone «la consegna per giorni cinque». Quale rilievo ha il vizio?",
+   "opzioni": {
+    "A": "nessuno: l'autorità competente è libera di non tenerne conto",
+    "B": "il rapporto redatto in violazione dei suoi contenuti sostanziali e formali può incidere sulla legittimità del provvedimento sanzionatorio, come violazione di una garanzia procedimentale posta nell'interesse del militare",
+    "C": "obbliga l'autorità competente a infliggere almeno la sanzione proposta",
+    "D": "il rapporto è inesistente e il fatto non può più essere perseguito"
+   },
+   "corretta": "B",
+   "spiegazione": "Il divieto di proposte e di valutazioni soggettive (art. 1397, co. 2, COM) è una garanzia posta nell'interesse del militare cui la mancanza è attribuita: il rapporto redatto in violazione dei suoi contenuti sostanziali e formali è in grado di produrre effetti negativi sulla legittimità del provvedimento finale (Cons. Stato, sez. II, parere 4 marzo 2013, n. 973). Non vincola l'autorità competente, che resta l'unica a qualificare il fatto e a scegliere la sanzione; né rende il fatto non più perseguibile.",
+   "riferimenti": [
+    "COM art. 1397, co. 2",
+    "Cons. Stato, sez. II, parere 4 marzo 2013, n. 973"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi pp. 214-215"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-062",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Il superiore che ha rilevato l'infrazione e il trasgressore appartengono allo stesso corpo e allo stesso reparto. A chi è inviato il rapporto?",
+   "opzioni": {
+    "A": "per via gerarchica al comandante di corpo",
+    "B": "al comando di presidio",
+    "C": "al comandante di corpo del superiore, che lo inoltra",
+    "D": "direttamente al comandante di reparto, comune a entrambi"
+   },
+   "corretta": "D",
+   "spiegazione": "Se superiore e trasgressore appartengono allo stesso corpo, il rapporto è inviato direttamente al comandante di reparto, se comune a entrambi (art. 1397, co. 3, lett. a, COM), oppure per via gerarchica al comandante di corpo, se il trasgressore è di altro reparto (lett. b). Il comando di presidio interviene quando il superiore, appartenente a un corpo diverso, si trova fuori dalla propria sede (co. 5).",
+   "riferimenti": [
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-063",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un tenente comandante di plotone rileva un'infrazione commessa da un militare di un altro reparto dello stesso corpo. Come inoltra il rapporto?",
+   "opzioni": {
+    "A": "per via gerarchica al comandante del corpo",
+    "B": "direttamente al comandante del reparto del trasgressore",
+    "C": "al comando di presidio",
+    "D": "direttamente al trasgressore, che lo consegna al proprio comandante"
+   },
+   "corretta": "A",
+   "spiegazione": "Stesso corpo, reparti diversi: il rapporto è inviato per via gerarchica al comandante del corpo (art. 1397, co. 3, lett. b, COM). L'invio diretto al comandante di reparto è previsto solo quando il reparto è comune ai due militari (lett. a); l'invio diretto al comandante di corpo del trasgressore è riservato a generali, ammiragli, colonnelli, capitani di vascello e ufficiali con funzioni di comandante di corpo (co. 6).",
+   "riferimenti": [
+    "COM art. 1397, co. 3 e 6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-064",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Un maresciallo di un corpo rileva, mentre si trova in missione fuori sede, un'infrazione commessa da un militare di un altro corpo. Come procede con il rapporto?",
+   "opzioni": {
+    "A": "lo invia direttamente al comandante del corpo del trasgressore",
+    "B": "lo presenta al locale comando di presidio, per l'inoltro al comando di corpo da cui il trasgressore dipende",
+    "C": "lo trattiene fino al rientro in sede, poi lo consegna al proprio comandante di reparto",
+    "D": "lo trasmette al Comando generale"
+   },
+   "corretta": "B",
+   "spiegazione": "Quando superiore e trasgressore appartengono a corpi diversi, il superiore invia il rapporto, tramite il proprio comando di corpo o ente, al comando di corpo da cui il trasgressore dipende; se si trova fuori dalla propria sede, lo presenta per l'inoltro al locale comando di presidio (art. 1397, co. 5, COM). L'invio diretto è prerogativa dei gradi e delle funzioni indicati dal co. 6. Trattenere il rapporto contrasta con l'obbligo di farlo «senza ritardo».",
+   "riferimenti": [
+    "COM art. 1397, co. 1 e 5"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 215"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-065",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "Un colonnello dell'Esercito rileva un'infrazione commessa da un appuntato dei Carabinieri. Come inoltra il rapporto?",
+   "opzioni": {
+    "A": "direttamente al comandante del corpo da cui dipende il militare, anche se di Forza armata diversa",
+    "B": "al locale comando di presidio",
+    "C": "tramite il proprio comando di corpo, al comando di corpo del trasgressore",
+    "D": "al Ministro della difesa, trattandosi di militari di Forze armate diverse"
+   },
+   "corretta": "A",
+   "spiegazione": "Generali, ammiragli, colonnelli, capitani di vascello e ufficiali di grado inferiore investiti delle funzioni di comandante di corpo, anche se di Forza armata o di Corpo armato diversi, inviano il rapporto direttamente al comandante del corpo da cui dipende il militare che ha commesso l'infrazione (art. 1397, co. 6, COM). La regola generale per i corpi diversi (co. 5), con l'inoltro tramite il proprio comando o il comando di presidio, vale per gli altri superiori.",
+   "riferimenti": [
+    "COM art. 1397, co. 5-6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-066",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Per il personale imbarcato, il rapporto disciplinare è inviato:",
+   "opzioni": {
+    "A": "al comando del porto di assegnazione",
+    "B": "al comandante del corpo di appartenenza a terra",
+    "C": "al comando della nave",
+    "D": "al Capo di stato maggiore della Marina"
+   },
+   "corretta": "C",
+   "spiegazione": "Per il personale imbarcato il rapporto è inviato al comando della nave (art. 1397, co. 4, COM): l'unità navale è il riferimento disciplinare del militare a bordo. Le altre regole di inoltro sono quelle dei commi 3, 5 e 6 dello stesso articolo.",
+   "riferimenti": [
+    "COM art. 1397, co. 4"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 215"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-067",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché il rapporto disciplinare ha uno «scopo servente», che implica l'apertura del procedimento da parte di chi lo riceve?",
+   "opzioni": {
+    "A": "perché solo il comandante di corpo può ricevere un rapporto",
+    "B": "perché il rapporto contiene già la proposta di sanzione, che l'autorità deve recepire",
+    "C": "perché il rapporto equivale alla contestazione degli addebiti",
+    "D": "perché la legge lo prevede «allo scopo di consentire una tempestiva instaurazione del procedimento disciplinare», e il compilatore, superiore qualificato, ha già valutato che il fatto è rilevante e che il richiamo non basta"
+   },
+   "corretta": "D",
+   "spiegazione": "La norma non dice «allo scopo di valutare», ma «allo scopo di consentire una tempestiva instaurazione del procedimento disciplinare» (art. 1397, co. 1, COM): il rapporto è un'attività prodromica e servente. Chi rapporta ha già valutato che il fatto è disciplinarmente rilevante e che non basta il richiamo, che avrebbe potuto infliggere egli stesso (art. 1359, co. 2). Ricevuto il rapporto, il procedimento «deve essere instaurato senza ritardo» (art. 1398, co. 1). Il rapporto non contiene proposte di sanzione e non è la contestazione.",
+   "riferimenti": [
+    "COM art. 1397, co. 1-2",
+    "COM art. 1398, co. 1",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 7"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-068",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Le decisioni adottate dall'autorità competente a seguito di un rapporto disciplinare:",
+   "opzioni": {
+    "A": "sono comunicate al solo interessato",
+    "B": "sono comunicate al compilatore solo se è stata inflitta una sanzione",
+    "C": "sono rese note al compilatore del rapporto stesso",
+    "D": "sono pubblicate all'albo del reparto"
+   },
+   "corretta": "C",
+   "spiegazione": "Per l'art. 1398, co. 8, COM le decisioni adottate a seguito di rapporto sono rese note al compilatore: l'autorità gli comunica quale provvedimento ha adottato, o che non ne ha adottato alcuno. Il compilatore, spesso superiore diretto del manchevole non competente a sanzionare (comandante di stazione, di plotone, di nucleo), ha interesse a sapere se il dipendente sia stato punito. Il rapporto, senza seguito, non avrebbe senso.",
+   "riferimenti": [
+    "COM art. 1398, co. 8"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 265",
+    "domande poste in aula, 17.10.2026, n. 7"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-069",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Il superiore non competente redige e inoltra il rapporto con un ritardo ingiustificato di alcune settimane. Quali effetti ha il ritardo sull'azione disciplinare?",
+   "opzioni": {
+    "A": "non è causa di improcedibilità dell'azione disciplinare, ma è elemento di responsabilità disciplinare per chi lo ha causato",
+    "B": "obbliga l'autorità competente ad archiviare, salvo che il fatto sia punibile con la consegna di rigore",
+    "C": "rende improcedibile l'azione disciplinare per decadenza",
+    "D": "fa decorrere i termini del procedimento dalla data del fatto e non da quella di ricezione del rapporto"
+   },
+   "corretta": "A",
+   "spiegazione": "L'eventuale ingiustificato ritardo nella redazione o nell'inoltro del rapporto non è causa di improcedibilità dell'azione disciplinare, ma solo elemento di responsabilità disciplinare per chi lo ha causato; per il titolare della potestà sanzionatoria rileva il momento in cui riceve il rapporto, cioè in cui conosce la mancanza. È la stessa logica dell'art. 55-quater, co. 3-bis, D.Lgs. 165/2001: il ritardo non travolge il procedimento, ma si imputa soggettivamente a chi lo ha determinato.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 1",
+    "D.Lgs. 165/2001 art. 55-quater, co. 3-bis"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 217"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-070",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Un articolo di stampa riferisce un comportamento disdicevole di un militare. Che valore ha la notizia ai fini disciplinari?",
+   "opzioni": {
+    "A": "vale come rapporto disciplinare e obbliga all'immediata contestazione degli addebiti",
+    "B": "è irrilevante, perché solo un superiore gerarchico può rilevare mancanze",
+    "C": "è una notizia informale, che di per sé non è atto propulsivo degli accertamenti preliminari ma impone al titolare della potestà disciplinare di verificarla con autonomi accertamenti; se ne emerge con certezza una mancanza, è vincolato a procedere",
+    "D": "obbliga a sospendere ogni attività fino alla querela dell'interessato"
+   },
+   "corretta": "C",
+   "spiegazione": "Le notizie che non provengono da un superiore gerarchico (privati, autorità pubbliche non militari, stampa) non hanno il valore qualificato del rapporto: sono notizie informali, che possono essere vaghe o inadeguate e di per sé non costituiscono atto propulsivo degli accertamenti preliminari. Il titolare della potestà disciplinare deve però verificarle con autonomi accertamenti e, se ne emerge con certezza una mancanza, è vincolato a instaurare il procedimento. Lo stesso vale per la segnalazione del cittadino che riferisce di essere stato maltrattato.",
+   "riferimenti": [
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 218"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-071",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Che cosa sono gli accertamenti preliminari?",
+   "opzioni": {
+    "A": "la prima fase del procedimento disciplinare, che si apre con la contestazione",
+    "B": "la fase prodromica ed extraprocedimentale, necessaria per formulare correttamente le contestazioni, nella quale l'autorità competente raccoglie gli elementi su tipo, natura e rilevanza dell'infrazione e valuta se esercitare l'azione",
+    "C": "gli accertamenti di polizia giudiziaria sul fatto-reato",
+    "D": "l'istruttoria svolta dalla commissione di disciplina"
+   },
+   "corretta": "B",
+   "spiegazione": "Gli accertamenti preliminari precedono il procedimento, che si apre con la contestazione degli addebiti: sono la fase prodromica, necessaria e imprescindibile per formulare correttamente le contestazioni, in cui l'autorità competente acquisisce gli elementi utili a definire tipo, natura e rilevanza dell'infrazione e compie la valutazione discrezionale sull'esercizio dell'azione. La contestazione non ne è l'atto conclusivo, ma l'atto instauratore del procedimento; e il procedimento può anche non essere instaurato.",
+   "riferimenti": [
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi pp. 215, 220"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-072",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Quale delle seguenti attività rientra nella fase degli accertamenti preliminari?",
+   "opzioni": {
+    "A": "la comunicazione verbale della decisione all'interessato",
+    "B": "l'acquisizione delle giustificazioni del militare incolpato",
+    "C": "il parere della commissione di disciplina",
+    "D": "l'esame del giudicato penale ai fini disciplinari"
+   },
+   "corretta": "D",
+   "spiegazione": "Momenti tipici degli accertamenti preliminari sono l'esame del rapporto disciplinare, la constatazione diretta dell'infrazione da parte dell'autorità competente, gli accertamenti su notizie informali o su indizi e l'esame del giudicato penale ai fini disciplinari. Le giustificazioni, il parere della commissione (consegna di rigore) e la comunicazione della decisione sono invece fasi del procedimento, che si apre con la contestazione (artt. 1398, co. 2, e 1399 COM).",
+   "riferimenti": [
+    "COM art. 1398, co. 1-2",
+    "COM art. 1399"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 216"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-073",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Chi svolge gli accertamenti preliminari al procedimento disciplinare di corpo?",
+   "opzioni": {
+    "A": "il superiore che ha redatto il rapporto",
+    "B": "l'autorità competente all'azione disciplinare, l'unica in grado di instaurare il procedimento",
+    "C": "un ufficiale inquirente nominato dal comandante di corpo",
+    "D": "la commissione di disciplina"
+   },
+   "corretta": "B",
+   "spiegazione": "Gli accertamenti preliminari devono essere svolti dall'autorità competente all'azione disciplinare, l'unica che può instaurare il procedimento. Il compilatore del rapporto si limita a riferire i fatti (art. 1397 COM); l'ufficiale inquirente appartiene al procedimento di stato; la commissione di disciplina esprime il parere nel procedimento per la consegna di rigore (art. 1399).",
+   "riferimenti": [
+    "COM artt. 1397-1399"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 216"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-074",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Come va intesa la locuzione «senza ritardo» con cui l'art. 1398, co. 1, COM impone di instaurare il procedimento disciplinare di corpo?",
+   "opzioni": {
+    "A": "come «immediatamente», a pena di decadenza dal potere disciplinare",
+    "B": "come termine perentorio di trenta giorni dalla conoscenza dell'infrazione",
+    "C": "come termine di natura sollecitatoria: una regola di ragionevole prontezza, da valutare in relazione alla gravità della violazione e alla complessità degli accertamenti",
+    "D": "come rinvio al prudente apprezzamento dell'autorità, insindacabile dal giudice"
+   },
+   "corretta": "C",
+   "spiegazione": "La giurisprudenza ha chiarito che «senza ritardo» non significa «immediatamente», né fissa un termine: ha natura sollecitatoria o propulsiva ed esprime una regola di ragionevole prontezza, valutata secondo gravità del fatto e complessità degli accertamenti, perché nessun effetto estintivo o di decadenza è previsto per la sua inosservanza (Cons. Stato, sez. IV, n. 969 del 2001). La norma tutela la certezza del rapporto e il diritto di difesa del militare, e l'esigenza dell'amministrazione di accertare e ponderare i fatti. Il ritardo ingiustificato resta sindacabile.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "Cons. Stato, sez. IV, 22 febbraio 2001, n. 969"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 147",
+    "Sinossi p. 219"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-075",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo i pareri della sez. I del Consiglio di Stato dell'11 luglio 2024, nn. 854 e 855, il termine di trenta giorni dell'art. 55-bis, co. 4, D.Lgs. 165/2001, nel procedimento disciplinare militare di corpo:",
+   "opzioni": {
+    "A": "non si applica direttamente, ma è un parametro temporale per valutare la tempestività: superato il termine, ricade sull'amministrazione l'onere di allegare valide ragioni giustificatrici",
+    "B": "è irrilevante, per l'autosufficienza dell'ordinamento militare",
+    "C": "vale solo per i procedimenti per la consegna di rigore",
+    "D": "si applica direttamente, a pena di decadenza dall'azione disciplinare"
+   },
+   "corretta": "A",
+   "spiegazione": "Il Consiglio di Stato, pur riconoscendo la specialità e l'autosufficienza dell'ordinamento militare (artt. 1 e 625 COM), ha ritenuto che il termine di trenta giorni della disciplina generale (art. 2, co. 2, L. 241/1990; art. 55-bis, co. 4, D.Lgs. 165/2001) sia un parametro utile per valutare la tempestività degli adempimenti da compiere «senza ritardo» (artt. 1397 e 1398 COM). L'illegittimità non discende dal mero superamento, ma dall'ingiustificato procrastinarsi: oltre i trenta giorni l'amministrazione deve allegare valide ragioni.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere 11 luglio 2024, n. 854",
+    "Cons. Stato, sez. I, parere 11 luglio 2024, n. 855",
+    "D.Lgs. 165/2001 art. 55-bis, co. 4",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 220",
+    "domande poste in aula, 17.10.2026, n. 11"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-076",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Il comandante di reparto rileva direttamente un'infrazione e contesta gli addebiti ventiquattro giorni dopo il fatto. Il militare lamenta la tardività della contestazione. Secondo il Consiglio di Stato (sez. I, parere 30 aprile 2024, n. 565):",
+   "opzioni": {
+    "A": "il termine è ragionevole, anche se il fatto era stato percepito direttamente dal superiore",
+    "B": "la contestazione è tardiva, perché in caso di percezione diretta deve essere immediata",
+    "C": "la contestazione è tardiva, perché il termine per il procedimento di corpo è di dieci giorni",
+    "D": "la tempestività non è sindacabile, trattandosi di termine ordinatorio"
+   },
+   "corretta": "A",
+   "spiegazione": "Il parere n. 565 del 2024 ha ritenuto ragionevoli ventiquattro giorni tra il fatto e la contestazione, anche quando il fatto era stato rilevato direttamente dal superiore: entro i trenta giorni la contestazione è sempre tempestiva (orientamento ripreso da Cons. Stato, sez. II, 26 giugno 2026, n. 5157). Non esiste un termine di dieci giorni per contestare (i dieci giorni dell'art. 1029 TUROM riguardano le memorie nei procedimenti brevi) e la tempestività resta sindacabile.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere 30 aprile 2024, n. 565",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-077",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Dopo il decreto di archiviazione del procedimento penale, l'autorità disciplinare attende oltre quaranta giorni per contestare gli addebiti, senza che dagli atti risulti alcuna ragione. Secondo il parere 11 luglio 2024, n. 854:",
+   "opzioni": {
+    "A": "la contestazione è legittima, perché il termine è sollecitatorio e il suo superamento è irrilevante",
+    "B": "il ritardo è illegittimo, perché non giustificato negli atti",
+    "C": "la contestazione è legittima, perché dopo l'archiviazione si applica il termine di 90 giorni dell'art. 1392 COM",
+    "D": "il procedimento si è estinto per decorso di novanta giorni dall'ultimo atto"
+   },
+   "corretta": "B",
+   "spiegazione": "Il parere n. 854 del 2024 ha ritenuto illegittima l'attesa di oltre quaranta giorni dal decreto di archiviazione, senza ragioni indicate negli atti: superato il parametro dei trenta giorni, l'amministrazione deve esternare le ragioni del superamento. Il termine di 90 giorni dell'art. 1392 COM riguarda il procedimento di stato; l'estinzione per novanta giorni di inattività (art. 1392, co. 4) presuppone un procedimento già iniziato.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere 11 luglio 2024, n. 854",
+    "COM art. 1398, co. 1-bis"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-078",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo Cons. Stato, sez. II, 26 giugno 2026, n. 5157, la contestazione degli addebiti successiva al trentesimo giorno dalla conoscenza dei fatti:",
+   "opzioni": {
+    "A": "non è per ciò solo tardiva, ma impone all'amministrazione, o al giudice sulla base degli atti, di esternare le ragioni del superamento",
+    "B": "è tardiva solo per la consegna di rigore",
+    "C": "è sempre tardiva e travolge la sanzione",
+    "D": "è tempestiva purché intervenga entro i 90 giorni del procedimento"
+   },
+   "corretta": "A",
+   "spiegazione": "La sez. II ha ripreso l'orientamento dei pareri del 2024: la contestazione entro trenta giorni è sempre tempestiva; quella successiva non è per ciò solo tardiva, ma richiede che le ragioni del superamento siano esternate, dall'amministrazione o dal giudice sulla base degli atti (la sentenza ne elenca alcune a titolo esemplificativo). I 90 giorni sono la durata del procedimento, che decorre dalla contestazione (art. 1046 TUROM), e non c'entrano con la tempestività della contestazione.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 26 giugno 2026, n. 5157",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-079",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Tra l'infrazione e la contestazione degli addebiti passano circa sette mesi, senza ragioni istruttorie né di astensione. Secondo Cons. Stato, sez. II, parere 10 dicembre 2015, n. 3355:",
+   "opzioni": {
+    "A": "il ritardo è irrilevante, perché «senza ritardo» non fissa alcun termine",
+    "B": "il ritardo determina la decadenza automatica dal potere disciplinare",
+    "C": "pur essendo il termine sollecitatorio, un ritardo del genere, non giustificato, non è ragionevole",
+    "D": "il ritardo è legittimo se il fatto è grave"
+   },
+   "corretta": "C",
+   "spiegazione": "Il parere n. 3355 del 2015 afferma la natura sollecitatoria del «senza ritardo» (art. 1398, co. 1, COM), ma ritiene irragionevole un ritardo di circa sette mesi non giustificato da ragioni istruttorie o di astensione. Sollecitatorio non significa irrilevante: il ritardo ingiustificato vizia l'azione, ma non per decadenza automatica, bensì per irragionevolezza. La gravità del fatto può giustificare tempi più lunghi solo se richiede accertamenti complessi.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, parere 10 dicembre 2015, n. 3355",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 147"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-080",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Nel pubblico impiego contrattualizzato, entro quale termine l'ufficio per i procedimenti disciplinari deve contestare l'addebito, secondo l'art. 55-bis, co. 4, D.Lgs. 165/2001?",
+   "opzioni": {
+    "A": "entro sessanta giorni dalla commissione del fatto",
+    "B": "con immediatezza e comunque non oltre trenta giorni dal ricevimento della segnalazione o dalla piena conoscenza dei fatti",
+    "C": "entro novanta giorni dalla segnalazione",
+    "D": "entro dieci giorni dalla segnalazione, a pena di nullità"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 55-bis, co. 4, D.Lgs. 165/2001 impone di contestare l'addebito con immediatezza e comunque non oltre trenta giorni dal ricevimento della segnalazione o dalla piena conoscenza dei fatti. La norma non si applica ai militari (art. 3, co. 1), ma il Consiglio di Stato la usa come parametro temporale per valutare il «senza ritardo» dell'art. 1398, co. 1, COM.",
+   "riferimenti": [
+    "D.Lgs. 165/2001 art. 55-bis, co. 4",
+    "D.Lgs. 165/2001 art. 3, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-081",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "L'art. 3, co. 1, D.Lgs. 165/2001 esclude il personale militare dalla disciplina del pubblico impiego contrattualizzato. Quale uso ne fa allora la giurisprudenza nel diritto disciplinare militare?",
+   "opzioni": {
+    "A": "nessuno: le sue norme sono del tutto estranee all'ordinamento militare",
+    "B": "lo applica direttamente quando il COM tace",
+    "C": "lo applica solo agli ufficiali con funzioni dirigenziali",
+    "D": "davanti a un vuoto della disciplina militare, usa il D.Lgs. 165/2001 e la L. 241/1990 come canoni interpretativi"
+   },
+   "corretta": "D",
+   "spiegazione": "Il personale militare resta disciplinato dal proprio ordinamento (art. 3, co. 1, D.Lgs. 165/2001). Tuttavia, se in tutta la pubblica amministrazione vale una certa regola, è logico che lo stesso fatto, nella compagine militare, sia regolato secondo quei canoni: il giudice, davanti a un vuoto, usa il D.Lgs. 165/2001 e la L. 241/1990 come canoni interpretativi, senza applicarne il procedimento. È il caso del parametro dei trenta giorni per gli accertamenti preliminari.",
+   "riferimenti": [
+    "D.Lgs. 165/2001 art. 3, co. 1",
+    "Cons. Stato, sez. I, parere 11 luglio 2024, n. 854"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 12"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-082",
+   "argomento": "fonti",
+   "sinossi": "VIII.1.a",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "La L. 241/1990 si applica al procedimento disciplinare militare?",
+   "opzioni": {
+    "A": "sì: il procedimento disciplinare è un procedimento amministrativo e l'art. 1, co. 6, COM vi rende applicabili la L. 241/1990, il D.P.R. 445/2000 e il D.Lgs. 196/2003, «se non è diversamente disposto»",
+    "B": "no, perché l'ordinamento militare è speciale e autosufficiente",
+    "C": "solo per il diritto di accesso agli atti",
+    "D": "solo ai procedimenti di stato"
+   },
+   "corretta": "A",
+   "spiegazione": "Il procedimento disciplinare è a tutti gli effetti un procedimento amministrativo, regolato dal COM e dal TUROM e, insieme, dalla L. 241/1990: lo dispone l'art. 1, co. 6, COM, che la richiama con il D.P.R. 445/2000 e il D.Lgs. 196/2003 per i provvedimenti e i procedimenti del codice e del regolamento, «se non è diversamente disposto». La specialità, quindi, richiede una norma espressa: non basta un'interpretazione priva di fondamento testuale.",
+   "riferimenti": [
+    "COM art. 1, co. 6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 242",
+    "domande poste in aula, 17.10.2026, n. 10"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-083",
+   "argomento": "fonti",
+   "sinossi": "VIII.1.a",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Quale esempio di «diversa disposizione» rispetto alla L. 241/1990 offre il COM in materia di ordini militari?",
+   "opzioni": {
+    "A": "l'art. 1347 COM esclude l'obbligo di motivazione per ogni provvedimento disciplinare",
+    "B": "l'art. 1352 COM sottrae gli ordini al diritto di accesso",
+    "C": "l'art. 1349, co. 3, COM stabilisce che agli ordini militari non si applicano i capi I, III e IV della L. 241/1990",
+    "D": "l'art. 1370 COM esclude la comunicazione di avvio del procedimento"
+   },
+   "corretta": "C",
+   "spiegazione": "Per l'art. 1349, co. 3, COM agli ordini militari non si applicano i capi I (principi, compresa la motivazione), III (partecipazione) e IV (semplificazione) della L. 241/1990: è un caso in cui la specialità è «diversamente disposta» da una norma, come richiede l'art. 1, co. 6, COM. Il procedimento disciplinare, invece, resta soggetto alla L. 241/1990: la contestazione funge anche da comunicazione di avvio (artt. 7-8) e il provvedimento va motivato (art. 3 e art. 1398, co. 6, COM).",
+   "riferimenti": [
+    "COM art. 1349, co. 3",
+    "COM art. 1, co. 6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-084",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "I sostenitori della facoltatività dell'azione disciplinare richiamano il principio di specialità dell'ordinamento militare (artt. 1 e 625 COM). Quale obiezione si oppone a questo argomento?",
+   "opzioni": {
+    "A": "che la specialità vale solo per la disciplina di stato",
+    "B": "che il principio di specialità è stato abrogato dal D.Lgs. 165/2001",
+    "C": "che la specialità non significa poter prescindere dalla L. 241/1990: perché non si applichi, deve essere «diversamente disposto» da una norma",
+    "D": "che la specialità riguarda solo l'organizzazione, non il personale"
+   },
+   "corretta": "C",
+   "spiegazione": "Il principio di specialità e autosufficienza dell'ordinamento militare (artt. 1 e 625 COM) è indiscusso, ma non autorizza a prescindere dalla L. 241/1990, che l'art. 1, co. 6, COM rende applicabile «se non è diversamente disposto». Gli studiosi leggono l'inciso come espressione della specialità (ad esempio, la tempistica del procedimento disciplinare è diversa); ma la diversa disciplina deve risultare da una norma, non da una interpretazione priva di fondamento testuale.",
+   "riferimenti": [
+    "COM artt. 1, co. 6, e 625"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-085",
+   "argomento": "fonti",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 1,
+   "domanda": "Quale termine stabilisce l'art. 2, co. 2, L. 241/1990 per la conclusione dei procedimenti amministrativi, in mancanza di un termine diverso?",
+   "opzioni": {
+    "A": "dieci giorni",
+    "B": "novanta giorni",
+    "C": "trenta giorni",
+    "D": "centottanta giorni"
+   },
+   "corretta": "C",
+   "spiegazione": "In mancanza di un termine diverso fissato per legge o regolamento, i procedimenti amministrativi si concludono entro trenta giorni (art. 2, co. 2, L. 241/1990). È il termine generale da cui muovono i pareri del Consiglio di Stato del 2024 per il parametro degli accertamenti preliminari disciplinari. Il procedimento di corpo ha invece un proprio termine di novanta giorni dalla contestazione (art. 1046, co. 1, lett. h, n. 6, TUROM).",
+   "riferimenti": [
+    "L. 241/1990 art. 2, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-086",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 1,
+   "domanda": "Entro quale termine deve concludersi il procedimento per l'irrogazione di sanzioni disciplinari di corpo?",
+   "opzioni": {
+    "A": "90 giorni dalla contestazione degli addebiti",
+    "B": "60 giorni dal rapporto disciplinare",
+    "C": "30 giorni dalla conoscenza dell'infrazione",
+    "D": "180 giorni dalla commissione del fatto"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1046, co. 1, lett. h), n. 6, TUROM fissa in 90 giorni dalla contestazione degli addebiti il termine del procedimento per le sanzioni di corpo. Il termine può essere ridotto dall'autorità procedente quando le esigenze istruttorie non ne richiedano l'intero utilizzo: per i fatti bagatellari il procedimento può chiudersi in pochi giorni. I trenta giorni sono il parametro giurisprudenziale per la contestazione, non per la conclusione.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 148"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-087",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Nel procedimento disciplinare di corpo, entro quale termine il militare può presentare memorie scritte e documenti, salvo riduzione del termine del procedimento?",
+   "opzioni": {
+    "A": "entro un termine pari a due terzi della durata del procedimento, cioè sessanta giorni su novanta; dieci giorni se il termine del procedimento è pari o inferiore a trenta giorni",
+    "B": "entro trenta giorni dalla contestazione",
+    "C": "entro un termine pari alla metà della durata del procedimento",
+    "D": "entro dieci giorni dalla contestazione, in ogni caso"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1029, co. 2, TUROM consente di presentare memorie e documenti entro un termine pari a due terzi di quello stabilito per la durata del procedimento, sempre che non sia già concluso; quando il termine del procedimento è uguale o inferiore a trenta giorni, entro dieci giorni dall'inizio. Per il procedimento di corpo di 90 giorni il termine è quindi di 60 giorni dalla comunicazione di avvio, cioè dalla contestazione. Memorie tardive non spostano il termine finale (co. 3).",
+   "riferimenti": [
+    "TUROM art. 1029, co. 2-3",
+    "TUROM art. 1046, co. 1, lett. h), n. 6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 148",
+    "Sinossi p. 257"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-088",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "La contestazione degli addebiti è firmata dal comandante il 2 marzo e notificata al militare il 9 marzo. Da quale data decorre il termine di 90 giorni per concludere il procedimento?",
+   "opzioni": {
+    "A": "dalla data del fatto contestato",
+    "B": "dal 2 marzo, data di adozione dell'atto",
+    "C": "dal 9 marzo, perché la contestazione è un atto recettizio ed è efficace da quando giunge nella sfera di conoscenza del destinatario",
+    "D": "dalla data di ricezione del rapporto disciplinare"
+   },
+   "corretta": "C",
+   "spiegazione": "La contestazione è un atto recettizio: produce i suoi effetti (qualità di incolpato, decorrenza dei termini) quando giunge nella sfera cognitiva del destinatario, cioè dalla notifica, non dall'emanazione. Il termine di 90 giorni del procedimento di corpo decorre quindi dal ricevimento della contestazione (art. 1046, co. 1, lett. h, n. 6, TUROM); dalla stessa data si computa il termine per le memorie (art. 1029, co. 2). Il fatto e il rapporto rilevano per la tempestività della contestazione, non per la durata del procedimento.",
+   "riferimenti": [
+    "TUROM artt. 1029, co. 2, e 1046, co. 1, lett. h), n. 6",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "Sinossi pp. 255-256",
+    "Guida tecnica p. 148"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-089",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 1398, co. 2, COM, il procedimento disciplinare di corpo si svolge:",
+   "opzioni": {
+    "A": "esclusivamente per iscritto, attraverso contestazione, memorie, relazione e decisione",
+    "B": "oralmente, davanti alla commissione di disciplina",
+    "C": "anche oralmente, attraverso contestazione degli addebiti, acquisizione delle giustificazioni ed eventuali prove testimoniali, esame e valutazione, decisione e comunicazione all'interessato",
+    "D": "per iscritto quanto alla contestazione e oralmente quanto alla decisione, che non si comunica"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1398, co. 2, COM prevede che il procedimento si svolga «anche oralmente» attraverso cinque fasi: contestazione degli addebiti; acquisizione delle giustificazioni ed eventuali prove testimoniali; esame e valutazione degli elementi; decisione; comunicazione all'interessato. Vige quindi il canone dell'oralità, salvo gli atti che devono avere forma scritta. La commissione di disciplina interviene solo nel procedimento per la consegna di rigore (art. 1399).",
+   "riferimenti": [
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 254"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-090",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Il militare impugna una sanzione di corpo lamentando che la contestazione gli è stata fatta solo a voce, e negli atti non ve n'è traccia. Secondo TAR Veneto, sez. I, n. 956/2004:",
+   "opzioni": {
+    "A": "la doglianza è infondata, perché il procedimento di corpo si svolge oralmente e non richiede alcuna traccia scritta",
+    "B": "la regola dell'oralità va riferita alla fase di trattazione; anche ammessa la contestazione orale, essa va verbalizzata, perché senza verbale manca la prova degli adempimenti sostanziali",
+    "C": "la contestazione orale è sempre illegittima",
+    "D": "la contestazione orale è legittima solo per la consegna di rigore"
+   },
+   "corretta": "B",
+   "spiegazione": "Per il TAR Veneto l'oralità riguarda la trattazione del procedimento; la contestazione, anche se orale, deve essere verbalizzata, perché senza processo verbale manca la prova della puntuale contestazione dell'infrazione, delle circostanze di fatto, della sanzione possibile e del termine per le discolpe. La contestazione può dunque avvenire verbalmente o, preferibilmente, per iscritto; nella prassi la si fa per iscritto, anche per avere la pratica in ordine.",
+   "riferimenti": [
+    "TAR Veneto, sez. I, n. 956/2004",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 256"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-091",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Nel procedimento disciplinare di corpo, quali atti devono necessariamente avere forma scritta?",
+   "opzioni": {
+    "A": "tutti, dalla contestazione alla decisione",
+    "B": "solo la contestazione degli addebiti",
+    "C": "nessuno: il procedimento di corpo è interamente orale",
+    "D": "la comunicazione del provvedimento sanzionatorio con la motivazione, salvo che sia inflitto il richiamo, quindi per rimprovero e consegna"
+   },
+   "corretta": "D",
+   "spiegazione": "Al trasgressore è comunicato per iscritto il provvedimento sanzionatorio contenente la motivazione, salvo il richiamo (art. 1398, co. 5, COM); rimprovero e consegna sono comunicati per iscritto (artt. 1360, co. 3, e 1361, co. 2). La contestazione può essere anche orale (purché verbalizzata) e la decisione si comunica comunque prima verbalmente (art. 1398, co. 4). Nella prassi la contestazione si fa per iscritto.",
+   "riferimenti": [
+    "COM art. 1398, co. 4-5",
+    "COM artt. 1360, co. 3, e 1361, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 264"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-092",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 1,
+   "domanda": "Il superiore diretto ferma nel corridoio un militare con la giacca completamente sbottonata e gliene chiede la ragione; il militare risponde di non essersene accorto e si scusa. Che cosa sono, nel procedimento, la domanda e la risposta?",
+   "opzioni": {
+    "A": "gli accertamenti preliminari, che si chiudono con il rapporto",
+    "B": "la constatazione e l'identificazione, che precedono il rapporto",
+    "C": "un colloquio informale privo di rilievo disciplinare",
+    "D": "la contestazione degli addebiti e le giustificazioni: il procedimento è già in corso"
+   },
+   "corretta": "D",
+   "spiegazione": "Il procedimento di corpo si svolge «anche oralmente» (art. 1398, co. 2, COM): il superiore competente che chiede la ragione del fatto sta contestando l'addebito, e il militare che risponde rende le giustificazioni. Se poi gli infligge il rimprovero e gliene consegna l'atto scritto (art. 1360, co. 3), si è svolto un procedimento completo. Constatazione e rapporto spettano invece al superiore non competente (art. 1397).",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1360, co. 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-093",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Conclusa l'istruttoria, l'autorità competente ritiene di non infliggere alcuna sanzione. Che cosa deve fare?",
+   "opzioni": {
+    "A": "nulla: la comunicazione è dovuta solo in caso di sanzione",
+    "B": "notificare un decreto di archiviazione al comandante di corpo, che decide",
+    "C": "comunicare verbalmente e senza ritardo la decisione all'interessato",
+    "D": "attendere la scadenza dei 90 giorni, che chiude di diritto il procedimento"
+   },
+   "corretta": "C",
+   "spiegazione": "Per l'art. 1398, co. 4, COM la decisione dell'autorità competente è comunicata verbalmente senza ritardo all'interessato anche se l'autorità non ritiene di far luogo all'applicazione di alcuna sanzione: è la conferma che aprire un procedimento non significa punire. Il comandante di reparto informa poi il comando di corpo con la nota esplicativa, che consente il controllo sul suo operato.",
+   "riferimenti": [
+    "COM art. 1398, co. 4"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 149"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-094",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "VIII.2.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Come deve essere redatta la motivazione del provvedimento sanzionatorio di corpo (art. 1398, co. 6, COM)?",
+   "opzioni": {
+    "A": "in forma estesa, con la confutazione puntuale di ogni giustificazione addotta",
+    "B": "in forma concisa e chiara, configurando esattamente l'infrazione commessa con l'indicazione della disposizione violata o della negligenza commessa e delle circostanze di tempo e di luogo del fatto",
+    "C": "con la sola citazione dell'articolo violato",
+    "D": "con il rinvio al contenuto del rapporto disciplinare"
+   },
+   "corretta": "B",
+   "spiegazione": "La motivazione deve essere concisa e chiara e configurare esattamente l'infrazione, indicando la disposizione violata o la negligenza commessa e le circostanze di tempo e di luogo (art. 1398, co. 6, COM). Non deve essere prolissa, ma neppure stereotipata o limitata alla citazione della norma: occorre il collegamento logico tra fatto e disposizione, senza che sia necessaria la confutazione puntuale di ogni giustificazione. Deve corrispondere al fatto contestato.",
+   "riferimenti": [
+    "COM art. 1398, co. 6",
+    "L. 241/1990 art. 3, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 148",
+    "Sinossi p. 263"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-095",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Dopo aver notificato la contestazione, il comandante di reparto si accorge che la mancanza è punibile con una sanzione che non è di sua competenza. Come deve procedere?",
+   "opzioni": {
+    "A": "deve annullare la contestazione e far ripartire da zero il procedimento davanti all'autorità competente",
+    "B": "deve darne immediata comunicazione all'interessato e all'autorità competente, rimettendole gli atti con una sintetica relazione; resta fermo l'originario termine di 90 giorni dalla contestazione",
+    "C": "deve archiviare e fare rapporto, con nuovo termine di 90 giorni",
+    "D": "può infliggere comunque la sanzione minore di sua competenza"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1398, co. 7, COM impone all'autorità procedente che accerti la propria incompetenza di darne immediata comunicazione all'interessato e all'autorità competente, rimettendole gli atti corredati di una sintetica relazione (modello 4.E della Guida tecnica). La Guida precisa che resta fermo l'originario termine di 90 giorni, decorrente dalla contestazione già notificata. Infliggere una sanzione diversa per evitare il trasferimento degli atti sarebbe un uso distorto della competenza.",
+   "riferimenti": [
+    "COM art. 1398, co. 7",
+    "TUROM art. 1046, co. 1, lett. h), n. 6"
+   ],
+   "fonti": [
+    "Guida tecnica p. 148"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-096",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'atto di contestazione degli addebiti, oltre ad aprire il procedimento disciplinare, svolge anche la funzione di:",
+   "opzioni": {
+    "A": "provvedimento cautelare",
+    "B": "richiesta di procedimento penale",
+    "C": "rapporto disciplinare al comandante di corpo",
+    "D": "comunicazione di avvio del procedimento ai sensi degli artt. 7 e 8 della L. 241/1990"
+   },
+   "corretta": "D",
+   "spiegazione": "La contestazione funge anche da comunicazione di avvio del procedimento (artt. 7 e 8 L. 241/1990) e deve perciò contenerne le notizie: il fatto, l'ufficio e il responsabile del procedimento, l'autorità competente per la decisione, il termine di conclusione, il termine a difesa, l'ufficio dove prendere visione degli atti. Fissa inoltre il thema decidendum: il fatto contestato delimita quello che potrà essere posto a base della sanzione.",
+   "riferimenti": [
+    "L. 241/1990 artt. 7-8",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 147",
+    "Sinossi p. 255"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-097",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "VIII.2.a",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Quale dei seguenti elementi NON fa parte del contenuto della contestazione degli addebiti indicato dalle istruzioni applicative?",
+   "opzioni": {
+    "A": "la sanzione che l'autorità intende infliggere",
+    "B": "il termine di conclusione del procedimento",
+    "C": "l'ufficio dove prendere visione degli atti",
+    "D": "la descrizione del fatto disciplinarmente rilevante"
+   },
+   "corretta": "A",
+   "spiegazione": "La contestazione contiene la descrizione del fatto, l'ufficio e l'autorità responsabile del procedimento, l'autorità competente per il provvedimento finale, il termine di conclusione (90 giorni, art. 1046 TUROM), un congruo termine a difesa (art. 1029 TUROM) e l'ufficio per la visione degli atti. Non anticipa la sanzione: la decisione arriva solo dopo le giustificazioni e la loro valutazione (art. 1370, co. 1, COM); anticiparla svuoterebbe il diritto di difesa.",
+   "riferimenti": [
+    "L. 241/1990 art. 8",
+    "TUROM artt. 1029 e 1046",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "Guida tecnica pp. 147-148"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-098",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Quanto a forme e modelli, nel procedimento disciplinare di corpo si distinguono:",
+   "opzioni": {
+    "A": "il procedimento per il solo rimprovero e quello per la consegna",
+    "B": "il procedimento orale e quello davanti alla commissione di disciplina, senza ulteriori distinzioni",
+    "C": "il procedimento che si conclude con il richiamo, quello per le sanzioni diverse dalla consegna di rigore e quello per la consegna di rigore",
+    "D": "il procedimento di reparto e quello di corpo, a seconda dell'autorità"
+   },
+   "corretta": "C",
+   "spiegazione": "Le istruzioni applicative trattano separatamente il richiamo, definito oralmente e documentato con la memoria agli atti (allegato 4.N), il procedimento per le sanzioni diverse dalla consegna di rigore (art. 1398 COM, contestazione con il modello 4.C, comunicazione con il 4.F) e quello per la consegna di rigore (artt. 1399-1400 COM, con commissione e difensore, modello 4.D). La competenza dell'autorità è un profilo diverso, regolato dall'art. 1396 COM.",
+   "riferimenti": [
+    "COM artt. 1359, 1398, 1399 e 1400"
+   ],
+   "fonti": [
+    "Guida tecnica pp. 148-150"
+   ],
+   "test_vernice": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-099",
+   "argomento": "procedimento-consegna-rigore",
+   "sinossi": "VIII.3.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Nel procedimento per infliggere la consegna di rigore, il parere della commissione di disciplina:",
+   "opzioni": {
+    "A": "è vincolante e va reso per iscritto entro tre giorni",
+    "B": "è reso noto verbalmente al comandante entro il tempo massimo di due ore e non è vincolante",
+    "C": "è vincolante solo se espresso all'unanimità",
+    "D": "è facoltativo e può essere omesso nei casi urgenti"
+   },
+   "corretta": "B",
+   "spiegazione": "Per l'art. 1399 COM la commissione, sentite le parti, si ritira per formulare il parere, espresso a maggioranza se non c'è accordo; il parere è reso noto verbalmente al comandante entro due ore (co. 5) e non è vincolante (co. 6), ma deve essere obbligatoriamente acquisito. Il comandante rende nota la decisione possibilmente entro lo stesso giorno (co. 7). Il procedimento è obbligatorio quando la mancanza rientra nell'art. 751 TUROM (art. 1397, co. 7).",
+   "riferimenti": [
+    "COM art. 1399, co. 3-7",
+    "COM art. 1397, co. 7"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 150"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-100",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 725, co. 1, TUROM, il grado e l'autorità sono conferiti al superiore:",
+   "opzioni": {
+    "A": "per impiegarli ed esercitarli unicamente al servizio e a vantaggio delle Forze armate e per far osservare dai dipendenti le leggi, i regolamenti, gli ordini militari e le disposizioni di servizio",
+    "B": "come riconoscimento personale del merito e dell'anzianità",
+    "C": "per tutelare gli interessi del reparto anche nei confronti delle altre Forze armate",
+    "D": "per esercitare la potestà sanzionatoria su tutti i militari di grado inferiore"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 725, co. 1, TUROM fonda il dovere di vigilanza disciplinare: grado e autorità servono unicamente al servizio e a vantaggio delle Forze armate e per far osservare ai dipendenti leggi, regolamenti, ordini e disposizioni di servizio; il superiore deve per primo dare l'esempio, dovere tanto più imperioso quanto più elevato è il grado. La potestà sanzionatoria non spetta a ogni superiore su ogni inferiore: è regolata dall'art. 1396 COM (salvo il richiamo, art. 1359, co. 2).",
+   "riferimenti": [
+    "TUROM art. 725, co. 1",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi pp. 85-86"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-101",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 725, co. 2, lett. b), TUROM impone al superiore di evitare, di massima, di richiamare in pubblico il militare che ha mancato e di riprenderlo in disparte, con forma breve ed energica. A che cosa si riferisce la norma?",
+   "opzioni": {
+    "A": "al procedimento speciale per infliggere la sanzione del richiamo",
+    "B": "alla constatazione della mancanza prevista dall'art. 1397 COM",
+    "C": "al richiamo correttivo o esortativo dell'azione di comando, a tutela della dignità dell'inferiore, non alla sanzione disciplinare del richiamo",
+    "D": "alla comunicazione verbale della sanzione di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "La norma usa le parole del sistema sanzionatorio («richiamare», «mancato», «richiamo»), con il rischio di ambiguità, ma si riferisce all'azione di comando: indica il modo in cui il superiore interviene nell'attività correttiva ed esortativa, che non conduce necessariamente a sanzioni, e tutela la dignità dell'inferiore, da non esporre al pubblico ludibrio. Non è un procedimento speciale per la sanzione del richiamo, che resta soggetta all'art. 1370, co. 1, COM.",
+   "riferimenti": [
+    "TUROM art. 725, co. 2, lett. b)",
+    "COM art. 1359"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi pp. 86, 175"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-102",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Per un carabiniere in servizio presso una stazione, chi sono i superiori diretti?",
+   "opzioni": {
+    "A": "tutti i militari di grado più elevato, di qualsiasi Forza armata",
+    "B": "il comandante di stazione, il comandante di compagnia, il comandante provinciale, il comandante di legione e così via lungo la scala gerarchica",
+    "C": "i soli ufficiali dell'Arma",
+    "D": "il solo comandante di stazione"
+   },
+   "corretta": "B",
+   "spiegazione": "Il superiore diretto è quello inserito nella scala gerarchica del singolo militare, ai diversi livelli ordinativi: per il carabiniere di una stazione, il comandante di stazione, di compagnia, provinciale, di legione e così via. Superiori generici sono invece tutti coloro che rivestono un grado più elevato, senza riguardo alla Forza armata o al Corpo armato. Il concetto di superiore è relativo: si è superiori rispetto ad alcuni e inferiori rispetto ad altri.",
+   "riferimenti": [
+    "TUROM art. 725"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi pp. 84-85"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-103",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Tra i comportamenti punibili con la consegna di rigore, il n. 18 dell'art. 751, co. 1, lett. a), TUROM indica:",
+   "opzioni": {
+    "A": "la grave negligenza nell'impiego del personale e dei mezzi",
+    "B": "la negligenza nel governo del personale, nella cura delle condizioni di vita e di benessere dei dipendenti, nel controllo sul comportamento disciplinare degli inferiori",
+    "C": "la reiterata omissione di rapporti disciplinari",
+    "D": "l'abituale negligenza nella cura del personale"
+   },
+   "corretta": "B",
+   "spiegazione": "Il n. 18 punisce con la consegna di rigore la negligenza nel governo del personale, nella cura delle condizioni di vita e di benessere dei dipendenti e nel controllo sul comportamento disciplinare degli inferiori, con richiamo agli artt. 725 e 726 TUROM. L'obbligo di controllo disciplinare è così presidiato dalla sanzione di corpo più grave. La «grave negligenza» è formula del n. 24, l'«abituale negligenza» dei nn. 25 e 26.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 18",
+    "TUROM artt. 725-726"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 25"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-104",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Che rilievo ha il fatto che il n. 18 dell'art. 751 TUROM parli di «negligenza» nel controllo disciplinare degli inferiori, senza aggettivi?",
+   "opzioni": {
+    "A": "nessuno: la norma va comunque letta come «grave negligenza», per la gravità della sanzione",
+    "B": "che basta la colpa lievissima, ma solo se il fatto del dipendente è reato",
+    "C": "che la norma si applica solo ai comandanti di corpo",
+    "D": "che il legislatore, che in altri numeri dello stesso articolo qualifica la condotta («grave negligenza», n. 24; «abituale negligenza», nn. 25 e 26), qui non richiede né gravità né abitualità"
+   },
+   "corretta": "D",
+   "spiegazione": "Le parole hanno il loro peso: dove il legislatore ha voluto, nello stesso art. 751, ha qualificato la negligenza come «grave» (n. 24) o «abituale» (nn. 25 e 26); nel n. 18 non l'ha fatto. È uno degli indici dell'obbligatorietà dell'azione disciplinare, anche se nella pratica la consegna di rigore per questa ipotesi si vede infliggere raramente. La norma riguarda ogni superiore (artt. 725 e 726), non solo il comandante di corpo.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 18 e 24-26"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 25"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-105",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Chi è, secondo l'art. 726, co. 2, TUROM, direttamente responsabile della disciplina nell'ambito del corpo?",
+   "opzioni": {
+    "A": "il comandante di compagnia",
+    "B": "il comandante di corpo, responsabile anche dell'organizzazione, dell'impiego, dell'addestramento del personale, della conservazione dei materiali e della gestione amministrativa",
+    "C": "il comandante di reparto ai fini disciplinari",
+    "D": "il Comandante generale"
+   },
+   "corretta": "B",
+   "spiegazione": "Il comandante di corpo, oltre ai doveri comuni a tutti i superiori, ha doveri particolari: nell'ambito del corpo è direttamente responsabile della disciplina, dell'organizzazione, dell'impiego, dell'addestramento del personale, della conservazione dei materiali e della gestione amministrativa, ed esplica le funzioni di polizia giudiziaria militare verso i dipendenti (art. 726, co. 2, TUROM). Per questo valuta la congruità delle decisioni disciplinari dei comandanti dipendenti.",
+   "riferimenti": [
+    "TUROM art. 726, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 28"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-106",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il Regolamento generale dell'Arma (n. 418), disposizione interna e non fonte del diritto, precisa quando le mancanze dei militari dipendenti possono essere addebitate al loro comandante. Quando?",
+   "opzioni": {
+    "A": "solo se dimostrano un grave difetto di vigilanza tale da avere concorso a generarle",
+    "B": "mai, perché la responsabilità disciplinare è personale",
+    "C": "solo se il comandante era presente al fatto",
+    "D": "sempre, per il principio della responsabilità del comandante"
+   },
+   "corretta": "A",
+   "spiegazione": "Per il n. 418 del Regolamento generale dell'Arma ogni comandante è responsabile della disciplina del proprio reparto, ma le mancanze dei dipendenti non gli sono addebitabili salvo che dimostrino un grave difetto di vigilanza tale da avere concorso a generarle. La responsabilità resta personale: al comandante non si contesta la mancanza del dipendente, ma la propria carenza di controllo (artt. 725 e 751, n. 18, TUROM). La presenza al fatto non è il criterio.",
+   "riferimenti": [
+    "Regolamento generale per l'Arma dei Carabinieri, n. 418",
+    "TUROM artt. 725 e 751, co. 1, lett. a), n. 18"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 25"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-107",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Un comandante di stazione infligge il richiamo per un fatto che, secondo il comandante di corpo, meritava il rimprovero. Che cosa può fare il comandante di corpo?",
+   "opzioni": {
+    "A": "nulla, perché il richiamo, una volta inflitto, è definitivo",
+    "B": "infliggere direttamente il rimprovero, aggiungendolo al richiamo",
+    "C": "muovere un rilievo al comandante oppure annullare il provvedimento e disporre la rinnovazione del procedimento",
+    "D": "chiedere al militare di presentare ricorso gerarchico"
+   },
+   "corretta": "C",
+   "spiegazione": "Il comandante di corpo, direttamente responsabile della disciplina (art. 726, co. 2, TUROM), valuta la congruità delle scelte dei comandanti dipendenti: può muovere un rilievo, anche con una riservata, o annullare d'ufficio l'atto riconosciuto illegittimo (art. 1372 COM, nei limiti dell'art. 21-nonies L. 241/1990) e disporre la rinnovazione del procedimento (art. 1373 COM). Aggiungere una seconda sanzione per lo stesso fatto violerebbe il ne bis in idem.",
+   "riferimenti": [
+    "TUROM art. 726, co. 2",
+    "COM artt. 1372 e 1373"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 24"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-108",
+   "argomento": "autotutela",
+   "sinossi": "IX.7.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Davanti a un atto disciplinare illegittimo adottato da un dipendente, che cosa consente l'art. 1372 COM al superiore che ne ha il potere?",
+   "opzioni": {
+    "A": "avocare il procedimento e decidere al posto del dipendente",
+    "B": "annullare d'ufficio gli atti del procedimento riconosciuti illegittimi, nei limiti dell'art. 21-nonies della L. 241/1990",
+    "C": "sospendere l'atto fino alla decisione del TAR",
+    "D": "convertire la sanzione in una sanzione più grave"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1372 COM consente l'annullamento d'ufficio degli atti del procedimento disciplinare riconosciuti illegittimi, nei limiti dell'art. 21-nonies L. 241/1990 (ragioni di interesse pubblico, termine ragionevole, interessi dei destinatari). Il superiore non avoca il procedimento, ma annulla in autotutela; poi il procedimento può essere rinnovato dall'autorità competente (art. 1373). La reformatio in peius non è prevista.",
+   "riferimenti": [
+    "COM art. 1372",
+    "L. 241/1990 art. 21-nonies",
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 15"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-109",
+   "argomento": "autotutela",
+   "sinossi": "IX.7.a",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Annullati in autotutela uno o più atti del procedimento disciplinare, se la rinnovazione non è esclusa, entro quale termine il nuovo procedimento riprende?",
+   "opzioni": {
+    "A": "nel termine perentorio di sessanta giorni dalla piena conoscenza dell'annullamento o dall'adozione del provvedimento di autotutela, a partire dal primo degli atti annullati",
+    "B": "entro novanta giorni dall'annullamento, ripartendo dalla contestazione in ogni caso",
+    "C": "entro trenta giorni, a pena di decadenza solo per le sanzioni di corpo",
+    "D": "senza termine, trattandosi di procedimento di corpo"
+   },
+   "corretta": "A",
+   "spiegazione": "Per l'art. 1373 COM, annullati uno o più atti a seguito di autotutela (anche contenziosa), di giudicato amministrativo o di decreto decisorio di ricorso straordinario, se non è esclusa la facoltà di rinnovare e non sono già decorsi, per le sole sanzioni di stato, gli originari termini perentori, il nuovo procedimento riprende dal primo degli atti annullati, nel termine perentorio di sessanta giorni dalla piena conoscenza dell'annullamento o dall'adozione del provvedimento di autotutela.",
+   "riferimenti": [
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-110",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.c",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Nel pubblico impiego contrattualizzato gli atti di avvio e conclusione del procedimento disciplinare sono comunicati all'Ispettorato per la funzione pubblica (art. 55-bis, co. 4, D.Lgs. 165/2001). Quale funzione analoga esiste nell'ordinamento militare?",
+   "opzioni": {
+    "A": "nessuna: i procedimenti di corpo non sono soggetti ad alcun controllo",
+    "B": "il controllo del comandante di corpo, informato con una nota esplicativa: se tutto è regolare ne prende atto, altrimenti rileva l'errore e può annullare d'ufficio",
+    "C": "il controllo della Corte dei conti sui provvedimenti disciplinari",
+    "D": "la comunicazione obbligatoria di ogni procedimento alla procura militare"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 55-bis, co. 4, D.Lgs. 165/2001 impone di comunicare per via telematica all'Ispettorato per la funzione pubblica, entro venti giorni, gli atti di avvio e conclusione del procedimento e l'eventuale sospensione cautelare, con il nominativo sostituito da un codice identificativo: è un controllo di legittimità. Nell'ordinamento militare lo svolge il comandante di corpo, direttamente responsabile della disciplina (art. 726, co. 2, TUROM): il comandante di reparto lo informa con una nota esplicativa, anche quando chiude senza punire, e il comando di corpo prende atto o fa rilevare l'errore, potendo annullare (art. 1372 COM).",
+   "riferimenti": [
+    "D.Lgs. 165/2001 art. 55-bis, co. 4",
+    "TUROM art. 726, co. 2",
+    "COM art. 1372"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 265",
+    "domande poste in aula, 17.10.2026, n. 16"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-111",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Nel pubblico impiego contrattualizzato, l'art. 55-sexies, co. 3, D.Lgs. 165/2001 punisce il mancato esercizio o la decadenza dall'azione disciplinare dovuti all'omissione o al ritardo ingiustificato degli atti, o a valutazioni manifestamente irragionevoli di insussistenza dell'illecito. Con quale sanzione, per i soggetti responsabili?",
+   "opzioni": {
+    "A": "con la censura",
+    "B": "con la sospensione dal servizio fino a un massimo di tre mesi, salva la maggiore sanzione del licenziamento nei casi previsti",
+    "C": "con il licenziamento senza preavviso in ogni caso",
+    "D": "con una sanzione pecuniaria pari a tre mensilità"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 55-sexies, co. 3, D.Lgs. 165/2001 prevede la sospensione dal servizio fino a un massimo di tre mesi, salvo il licenziamento nei casi dell'art. 55-quater, co. 1, lett. f-ter), e co. 3-quinquies; per i dirigenti la condotta rileva anche ai fini della responsabilità dirigenziale (art. 21). La norma non si applica ai militari, ma l'ordinamento militare conosce regole analoghe sotto altre vesti: art. 751, n. 18, TUROM e art. 2, co. 9, L. 241/1990.",
+   "riferimenti": [
+    "D.Lgs. 165/2001 art. 55-sexies, co. 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-112",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Nell'ordinamento militare esiste qualcosa di analogo all'art. 55-sexies, co. 3, D.Lgs. 165/2001 (responsabilità per il mancato esercizio dell'azione disciplinare)?",
+   "opzioni": {
+    "A": "no: il militare gode, sul punto, di uno statuto privilegiato",
+    "B": "sì: l'art. 55-sexies si applica direttamente ai militari per effetto dell'art. 1, co. 6, COM",
+    "C": "sì, sotto altre vesti: l'art. 751, co. 1, lett. a), n. 18, TUROM punisce con la consegna di rigore la negligenza nel controllo disciplinare degli inferiori, e l'art. 2, co. 9, L. 241/1990 collega la mancata o tardiva emanazione del provvedimento alla responsabilità disciplinare",
+    "D": "sì, ma solo per gli ufficiali generali"
+   },
+   "corretta": "C",
+   "spiegazione": "Le regole del pubblico impiego esistono anche nell'ordinamento militare, sotto altre vesti: il controllo disciplinare è un dovere del superiore la cui violazione è punita con la consegna di rigore (art. 751, n. 18, TUROM) e la mancata o tardiva emanazione del provvedimento è elemento di responsabilità disciplinare (art. 2, co. 9, L. 241/1990). Sarebbe irragionevole che una regola valesse per il dirigente pubblico e non per il militare, con stipendi e carriere equiparati. Il D.Lgs. 165/2001 non si applica direttamente ai militari (art. 3, co. 1).",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 18",
+    "L. 241/1990 art. 2, co. 9",
+    "D.Lgs. 165/2001 artt. 3, co. 1, e 55-sexies, co. 3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 14"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-113",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Per la falsa attestazione della presenza in servizio, l'art. 55-quater, co. 3-bis, D.Lgs. 165/2001 prevede la sospensione cautelare del dipendente entro quarantotto ore dalla conoscenza del fatto. Che cosa accade se il termine è violato?",
+   "opzioni": {
+    "A": "l'azione disciplinare decade",
+    "B": "la sospensione cautelare è inefficace",
+    "C": "la violazione non determina la decadenza dall'azione né l'inefficacia della sospensione, salva l'eventuale responsabilità del dipendente cui è imputabile",
+    "D": "il procedimento si converte in procedimento penale"
+   },
+   "corretta": "C",
+   "spiegazione": "La sospensione è disposta in via immediata e comunque entro quarantotto ore, ma la violazione del termine non determina la decadenza dall'azione disciplinare né l'inefficacia della sospensione, fatta salva la responsabilità di chi l'ha causata (art. 55-quater, co. 3-bis). Il ritardo non travolge il procedimento ma è imputato soggettivamente: la stessa logica della giurisprudenza sul ritardo nel rapporto disciplinare militare, che non rende improcedibile l'azione.",
+   "riferimenti": [
+    "D.Lgs. 165/2001 art. 55-quater, co. 3-bis"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-114",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Un comandante di compagnia, titolare della potestà sanzionatoria, vuole infliggere il rimprovero a un dipendente, ma il comandante provinciale, consultato, è contrario. Che cosa può fare?",
+   "opzioni": {
+    "A": "deve astenersi, perché il parere del superiore è vincolante",
+    "B": "deve rimettere gli atti al comandante provinciale, che diventa competente",
+    "C": "deve chiedere il parere della commissione di disciplina",
+    "D": "può procedere ugualmente, perché il potere disciplinare spetta al titolare della potestà sanzionatoria; la concertazione è opportuna ma non vincolante, a rischio che il superiore annulli poi l'atto"
+   },
+   "corretta": "D",
+   "spiegazione": "Nella prassi si concerta con la scala gerarchica: il superiore può ritenere propria la competenza e chiedere di riferirgli per iscritto, o indicare la soluzione. Ma il potere disciplinare non appartiene al superiore in quanto tale: è del titolare della potestà sanzionatoria, che può procedere anche da solo, a rischio che il superiore annulli poi l'atto (art. 1372 COM). Il rapporto ricorda quello tra la polizia giudiziaria che arresta e il magistrato che può disporre la liberazione. La commissione interviene solo per la consegna di rigore.",
+   "riferimenti": [
+    "COM artt. 1396 e 1372"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, nn. 21-22"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-115",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Su indicazione del proprio superiore, un comandante di stazione rinuncia a procedere per una mancanza di un dipendente. Il dipendente ricade nella stessa mancanza e il comandante provinciale chiede conto del mancato intervento. Come risponde il comandante di stazione?",
+   "opzioni": {
+    "A": "non risponde, perché ha eseguito un ordine del superiore",
+    "B": "risponde da solo: la concertazione non sposta la responsabilità, che resta del titolare del potere, e non potrà giustificarsi richiamando l'indicazione ricevuta",
+    "C": "non risponde, perché la responsabilità disciplinare è sempre del comandante di corpo",
+    "D": "risponde in concorso con il superiore, in parti uguali"
+   },
+   "corretta": "B",
+   "spiegazione": "La concertazione con la scala gerarchica è opportuna ma non sposta la responsabilità: il comandante che rinuncia a punire su indicazione del superiore, se il militare ricade nella mancanza, non potrà giustificarsi richiamando quell'indicazione. Le conseguenze sono quelle del mancato esercizio dell'azione: la negligenza nel controllo disciplinare (art. 751, n. 18, TUROM) e il grave difetto di vigilanza (Regolamento generale dell'Arma, n. 418). L'indicazione di soprassedere non è un ordine di servizio che esoneri da responsabilità.",
+   "riferimenti": [
+    "TUROM artt. 725, 751, co. 1, lett. a), n. 18",
+    "Regolamento generale per l'Arma dei Carabinieri, n. 418"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 23"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-116",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Che cos'è l'esortazione?",
+   "opzioni": {
+    "A": "un atto dell'azione di comando, orale o scritto, che non è una sanzione e presuppone l'assenza di una mancanza disciplinare",
+    "B": "la sanzione di corpo più lieve, inferiore al richiamo",
+    "C": "la forma scritta del richiamo, da trascrivere nel fascicolo",
+    "D": "un avvertimento che precede obbligatoriamente il rimprovero"
+   },
+   "corretta": "A",
+   "spiegazione": "L'esortazione è un'attività atipica dell'azione di comando: il superiore «richiama» all'osservanza delle disposizioni, a una maggiore applicazione, alla correzione di procedure e comportamenti. Non è una sanzione (le sanzioni sono tassative, art. 1353 COM) e presuppone che non vi sia una mancanza: se la mancanza c'è, va aperto il procedimento. Ad esempio, l'allievo che prende diciannove quando i compagni prendono tra ventotto e trenta si esorta a studiare di più.",
+   "riferimenti": [
+    "COM art. 1353",
+    "TUROM art. 725, co. 2, lett. b)"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 175"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-117",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo TAR Calabria, Catanzaro, sez. I, 21 luglio 2004, n. 1658, l'invito verbale rivolto dal superiore a un dipendente a un miglior rendimento, senza alcuna sanzione:",
+   "opzioni": {
+    "A": "è un richiamo e come tale impugnabile",
+    "B": "è illegittimo se non preceduto da contestazione",
+    "C": "è espressione dell'ordinaria azione di comando, non del potere disciplinare",
+    "D": "deve essere trascritto nella documentazione caratteristica"
+   },
+   "corretta": "C",
+   "spiegazione": "Il TAR Catanzaro ha qualificato l'invito verbale a un miglior rendimento, senza sanzione, come espressione dell'ordinaria azione di comando e non del potere disciplinare. Tenendo separate la sanzione del richiamo e l'azione di comando dell'art. 725, co. 2, lett. b), TUROM, si comprende anche la legittimità della riservata personale come forma scritta dell'esortazione: la contestazione serve solo quando si esercita il potere disciplinare.",
+   "riferimenti": [
+    "TAR Calabria, Catanzaro, sez. I, 21 luglio 2004, n. 1658",
+    "TUROM art. 725, co. 2, lett. b)"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 175"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-118",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Che cosa ha chiarito la circolare del Comando generale dell'Arma n. 458/211-5-2005 del 28 dicembre 2015 sulla «riservata personale»?",
+   "opzioni": {
+    "A": "che la riservata personale è una sanzione atipica da usare per le mancanze lievi",
+    "B": "che la riservata personale sostituisce il richiamo per gli ufficiali",
+    "C": "che gli atti di esortazione e di indirizzo sono una modalità dell'azione di comando e non possono costituire, né nel linguaggio, né nei contenuti, né nelle conseguenze, rilievi disciplinari atipici: per le mancanze si deve aprire il procedimento",
+    "D": "che la riservata personale va sempre notificata e trascritta"
+   },
+   "corretta": "C",
+   "spiegazione": "La circolare del 28 dicembre 2015 (Comando generale – I Reparto – SM – Ufficio Personale Ufficiali, n. 458/211-5-2005) ha chiarito che gli interventi esortativi scritti non possono costituire rilievi disciplinari atipici: per le mancanze l'ordinamento prevede tassativamente specifici istituti e procedure, con il diritto di difesa. In passato la riservata era abusata per «marchiare» l'inferiore, che non poteva difendersi e rischiava un procedimento se rispondeva.",
+   "riferimenti": [
+    "Comando generale dell'Arma dei Carabinieri – I Reparto – SM – Ufficio Personale Ufficiali, circ. n. 458/211-5-2005 del 28 dicembre 2015",
+    "COM art. 1353"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 176",
+    "domande poste in aula, 17.10.2026, n. 29"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-119",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Secondo la circolare del Comando generale del 28 dicembre 2015, quando sono ammesse le esortazioni scritte?",
+   "opzioni": {
+    "A": "vanno bandite ai livelli ordinativi minori, dove è possibile il contatto diretto e frequente tra comandante e subordinato; negli altri casi solo se motivate da assoluta necessità e se è obiettivamente impossibile un colloquio diretto",
+    "B": "solo per gli ufficiali e solo dal comandante di corpo in su",
+    "C": "solo dopo una precedente esortazione orale rimasta senza effetto",
+    "D": "sempre, purché riservate"
+   },
+   "corretta": "A",
+   "spiegazione": "La circolare dispone che le esortazioni scritte siano bandite ai livelli ordinativi minori, dove il contatto personale diretto e frequente tra comandante e subordinato è possibile; negli altri casi possono essere dirette ai singoli solo se motivate da assoluta necessità e se è obiettivamente impossibile intervenire con un colloquio diretto. La prassi della riservata usata per stigmatizzare fatti disciplinari produceva l'effetto opposto a quello voluto: amarezza e doglianze.",
+   "riferimenti": [
+    "Comando generale dell'Arma dei Carabinieri – I Reparto – SM – Ufficio Personale Ufficiali, circ. n. 458/211-5-2005 del 28 dicembre 2015"
+   ],
+   "fonti": [
+    "Sinossi p. 176"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-120",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un militare compila in modo impreciso l'ordine di servizio e dimentica di registrare i chilometri percorsi. Non vi è reato. Che cosa può fare il superiore, secondo l'impostazione accolta, se non ravvisa una mancanza disciplinare?",
+   "opzioni": {
+    "A": "proporlo per la consegna di rigore",
+    "B": "infliggergli una riservata personale con l'indicazione della mancanza",
+    "C": "nulla, perché in assenza di sanzione non si può tener conto del fatto in alcuna sede",
+    "D": "correggerlo con un'esortazione e tenerne conto, insieme alle altre carenze, in sede di valutazione caratteristica"
+   },
+   "corretta": "D",
+   "spiegazione": "Il superiore corregge il militare con l'esortazione, che non è sanzione, e quando lo valuta tiene conto delle sue carenze: per incidere sulla valutazione caratteristica non serve una sanzione. La riservata personale non può contenere rilievi disciplinari (circolare del Comando generale del 28 dicembre 2015): se la mancanza c'è, si apre il procedimento con diritto di difesa. La consegna di rigore presuppone uno dei comportamenti dell'art. 751 TUROM.",
+   "riferimenti": [
+    "TUROM art. 725",
+    "COM art. 1353"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 30"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-121",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.1",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "A che cosa servono le punizioni disciplinari, secondo l'impostazione illustrata a lezione?",
+   "opzioni": {
+    "A": "soltanto a reintegrare il danno patrimoniale arrecato all'amministrazione",
+    "B": "alla correzione del singolo, che si emenda, e alla prevenzione generale, perché dissuadono gli altri dall'emulazione; servono anche all'azione di comando e al governo del personale",
+    "C": "esclusivamente alla retribuzione morale del fatto",
+    "D": "a preparare il procedimento penale"
+   },
+   "corretta": "B",
+   "spiegazione": "La sanzione ha una funzione di emenda del singolo e di prevenzione generale: l'allievo punito con il rimprovero per il rientro alle tre di notte si ripromette di non rifarlo, e gli altri rientrano in orario. È anche una leva dell'azione di comando. Sul piano concreto incide sui trasferimenti e sui concorsi, perché abbassa i punteggi. Il danno patrimoniale è oggetto della responsabilità amministrativo-contabile, distinta da quella disciplinare.",
+   "riferimenti": [
+    "COM art. 1355"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 31"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-122",
+   "argomento": "cessazione-effetti",
+   "sinossi": "IX.5.a",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "A quali condizioni il militare può chiedere la cessazione di ogni effetto di un rimprovero trascritto nella documentazione personale (art. 1369 COM)?",
+   "opzioni": {
+    "A": "dopo un anno dalla comunicazione, se non ha riportato altre sanzioni di stato",
+    "B": "in qualsiasi momento, con istanza al comandante di corpo",
+    "C": "con istanza al Ministro della difesa, per via gerarchica, dopo almeno due anni di servizio dalla comunicazione della punizione, se in quel periodo non ha riportato sanzioni diverse dal richiamo",
+    "D": "dopo cinque anni, con istanza al TAR"
+   },
+   "corretta": "C",
+   "spiegazione": "L'istanza di cessazione degli effetti delle sanzioni trascritte si presenta per via gerarchica al Ministro della difesa dopo almeno due anni di servizio dalla comunicazione della punizione, se nel periodo il militare non ha riportato sanzioni diverse dal richiamo (art. 1369, co. 1, COM). Il richiamo, dunque, non impedisce la cessazione: non si trascrive ed è l'unica sanzione «tollerata» nel biennio. L'istanza riguarda solo le sanzioni trascritte, quindi non il richiamo stesso.",
+   "riferimenti": [
+    "COM art. 1369, co. 1"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-123",
+   "argomento": "cessazione-effetti",
+   "sinossi": "IX.5.c",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Sull'istanza di cessazione degli effetti di una sanzione di corpo, il Ministro o l'autorità delegata decide entro sei mesi. Se l'istanza è accolta:",
+   "opzioni": {
+    "A": "la sanzione è annullata con effetto retroattivo, anche ai fini delle promozioni già decise",
+    "B": "le annotazioni restano, con la menzione dell'accoglimento",
+    "C": "la sanzione è convertita in richiamo",
+    "D": "le annotazioni relative alla sanzione sono eliminate dalla documentazione personale, esclusa ogni efficacia retroattiva"
+   },
+   "corretta": "D",
+   "spiegazione": "Il Ministro, o l'autorità militare delegata, decide entro sei mesi tenendo conto del parere dei superiori gerarchici e di tutti i precedenti di servizio (art. 1369, co. 2, COM); in caso di accoglimento le annotazioni sono eliminate dalla documentazione personale, esclusa peraltro ogni efficacia retroattiva (co. 3). La cessazione degli effetti non è un annullamento: non rimuove ciò che la sanzione ha già prodotto.",
+   "riferimenti": [
+    "COM art. 1369, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-124",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Un militare sanzionato obietta che in passato l'amministrazione non aveva mai contestato analoghe condotte, né a lui né ad altri. Secondo TAR Sicilia, Catania, sez. III, 21 dicembre 2005, n. 2480:",
+   "opzioni": {
+    "A": "la precedente tolleranza rende illegittima la sanzione, per legittimo affidamento",
+    "B": "la precedente tolleranza obbliga a infliggere la sanzione minima",
+    "C": "la circostanza non esclude la rilevanza disciplinare dei comportamenti contestati: altrimenti all'amministrazione sarebbe sempre preclusa la contestazione quando, per le più diverse ragioni, non abbia proceduto in altre occasioni",
+    "D": "la precedente tolleranza estingue l'azione disciplinare per prescrizione"
+   },
+   "corretta": "C",
+   "spiegazione": "Il TAR Catania ha affermato che il fatto di non aver rilevato in passato analoghe condotte dello stesso militare, o di altri, non esclude la rilevanza disciplinare dei comportamenti contestati né rende illegittima la sanzione. La sentenza è citata come conferma indiretta della discrezionalità dell'azione disciplinare; e, del resto, la mera tolleranza di precedenti violazioni non crea affidamento né buona fede e non preclude all'amministrazione di mutare atteggiamento.",
+   "riferimenti": [
+    "TAR Sicilia, Catania, sez. III, 21 dicembre 2005, n. 2480"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 233"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-125",
+   "argomento": "soggetti",
+   "sinossi": "I.4.a",
+   "tipo": "caso_pratico",
+   "difficolta": 1,
+   "domanda": "Un militare del nucleo operativo lavora abitualmente in abiti civili. È soggetto alle disposizioni sulla disciplina militare?",
+   "opzioni": {
+    "A": "no, perché le disposizioni si applicano solo a chi indossa l'uniforme",
+    "B": "solo se si qualifica come militare",
+    "C": "sì: le quattro condizioni dell'art. 1350, co. 2, COM sono alternative, e il militare è in servizio e in luoghi militari o destinati al servizio; è esonerato solo da alcune norme sull'uso dell'uniforme",
+    "D": "solo quando si trova in caserma"
+   },
+   "corretta": "C",
+   "spiegazione": "Le condizioni dell'art. 1350, co. 2, COM (attività di servizio, luoghi militari o destinati al servizio, uniforme, qualificazione come militare) sono alternative: ne basta una. Il personale dei nuclei operativi e dei reparti investigativi, anche senza uniforme, è in servizio e in luoghi militari o destinati al servizio. È esonerato soltanto da alcune norme connesse all'uso dell'uniforme; per il resto il regolamento è lo stesso, anche quanto all'abito (davanti a un magistrato un abbigliamento trasandato non è ammissibile).",
+   "riferimenti": [
+    "COM art. 1350, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 1"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-126",
+   "argomento": "soggetti",
+   "sinossi": "I.4.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quale affermazione sul rapporto tra uniforme e servizio è corretta?",
+   "opzioni": {
+    "A": "chi indossa l'uniforme è sempre in servizio",
+    "B": "chi non indossa l'uniforme non è mai in servizio",
+    "C": "uniforme e servizio non coincidono: l'aliquota in uniforme non è in servizio finché non vi entra, e l'uniforme si indossa anche fuori servizio (ad esempio a un matrimonio), facendosi carico di rispettarne le regole",
+    "D": "il militare in libera uscita è sempre in servizio, ai fini disciplinari e penali"
+   },
+   "corretta": "C",
+   "spiegazione": "Uniforme e servizio sono condizioni distinte dell'art. 1350, co. 2, COM: il militare in uniforme non è in servizio finché non vi entra, e chi la indossa fuori servizio (un matrimonio) è comunque tenuto a rispettarne le regole. Il militare in libera uscita in abiti civili non è in servizio; in diritto penale militare si è discusso proprio se la libera uscita sia servizio, ai fini della qualificazione del mancato rientro come diserzione o allontanamento illecito.",
+   "riferimenti": [
+    "COM art. 1350, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "domande poste in aula, 17.10.2026, n. 2"
+   ],
+   "domanda_aula": true,
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-127",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "VII.2.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Nella disciplina di corpo l'azione disciplinare spetta, di norma, al superiore competente a infliggere la sanzione. In quale dei seguenti casi può accadere che chi contesta e chi punisce siano autorità diverse?",
+   "opzioni": {
+    "A": "quando il superiore che ha redatto il rapporto partecipa alla decisione",
+    "B": "quando le contestazioni sono mosse dal comandante interinale e la punizione è inflitta dal comandante titolare, o viceversa",
+    "C": "quando il militare chiede di essere giudicato da un'altra autorità",
+    "D": "mai: chi contesta deve sempre essere chi punisce, a pena di nullità"
+   },
+   "corretta": "B",
+   "spiegazione": "Può accadere che l'azione sia esercitata da un superiore e la potestà sanzionatoria passi a un altro: contestazioni del comandante interinale e punizione del titolare (o viceversa); contestazioni di un comandante e punizione di un altro, perché il militare è stato nel frattempo trasferito, definitivamente o provvisoriamente, ad altro reparto o corpo. Il militare non sceglie la propria autorità; il compilatore del rapporto non partecipa alla decisione, ma ne viene informato (art. 1398, co. 8, COM).",
+   "riferimenti": [
+    "COM art. 1396, co. 5",
+    "COM art. 1398, co. 8"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 237"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-128",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "VII.2.b",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "Nel corso di un procedimento di corpo il militare incolpato viene comandato presso un altro reparto. Chi decide?",
+   "opzioni": {
+    "A": "l'autorità che ha mosso la contestazione, in ogni caso",
+    "B": "la commissione di disciplina del nuovo reparto",
+    "C": "il comandante di corpo del reparto di provenienza, per evitare conflitti",
+    "D": "l'autorità militare competente da cui il militare dipende all'atto della decisione"
+   },
+   "corretta": "D",
+   "spiegazione": "I militari comandati o aggregati presso un reparto, corpo o ente ne dipendono disciplinarmente, e ogni decisione in materia disciplinare è devoluta all'autorità competente dalla quale il militare dipende all'atto della decisione stessa (art. 1396, co. 5, COM). È uno dei casi in cui chi contesta e chi punisce possono non coincidere; se l'autorità procedente si accorge di non essere più competente, rimette gli atti con una sintetica relazione (art. 1398, co. 7).",
+   "riferimenti": [
+    "COM art. 1396, co. 5",
+    "COM art. 1398, co. 7"
+   ],
+   "fonti": [
+    "Sinossi p. 237"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-129",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VII.2.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "L'autorità competente a contestare gli addebiti e a infliggere una sanzione di corpo è la stessa persona lesa dal comportamento del dipendente. Come si procede?",
+   "opzioni": {
+    "A": "l'autorità procede comunque, motivando con maggiore cura",
+    "B": "l'autorità ha l'obbligo di astenersi e il procedimento è trattato dall'autorità immediatamente sovraordinata, cui fa rapporto",
+    "C": "il procedimento si chiude senza sanzione",
+    "D": "decide la commissione di disciplina"
+   },
+   "corretta": "B",
+   "spiegazione": "Quando l'autorità competente coincide con il soggetto leso opera l'obbligo di astensione, corollario del principio di imparzialità (art. 97 Cost.; art. 6-bis L. 241/1990): il procedimento di corpo è demandato all'autorità immediatamente sovraordinata, cui l'autorità astenuta fa rapporto. Per l'Arma la circ. n. 228/2-1-2022 del 12 dicembre 2022 individua, per i procedimenti di corpo, il comandante di corpo o di reparto immediatamente sovraordinato a quello della linea gerarchica del militare.",
+   "riferimenti": [
+    "Cost. art. 97",
+    "L. 241/1990 art. 6-bis",
+    "Comando generale dell'Arma dei Carabinieri – SM – Ufficio Affari Giuridici e Condizione Militare, circ. n. 228/2-1-2022 del 12 dicembre 2022"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Guida tecnica p. 146",
+    "Sinossi pp. 237-239"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-130",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Che cosa deve contenere la comunicazione scritta del provvedimento sanzionatorio (rimprovero, consegna, consegna di rigore)?",
+   "opzioni": {
+    "A": "la sola indicazione della sanzione",
+    "B": "il testo integrale degli atti istruttori e delle giustificazioni",
+    "C": "la sanzione e il parere del comandante di corpo",
+    "D": "il tipo ed eventualmente la durata della sanzione, la motivazione (art. 3, co. 1, L. 241/1990 e art. 1398, co. 6, COM) e l'indicazione del termine e dell'autorità cui è possibile ricorrere"
+   },
+   "corretta": "D",
+   "spiegazione": "La comunicazione scritta indica il tipo e, per la consegna, la durata della sanzione; la motivazione, con i presupposti di fatto e le ragioni giuridiche (art. 3, co. 1, L. 241/1990), che deve configurare esattamente l'infrazione (art. 1398, co. 6, COM); il termine e l'autorità cui ricorrere (art. 3, co. 4, L. 241/1990). Va portata a conoscenza del destinatario nelle forme previste, per dare data certa alla decorrenza dei termini di impugnazione.",
+   "riferimenti": [
+    "L. 241/1990 art. 3, co. 1 e 4",
+    "COM art. 1398, co. 5-6"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)",
+    "Sinossi p. 264"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
+  },
+  {
+   "id": "DD-L02-131",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Chi è, secondo l'art. 10 COM, il massimo organo gerarchico e disciplinare dell'amministrazione militare?",
+   "opzioni": {
+    "A": "il Capo di stato maggiore della difesa",
+    "B": "il Presidente della Repubblica",
+    "C": "il Direttore generale per il personale militare",
+    "D": "il Ministro della difesa"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 10, co. 1, COM qualifica il Ministro della difesa, preposto all'amministrazione militare e civile della difesa, come «massimo organo gerarchico e disciplinare». Per questo la lettura dell'art. 1352, co. 2, COM data dalla Direzione generale per il personale militare (PERSOMIL) nelle istruzioni applicative è, in ultima analisi, quella del Ministro. Il Presidente della Repubblica ha il comando delle Forze armate (art. 87 Cost.), ma non è organo disciplinare.",
+   "riferimenti": [
+    "COM art. 10, co. 1",
+    "COM art. 1352, co. 2"
+   ],
+   "fonti": [
+    "lezione 2 (17.10.2026)"
+   ],
+   "lezione": 2,
+   "data_lezione": "2026-10-17"
   }
  ]
 }
