@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
- "aggiornata": "2026-10-21",
- "totale": 508,
+ "aggiornata": "2026-10-22",
+ "totale": 612,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -130,6 +130,12 @@
    "parte": "V – Le sanzioni disciplinari"
   },
   {
+   "slug": "consegna-di-rigore",
+   "titolo": "La consegna di rigore",
+   "descrizione": "(art. 1362 COM; comportamenti punibili: art. 751 TUROM) (V.2.e)",
+   "parte": "V – Le sanzioni disciplinari"
+  },
+  {
    "slug": "sanzioni-stato",
    "titolo": "Le sanzioni di stato",
    "descrizione": "sospensione disciplinare, cessazione dalla ferma o rafferma, perdita del grado per rimozione (art. 1357 COM) (V.3)",
@@ -146,6 +152,12 @@
    "titolo": "Potestà sanzionatoria",
    "descrizione": "titolarità (art. 1354 COM), autorità competenti di corpo e di stato, deleghe, reparto e corpo ai fini disciplinari (V.4)",
    "parte": "V – Le sanzioni disciplinari"
+  },
+  {
+   "slug": "sospensione-precauzionale",
+   "titolo": "Sospensione precauzionale",
+   "descrizione": "obbligatoria e facoltativa, durata, revoca, restitutio in integrum (VI.3-4)",
+   "parte": "VI – I provvedimenti cautelari"
   },
   {
    "slug": "notizia-accertamenti",
@@ -13185,6 +13197,2614 @@
    ],
    "lezione": 4,
    "data_lezione": "2026-10-21"
+  },
+  {
+   "id": "DD-L05-001",
+   "argomento": "doveri-via-gerarchica",
+   "sinossi": "II.5.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un comandante emana una direttiva che impone, a fine pattuglia, di compilare e firmare l'ordine di servizio e di riportare i chilometri percorsi. Un appuntato non lo fa. Quali norme si contestano?",
+   "opzioni": {
+    "A": "art. 724 TUROM soltanto",
+    "B": "art. 729 TUROM e art. 173 c.p.m.p.",
+    "C": "artt. 715, co. 1, lett. b), e 717 TUROM",
+    "D": "artt. 712 e 713 TUROM"
+   },
+   "corretta": "C",
+   "spiegazione": "La circolare o direttiva è il modo in cui il superiore, anche come ente, dialoga sul piano organizzativo con i dipendenti: chi non la osserva viola i doveri inerenti al rapporto di subordinazione (art. 715, co. 1, lett. b, TUROM) e il senso di responsabilità (art. 717). Il giuramento e il grado sono sproporzionati per un'inosservanza organizzativa; la circolare non è un ordine, quindi non c'è disobbedienza né esecuzione di ordini; l'art. 724 vale solo per le istruzioni vincolanti di tre autorità in tre materie e non ha sanzione propria.",
+   "riferimenti": [
+    "TUROM art. 715, co. 1, lett. b)",
+    "TUROM art. 717"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "approfondimento «La violazione della circolare» (21.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-002",
+   "argomento": "doveri-via-gerarchica",
+   "sinossi": "II.5.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "La violazione di una circolare interna da parte di un militare:",
+   "opzioni": {
+    "A": "è irrilevante, perché la circolare non è fonte del diritto",
+    "B": "non è reato, ma può costituire illecito disciplinare",
+    "C": "integra sempre il reato di disobbedienza",
+    "D": "integra il reato di violata consegna"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare non è un ordine né una consegna: la sua inosservanza non integra la disobbedienza (art. 173 c.p.m.p.) né la violata consegna (art. 120 c.p.m.p.). Non è però irrilevante: l'illecito disciplinare nasce dalla norma del COM o del TUROM (art. 1352 COM) che la circolare attua, contestata «in correlazione» con essa, di regola l'art. 715, co. 1, lett. b), e l'art. 717 TUROM.",
+   "riferimenti": [
+    "COM art. 1352",
+    "TUROM art. 715",
+    "c.p.m.p. art. 173"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-003",
+   "argomento": "doveri-giuramento",
+   "sinossi": "II.3.b",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Quale coppia distingue correttamente la violazione del giuramento dalla violazione dei doveri attinenti al giuramento?",
+   "opzioni": {
+    "A": "la prima è punita con la disciplina di corpo; la seconda solo con la disciplina di stato",
+    "B": "la prima riguarda gli ufficiali; la seconda i sottufficiali e i graduati",
+    "C": "la prima riguarda le mancanze fuori servizio; la seconda quelle in servizio",
+    "D": "la prima riguarda l'infedeltà allo Stato (ad esempio rivelazione di segreti, alto tradimento); la seconda la lealtà, la correttezza e la buona fede"
+   },
+   "corretta": "D",
+   "spiegazione": "Violare il giuramento significa venir meno alla fedeltà alla Repubblica e all'osservanza della Costituzione e delle leggi (rivelazione di segreti, alto tradimento, reati gravi). Violare i doveri attinenti al giuramento (art. 712 TUROM) significa non osservare i doveri di lealtà, correttezza e buona fede nell'assolvimento dei compiti. Le due aree si sovrappongono in parte; la distinzione non dipende dal servizio, dalla categoria né dal tipo di disciplina.",
+   "riferimenti": [
+    "TUROM art. 712"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 40"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-004",
+   "argomento": "doveri-giuramento",
+   "sinossi": "II.3.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Nel contestare a un carabiniere l'inosservanza di una circolare organizzativa, il comandante richiama anche l'art. 712 TUROM, sostenendo che la disciplina, come partecipazione consapevole, è compresa nel giuramento. La scelta:",
+   "opzioni": {
+    "A": "è obbligatoria, perché ogni violazione disciplinare viola anche il giuramento",
+    "B": "è sconsigliabile: il richiamo al giuramento è sproporzionato e va riservato ai fatti gravi, come i reati gravi o le gravi mancanze",
+    "C": "è corretta solo se il militare è il più basso in grado del reparto",
+    "D": "è vietata, perché l'art. 712 si contesta solo nella disciplina di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "In astratto, nella contestazione si possono indicare tutte le norme che si ritengono violate; ma nel provvedimento il richiamo ai doveri attinenti al giuramento per una semplice circolare appare eccessivo: il giuramento si contesta per i fatti gravi. Per la circolare bastano l'art. 715, co. 1, lett. b), e l'art. 717 TUROM. L'art. 712 non è riservato alla disciplina di corpo (anzi, è tipico di quella di stato) e il grado del militare non c'entra.",
+   "riferimenti": [
+    "TUROM art. 712",
+    "TUROM art. 715",
+    "TUROM art. 717"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-005",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.h",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 724 TUROM, i doveri ulteriori sono individuati con istruzioni vincolanti di quali autorità?",
+   "opzioni": {
+    "A": "qualsiasi comandante di corpo, per il proprio reparto",
+    "B": "Ministro della difesa, Capo di stato maggiore della difesa, comandanti di corpo",
+    "C": "Capo di stato maggiore della difesa, Capi di stato maggiore di Forza armata, Comandante generale dell'Arma dei carabinieri",
+    "D": "Segretario generale della difesa, Direttore generale per il personale militare, Comandante generale dell'Arma"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 724, co. 1, TUROM attribuisce il potere di individuare doveri ulteriori, con istruzioni vincolanti, a tre sole autorità: il Capo di stato maggiore della difesa, i Capi di stato maggiore di ciascuna Forza armata e il Comandante generale dell'Arma. Le istruzioni sono pubblicate nel Bollettino ufficiale del Ministero della difesa (co. 2) e la loro violazione è illecito disciplinare ai sensi dell'art. 1352 COM (co. 3).",
+   "riferimenti": [
+    "TUROM art. 724, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 104"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-006",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.h",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "In quali materie possono essere individuati doveri ulteriori ai sensi dell'art. 724 TUROM?",
+   "opzioni": {
+    "A": "orario di servizio; licenze; trasferimenti",
+    "B": "qualsiasi materia attinente al servizio e alla disciplina",
+    "C": "uso dei social network; attività politica; rapporti con la stampa",
+    "D": "servizi territoriali e di presidio; disciplina delle uniformi; norme per la vita e il servizio interno delle installazioni militari"
+   },
+   "corretta": "D",
+   "spiegazione": "Le materie sono tassative: servizi territoriali e di presidio (bandiere, insegne, onori, cerimonie, riviste, visite ufficiali: co. 2), disciplina delle uniformi, norme per la vita e il servizio interno delle installazioni militari (ad esempio le norme interne della Scuola Ufficiali). Per le altre materie le circolari restano atti organizzativi da agganciare ai doveri del COM e del TUROM.",
+   "riferimenti": [
+    "TUROM art. 724, co. 1 e 2"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 104"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-007",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.h",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un militare viola la pubblicazione sulle uniformi. Quale impostazione della contestazione è corretta?",
+   "opzioni": {
+    "A": "si contesta l'art. 729 TUROM, perché la pubblicazione equivale a un ordine",
+    "B": "si contesta la norma del regolamento cui la pubblicazione si aggancia, l'art. 720 TUROM (uniforme), perché l'art. 724 è norma di principio senza sanzione propria",
+    "C": "si contesta soltanto l'art. 724 TUROM, che punisce direttamente la violazione delle istruzioni",
+    "D": "non si contesta nulla, perché le pubblicazioni non sono pubblicate in Gazzetta Ufficiale"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 724 TUROM qualifica come illecito la violazione delle istruzioni vincolanti (co. 3), ma è una norma di principio: i doveri ulteriori vanno sempre agganciati a una norma del COM o del TUROM. Per le uniformi la norma è l'art. 720 TUROM. La pubblicazione non è un ordine, e la sua efficacia non dipende dalla Gazzetta Ufficiale ma dalla pubblicazione nel Bollettino ufficiale e dalla diffusione nei reparti.",
+   "riferimenti": [
+    "TUROM art. 724",
+    "TUROM art. 720",
+    "COM art. 1352"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-008",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.9.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Come definisce la consegna l'art. 730, co. 1, TUROM?",
+   "opzioni": {
+    "A": "le sole prescrizioni scritte impartite dal comandante di corpo per i servizi armati",
+    "B": "le prescrizioni generali o particolari, permanenti o temporanee, scritte o verbali impartite per l'adempimento di un particolare servizio",
+    "C": "l'ordine di servizio giornaliero della stazione",
+    "D": "le istruzioni vincolanti del Comandante generale sui servizi di presidio"
+   },
+   "corretta": "B",
+   "spiegazione": "La consegna è definita dall'art. 730, co. 1, TUROM in modo ampio: prescrizioni generali o particolari, permanenti o temporanee, scritte o verbali, per un particolare servizio. Il militare comandato deve conoscerla perfettamente, osservarla scrupolosamente e farla osservare (co. 2). Non è solo scritta: esiste anche la consegna implicita. Le istruzioni vincolanti dell'art. 724 sono un'altra cosa.",
+   "riferimenti": [
+    "TUROM art. 730, co. 1 e 2"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 104"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-009",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.9.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un militare incaricato di controllare la riservetta munizioni la ispeziona, ma al termine lascia la porta aperta, difendendosi con il fatto che nessuno gli aveva prescritto di richiuderla. Come si valuta?",
+   "opzioni": {
+    "A": "non ha violato nulla, perché la consegna è solo ciò che è scritto",
+    "B": "ha violato soltanto il dovere di formazione militare",
+    "C": "risponde solo se la consegna era stata denominata «consegna» e non «disposizione operativa»",
+    "D": "ha violato la consegna: esiste anche la consegna implicita, che comprende i comportamenti ovvi necessari al servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "Non tutto ciò che è consegna è scritto: esiste la consegna implicita, che comprende le condotte ovvie necessarie al servizio (aprire, accendere la luce, verificare, richiudere). Conta il contenuto delle prescrizioni, non il nome dato all'atto: chiamarla «disposizione operativa» non cambia la natura di consegna. La consegna può essere anche verbale (art. 730, co. 1, TUROM).",
+   "riferimenti": [
+    "TUROM art. 730"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-010",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché l'art. 729 TUROM (esecuzione di ordini) non è la norma da contestare per l'inosservanza di una circolare?",
+   "opzioni": {
+    "A": "perché l'art. 729 riguarda soltanto i servizi armati",
+    "B": "perché l'art. 729 è stato abrogato",
+    "C": "perché l'art. 729 si applica solo agli ordini del Ministro della difesa",
+    "D": "perché la circolare non è un ordine né una disposizione di servizio, ma un atto organizzativo"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 729, co. 1, TUROM impone di eseguire gli ordini con prontezza, senso di responsabilità ed esattezza, osservando le consegne e le disposizioni di servizio; ma la circolare è un atto organizzativo di carattere generale, più vicino alla direttiva. Se però alla circolare segue un ordine specifico del superiore, si torna all'obbedienza e all'art. 729.",
+   "riferimenti": [
+    "TUROM art. 729, co. 1"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-011",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Quando si contesta, di regola, l'art. 717 TUROM (senso di responsabilità)?",
+   "opzioni": {
+    "A": "solo per i fatti commessi in servizio armato",
+    "B": "solo quando il fatto costituisce reato",
+    "C": "solo per gli ufficiali investiti di comando",
+    "D": "praticamente in ogni violazione disciplinare, e soprattutto quando il lavoro è svolto con superficialità, negligenza o sciatteria"
+   },
+   "corretta": "D",
+   "spiegazione": "Il senso di responsabilità è la convinzione della necessità di adempiere integralmente ai doveri della condizione di militare per i fini istituzionali (art. 717 TUROM). Ogni infrazione ne rivela una carenza; il dovere rende rilevanti anche le violazioni colpose (diligenza, prudenza, perizia) ed è tipico del lavoro sciatto o poco professionale.",
+   "riferimenti": [
+    "TUROM art. 717"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 100"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-012",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "A chi obietta che l'art. 717 TUROM non si applica alla violazione di una circolare perché riguarda «la realizzazione dei fini istituzionali delle Forze armate», si risponde che:",
+   "opzioni": {
+    "A": "l'art. 717 si applica solo alle circolari del Capo di stato maggiore della difesa",
+    "B": "ogni dovere del militare in servizio è funzionale alla realizzazione dei fini istituzionali",
+    "C": "l'obiezione è fondata, e infatti si contesta solo l'art. 715",
+    "D": "l'art. 717 riguarda solo i compiti operativi esterni"
+   },
+   "corretta": "B",
+   "spiegazione": "La clausola dei «fini istituzionali» non restringe l'art. 717: tutto ciò che il militare fa in servizio, anche un adempimento amministrativo prescritto da una circolare, serve ai fini istituzionali. Per questo la contestazione corretta abbina all'art. 715, co. 1, lett. b), anche l'art. 717.",
+   "riferimenti": [
+    "TUROM art. 717",
+    "TUROM art. 715"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-013",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.c",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 718, co. 1, TUROM, il militare ha il dovere di:",
+   "opzioni": {
+    "A": "conservare le proprie conoscenze, mentre il miglioramento è facoltativo",
+    "B": "conservare e migliorare le proprie conoscenze e le capacità psicofisiche",
+    "C": "frequentare almeno un corso di aggiornamento all'anno",
+    "D": "conseguire una specializzazione entro cinque anni dall'arruolamento"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 718 TUROM (formazione militare) impone di conservare e migliorare conoscenze e capacità psicofisiche, sottoponendosi agli accertamenti sanitari previsti, per disimpegnare con competenza ed efficacia l'incarico e fare appropriato uso delle armi e dei mezzi. Il miglioramento è un dovere, non una facoltà; la norma non fissa corsi o specializzazioni obbligatorie.",
+   "riferimenti": [
+    "TUROM art. 718, co. 1"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 100"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-014",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Le «due facce» dell'art. 718 TUROM sono:",
+   "opzioni": {
+    "A": "la cultura professionale e generale e le capacità psicofisiche",
+    "B": "l'addestramento al tiro e la preparazione atletica",
+    "C": "la formazione degli ufficiali e quella dei sottufficiali",
+    "D": "la formazione iniziale e quella permanente"
+   },
+   "corretta": "A",
+   "spiegazione": "Pur rubricato «Formazione militare», l'art. 718 riguarda sia le conoscenze (cultura professionale e generale) sia le capacità psicofisiche: per questo è la norma di riferimento per gli stupefacenti, l'abuso di alcol, le sostanze dopanti e, insieme all'art. 720, per i tatuaggi.",
+   "riferimenti": [
+    "TUROM art. 718"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-015",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 718, co. 2, TUROM, il militare deve tendere al miglioramento delle sue prestazioni attraverso:",
+   "opzioni": {
+    "A": "lo studio delle circolari pubblicate sul portale istituzionale",
+    "B": "la pratica di attività culturali e sportive, ponendo interesse alle vicende presenti e passate del corpo cui appartiene",
+    "C": "la frequenza di master universitari",
+    "D": "la partecipazione alle istruzioni settimanali, unica attività obbligatoria"
+   },
+   "corretta": "B",
+   "spiegazione": "Il co. 2 indica le attività culturali e sportive (lett. a: formazione culturale e fisica) e l'interesse per le vicende presenti e passate del corpo (lett. b: formazione morale). Master, portale e istruzioni sono strumenti utili, ma non sono indicati dalla norma.",
+   "riferimenti": [
+    "TUROM art. 718, co. 2"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 100"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-016",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché il dovere di formazione dell'art. 718 TUROM si definisce «biunivoco»?",
+   "opzioni": {
+    "A": "perché grava sia sui militari in servizio sia su quelli in congedo",
+    "B": "perché è sanzionato sia con la disciplina di corpo sia con quella di stato",
+    "C": "perché l'Amministrazione deve porre in atto ogni possibile misura per agevolare il miglioramento della formazione (co. 3), e il superiore deve provvedere all'istruzione del personale (art. 725)",
+    "D": "perché si applica sia in servizio sia fuori servizio"
+   },
+   "corretta": "C",
+   "spiegazione": "Al dovere del militare corrisponde quello dell'Amministrazione, che pone in atto ogni possibile misura per agevolare il miglioramento della formazione (art. 718, co. 3) e, attraverso i superiori, provvede all'istruzione militare e all'elevamento culturale e professionale (art. 725, co. 2, lett. d). Per questo il dovere è pienamente esigibile soprattutto nella fase formativa.",
+   "riferimenti": [
+    "TUROM art. 718, co. 3",
+    "TUROM art. 725, co. 2, lett. d)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi pp. 100-101"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-017",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.c",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un militare inviato d'ufficio a un corso di specializzazione poco gradito viene bocciato, unico tra i frequentatori. Qual è l'impostazione corretta del comandante?",
+   "opzioni": {
+    "A": "denunciarlo per disobbedienza, perché il corso era stato ordinato",
+    "B": "punire immediatamente il militare con la consegna di rigore",
+    "C": "acquisire dall'ente che ha svolto il corso la media dei promossi e valutare se vi sia un profilo disciplinare (art. 718), tenendo comunque conto dell'esito nella valutazione caratteristica",
+    "D": "archiviare, perché la bocciatura non ha mai rilievo disciplinare"
+   },
+   "corretta": "C",
+   "spiegazione": "La bocciatura può essere colposa (il corso era difficile) o voluta. Se il militare è l'unico bocciato, il dato va approfondito: valutarlo non significa punirlo, ma può emergere un profilo disciplinare per violazione del dovere di migliorare le proprie conoscenze (art. 718 TUROM). L'esito incide comunque sulla valutazione caratteristica. Non c'è disobbedienza: il militare ha frequentato il corso.",
+   "riferimenti": [
+    "TUROM art. 718"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-018",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un pubblico ministero segnala al comando che un'informativa di reato redatta da un sottufficiale contiene errori palesi e gravi. Quale dovere viene in rilievo?",
+   "opzioni": {
+    "A": "il dovere di riserbo (art. 722 TUROM)",
+    "B": "il dovere di obbedienza (art. 729 TUROM)",
+    "C": "nessuno, perché la valutazione degli atti di polizia giudiziaria spetta solo al magistrato",
+    "D": "il dovere di conservare e migliorare le proprie conoscenze (art. 718 TUROM), oltre al senso di responsabilità"
+   },
+   "corretta": "D",
+   "spiegazione": "Gli errori palesi e gravi in un atto professionale rivelano lacune che il militare aveva il dovere di colmare: l'art. 718 impone di conservare e anche di migliorare le conoscenze per disimpegnare con competenza l'incarico. Si aggiunge, di regola, l'art. 717. L'esistenza di una valutazione del magistrato non esclude quella disciplinare.",
+   "riferimenti": [
+    "TUROM art. 718",
+    "TUROM art. 717"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-019",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "III.5.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale comportamento è punibile con la consegna di rigore ai sensi dell'art. 751, co. 1, lett. a), n. 40, TUROM?",
+   "opzioni": {
+    "A": "i comportamenti volontariamente rivolti a menomare la propria efficienza fisica, tali da escludere o condizionare un servizio, o violativi dell'obbligo di sottoporsi agli accertamenti sanitari dell'art. 718",
+    "B": "l'insufficienza riportata in un corso di aggiornamento",
+    "C": "la mancata frequenza delle istruzioni settimanali",
+    "D": "l'uso smodato di bevande alcoliche fuori servizio"
+   },
+   "corretta": "A",
+   "spiegazione": "Il n. 40 dell'art. 751 TUROM collega l'art. 718 alla consegna di rigore: la menomazione volontaria dell'efficienza fisica e la violazione dell'obbligo di sottoporsi agli accertamenti sanitari. È la norma richiamata dall'Allegato E della circ. 52/2-2018 per il rifiuto dell'accertamento tossicologico. L'uso smodato di alcol, invece, non è nell'elenco dell'art. 751.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 40",
+    "TUROM art. 718"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 101"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-020",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.c",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Perché il militare deve conservare le proprie capacità psicofisiche?",
+   "opzioni": {
+    "A": "perché è entrato in servizio idoneo e non deve diventare inidoneo per causa propria, dovendo disimpegnare l'incarico e usare armi e mezzi con competenza ed efficacia",
+    "B": "solo per conservare il diritto alle indennità operative",
+    "C": "solo per superare le prove fisiche annuali",
+    "D": "perché altrimenti perde automaticamente il grado"
+   },
+   "corretta": "A",
+   "spiegazione": "La salute cambia con il lavoro, ma il militare non deve diventare inidoneo per mano propria: l'art. 718 TUROM collega il dovere allo scopo di disimpegnare con competenza ed efficacia l'incarico e di fare appropriato uso delle armi e dei mezzi. L'idoneità psicofisica è la prima garanzia di sicurezza per il personale e per la collettività (circ. 52/2-2018, par. 1).",
+   "riferimenti": [
+    "TUROM art. 718",
+    "circ. 52/2-2018, par. 1"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-021",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale dei seguenti NON è un dovere del superiore elencato dall'art. 725, co. 2, TUROM?",
+   "opzioni": {
+    "A": "curare le condizioni di vita e di benessere del personale",
+    "B": "approfondire la conoscenza dei dipendenti",
+    "C": "rispettare la riservatezza dei dipendenti astenendosi dal chiedere notizie sulle loro condizioni di salute",
+    "D": "assicurare il rispetto delle norme di sicurezza e di prevenzione per salvaguardare l'integrità fisica dei dipendenti"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 725, co. 2, TUROM impone al superiore di approfondire la conoscenza dei dipendenti (lett. c), curarne le condizioni di vita e di benessere (lett. e) e assicurare le norme di sicurezza per la loro integrità fisica (lett. f). Non c'è una regola di astensione per riservatezza: se un militare zoppica, il comandante deve sapere perché, perché ne dipende l'impiego in sicurezza.",
+   "riferimenti": [
+    "TUROM art. 725, co. 2, lett. c), e), f)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-022",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Secondo l'Allegato B della circ. 52/2-2018, il comandante di reparto che, dopo il colloquio, decide di inviare d'ufficio all'infermeria un militare in stato di sofferenza comportamentale:",
+   "opzioni": {
+    "A": "chiede l'autorizzazione al comandante di corpo e al direttore di sanità",
+    "B": "acquisisce il parere di concordanza del proprio superiore diretto, ritira subito l'arma d'ordinanza e cautelarmente le armi private, e fa accompagnare il militare",
+    "C": "lo invia da solo, per rispetto della riservatezza, e ritira le armi solo dopo la diagnosi",
+    "D": "lo sottopone prima a un procedimento disciplinare di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "La procedura dell'Allegato B: colloquio obbligatorio; invio d'ufficio previo parere di concordanza del superiore gerarchico diretto del comandante di reparto (se contrario, nessun invio); l'avvio comporta il ritiro immediato dell'arma d'ordinanza e il ritiro cautelare delle armi private (art. 39 TULPS), anche prima della presentazione; il militare è sempre accompagnato da un militare più alto in grado o più anziano, o da uno scelto da lui. La relazione deve precedere la presentazione.",
+   "riferimenti": [
+    "circ. 52/2-2018, all. B, par. 3",
+    "TUROM art. 725"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 52/2-2018, all. B"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-023",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.7.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Un militare in stato di grave alterazione psichica minaccia di ferire sé stesso e i colleghi. Cosa impone l'art. 728 TUROM ai militari presenti?",
+   "opzioni": {
+    "A": "allontanarsi e informare per iscritto il comandante di corpo",
+    "B": "sotto la guida del più anziano, adoperarsi per prevenire o contenere il danno e richiedere l'immediato intervento sanitario militare o civile",
+    "C": "procedere all'arresto in flagranza e attendere il pubblico ministero",
+    "D": "attendere l'arrivo dell'ufficiale medico senza intervenire"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 728 TUROM regola il comportamento verso il militare in stato di grave alterazione fisica o psichica che crea pericolo per persone o cose: i presenti, guidati dal più anziano, devono prevenire o contenere il danno e chiedere subito l'intervento sanitario. La circ. 52/2-2018 (all. B) rinvia a questa norma quando c'è un pericolo attuale per l'incolumità.",
+   "riferimenti": [
+    "TUROM art. 728"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 97"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-024",
+   "argomento": "doveri-superiori",
+   "sinossi": "II.5.e",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un ufficiale nota ripetutamente pattuglie del proprio reparto in servizio senza giubbotto antiproiettile e non interviene. Un militare viene ferito in un conflitto a fuoco. Quale profilo emerge?",
+   "opzioni": {
+    "A": "solo una responsabilità dell'Amministrazione per difetto di dotazioni",
+    "B": "nessuno, perché l'uso del giubbotto è rimesso al singolo militare",
+    "C": "la responsabilità del superiore, tenuto ad assicurare il rispetto delle norme di sicurezza per l'integrità fisica dei dipendenti, come datore di lavoro o preposto",
+    "D": "solo la responsabilità del militare ferito per violazione della consegna"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 725, co. 2, lett. f), TUROM impone al superiore di assicurare il rispetto delle norme di sicurezza e di prevenzione per salvaguardare l'integrità fisica dei dipendenti: chi sa e non interviene ne risponde, come datore di lavoro o preposto. La violazione del militare non esclude quella del superiore.",
+   "riferimenti": [
+    "TUROM art. 725, co. 2, lett. f)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-025",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Un frequentatore di un corso di formazione risulta positivo agli accertamenti per un uso saltuario di cannabinoidi. Secondo l'art. 599 TUROM:",
+   "opzioni": {
+    "A": "riceve una sanzione di corpo e prosegue il corso",
+    "B": "è espulso solo se l'uso è abituale",
+    "C": "è espulso dal corso, perché l'esito positivo per l'uso anche saltuario od occasionale di stupefacenti è causa di espulsione",
+    "D": "è rinviato al corso successivo"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 599, co. 1, lett. d), TUROM prevede l'espulsione dai corsi per l'esito positivo agli accertamenti diagnostici per l'abuso di alcol, per l'uso, anche saltuario od occasionale, di stupefacenti e per l'uso di psicotropi a scopo non terapeutico. Per i frequentatori la norma stessa equipara l'uso occasionale a quello abituale.",
+   "riferimenti": [
+    "TUROM art. 599, co. 1, lett. d)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-026",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "Chi adotta il provvedimento di espulsione dai corsi di formazione previsto dall'art. 599 TUROM?",
+   "opzioni": {
+    "A": "il direttore della Direzione generale per il personale militare, su proposta del comandante dell'istituto di formazione",
+    "B": "il Comandante generale dell'Arma, su proposta del comandante di corpo",
+    "C": "il Ministro della difesa",
+    "D": "il comandante dell'istituto di formazione"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 599, co. 2, TUROM: l'espulsione è adottata dal direttore della Direzione generale per il personale militare, su proposta del comandante dell'istituto. Il comandante dell'istituto propone, non decide.",
+   "riferimenti": [
+    "TUROM art. 599, co. 2"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-027",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Che cosa dispone l'art. 1356 COM per i militari tossicodipendenti, alcoldipendenti o che assumono sostanze dopanti?",
+   "opzioni": {
+    "A": "si applicano le tutele previste per i dipendenti civili che intraprendono un programma di recupero",
+    "B": "si applica la sola disciplina di corpo, salvo reato",
+    "C": "sono collocati d'ufficio in aspettativa per infermità",
+    "D": "si applicano, in deroga alle leggi su stupefacenti, alcol e doping, le disposizioni di stato in materia di idoneità, sospensione dal servizio e disciplina"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1356 COM deroga al D.P.R. 309/1990, alla L. 125/2001 (alcol) e alla L. 376/2000 (doping): per i militari valgono le norme di stato su idoneità, sospensione e disciplina. Ne deriva che l'uso di sostanze che alterano l'equilibrio psichico ha di per sé rilievo disciplinare.",
+   "riferimenti": [
+    "COM art. 1356"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 61"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-028",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "In quali fasi della carriera l'uso di sostanze stupefacenti assume rilievo per un carabiniere?",
+   "opzioni": {
+    "A": "solo dopo l'immissione in servizio permanente",
+    "B": "solo nei corsi di formazione",
+    "C": "solo se commesso in servizio",
+    "D": "già nel reclutamento, poi durante i corsi di formazione e per tutto il servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "La materia ha valenza già pre-arruolamento (bandi e accertamenti di reclutamento), poi durante l'istruzione (espulsione dai corsi, art. 599 TUROM) e infine in servizio, quando subentrano l'art. 718 TUROM, l'art. 732, co. 6, lett. c), e le linee guida del Comando Generale.",
+   "riferimenti": [
+    "TUROM art. 599",
+    "TUROM art. 718",
+    "TUROM art. 732, co. 6"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-029",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Per il personale dell'Arma, l'art. 732, co. 6, lett. c), TUROM qualifica come grave mancanza disciplinare:",
+   "opzioni": {
+    "A": "fare uso abituale di sostanze alcooliche o di sostanze stupefacenti",
+    "B": "fare uso di sostanze stupefacenti, purché accertato con esami di laboratorio",
+    "C": "fare uso smodato di sostanze alcooliche o, comunque, di sostanze stupefacenti",
+    "D": "fare uso di sostanze alcooliche in servizio o di sostanze stupefacenti"
+   },
+   "corretta": "C",
+   "spiegazione": "La lettera c) distingue: per l'alcol rileva l'uso «smodato», cioè oltre il modus, oltre la misura; per gli stupefacenti l'avverbio «comunque» rende rilevante qualsiasi uso, anche occasionale. La norma non richiede l'abitualità né il servizio, e non subordina la rilevanza a un accertamento di laboratorio.",
+   "riferimenti": [
+    "TUROM art. 732, co. 6, lett. c)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 61"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-030",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere rientra in caserma la sera barcollante, con alito vinoso, riso incontrollato e linguaggio sconnesso. Il militare al corpo di guardia redige una relazione di servizio. Per contestare l'abuso di alcol:",
+   "opzioni": {
+    "A": "la relazione di servizio basta: l'ubriachezza manifesta si accerta con parametri di uso comune, senza etilometro né esami",
+    "B": "occorre necessariamente la misurazione con l'etilometro",
+    "C": "occorre il referto di un medico militare",
+    "D": "occorre un esame del sangue entro due ore"
+   },
+   "corretta": "A",
+   "spiegazione": "Per l'ubriachezza «manifesta» non servono perizie né esami chimici: si accerta con parametri comuni (andatura barcollante, alito alcolico, pronuncia incerta, atteggiamenti scomposti), come ricorda la circ. 276/148-78-2009 richiamando la giurisprudenza sull'art. 688 c.p. La visita in infermeria serve comunque, ma per la salute del militare, non come prova necessaria.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»",
+    "c.p. art. 688"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-031",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "L'ufficiale di picchetto vede rientrare in caserma un collega visibilmente ubriaco. Qual è la condotta corretta?",
+   "opzioni": {
+    "A": "chiamare una pattuglia per l'accertamento con l'etilometro e poi lasciarlo andare",
+    "B": "attendere il mattino per non creare clamore",
+    "C": "avvisare l'ufficiale di servizio, mettere in sicurezza il militare togliendogli la pistola e inviarlo d'ufficio in infermeria (in ospedale se le condizioni sono gravi)",
+    "D": "redigere subito il rapporto disciplinare e lasciare che il militare raggiunga l'alloggio"
+   },
+   "corretta": "C",
+   "spiegazione": "Prima la salute, poi tutto il resto: il militare va messo in sicurezza, privato dell'arma e inviato d'ufficio in infermeria (o in ospedale, per il rischio di coma etilico). L'episodio può essere occasionale o nascondere un problema: la visita serve anche a capirlo. Gli adempimenti disciplinari vengono dopo.",
+   "riferimenti": [
+    "TUROM art. 725",
+    "TUROM art. 728"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-032",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo le linee guida del Comando Generale (circ. 276/148-78-2009), l'uso smodato di alcol fuori servizio si sanziona di regola:",
+   "opzioni": {
+    "A": "nella disciplina di corpo, ma non con l'immediato ricorso alla consegna di rigore, che si riserva ai fatti di eccezionale gravità o recidivi",
+    "B": "sempre nella disciplina di stato, con la sospensione disciplinare, perché l'art. 732, co. 6, la qualifica grave mancanza",
+    "C": "con il richiamo o il rimprovero, trattandosi di condotta fuori servizio che non incide direttamente sul servizio",
+    "D": "sempre con la consegna di rigore, perché la grave mancanza dell'art. 732, co. 6, rientra tra i comportamenti elencati dall'art. 751, co. 1, TUROM"
+   },
+   "corretta": "A",
+   "spiegazione": "La condotta si inquadra nell'art. 732, co. 6, lett. c), TUROM ed è sanzionata nell'ambito della disciplina di corpo (con riferimento alla consegna, art. 1361, co. 1, lett. c, COM), non immediatamente con la consegna di rigore, perché non è tra i comportamenti dell'art. 751, co. 1, TUROM: la consegna di rigore si applica, ai sensi dell'art. 751, co. 2, per eccezionale gravità o recidività (art. 1355 COM). Nella prassi, nei casi ancora più gravi, si giunge alla sospensione disciplinare.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»",
+    "TUROM art. 751, co. 2",
+    "COM art. 1361, co. 1, lett. c)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-033",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un appuntato viene sorpreso per la terza volta in stato di ubriachezza manifesta fuori servizio, dopo due consegne. Quale sviluppo è coerente con le linee guida e con la prassi descritta?",
+   "opzioni": {
+    "A": "archiviare, perché l'art. 688 c.p. è un illecito amministrativo",
+    "B": "valutare la disciplina di stato (sospensione disciplinare), perché i fatti vanno oltre l'eccezionale gravità o la recidività che giustificano la consegna di rigore",
+    "C": "applicare il richiamo, perché il fatto è fuori servizio",
+    "D": "applicare di nuovo la consegna semplice, perché l'ubriachezza fuori servizio è sempre di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Le linee guida collocano l'abuso di alcol nella disciplina di corpo, con la consegna di rigore per eccezionale gravità o recidività; oltre questa soglia, ad esempio con due o tre recidive, nella prassi si giunge alla sospensione disciplinare dall'impiego, sanzione di stato (le linee guida, per l'ubriachezza manifesta, si fermano alla consegna di rigore). Il carattere amministrativo dell'illecito comune non esclude la rilevanza disciplinare.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019",
+    "COM art. 1355, co. 3, lett. d)",
+    "COM art. 1357"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-034",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 186 del Codice della strada, la guida in stato di ebbrezza è reato quando il tasso alcolemico accertato è:",
+   "opzioni": {
+    "A": "superiore a 0,5 grammi per litro",
+    "B": "superiore a 0,8 grammi per litro",
+    "C": "superiore a 1,5 grammi per litro",
+    "D": "superiore a 0,2 grammi per litro"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 186, co. 2, C.d.S.: oltre 0,5 e fino a 0,8 g/l è illecito amministrativo (lett. a); oltre 0,8 e fino a 1,5 g/l è reato con ammenda e arresto fino a sei mesi (lett. b); oltre 1,5 g/l pene più gravi (lett. c). La soglia di 1,5 non segna l'inizio del reato ma l'ipotesi più grave.",
+   "riferimenti": [
+    "C.d.S. art. 186, co. 2"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-035",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un carabiniere libero dal servizio viene controllato alla guida con un tasso di 0,6 g/l e riceve la contestazione amministrativa. Secondo le linee guida del Comando Generale, sul piano disciplinare:",
+   "opzioni": {
+    "A": "si procede per i doveri attinenti al grado (art. 713 TUROM) qualora la condotta abbia condizionato l'esercizio delle funzioni o leso il prestigio dell'Istituzione",
+    "B": "si procede sempre con la consegna di rigore",
+    "C": "non vi è alcun rilievo disciplinare, trattandosi di illecito amministrativo",
+    "D": "si procede sempre nella disciplina di stato"
+   },
+   "corretta": "A",
+   "spiegazione": "Per la violazione amministrativa (0,5-0,8 g/l) a militare non in servizio, la circ. 276/148-78-2009 indica l'art. 713 TUROM, se la condotta ha condizionato le funzioni o leso il prestigio. Per il reato (oltre 0,8 g/l), dopo le valutazioni dell'art. 1393 COM: consegna di rigore nei casi meno gravi, stato per eccezionale gravità o recidività.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»",
+    "TUROM art. 713",
+    "C.d.S. art. 186, co. 2, lett. a)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-036",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un carabiniere fermato alla guida rifiuta di sottoporsi all'accertamento del tasso alcolemico. Quale affermazione è corretta?",
+   "opzioni": {
+    "A": "il rifiuto è lecito se il militare è libero dal servizio",
+    "B": "il rifiuto integra automaticamente l'ubriachezza in servizio",
+    "C": "il rifiuto è un semplice illecito amministrativo, irrilevante sul piano disciplinare",
+    "D": "il rifiuto è reato, punito con le pene dell'art. 186, co. 2, lett. c), C.d.S., e la posizione disciplinare si esamina secondo l'art. 1393 COM e i criteri dell'art. 1355"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 186, co. 7, C.d.S.: il rifiuto dell'accertamento è punito con le pene della lett. c) del co. 2 (l'ipotesi più grave). La circ. 276/148-78-2009 ricorda che si tratta di reato istantaneo, che si perfeziona con il rifiuto anche senza accertare l'ebbrezza, e che va esaminato secondo l'art. 1393 COM alla luce dei parametri dell'art. 1355 COM. L'ubriachezza in servizio è altra fattispecie.",
+   "riferimenti": [
+    "C.d.S. art. 186, co. 7",
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»",
+    "COM art. 1393"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-037",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "In base a quale norma l'Arma dei carabinieri espleta servizi di polizia stradale?",
+   "opzioni": {
+    "A": "art. 186 del Codice della strada",
+    "B": "art. 1356 del Codice dell'ordinamento militare",
+    "C": "art. 12, co. 1, lett. c), del Codice della strada",
+    "D": "art. 11, co. 3, del Codice della strada"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 11 C.d.S. elenca i servizi di polizia stradale (prevenzione e accertamento delle violazioni, rilevazione degli incidenti…), l'art. 12, co. 1, individua chi li espleta: in via principale la Polizia Stradale, poi la Polizia di Stato, l'Arma dei carabinieri (lett. c), la Guardia di Finanza e gli altri organi. Proprio perché sanziona la guida in ebbrezza, dal carabiniere ci si aspetta un comportamento irreprensibile.",
+   "riferimenti": [
+    "C.d.S. art. 12, co. 1, lett. c)",
+    "C.d.S. art. 11"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-038",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.7.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 139 c.p.m.p. punisce il militare colto in stato di ubriachezza tale da escludere o menomare la capacità di prestare servizio:",
+   "opzioni": {
+    "A": "in servizio, ovvero dopo essere stato comandato per il servizio",
+    "B": "solo se è comandante di reparto o capo di posto",
+    "C": "soltanto durante lo svolgimento effettivo del servizio",
+    "D": "in qualsiasi momento, anche in licenza"
+   },
+   "corretta": "A",
+   "spiegazione": "Il reato di ubriachezza in servizio (art. 139, co. 1, c.p.m.p.) ricorre anche dopo che il militare è stato comandato per il servizio: chi deve montare a mezzanotte e rientra ubriaco alle 22 lo commette. La qualità di comandante, preposto o capo di posto è un'aggravante (co. 2), non un presupposto.",
+   "riferimenti": [
+    "c.p.m.p. art. 139, co. 1 e 2"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi p. 97"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-039",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.7.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale pena prevede l'art. 139 c.p.m.p. per l'ubriachezza in servizio commessa dal comandante del reparto, da un militare preposto al servizio o dal capo di posto?",
+   "opzioni": {
+    "A": "reclusione militare fino a due anni",
+    "B": "reclusione militare fino a sei mesi",
+    "C": "reclusione militare da uno a tre anni",
+    "D": "reclusione militare fino a un anno"
+   },
+   "corretta": "D",
+   "spiegazione": "Ipotesi base: reclusione militare fino a sei mesi (co. 1); se il fatto è commesso dal comandante del reparto, dal preposto o dal capo di posto: fino a un anno (co. 2). La differenza conta per la procedibilità: solo l'ipotesi base, con pena non superiore a sei mesi, è procedibile a richiesta del comandante di corpo (art. 260 c.p.m.p.).",
+   "riferimenti": [
+    "c.p.m.p. art. 139, co. 2",
+    "c.p.m.p. art. 260"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-040",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.7.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 139, co. 3, c.p.m.p. estende le pene dell'ubriachezza in servizio al caso in cui la capacità di prestare servizio sia esclusa o menomata:",
+   "opzioni": {
+    "A": "dall'azione di sostanze stupefacenti",
+    "B": "da farmaci assunti su prescrizione medica",
+    "C": "da qualsiasi malattia non denunciata",
+    "D": "dalla stanchezza dovuta a turni prolungati"
+   },
+   "corretta": "A",
+   "spiegazione": "Il co. 3 dell'art. 139 c.p.m.p. equipara all'ubriachezza l'incapacità di prestare servizio dovuta a sostanze stupefacenti. È la terza condotta rilevante indicata dalle linee guida del Comando Generale sugli stupefacenti, accanto all'uso accertato e al possesso per uso personale.",
+   "riferimenti": [
+    "c.p.m.p. art. 139, co. 3",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-041",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.7.e",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un carabiniere in reperibilità viene trovato ubriaco presso la propria abitazione, nel primo minuto del turno, senza essere stato chiamato. Secondo l'impostazione esposta:",
+   "opzioni": {
+    "A": "rileva solo dopo la prima ora di reperibilità",
+    "B": "la condotta è irrilevante, perché il militare non era in servizio né comandato",
+    "C": "rileva solo se il militare viene effettivamente chiamato",
+    "D": "il reperibile è considerato come se fosse sempre in servizio, perché può essere chiamato in ogni momento: la condotta rileva come quella del militare in servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "Secondo la giurisprudenza penale militare richiamata, il reperibile non può ubriacarsi perché può essere chiamato in qualsiasi momento: la sua posizione è assimilata al servizio, anche nel primo minuto della reperibilità. Non serve l'effettiva chiamata.",
+   "riferimenti": [
+    "c.p.m.p. art. 139"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-042",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "II.7.e",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Per l'ubriachezza in servizio nell'ipotesi base (art. 139, co. 1, c.p.m.p.), quale rapporto c'è tra via penale e via disciplinare?",
+   "opzioni": {
+    "A": "il comandante di corpo deve richiedere il procedimento e poi infliggere comunque la consegna di rigore",
+    "B": "si procede solo disciplinarmente, perché il fatto non è più reato",
+    "C": "si procede sempre penalmente d'ufficio e la consegna di rigore segue la condanna",
+    "D": "sono alternative: il comandante di corpo può richiedere il procedimento penale (art. 260 c.p.m.p.) oppure, se non lo ritiene, il fatto si punisce con la consegna di rigore (art. 1362, co. 7, COM)"
+   },
+   "corretta": "D",
+   "spiegazione": "I reati militari puniti con reclusione militare non superiore nel massimo a sei mesi sono procedibili a richiesta del comandante di corpo (art. 260, co. 2, c.p.m.p.). Se non la propone, il fatto si punisce con la consegna di rigore (art. 1362, co. 7, lett. a, COM). La circ. 276/148-78-2009 parla di principio di alternatività. L'ipotesi aggravata del co. 2 non è a richiesta.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2",
+    "COM art. 1362, co. 7, lett. a)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-043",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "II.7.e",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Entro quale termine il comandante di corpo può proporre la richiesta di procedimento per un reato militare punito con la reclusione militare non superiore nel massimo a sei mesi?",
+   "opzioni": {
+    "A": "entro tre mesi dal fatto",
+    "B": "entro un mese dal giorno in cui l'autorità ha avuto notizia del fatto",
+    "C": "senza limiti di tempo, fino alla prescrizione",
+    "D": "entro sessanta giorni dalla conclusione degli accertamenti preliminari"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 260, ultimo comma, c.p.m.p.: nei casi dei commi secondo e terzo la richiesta non può più essere proposta decorso un mese dal giorno in cui l'autorità ha avuto notizia del fatto. Scaduto il termine, resta la via disciplinare.",
+   "riferimenti": [
+    "c.p.m.p. art. 260"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-044",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "II.7.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Che cosa può essere punito con la consegna di rigore ai sensi dell'art. 1362, co. 7, COM, oltre ai comportamenti dell'art. 751 TUROM?",
+   "opzioni": {
+    "A": "le inosservanze di circolari e direttive del Comando Generale che abbiano arrecato un danno al servizio",
+    "B": "qualsiasi reato comune commesso fuori servizio, purché punito con una pena non superiore nel massimo a sei mesi",
+    "C": "i fatti previsti come reato per i quali il comandante di corpo non ritenga di richiedere il procedimento penale (art. 260 c.p.m.p.) e i fatti che hanno determinato un giudizio penale cui è seguito un procedimento disciplinare",
+    "D": "le contravvenzioni al Codice della strada commesse con i mezzi dell'Amministrazione, se il militare ha pagato l'oblazione"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1362, co. 7, COM aggiunge due categorie: lett. a) i reati a richiesta per cui il comandante di corpo non chiede il procedimento (art. 260 c.p.m.p.); lett. b) i fatti che hanno determinato un giudizio penale seguito da procedimento disciplinare. È la base dell'alternatività per l'ubriachezza in servizio.",
+   "riferimenti": [
+    "COM art. 1362, co. 7"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-045",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Un carabiniere in servizio alla guida dell'auto di servizio viene trovato in stato di ubriachezza. Secondo le linee guida del Comando Generale:",
+   "opzioni": {
+    "A": "c'è concorso tra l'ubriachezza in servizio (art. 139 c.p.m.p.) e la guida sotto l'influenza dell'alcol (art. 186 C.d.S.), che si applica anche ai conducenti dei mezzi delle Forze di polizia",
+    "B": "si applica solo l'art. 139 c.p.m.p., che assorbe l'art. 186 C.d.S.",
+    "C": "non si applica l'art. 186 C.d.S. ai mezzi di servizio",
+    "D": "si applica solo l'art. 186 C.d.S., perché il fatto avviene su strada"
+   },
+   "corretta": "A",
+   "spiegazione": "La circ. 276/148-78-2009 (all. «A») afferma il concorso tra i due reati: l'art. 139 c.p.m.p. tutela la corretta esecuzione del servizio, l'art. 186 C.d.S. la sicurezza della circolazione, e le norme sulla circolazione si applicano anche ai mezzi delle Forze di polizia. La valutazione disciplinare si svolge secondo l'art. 1393 COM tenendo conto di entrambe.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»",
+    "c.p.m.p. art. 139",
+    "C.d.S. art. 186"
+   ],
+   "fonti": [
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-046",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Come distingue la circ. 276/148-78-2009 l'ubriachezza dall'ebbrezza?",
+   "opzioni": {
+    "A": "l'ebbrezza è più grave dell'ubriachezza",
+    "B": "l'ubriachezza riguarda gli stupefacenti, l'ebbrezza l'alcol",
+    "C": "l'ubriachezza è un'intossicazione acuta che induce un serio stato di alterazione fisio-psichica; l'ebbrezza, propria del Codice della strada, è meno grave e annebbia le facoltà incidendo sui riflessi",
+    "D": "sono sinonimi, usati in testi diversi"
+   },
+   "corretta": "C",
+   "spiegazione": "Secondo le linee guida, l'ubriachezza (art. 688 c.p., art. 139 c.p.m.p.) è un'intossicazione acuta e transitoria che induce un serio stato di alterazione fisio-psichica, anche senza perdita della capacità di intendere e volere; l'ebbrezza dell'art. 186 C.d.S. è condizione meno intensa, che annebbia le facoltà mentali e rallenta i riflessi.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»"
+   ],
+   "fonti": [
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-047",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Quale circolare del Comando Generale contiene le linee guida in materia di disciplina su uso e possesso di stupefacenti, abuso di alcol e gioco?",
+   "opzioni": {
+    "A": "la circ. n. 228/2-1-2022 del 12 dicembre 2022 dell'Ufficio Affari Giuridici e Condizione Militare",
+    "B": "la circ. n. 83/6-16/2018 (Sa) del 1° febbraio 2019 della Direzione di Sanità",
+    "C": "la circ. n. 276/148-78-2009 di prot. del 1° febbraio 2019 del I Reparto – SM – Ufficio Personale Ufficiali",
+    "D": "la circ. n. 52/2-2018 di prot. del 31 luglio 2018 dell'Ufficio Condizione Generale del Personale"
+   },
+   "corretta": "C",
+   "spiegazione": "Le linee guida disciplinari sono nella circ. 276/148-78-2009 del 1.2.2019 (I Reparto – SM – Ufficio Personale Ufficiali), diretta ai comandi fino a livello Compagnia. La circ. 52/2-2018 riguarda il governo del personale e il protocollo tossicologico; la 83/6-16/2018 (Sa) chiarisce la procedura sanitaria; la 228/2-1-2022 riguarda l'imparzialità.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-048",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Secondo le linee guida del Comando Generale, in quale ambito sono sanzionabili le condotte legate all'uso anche occasionale di stupefacenti leggeri da parte di un carabiniere?",
+   "opzioni": {
+    "A": "nella disciplina di stato, anche quando costituiscono un semplice illecito amministrativo",
+    "B": "il richiamo scritto, trattandosi di illecito amministrativo",
+    "C": "la consegna di rigore",
+    "D": "nessuna sanzione, se l'uso è isolato"
+   },
+   "corretta": "A",
+   "spiegazione": "Le note procedurali della circ. 276/148-78-2009 qualificano le condotte, anche quando sono solo illecito amministrativo, di assoluta gravità e sanzionabili nell'ambito della disciplina di stato. Nella linea del Comando Generale, anche per l'uso occasionale e sporadico di droghe leggere la via maestra è la perdita del grado per rimozione (art. 1357, co. 1, lett. d, COM), perché la condotta è incompatibile con lo status; la consegna di rigore e il richiamo non sono la risposta prevista.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019",
+    "COM art. 1357, co. 1, lett. d)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-049",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quali condotte «assumono rilievo» secondo l'allegato «A» della circ. 276/148-78-2009?",
+   "opzioni": {
+    "A": "soltanto la detenzione di quantitativi superiori ai limiti di legge",
+    "B": "soltanto l'uso accertato con esami di laboratorio",
+    "C": "soltanto le condotte penalmente rilevanti",
+    "D": "l'uso accertato con esami di laboratorio, il possesso per uso personale (art. 75 D.P.R. 309/1990) e l'incapacità di prestare servizio per uso di stupefacenti (art. 139, co. 3, c.p.m.p.)"
+   },
+   "corretta": "D",
+   "spiegazione": "L'allegato elenca tre condotte: uso accertato con esami (anche ai sensi dell'art. 187 C.d.S.), possesso per uso personale (illecito amministrativo dell'art. 75 D.P.R. 309/1990) e incapacità di prestare servizio (art. 139, co. 3, c.p.m.p.). Anche il solo illecito amministrativo è quindi disciplinarmente rilevante.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»",
+    "D.P.R. 309/1990 art. 75",
+    "c.p.m.p. art. 139, co. 3"
+   ],
+   "fonti": [
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-050",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Su quali tre argomenti le linee guida del Comando Generale fondano l'«assoluta gravità» delle condotte legate agli stupefacenti, anche se non costituiscono reato?",
+   "opzioni": {
+    "A": "clamore mediatico, presenza di testimoni, commissione in uniforme",
+    "B": "disvalore per un appartenente alle Forze di polizia (violazione del giuramento), inevitabile contiguità con chi cede la sostanza, irrilevanza di notorietà, ripercussioni e precedenti",
+    "C": "abitualità, quantità detenuta, tipo di sostanza",
+    "D": "danno alla salute, costo delle analisi, rischio di incidenti"
+   },
+   "corretta": "B",
+   "spiegazione": "Le note procedurali indicano: il disvalore intrinseco per chi appartiene a una forza di polizia che contrasta proprio gli stupefacenti (violazione degli obblighi del giuramento); la contiguità con il circuito dell'illegalità implicata dal consumo e dal solo possesso; l'irrilevanza della mancanza di notorietà, di altre ripercussioni e dei precedenti di servizio.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A», note procedurali"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-051",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere trovato con uno spinello si difende sostenendo di non averlo fumato e che il fatto non è stato conosciuto da nessuno all'esterno. Secondo le linee guida:",
+   "opzioni": {
+    "A": "occorre prima accertare con esami che abbia fumato",
+    "B": "la mancanza di notorietà impone la disciplina di corpo",
+    "C": "le giustificazioni sono irrilevanti: il solo possesso comporta contiguità con chi cede la sostanza e la mancanza di notorietà non attenua la gravità",
+    "D": "l'assenza di consumo esclude ogni rilievo disciplinare"
+   },
+   "corretta": "C",
+   "spiegazione": "Per il Comando Generale consumo e possesso si equivalgono: chi possiede uno spinello lo ha avuto da qualcuno. Le note procedurali dichiarano irrilevanti, a fronte della gravità intrinseca, la mancanza di notorietà, altre ripercussioni e i precedenti di servizio.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-052",
+   "argomento": "sospensione-precauzionale",
+   "sinossi": "IV.2",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Che cosa prevedono le linee guida del Comando Generale nelle more dell'adozione del provvedimento disciplinare per uso di stupefacenti?",
+   "opzioni": {
+    "A": "va comunque valutata la posizione d'impiego (di regola la sospensione precauzionale); gli ufficiali responsabili SDI valutano le credenziali di accesso alle banche dati e i comandanti di corpo la patente militare",
+    "B": "il militare continua il servizio ordinario fino alla sanzione",
+    "C": "il militare è trasferito d'autorità presso altro reparto",
+    "D": "il militare è collocato d'ufficio in congedo"
+   },
+   "corretta": "A",
+   "spiegazione": "Le note procedurali impongono di valutare comunque la posizione d'impiego nelle more del provvedimento (nella prassi la sospensione precauzionale, mentre il medico può disporre la temporanea non idoneità), e chiedono agli ufficiali responsabili SDI di valutare l'affidabilità per le credenziali e ai comandanti di corpo la sospensione o revoca della patente militare (pubbl. TER-G-020). Se la condotta ha rilevanza penale si segue l'art. 1393 COM.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019, all. «A»",
+    "COM art. 1393"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-053",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La premessa della circ. 276/148-78-2009 afferma che uso di stupefacenti, abuso di alcol e gioco compulsivo «possono concretamente condizionarne l'esercizio delle funzioni o ledere il prestigio dell'Istituzione». Il lessico richiama:",
+   "opzioni": {
+    "A": "il dovere di obbedienza dell'art. 729 TUROM",
+    "B": "il dovere di iniziativa dell'art. 716 TUROM",
+    "C": "i doveri di riserbo dell'art. 722 TUROM",
+    "D": "i doveri attinenti al grado dell'art. 713, co. 2, TUROM"
+   },
+   "corretta": "D",
+   "spiegazione": "Astenersi da comportamenti che possono condizionare l'esercizio delle funzioni e ledere il prestigio dell'istituzione sono due dei tre doveri dell'art. 713, co. 2, TUROM (doveri attinenti al grado), che valgono anche fuori servizio. Per questo nelle contestazioni per stupefacenti l'art. 713 si affianca all'art. 712.",
+   "riferimenti": [
+    "TUROM art. 713, co. 2",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-054",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.f",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Come inquadrano le linee guida del Comando Generale l'abuso del gioco con vincite in denaro?",
+   "opzioni": {
+    "A": "come fatto privato, irrilevante sul piano disciplinare",
+    "B": "sempre come grave mancanza ai sensi dell'art. 732, co. 6, lett. c)",
+    "C": "come possibile violazione dei doveri attinenti al grado (art. 713 TUROM), da valutare caso per caso, ferma l'ipotesi di concorso con l'art. 732, co. 6, lett. d), per i debiti non onorati o contratti con persone controindicate",
+    "D": "come reato di gioco d'azzardo, da denunciare sempre"
+   },
+   "corretta": "C",
+   "spiegazione": "La circ. 276/148-78-2009 (allegato sul gioco) richiede una valutazione caso per caso: la condotta può integrare l'art. 713 TUROM, perché può condizionare le funzioni e ledere il prestigio, con possibile concorso dell'art. 732, co. 6, lett. d), se ne derivano debiti non onorati o contratti con persone controindicate. La lett. c) riguarda alcol e stupefacenti.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019",
+    "TUROM art. 713",
+    "TUROM art. 732, co. 6, lett. d)"
+   ],
+   "fonti": [
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-055",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 75 del D.P.R. 309/1990 punisce chi, per farne uso personale, detiene sostanze stupefacenti con:",
+   "opzioni": {
+    "A": "l'ammenda e l'arresto fino a sei mesi",
+    "B": "la reclusione da sei mesi a cinque anni",
+    "C": "la sola confisca della sostanza",
+    "D": "sanzioni amministrative come la sospensione della patente, del porto d'armi o del passaporto"
+   },
+   "corretta": "D",
+   "spiegazione": "La detenzione per uso personale è illecito amministrativo: l'art. 75, co. 1, prevede una o più sanzioni amministrative (sospensione della patente, del porto d'armi, del passaporto, del permesso di soggiorno) per un periodo da due mesi a un anno per le sostanze delle tabelle I e III e da uno a tre mesi per quelle delle tabelle II e IV. La reclusione da sei mesi a cinque anni è la pena dello spaccio di lieve entità (art. 73, co. 5).",
+   "riferimenti": [
+    "D.P.R. 309/1990 art. 75, co. 1"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-056",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Accertata la detenzione per uso personale (art. 75 D.P.R. 309/1990), entro quale termine gli organi di polizia riferiscono al prefetto?",
+   "opzioni": {
+    "A": "entro trenta giorni",
+    "B": "senza ritardo e comunque entro dieci giorni",
+    "C": "entro ventiquattro ore",
+    "D": "entro quaranta giorni"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 75, co. 3: gli organi di polizia procedono alla contestazione immediata, se possibile, e riferiscono senza ritardo e comunque entro dieci giorni, con gli esiti degli esami tossicologici, al prefetto. Se l'interessato ha la disponibilità di un veicolo a motore ritirano subito la patente per trenta giorni. Il termine di quaranta giorni è quello entro cui il prefetto, ricevuta la segnalazione, adotta l'ordinanza di convocazione (co. 4).",
+   "riferimenti": [
+    "D.P.R. 309/1990 art. 75, co. 3 e 4"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-057",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un carabiniere viene trovato con uno spinello e rifiuta di dire da chi l'ha avuto. Perché non è corretto limitarsi alla segnalazione dell'art. 75 D.P.R. 309/1990?",
+   "opzioni": {
+    "A": "perché il possesso di stupefacenti da parte di un militare è sempre reato militare",
+    "B": "perché l'art. 75 non si applica ai militari",
+    "C": "perché a monte del possesso c'è una cessione (art. 73) da perseguire contro ignoti: si redige l'informativa per lo spaccio, si sequestra con gli strumenti della polizia giudiziaria e si possono chiedere i tabulati",
+    "D": "perché la segnalazione al prefetto spetta solo alla Polizia di Stato"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 75 non è soltanto l'art. 75: dietro la detenzione c'è chi ha ceduto la sostanza, cioè lo spaccio (art. 73 D.P.R. 309/1990), da perseguire a carico di ignoti. Accanto alla segnalazione al prefetto si redige l'informativa di reato, si sequestra con gli artt. 352 e 354 c.p.p., si possono perquisire postazione, abitazione e auto e chiedere i tabulati, che l'illecito amministrativo non consentirebbe.",
+   "riferimenti": [
+    "D.P.R. 309/1990 artt. 73 e 75",
+    "c.p.p. artt. 352 e 354"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-058",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Sentito come persona informata sui fatti, un carabiniere trovato con uno spinello rende dichiarazioni dalle quali emergono indizi di favoreggiamento verso chi gli ha ceduto la droga. Che cosa deve fare l'ufficiale di polizia giudiziaria?",
+   "opzioni": {
+    "A": "proseguire l'esame e verbalizzare tutto, perché le dichiarazioni restano utilizzabili contro di lui",
+    "B": "interrompere l'esame, avvertirlo che potranno essere svolte indagini nei suoi confronti e invitarlo a nominare un difensore (art. 63 c.p.p.)",
+    "C": "sospendere solo il procedimento disciplinare",
+    "D": "procedere all'arresto in flagranza per favoreggiamento"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 63, co. 1, c.p.p.: se una persona non indagata rende dichiarazioni da cui emergono indizi di reità a suo carico, l'autorità procedente interrompe l'esame, la avverte e la invita a nominare un difensore; le precedenti dichiarazioni non sono utilizzabili contro di lei. Il favoreggiamento personale (art. 378 c.p.) consiste nell'aiutare taluno a eludere le investigazioni.",
+   "riferimenti": [
+    "c.p.p. art. 63, co. 1",
+    "c.p. art. 378"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-059",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Perché, per acquisire i tabulati telefonici di un militare trovato con droga per uso personale, occorre procedere per lo spaccio (art. 73 D.P.R. 309/1990) e non solo per l'art. 75?",
+   "opzioni": {
+    "A": "perché per l'art. 75 i tabulati si acquisiscono solo con il consenso dell'interessato",
+    "B": "perché l'art. 75 vieta espressamente l'acquisizione dei tabulati",
+    "C": "perché i dati di traffico si acquisiscono con decreto del giudice solo per reati puniti con la reclusione non inferiore nel massimo a tre anni, e l'art. 75 è un illecito amministrativo",
+    "D": "perché i tabulati si possono acquisire solo per i reati militari"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 132, co. 3, D.Lgs. 196/2003: entro il termine di conservazione (24 mesi per il traffico telefonico, co. 1) i dati si acquisiscono, con decreto motivato del giudice su richiesta del pubblico ministero, se vi sono sufficienti indizi di reati puniti con la reclusione non inferiore nel massimo a tre anni (oltre a minacce e molestie telefoniche gravi). Lo spaccio, anche di lieve entità (fino a cinque anni), rientra; l'illecito amministrativo no.",
+   "riferimenti": [
+    "D.Lgs. 196/2003 art. 132, co. 1 e 3",
+    "D.P.R. 309/1990 art. 73, co. 5"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-060",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Per quanto tempo il fornitore conserva i dati del traffico telefonico per finalità di accertamento e repressione dei reati?",
+   "opzioni": {
+    "A": "ventiquattro mesi dalla data della comunicazione",
+    "B": "sei mesi dalla data della comunicazione",
+    "C": "dodici mesi dalla data della comunicazione",
+    "D": "trenta giorni dalla data della comunicazione"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 132, co. 1, D.Lgs. 196/2003: traffico telefonico 24 mesi; traffico telematico 12 mesi; chiamate senza risposta 30 giorni (co. 1-bis). Per questo con i tabulati si possono ricostruire fino a due anni di contatti del militare con pregiudicati e spacciatori.",
+   "riferimenti": [
+    "D.Lgs. 196/2003 art. 132, co. 1 e 1-bis"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-061",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale pena prevede l'art. 73, co. 5, D.P.R. 309/1990 per i fatti di spaccio di lieve entità?",
+   "opzioni": {
+    "A": "reclusione da sei mesi a cinque anni e multa da 1.032 a 10.329 euro",
+    "B": "sanzioni amministrative da due mesi a un anno",
+    "C": "arresto fino a sei mesi",
+    "D": "reclusione da sei a venti anni e multa da 26.000 a 260.000 euro"
+   },
+   "corretta": "A",
+   "spiegazione": "Il co. 5 dell'art. 73 prevede, salvo più grave reato, la reclusione da sei mesi a cinque anni e la multa da 1.032 a 10.329 euro per i fatti di lieve entità; il co. 1 punisce lo spaccio con la reclusione da sei a venti anni. Le sanzioni amministrative da due mesi a un anno sono quelle dell'art. 75.",
+   "riferimenti": [
+    "D.P.R. 309/1990 art. 73, co. 1 e 5"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-062",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un militare trovato con della cocaina sostiene di averla raccolta da terra per sequestrarla il giorno dopo. Qual era il comportamento professionale dovuto?",
+   "opzioni": {
+    "A": "conservarla e consegnarla al comandante il giorno successivo, accompagnandola con una relazione di servizio",
+    "B": "lasciarla dov'era, chiamare il 112 qualificandosi, segnalare la sostanza e presidiare il luogo senza farla toccare, per poi procedere al sequestro",
+    "C": "distruggerla sul posto alla presenza di un testimone, redigendo poi un verbale di distruzione",
+    "D": "portarla in caserma con la propria auto, annotare il ritrovamento e procedere al sequestro appena giunto in ufficio"
+   },
+   "corretta": "B",
+   "spiegazione": "Chi trova della droga non può tenerla: deve fermarsi, chiamare, far intervenire una pattuglia e procedere al sequestro, presidiando il luogo e senza lasciare le proprie impronte sulla confezione. Portarla con sé, anche in buona fede, espone a non poter dimostrare la propria versione se si viene fermati: «l'ho trovata» e «volevo sequestrarla» sono giustificazioni ricorrenti e poco credibili.",
+   "riferimenti": [
+    "TUROM art. 732, co. 3, lett. c)",
+    "c.p.p. art. 354"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-063",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Un carabiniere mostra chiari segni di assunzione di stupefacenti in un presidio dotato di infermeria. Qual è la condotta corretta?",
+   "opzioni": {
+    "A": "metterlo in sicurezza, chiamare il medico e farlo accompagnare in infermeria da un superiore, anche due",
+    "B": "inviarlo a casa in licenza e attendere il rientro",
+    "C": "chiedere subito il nulla osta del pubblico ministero",
+    "D": "ordinargli di recarsi da solo in infermeria con la propria auto"
+   },
+   "corretta": "A",
+   "spiegazione": "Si mette sempre in sicurezza la persona e la si accompagna in infermeria con uno o due superiori (un accompagnamento quasi volontario, in realtà forzoso): non la si lascia andare da sola. Lo prevede in generale anche l'Allegato B della circ. 52/2-2018 per l'invio d'ufficio (accompagnamento da parte di un militare più alto in grado o più anziano).",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, all. B",
+    "TUROM art. 725"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-064",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Durante un'attività di intercettazione emerge che un carabiniere chiede a uno spacciatore «un paio di scarpe». Come va eseguito il controllo di riscontro?",
+   "opzioni": {
+    "A": "subito, dal Nucleo Operativo dello stesso reparto, per non perdere la flagranza",
+    "B": "dal comandante di stazione, con una perquisizione disciplinare",
+    "C": "solo dopo aver informato il militare dell'indagine",
+    "D": "d'intesa con il pubblico ministero titolare, e facendolo eseguire da un'altra forza di polizia, non dal reparto del militare né da chi ascolta le telefonate"
+   },
+   "corretta": "D",
+   "spiegazione": "L'obiettivo è trasformare la «droga parlata» in un dato oggettivo senza bruciare l'indagine: ogni passo si concorda con il pubblico ministero, che può anche preferire rinviare la discovery (il militare potrebbe essere un intraneo o un concorrente nello spaccio). Il controllo non lo deve fare chi ascolta né il reparto del militare, che capirebbe di essere sotto controllo: va fatto da un'altra forza di polizia.",
+   "riferimenti": [
+    "c.p.p. art. 329"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-065",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Il pubblico ministero non dà il nulla osta all'invio a visita del carabiniere intercettato. Qual è la soluzione indicata per tutelare la vita e l'indagine?",
+   "opzioni": {
+    "A": "inviarlo d'ufficio a visita il giorno dopo motivando con le sue condizioni, o farlo rientrare nel sorteggio, e ritirargli subito l'arma; viene prima la vita, nel bilanciamento con l'indagine",
+    "B": "disporre il rinnovo della patente militare, attendendo l'esito degli accertamenti sanitari",
+    "C": "rivelargli l'esistenza dell'indagine perché si sottoponga spontaneamente agli esami",
+    "D": "lasciarlo in servizio armato fino alla conclusione delle indagini"
+   },
+   "corretta": "A",
+   "spiegazione": "Il nulla osta di regola non viene dato, e comunque richiede giorni, mentre le sostanze nelle urine restano rilevabili per poco. Si ricorre agli strumenti dell'azione di comando senza rivelare il segreto (art. 329 c.p.p.): visita d'ufficio motivata dalle condizioni del militare o sorteggio, e ritiro immediato dell'arma (e delle altre armi detenute). Tra indagine e vita, nel bilanciamento prevale la vita. Il rinnovo della patente è troppo lento.",
+   "riferimenti": [
+    "c.p.p. art. 329",
+    "TUROM art. 725"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-066",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "In quali modi può emergere l'uso di stupefacenti da parte di un militare?",
+   "opzioni": {
+    "A": "soltanto con un accertamento disposto dal pubblico ministero",
+    "B": "soltanto con il protocollo tossicologico a campione",
+    "C": "chiari segni di uso, visita medica per altri motivi, incidente o controllo stradale, attività tecnica di intercettazione, protocollo tossicologico a campione",
+    "D": "soltanto con la denuncia di un collega"
+   },
+   "corretta": "C",
+   "spiegazione": "L'uso, anche occasionale, può emergere in molti modi: segni evidenti, visita medica, accertamenti dopo un incidente o un controllo stradale (con segnalazione e rapporto dei comandanti al Comando Generale), intercettazioni, e infine il protocollo tossicologico a campione della circ. 52/2-2018.",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-067",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Quale circolare disciplina il protocollo sanitario tossicologico per i controlli a campione nell'Arma?",
+   "opzioni": {
+    "A": "la circ. n. 276/148-78-2009 del 1° febbraio 2019, allegato A",
+    "B": "la circ. n. 52/49-1-2018 del 1° marzo 2019",
+    "C": "la circ. n. 83/6-16/2018 (Sa), allegato A",
+    "D": "la circ. n. 52/2-2018 del 31 luglio 2018 dell'Ufficio Condizione Generale del Personale, allegato E"
+   },
+   "corretta": "D",
+   "spiegazione": "Il protocollo è l'Allegato E della circ. 52/2-2018 («Governo del personale. Interventi di supporto e di natura assistenziale e sanitaria»), da studiare; le fasi sanitarie sono dettagliate dalla Direttiva tecnica della Direzione di Sanità (dicembre 2018). L'allegato A della 276/148-78-2009 contiene invece l'inquadramento disciplinare; la 52/49-1-2018 riepiloga le disposizioni; la 83/6-16/2018 (Sa) chiarisce aspetti sanitari.",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, all. E"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-068",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Nel limite di quale percentuale annua della forza effettiva sono svolti i controlli tossicologici a campione nell'Arma?",
+   "opzioni": {
+    "A": "5%",
+    "B": "10%",
+    "C": "2%",
+    "D": "15%"
+   },
+   "corretta": "A",
+   "spiegazione": "La circ. 52/2-2018 (par. 5 e all. D) fissa il limite annuo del 5% della forza effettiva; il personale di tutti i ruoli è sorteggiato con un applicativo informatico che genera sequenze casuali, in proporzione alla forza, includendo anche i militari già sorteggiati in precedenza. I controlli sono partiti dal 10 gennaio 2019.",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, par. 5 e all. D"
+   ],
+   "fonti": [
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-069",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Chi genera l'elenco dei militari da sottoporre ai controlli tossicologici a campione?",
+   "opzioni": {
+    "A": "il Comando Generale, con un applicativo informatico in sequenza casuale e in proporzione alla forza effettiva",
+    "B": "il direttore dell'infermeria presidiaria",
+    "C": "la Direzione generale per il personale militare",
+    "D": "il comandante di corpo, scegliendo i militari a suo giudizio"
+   },
+   "corretta": "A",
+   "spiegazione": "Secondo l'All. D della circ. 52/2-2018, l'elenco è generato dal Comando Generale in sequenza casuale, con un applicativo informatico; i nominativi sono resi noti ai comandanti di corpo per l'avvio alle infermerie presidiarie. La Direttiva tecnica richiede un campionamento senza prevedibilità e nel rispetto dell'equità.",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, all. D",
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), par. 3"
+   ],
+   "fonti": [
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-070",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Con quale preavviso il militare sorteggiato riceve l'ordine di presentarsi in infermeria per l'accertamento tossicologico?",
+   "opzioni": {
+    "A": "non inferiore alle 24 ore",
+    "B": "non inferiore a 72 ore",
+    "C": "non superiore alle 24 ore",
+    "D": "almeno cinque giorni"
+   },
+   "corretta": "C",
+   "spiegazione": "All. E della circ. 52/2-2018: l'ordine di presentazione è dato con preavviso non superiore alle 24 ore (per il Regolamento della Sanità militare richiamato in nota); anche la Direttiva tecnica parla di accertamenti «a sorpresa», con preavviso il più breve possibile. Il preavviso è un limite massimo, non minimo: serve a impedire che il militare si prepari.",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, all. E",
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), par. 5.b"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-071",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Il militare sorteggiato comunica un impedimento motivato e il comandante di corpo accoglie le sue ragioni. Entro quando il militare deve essere riavviato all'infermeria?",
+   "opzioni": {
+    "A": "entro sei mesi",
+    "B": "al successivo sorteggio annuale",
+    "C": "entro novanta giorni",
+    "D": "entro trenta giorni"
+   },
+   "corretta": "A",
+   "spiegazione": "All. E: l'impedimento va comunicato con immediatezza al comandante di corpo, che, se non accoglie le motivazioni, conferma l'ordine; se le accoglie, riavvia il militare all'infermeria entro sei mesi. Con certificato medico valuta la visita fiscale; con certificati reiterati, l'invio per l'accertamento dell'idoneità.",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, all. E"
+   ],
+   "fonti": [
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-072",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "III.5.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Come qualifica l'Allegato E della circ. 52/2-2018 il rifiuto di sottoporsi all'accertamento tossicologico?",
+   "opzioni": {
+    "A": "grave mancanza disciplinare, ai sensi del combinato disposto degli artt. 718 e 751, co. 1, lett. a), n. 40, TUROM",
+    "B": "comportamento lecito, se motivato da ragioni di riservatezza",
+    "C": "reato di rifiuto di atti d'ufficio",
+    "D": "illecito amministrativo ai sensi dell'art. 75 D.P.R. 309/1990"
+   },
+   "corretta": "A",
+   "spiegazione": "Il rifiuto configura grave mancanza disciplinare (artt. 718 e 751, n. 40, TUROM: violazione dell'obbligo di sottoporsi agli accertamenti sanitari), punibile con la consegna di rigore; le condotte elusive possono essere di per sé sintomatiche di situazioni critiche, anche per l'impiego. Se il rifiuto riguarda un ordine attinente al servizio, può profilarsi anche la disobbedienza (art. 173 c.p.m.p.).",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, all. E",
+    "TUROM art. 751, co. 1, lett. a), n. 40",
+    "TUROM art. 718"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-073",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "In infermeria, prima del prelievo per l'accertamento tossicologico, l'ufficiale medico:",
+   "opzioni": {
+    "A": "acquisisce soltanto la firma del comandante di corpo",
+    "B": "chiede al militare di indicare il laboratorio di fiducia",
+    "C": "informa il militare sulle finalità e i risvolti medico-legali, acquisisce il consenso informato e raccoglie un'anamnesi anche farmacologica",
+    "D": "procede direttamente al prelievo del capello"
+   },
+   "corretta": "C",
+   "spiegazione": "Direttiva tecnica, par. 6.a: accettazione, informazione completa, consenso informato su apposito verbale, raccolta anamnestica anche farmacologica e valutazione obiettiva. Il militare deve dichiarare i farmaci assunti, perché alcuni possono dare positività. La matrice d'elezione è l'urina, non il capello; il laboratorio di fiducia riguarda solo l'eventuale revisione.",
+   "riferimenti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), par. 6.a",
+    "circ. 52/2-2018 del 31.7.2018, all. E"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-074",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Come si esprime correttamente l'esito del test di screening che rileva la presenza di sostanze?",
+   "opzioni": {
+    "A": "«dubbio», finché il militare non abbia chiesto l'analisi di revisione sul campione conservato",
+    "B": "«positivo», perché lo screening eseguito in infermeria ha già valore di accertamento definitivo",
+    "C": "«inidoneo», con effetto immediato sulla posizione di stato e sul trattamento economico",
+    "D": "«non negativo», non «positivo», perché il risultato va confermato dall'analisi di secondo livello"
+   },
+   "corretta": "D",
+   "spiegazione": "Lo screening di primo livello in infermeria dà un esito «non negativo»: il militare è giudicato temporaneamente non idoneo in via cautelativa, in attesa dell'analisi di conferma di secondo livello presso il laboratorio di riferimento. Solo la conferma positiva è comunicata al comandante di corpo per i provvedimenti disciplinari e d'impiego.",
+   "riferimenti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), parr. 6.d e 6.i",
+    "circ. 52/2-2018 del 31.7.2018, all. E"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-075",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Secondo la Direttiva tecnica della Direzione di Sanità, in caso di screening non negativo il campione di urina:",
+   "opzioni": {
+    "A": "è distrutto e si procede a un nuovo prelievo dopo trenta giorni",
+    "B": "è diviso, alla presenza del militare, nei campioni B (inviato al laboratorio di riferimento per la conferma) e C (inviato all'Ufficio sanitario del CNSR per la conservazione), entrambi entro 24 ore",
+    "C": "è consegnato al militare perché lo faccia analizzare a sue spese",
+    "D": "è inviato interamente al CNSR, che esegue l'analisi di conferma"
+   },
+   "corretta": "B",
+   "spiegazione": "Il campione A, alla presenza del militare, è suddiviso in parti uguali nei campioni B e C, sigillati e con lo stesso codice: il B va al laboratorio tossicologico di riferimento per l'analisi di conferma, il C all'Ufficio sanitario del CNSR, che lo conserva per l'eventuale revisione; entrambi entro 24 ore, con buste antieffrazione e verbali di catena di custodia.",
+   "riferimenti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), par. 6.d"
+   ],
+   "fonti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-076",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Per quanto tempo l'Ufficio sanitario del CNSR conserva il campione C, e entro quale termine il militare può chiedere l'analisi di revisione?",
+   "opzioni": {
+    "A": "un anno; richiesta in qualsiasi momento",
+    "B": "30 giorni; richiesta entro 10 giorni",
+    "C": "90 giorni; richiesta entro 30 giorni dalla comunicazione dell'esito positivo della conferma",
+    "D": "180 giorni; richiesta entro 60 giorni"
+   },
+   "corretta": "C",
+   "spiegazione": "Direttiva tecnica, par. 6.e-f: il campione C è conservato in refrigeratore dedicato per almeno 90 giorni; la richiesta di revisione deve pervenire all'infermeria tassativamente entro 30 giorni dalla comunicazione dell'esito positivo della conferma. Trascorsi 90 giorni senza richiesta, il campione è smaltito.",
+   "riferimenti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), par. 6.e-f"
+   ],
+   "fonti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-077",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Chi sostiene gli oneri dell'analisi di revisione richiesta dal militare positivo alla conferma?",
+   "opzioni": {
+    "A": "l'Amministrazione, sempre",
+    "B": "il militare, che sceglie un laboratorio accreditato con standard almeno pari a quelli del laboratorio dell'Amministrazione",
+    "C": "il laboratorio che ha eseguito la conferma",
+    "D": "il comandante di corpo, sui fondi del reparto"
+   },
+   "corretta": "B",
+   "spiegazione": "La revisione è una facoltà del militare: gli oneri, comprese le spese di trasporto del campione, sono a suo carico; il laboratorio è di sua scelta ma deve avere standard e accreditamento almeno pari a quelli del laboratorio di riferimento. La movimentazione del campione C avviene solo tramite ditta specializzata o personale del laboratorio (circ. 83/6-16/2018).",
+   "riferimenti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), par. 6.f",
+    "circ. 83/6-16/2018 (Sa) del 1.2.2019"
+   ],
+   "fonti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-078",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Se l'analisi di conferma risulta positiva, a chi è comunicato il risultato secondo l'Allegato E?",
+   "opzioni": {
+    "A": "soltanto al militare interessato",
+    "B": "soltanto alla Procura della Repubblica",
+    "C": "al Comandante generale, che decide la sanzione",
+    "D": "all'infermeria presidiaria, per gli adempimenti medico-legali, e al comandante di corpo, per i provvedimenti disciplinari e d'impiego"
+   },
+   "corretta": "D",
+   "spiegazione": "Il risultato della conferma è comunicato, a cura dell'Ufficio sanitario del CNSR, all'infermeria presidiaria per gli adempimenti medico-legali (proposta di visita collegiale) e al comandante di corpo per i conseguenti provvedimenti disciplinari e d'impiego, qualora positivo.",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, all. E",
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), par. 6.i"
+   ],
+   "fonti": [
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-079",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Confermata la positività, quali provvedimenti cautelari si adottano nei confronti del militare?",
+   "opzioni": {
+    "A": "nessun provvedimento fino alla sentenza penale",
+    "B": "trasferimento d'ufficio ad altro reparto",
+    "C": "sospensione disciplinare immediata di dodici mesi",
+    "D": "ritiro della pistola, del tesserino e della tessera di riconoscimento, permanenza in malattia e valutazione della sospensione precauzionale, in attesa dei procedimenti"
+   },
+   "corretta": "D",
+   "spiegazione": "Il militare non può restare armato: si ritirano pistola, tesserino e tessera (e la buffetteria matricolata, come caricatori e manette); resta in malattia e si valuta la sospensione precauzionale dall'impiego, in attesa del procedimento penale, se ne ricorrono i presupposti, e di quello disciplinare. La sospensione disciplinare è una sanzione, non una misura cautelare.",
+   "riferimenti": [
+    "circ. 276/148-78-2009 del 1.2.2019",
+    "COM art. 1393"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-080",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Il militare sorteggiato chiama il comandante la sera prima e si dichiara ammalato. Che cosa può fare la scala gerarchica?",
+   "opzioni": {
+    "A": "considerarlo positivo",
+    "B": "ordinargli di presentarsi comunque, anche se malato",
+    "C": "chiedere il certificato e, tramite il comandante di corpo, disporre la visita fiscale e valutare il rinvio in infermeria",
+    "D": "infliggergli subito la consegna di rigore per rifiuto"
+   },
+   "corretta": "C",
+   "spiegazione": "Il militare ammalato non può essere obbligato a presentarsi: si chiede il certificato e il comandante di corpo valuta la visita fiscale e il rinvio (all. E), considerando, in caso di certificati reiterati, l'invio all'infermeria per l'accertamento dell'idoneità. È opportuno che la visita fiscale sia eseguita dal direttore dell'infermeria. In ogni caso restano le analisi del sangue e del capello.",
+   "riferimenti": [
+    "circ. 52/2-2018 del 31.7.2018, all. E"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "circ. 52/2-2018 del 31.7.2018"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-081",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Perché alcuni militari che sanno di aver assunto stupefacenti si depilano completamente prima dell'accertamento?",
+   "opzioni": {
+    "A": "perché la depilazione obbliga a ripetere l'esame dopo sei mesi",
+    "B": "perché l'esame sulla matrice cheratinica (capelli, peli) consente di datare l'assunzione: vicino al bulbo indica un consumo recente, più lontano un consumo risalente fino a cinque o sei mesi, segno di abitualità",
+    "C": "perché senza peli l'esame si può fare solo sul sangue, che non rileva i cannabinoidi",
+    "D": "perché i peli alterano il risultato dell'esame delle urine"
+   },
+   "corretta": "B",
+   "spiegazione": "L'urina rivela un consumo recente; il capello e il pelo conservano traccia dell'assunzione nel tempo, e la posizione della sostanza lungo il fusto indica quando è avvenuta: un consumo risalente rivela un assuntore abituale e non occasionale. La depilazione totale preordinata a impedire l'esame è stata qualificata come «aggravante teleologica» della condotta (Cons. Stato, sez. II, 30 giugno 2021, n. 4950).",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 30 giugno 2021, n. 4950"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-082",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un militare presentatosi in infermeria non fornisce il campione di urina e rinvia fino a tardi sostenendo di non riuscirci. Come si valuta la condotta?",
+   "opzioni": {
+    "A": "come rifiuto irrilevante, perché il militare si è presentato",
+    "B": "come legittimo impedimento fisiologico, da certificare",
+    "C": "come uso accertato di stupefacenti",
+    "D": "come condotta elusiva: viola il dovere di collaborazione e l'obbligo di sottoporsi agli accertamenti (artt. 718 e 751, n. 40, TUROM) e può integrare la disobbedienza (art. 173 c.p.m.p.)"
+   },
+   "corretta": "D",
+   "spiegazione": "L'ostruzionismo equivale al rifiuto: le condotte elusive possono essere di per sé sintomatiche (all. E della circ. 52/2-2018) e viola i doveri di lealtà e collaborazione; il Consiglio di Stato ha definito il preteso diritto di rifiutare gli esami «inconcepibile per un militare sottoposto al vincolo dell'obbedienza gerarchica» (sez. IV, 19 dicembre 2012, n. 6540). Non prova da solo l'uso, ma può concorrere come indizio. La Direttiva tecnica consente di bere acqua imbottigliata per integrare il campione.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 40",
+    "c.p.m.p. art. 173",
+    "Cons. Stato, sez. IV, 19 dicembre 2012, n. 6540"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-083",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La procedura degli accertamenti tossicologici a campione distingue tra uso occasionale, uso regolare e dipendenza?",
+   "opzioni": {
+    "A": "no: la Direttiva tecnica dichiara che, per le difficoltà di rilevazione, non può operare questa distinzione, rimessa alla valutazione clinica dell'ufficiale medico",
+    "B": "sì: lo screening indica sempre la frequenza dell'uso",
+    "C": "sì: la conferma di secondo livello stabilisce se c'è dipendenza",
+    "D": "no, perché la distinzione è irrilevante anche sul piano disciplinare"
+   },
+   "corretta": "A",
+   "spiegazione": "Le note e avvertenze della Direttiva tecnica precisano che la procedura non può distinguere uso occasionale, regolare o dipendenza; l'ufficiale medico, nell'anamnesi, cerca gli indicatori clinici di un'assunzione recente o cronica. Sul piano disciplinare la distinzione non è irrilevante: la frequenza è uno degli indici della gravità.",
+   "riferimenti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018), par. 7"
+   ],
+   "fonti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-084",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere che partecipa a un concorso interno risulta positivo agli accertamenti tossicologici. Quale disciplina si applica?",
+   "opzioni": {
+    "A": "quella dei concorrenti civili, con la sola esclusione dal concorso",
+    "B": "quella del militare in servizio, integralmente: alle conseguenze disciplinari si aggiunge l'esclusione",
+    "C": "la sola segnalazione al prefetto",
+    "D": "nessuna conseguenza disciplinare, perché il fatto emerge in sede concorsuale"
+   },
+   "corretta": "B",
+   "spiegazione": "Chi partecipa a un concorso interno resta un militare: si applica la disciplina degli stupefacenti nella sua interezza, con le conseguenze disciplinari e l'esclusione dalla procedura.",
+   "riferimenti": [
+    "COM art. 1356"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-085",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché l'Arma procede «con i piedi di piombo» nella valutazione degli esiti analitici?",
+   "opzioni": {
+    "A": "perché gli esiti non hanno valore legale",
+    "B": "perché la positività deve essere confermata da una sentenza penale",
+    "C": "perché le analisi sono eseguite da laboratori civili",
+    "D": "perché il dato dipende dal metodo di analisi: vi sono casi di metodi non scientificamente validati o di valori sotto la soglia drogante, e il militare può far eseguire controperizie"
+   },
+   "corretta": "D",
+   "spiegazione": "Il risultato analitico va letto con cautela: i metodi devono essere validati e i valori confrontati con le soglie. Il militare può avvalersi di un consulente e chiedere l'analisi di revisione sul campione C; per questo la procedura cura la catena di custodia e la tracciabilità.",
+   "riferimenti": [
+    "Direttiva tecnica della Direzione di Sanità (dic. 2018)"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-086",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Qual è l'orientamento consolidato del Consiglio di Stato sull'uso di stupefacenti da parte di un carabiniere?",
+   "opzioni": {
+    "A": "l'accertata assunzione, anche occasionale ed episodica, determina una «frontale ed eclatante violazione» dei doveri di correttezza e lealtà assunti con il giuramento e legittima la perdita del grado",
+    "B": "la perdita del grado è legittima solo in caso di tossicodipendenza accertata",
+    "C": "l'uso occasionale di droghe leggere giustifica al massimo una sanzione di corpo",
+    "D": "la perdita del grado è legittima solo se il fatto ha avuto risonanza pubblica"
+   },
+   "corretta": "A",
+   "spiegazione": "È la formula ricorrente della sezione II (tra le altre Cons. Stato, sez. II, 16 gennaio 2023, n. 522; 30 giugno 2023, n. 6410; 8 agosto 2024, n. 7063): l'assunzione anche occasionale viola frontalmente i doveri del giuramento, tanto più per un appartenente all'Arma, impegnata proprio nella repressione dello spaccio; sono irrilevanti abitualità, notorietà e precedenti. Le pronunce di segno diverso sono eccezioni legate al caso concreto.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522",
+    "Cons. Stato, sez. II, 30 giugno 2023, n. 6410"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)",
+    "Sinossi pp. 42, 149-151"
+   ],
+   "test_vernice": true,
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-087",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo Cons. Stato, sez. II, 20 dicembre 2021, n. 8439, le sanzioni espulsive per l'assunzione di stupefacenti sono escluse quando ricorrono congiuntamente quali condizioni?",
+   "opzioni": {
+    "A": "l'assunzione è stata accertata solo con esame delle urine; il militare ha chiesto l'analisi di revisione; vi è stato un proscioglimento penale",
+    "B": "la sostanza non implica necessariamente ricettazione o contatti con ambienti criminali; l'assunzione è assolutamente non abituale; la vicenda non ha ulteriore disvalore, ad esempio per mancata collaborazione",
+    "C": "il militare è incensurato; il fatto è avvenuto fuori servizio; non vi è stata risonanza pubblica",
+    "D": "la sostanza è leggera; il militare ha meno di cinque anni di servizio; il fatto è avvenuto all'estero"
+   },
+   "corretta": "B",
+   "spiegazione": "La sentenza (appuntato scelto positivo ai cannabinoidi, compatibili con cannabis light, uso ammesso in un periodo di stress, 22 esami successivi negativi) afferma che una sanzione è sempre applicabile, ma esclude quelle espulsive se ricorrono insieme tre condizioni: sostanza il cui procacciamento non implichi necessariamente ricettazione o contatti criminali; uso assolutamente non abituale; nessun ulteriore disvalore (sottrazione agli accertamenti, atteggiamento non collaborativo).",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "COM art. 1355"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-088",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Come si è posta Cons. Stato, sez. II, 16 gennaio 2023, n. 522 rispetto al precedente della stessa sezione n. 8439/2021?",
+   "opzioni": {
+    "A": "lo ha applicato, annullando la perdita del grado",
+    "B": "lo ha dichiarato superato dalla circ. 276/148-78-2009",
+    "C": "ha rimesso la questione all'Adunanza plenaria",
+    "D": "pur conoscendolo, ha ribadito l'orientamento prevalente di particolare rigore, legittimando la rimozione di un carabiniere scelto trovato in stato di alterazione e in possesso di marijuana"
+   },
+   "corretta": "D",
+   "spiegazione": "La n. 522/2023 accoglie l'appello del Ministero: il collegio, «pur ben conoscendo» l'arresto che in via eccezionale ha consentito di mitigare il trattamento, ribadisce l'orientamento di rigore. Il consumo non era episodico: positività al capello e detenzione di un'ulteriore quantità (disponibilità a un nuovo consumo). La messa alla prova penale riguarda il post fatto e non incide sulla gravità.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-089",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Un carabiniere positivo agli stupefacenti è trovato in possesso di un'ulteriore piccola quantità di marijuana. Secondo Cons. Stato, sez. II, n. 522/2023, il consumo:",
+   "opzioni": {
+    "A": "non può considerarsi episodico, perché la detenzione di altra sostanza dimostra la disponibilità a un ulteriore consumo",
+    "B": "va valutato solo dopo la sentenza penale",
+    "C": "è irrilevante, perché il possesso per uso personale è solo illecito amministrativo",
+    "D": "è episodico, perché la quantità è modica e per uso personale"
+   },
+   "corretta": "A",
+   "spiegazione": "Per il Consiglio di Stato la positività al capello prova un'assunzione già avvenuta e la quantità detenuta, anche se modica, la disponibilità a un ulteriore consumo: la condotta non è episodica e la rimozione è legittima. La modicità e l'uso personale non bastano; il procedimento disciplinare può svolgersi anche in pendenza del penale (art. 1393 COM).",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522",
+    "COM art. 1393"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-090",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Un appuntato scelto della Guardia di Finanza, sorpreso a fumare una sigaretta con marijuana dopo un turno di 24 ore e in un documentato stato di disagio, perde il grado. Secondo Cons. Stato, sez. II, 21 settembre 2023, n. 8452:",
+   "opzioni": {
+    "A": "la sanzione va sostituita dal giudice con la sospensione di sei mesi",
+    "B": "la rimozione è illegittima per difetto di istruttoria: la «violazione piena del giuramento» richiede un'istruttoria completa e il contatto con ambienti criminali va dimostrato",
+    "C": "la rimozione è legittima, perché i precedenti di carriera sono sempre irrilevanti",
+    "D": "la rimozione è legittima, perché la perdita del grado è automatica in caso di violazione del giuramento"
+   },
+   "corretta": "B",
+   "spiegazione": "La sentenza conferma l'annullamento: anche la perdita del grado, sanzione unica e indivisibile, soggiace alla proporzionalità dell'art. 1355 COM; la valutazione di gravissima rilevanza presuppone un'istruttoria completa; nella specie mancava la prova del contatto con ambienti criminali e non erano stati considerati il disagio e i precedenti. Il giudice annulla, non sostituisce la sanzione.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 21 settembre 2023, n. 8452",
+    "COM art. 1355"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-091",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Per la giurisprudenza, che cosa insegna l'esistenza delle pronunce che hanno annullato la rimozione per uso occasionale di stupefacenti?",
+   "opzioni": {
+    "A": "che basta la positività allo screening per legittimare sempre la rimozione",
+    "B": "che l'uso occasionale non ha mai rilievo disciplinare",
+    "C": "che il Consiglio di Stato ha abbandonato l'orientamento rigoroso",
+    "D": "che la pratica va costruita: l'Amministrazione deve accertare contatti con spacciatori, abitualità e comportamento non collaborativo, altrimenti la sanzione espulsiva è esposta alla censura di sproporzione"
+   },
+   "corretta": "D",
+   "spiegazione": "Le eccezioni (n. 8439/2021, n. 8452/2023) nascono da istruttorie carenti: mancava la prova dei contatti con il sottobosco della droga e dell'abitualità, mentre il militare aveva collaborato. Il comandante deve quindi cercare gli indici indicati dalla giurisprudenza (tabulati, videosorveglianza, intercettazioni, comportamento) per costruire una pratica solida.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "Cons. Stato, sez. II, 21 settembre 2023, n. 8452"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-092",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "La perdita del grado per rimozione è una sanzione «unica e indivisibile». Che cosa ne deriva secondo il Consiglio di Stato?",
+   "opzioni": {
+    "A": "che non è graduabile, ma è legittima solo se applicata in effettiva correlazione alla gravità del comportamento concreto (art. 1355 COM)",
+    "B": "che si sottrae al principio di proporzionalità",
+    "C": "che può essere irrogata solo dal Ministro della difesa",
+    "D": "che può essere applicata per un periodo da uno a dodici mesi"
+   },
+   "corretta": "A",
+   "spiegazione": "La rimozione non ha un minimo e un massimo, ma il principio di proporzionalità, immanente all'ordinamento militare (art. 1355 COM), impone che consegua solo a una valutazione di particolare gravità (Cons. Stato, sez. II, n. 8439/2021; n. 6410/2023; n. 8452/2023). La durata da uno a dodici mesi è propria delle sospensioni (art. 1357, lett. a e b).",
+   "riferimenti": [
+    "COM art. 1355",
+    "COM art. 1357",
+    "Cons. Stato, sez. II, 30 giugno 2023, n. 6410"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-093",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Un carabiniere rifiuta gli accertamenti immediati in infermeria, fornisce poi un'urina diluita e risulta positivo alla cocaina all'esame del capello. Secondo Cons. Stato, sez. IV, 19 dicembre 2012, n. 6540:",
+   "opzioni": {
+    "A": "la positività al capello non è utilizzabile in sede disciplinare",
+    "B": "la rimozione è legittima: il preteso diritto di rifiutare gli esami è «inconcepibile» per un militare e rifiuto e diluizione sono indizi della consapevolezza dell'uso; irrilevante che l'episodio sia isolato",
+    "C": "il rifiuto degli esami è legittimo esercizio del diritto alla riservatezza sanitaria",
+    "D": "la rimozione è illegittima perché l'uso era isolato"
+   },
+   "corretta": "B",
+   "spiegazione": "La sentenza accoglie l'appello del Ministero: il dato del capello è oggettivo; il rifiuto, il campione «non accettabile per probabile carico idrico» e i sospetti del comandante sono indizi gravi, precisi e concordanti degli espedienti per sottrarsi all'accertamento; per un carabiniere la sanzione espulsiva non è illogica, a prescindere dal carattere isolato dell'episodio e dallo stato di servizio.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 19 dicembre 2012, n. 6540"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-094",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Un appuntato scelto della Guardia di Finanza ammette spontaneamente a verbale l'uso saltuario di marijuana. Secondo Cons. Stato, sez. II, 24 gennaio 2023, n. 774, l'autodenuncia:",
+   "opzioni": {
+    "A": "esclude la sanzione espulsiva",
+    "B": "impone la sola sanzione di corpo",
+    "C": "rende inutilizzabili le dichiarazioni",
+    "D": "denota lealtà, ma non svilisce la rilevanza disciplinare del consumo: la rimozione resta legittima"
+   },
+   "corretta": "D",
+   "spiegazione": "La sentenza conferma la rimozione: il consumo comporta necessariamente un contatto con la criminalità che si alimenta dello spaccio, la valutazione è ampiamente discrezionale e l'autodenuncia, pur leale, non attenua la particolare incidenza del consumo sui compiti d'istituto. Nella n. 8439/2021 la collaborazione pesava perché si sommava agli altri due presupposti (sostanza light e uso non abituale).",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 24 gennaio 2023, n. 774"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-095",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Che cosa ha affermato Cons. Stato, sez. II, 30 giugno 2021, n. 4950 sulla depilazione totale del dipendente prima dell'esame tricologico?",
+   "opzioni": {
+    "A": "che, essendo preordinata a precludere la verifica dell'assunzione, integra un'«aggravante teleologica» della condotta",
+    "B": "che equivale a una confessione dell'uso abituale",
+    "C": "che rende nullo l'accertamento successivo",
+    "D": "che è irrilevante, trattandosi di una scelta estetica"
+   },
+   "corretta": "A",
+   "spiegazione": "La sentenza, relativa a un assistente della Polizia di Stato poi destituito, qualifica la totale epilazione come aggravante teleologica, perché univocamente preordinata a impedire l'accertamento (ritardato di nove mesi). Afferma anche che il consumo, pur occasionale, è ontologicamente incompatibile con l'appartenenza alle Forze di polizia.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 30 giugno 2021, n. 4950"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-096",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo Cons. Stato, sez. II, n. 4950/2021, chi stabilisce se la massima sanzione espulsiva sia giustificata solo dalla dedizione all'uso di stupefacenti o anche da un consumo isolato ed episodico?",
+   "opzioni": {
+    "A": "il giudice amministrativo, caso per caso",
+    "B": "l'Amministrazione, nell'esercizio della sua discrezionalità",
+    "C": "la commissione medica ospedaliera",
+    "D": "il legislatore, con una soglia quantitativa"
+   },
+   "corretta": "B",
+   "spiegazione": "Per la sentenza «spetta unicamente all'Amministrazione stabilire» se basti la dedizione all'uso o anche un consumo isolato ed episodico: la scelta è discrezionale e sindacabile solo per manifesta illogicità, sproporzione o travisamento. Il principio è ripreso dalla n. 8439/2021.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 30 giugno 2021, n. 4950"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-097",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Un carabiniere positivo ai cannabinoidi sostiene di aver acquistato regolarmente cannabis light in un negozio. Secondo il Consiglio di Stato:",
+   "opzioni": {
+    "A": "il fatto è rilevante solo se commesso in uniforme",
+    "B": "l'uso anche di cannabis light è disciplinarmente rilevante, perché lesivo del prestigio dell'Arma, a prescindere dalla rilevanza penale e dalla prova dell'efficacia drogante",
+    "C": "il fatto è irrilevante, perché la vendita è autorizzata dalla L. 242/2016",
+    "D": "il fatto è rilevante solo se la sostanza supera lo 0,6% di THC"
+   },
+   "corretta": "B",
+   "spiegazione": "Cons. Stato, sez. II, n. 8439/2021: sul piano disciplinare rileva la violazione dei doveri del proprio status (artt. 1352 e 1356 COM), anche senza rilevanza penale e senza prova dell'effetto drogante. Coerentemente l'art. 732, co. 6, lett. c), TUROM parla di uso «comunque» di sostanze stupefacenti. La L. 242/2016 riguarda la coltivazione della canapa, non la vendita dei derivati.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "TUROM art. 732, co. 6, lett. c)",
+    "L. 242/2016"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-098",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo Cass. pen., sez. un., 10 luglio 2019, n. 30475, la commercializzazione al pubblico di infiorescenze, foglie, olio e resina di cannabis sativa:",
+   "opzioni": {
+    "A": "è soltanto un illecito amministrativo",
+    "B": "è sempre lecita se il THC è inferiore allo 0,6%",
+    "C": "integra il reato dell'art. 73 D.P.R. 309/1990 anche con THC inferiore ai valori della L. 242/2016, salvo che i prodotti siano in concreto privi di efficacia drogante",
+    "D": "è lecita in quanto autorizzata dalla L. 242/2016"
+   },
+   "corretta": "C",
+   "spiegazione": "Le Sezioni unite, riportate da Cons. Stato, sez. II, n. 8439/2021, hanno chiarito che la L. 242/2016 qualifica lecita solo la coltivazione delle varietà ammesse; la vendita dei derivati integra l'art. 73, salvo l'assenza in concreto di efficacia drogante (principio di offensività). Per il militare, comunque, la questione penale non è decisiva sul piano disciplinare.",
+   "riferimenti": [
+    "Cass. pen., sez. un., 10 luglio 2019, n. 30475",
+    "D.P.R. 309/1990 art. 73"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-099",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere in licenza all'estero consuma cannabis in un Paese in cui è consentita. Sul piano disciplinare:",
+   "opzioni": {
+    "A": "la condotta rileva solo se il militare è in missione",
+    "B": "la condotta rileva solo se il militare indossa l'uniforme",
+    "C": "la condotta non è irrilevante: la disciplina militare vale ovunque e l'art. 732 parla di uso «comunque» di sostanze stupefacenti",
+    "D": "la condotta è irrilevante, perché lecita nel luogo in cui è commessa"
+   },
+   "corretta": "C",
+   "spiegazione": "I doveri del militare non si fermano ai confini: la disciplina vale in tutto il mondo, e all'estero le conseguenze possono essere più gravi perché coinvolgono i canali diplomatici. L'art. 732, co. 6, lett. c), TUROM non distingue secondo il luogo; la liceità locale può incidere sulla valutazione della gravità (ad esempio sulla contiguità con ambienti criminali), non sulla rilevanza.",
+   "riferimenti": [
+    "TUROM art. 732, co. 6, lett. c)",
+    "TUROM art. 718"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-100",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Nel caso deciso da TAR Liguria, sez. I, 19 gennaio 2024, n. 27 (ricorso n. 289/2023), come fu accertata la positività alla cocaina dell'agente che si era presentato con il capo completamente rasato?",
+   "opzioni": {
+    "A": "con l'analisi del sangue disposta dal pubblico ministero",
+    "B": "con la sola testimonianza dei colleghi",
+    "C": "con l'esame di un pelo pubico, sfuggito alla rasatura",
+    "D": "con l'esame delle urine, positivo"
+   },
+   "corretta": "C",
+   "spiegazione": "L'agente, identificato dalla videosorveglianza di un pubblico esercizio mentre acquistava cocaina da un pluripregiudicato, in una verifica successiva si presentò rasato adducendo una dermatite: l'esame delle urine fu negativo, quello su un pelo pubico positivo. Il TAR ha respinto il ricorso contro il giudizio di inidoneità, ritenendo legittimo il giudizio plurimotivato della commissione medica.",
+   "riferimenti": [
+    "TAR Liguria, sez. I, 19 gennaio 2024, n. 27"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-101",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Oltre al controllo diretto, quali strumenti consentono di ottenere un riscontro oggettivo dell'acquisto di droga senza compromettere un'indagine in corso?",
+   "opzioni": {
+    "A": "i filmati della videosorveglianza installata da chi spaccia e la localizzazione del telefono tramite le celle",
+    "B": "soltanto l'esame tossicologico disposto dal comandante di reparto",
+    "C": "soltanto la confessione del militare",
+    "D": "soltanto il controllo su strada eseguito dal reparto del militare"
+   },
+   "corretta": "A",
+   "spiegazione": "Come nel caso deciso da TAR Liguria, sez. I, n. 27/2024, i filmati sequestrati nel locale dello spacciatore permisero di identificare l'acquirente; anche i dati di localizzazione delle celle offrono un dato oggettivo. Si evita così di fermare il militare e di svelare l'indagine.",
+   "riferimenti": [
+    "TAR Liguria, sez. I, 19 gennaio 2024, n. 27"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-102",
+   "argomento": "sanzioni-stato",
+   "sinossi": "IV.2",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Quale combinazione di indici rende più solida, secondo la giurisprudenza, la perdita del grado per uso di stupefacenti?",
+   "opzioni": {
+    "A": "assunzione ammessa spontaneamente, ottimi precedenti, nessuna risonanza pubblica",
+    "B": "cannabis light acquistata in negozio, unico episodio, esami successivi negativi, piena collaborazione",
+    "C": "cocaina procurata nel circuito illecito, positività al capello indicativa di uso non occasionale, contatti con spacciatori documentati dai tabulati, rifiuto di indicare la provenienza",
+    "D": "marijuana fumata dopo un turno di 24 ore, stato di disagio documentato, nessun contatto accertato"
+   },
+   "corretta": "C",
+   "spiegazione": "Tipo di sostanza, frequenza, contatti con il sottobosco della droga e comportamento del militare sono gli indici della gravità. Gli altri quadri ricalcano i casi in cui la rimozione è stata annullata (n. 8439/2021; n. 8452/2023) o quelli in cui l'Amministrazione deve almeno motivare con cura; l'ammissione spontanea, però, non ha impedito la rimozione nel caso della n. 774/2023.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "Cons. Stato, sez. II, 21 settembre 2023, n. 8452",
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-103",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "IV.2",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Nella contestazione degli addebiti per uso di stupefacenti in un procedimento di stato, quale accorgimento riduce il rischio di annullamento per sproporzione?",
+   "opzioni": {
+    "A": "limitarsi a richiamare la circ. 276/148-78-2009, che rende automatica la rimozione",
+    "B": "indicare con precisione gli elementi di fatto che fondano la gravità: provenienza della sostanza, contatti con soggetti dediti allo spaccio, abitualità, comportamento non collaborativo",
+    "C": "omettere gli elementi favorevoli al militare",
+    "D": "richiamare la gravità dei fatti con formula generale, senza descriverli"
+   },
+   "corretta": "B",
+   "spiegazione": "Il Consiglio di Stato ha annullato rimozioni motivate con riferimenti «meramente apodittici» alla gravità (n. 8439/2021) o fondate su istruttorie incomplete (n. 8452/2023). La circolare non rende automatica la sanzione e lascia ferma la discrezionalità; la contestazione deve fissare in modo preciso i fatti che dimostrano i massimi livelli di disvalore.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "COM art. 1355",
+    "circ. 276/148-78-2009 del 1.2.2019"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L05-104",
+   "argomento": "norme-comportamento",
+   "sinossi": "IV.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale formulazione ha oggi l'art. 187 del Codice della strada?",
+   "opzioni": {
+    "A": "prevede solo una sanzione amministrativa per la guida sotto l'effetto di stupefacenti",
+    "B": "punisce chi guida in stato di alterazione psico-fisica accertata dal medico",
+    "C": "si applica solo ai conducenti professionali",
+    "D": "punisce chi guida dopo aver assunto sostanze stupefacenti o psicotrope, senza richiedere uno stato di alterazione psico-fisica"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 187 C.d.S. vigente è rubricato «Guida dopo l'assunzione di sostanze stupefacenti» e punisce (ammenda da 1.500 a 6.000 euro e arresto da sei mesi a un anno, sospensione della patente da uno a due anni) chi guida dopo aver assunto stupefacenti o psicotropi. La precedente formula sullo «stato di alterazione psico-fisica», richiamata ancora dalla circ. 276/148-78-2009, è stata sostituita.",
+   "riferimenti": [
+    "C.d.S. art. 187, co. 1"
+   ],
+   "fonti": [
+    "lezione 5 (22.10.2026)"
+   ],
+   "lezione": 5,
+   "data_lezione": "2026-10-22"
   }
  ]
 }
