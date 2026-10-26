@@ -1438,19 +1438,20 @@
    "difficolta": 2,
    "domanda": "Per il personale militare del Corpo militare della Croce Rossa Italiana e dell'ACISMOM, le attività relative alla disciplina sono svolte:",
    "opzioni": {
-    "A": "dalla 3ª Divisione «Disciplina» della Direzione generale per il personale militare, come per tutti gli altri militari delle Forze armate, senza alcuna eccezione",
+    "A": "dalla 2ª Divisione «Disciplina» della Direzione generale per il personale militare, come per tutti gli altri militari delle Forze armate, senza alcuna eccezione",
     "B": "dal Comando generale dell'Arma dei Carabinieri, che per questi Corpi ausiliari esercita le attribuzioni di direzione generale in materia di disciplina",
     "C": "dagli organi interni dei due Corpi, sottratti alla potestà disciplinare del Ministro della difesa in quanto enti dotati di propria autonomia ordinamentale",
-    "D": "dalla Direzione generale della previdenza militare e della leva, anziché dalla 3ª Divisione «Disciplina» della Direzione generale per il personale militare"
+    "D": "dal 5° Ufficio «Leva e corpi ausiliari» della Direzione generale della previdenza militare e della leva, anziché dalla 2ª Divisione «Disciplina»"
    },
    "corretta": "D",
-   "spiegazione": "La 3ª Divisione «Disciplina» della Direzione generale per il personale militare svolge le attività connesse con i procedimenti disciplinari a carico del personale militare, ma non per il personale del servizio di assistenza spirituale, del Corpo militare dell'ACISMOM e del Corpo militare della CRI: per questi provvede la Direzione generale della previdenza militare e della leva (D.M. 16 gennaio 2013, artt. 21 e 27). Restano comunque militari soggetti alla disciplina.",
+   "spiegazione": "La 2ª Divisione «Disciplina» della Direzione generale per il personale militare svolge le attività connesse con i procedimenti penali e disciplinari a carico del personale militare (D.M. 20 marzo 2025, art. 24, co. 1, lett. f). Per il personale del servizio di assistenza spirituale, del Corpo militare dell'ACISMOM e del Corpo militare volontario della Croce rossa italiana la disciplina è invece curata dal 5° Ufficio «Leva e corpi ausiliari, bilancio e informatica» della Direzione generale della previdenza militare e della leva (art. 28, co. 1, lett. e, n. 1). Restano comunque militari soggetti alla disciplina. Il D.M. 20 marzo 2025, in vigore dal 31 marzo 2025, ha abrogato il D.M. 16 gennaio 2013, che attribuiva le stesse funzioni alla 3ª Divisione della prima Direzione generale e all'8ª Divisione della seconda.",
    "riferimenti": [
-    "D.M. 16 gennaio 2013, artt. 21 e 27"
+    "D.M. 20 marzo 2025, art. 24, co. 1, lett. f)",
+    "D.M. 20 marzo 2025, art. 28, co. 1, lett. e), n. 1"
    ],
    "fonti": [
     "lezione 1 (14.10.2026)",
-    "Guida tecnica pp. 8-9"
+    "D.M. 20 marzo 2025 (G.U. n. 106 del 9.5.2025)"
    ],
    "lezione": 1,
    "data_lezione": "2026-10-14"
@@ -2780,15 +2781,17 @@
    "difficolta": 3,
    "domanda": "La perdita del grado, con il conseguente effetto di cessazione dal servizio, può essere effetto automatico di una condanna penale?",
    "opzioni": {
-    "A": "di regola no: la sanzione va graduata in un autonomo procedimento disciplinare; la Corte costituzionale (sent. n. 268/2016) ha dichiarato illegittimo l'art. 923, co. 1, lett. i), COM nella parte in cui non prevedeva il procedimento per la cessazione conseguente all'interdizione temporanea dai pubblici uffici",
+    "A": "di regola no: la sanzione va graduata in un autonomo procedimento disciplinare; la sent. n. 268/2016 della Corte costituzionale ha dichiarato illegittimi gli artt. 866, co. 1, 867, co. 3, e 923, co. 1, lett. i), COM, che non lo prevedevano per la cessazione conseguente all'interdizione temporanea dai pubblici uffici",
     "B": "sì, sempre: la perdita del grado consegue di diritto a ogni condanna definitiva alla reclusione, anche se condizionalmente sospesa, e la cessazione dal servizio decorre dal passaggio in giudicato della sentenza, senza alcun procedimento disciplinare",
     "C": "sì, ma solo per la condanna per reati militari, non per quelli comuni: per questi ultimi la Corte costituzionale (sent. n. 268/2016) ha imposto un autonomo procedimento disciplinare, nel quale la sanzione va graduata secondo proporzionalità",
     "D": "no, mai: la Corte costituzionale (sent. n. 268/2016) ha escluso ogni automatismo, sicché neppure l'interdizione perpetua dai pubblici uffici o l'estinzione del rapporto di impiego ex art. 32-quinquies c.p. possono comportare la cessazione senza un procedimento disciplinare"
    },
    "corretta": "A",
-   "spiegazione": "Per la Corte costituzionale la sanzione disciplinare va graduata, di regola, nel procedimento a ciò preposto, secondo proporzionalità; con la sent. 15 dicembre 2016, n. 268 ha dichiarato illegittimi gli artt. 867, co. 3, e 923, co. 1, lett. i), COM nella parte in cui non prevedevano il procedimento disciplinare per la cessazione conseguente all'interdizione temporanea. L'automatismo resta giustificato solo per fattispecie radicalmente incompatibili con il rapporto, come l'interdizione perpetua o l'estinzione del rapporto ex art. 32-quinquies c.p. (che fanno perdere anche lo status, art. 622 COM).",
+   "spiegazione": "Per la Corte costituzionale la sanzione disciplinare va graduata, di regola, nel procedimento a ciò preposto, secondo proporzionalità; con la sent. 15 dicembre 2016, n. 268 ha dichiarato illegittimi gli artt. 866, co. 1, 867, co. 3, e 923, co. 1, lett. i), COM nella parte in cui non prevedevano il procedimento disciplinare per la cessazione conseguente all'interdizione temporanea. L'automatismo resta giustificato solo per fattispecie radicalmente incompatibili con il rapporto, come l'interdizione perpetua o l'estinzione del rapporto ex art. 32-quinquies c.p. (che fanno perdere anche lo status, art. 622 COM).",
    "riferimenti": [
     "Corte cost., 15 dicembre 2016, n. 268",
+    "COM art. 866, co. 1",
+    "COM art. 867, co. 3",
     "COM art. 923, co. 1, lett. i)",
     "COM art. 622"
    ],
@@ -5066,7 +5069,7 @@
     "D": "solo quando il proscioglimento è dovuto all'estinzione del reato per prescrizione"
    },
    "corretta": "A",
-   "spiegazione": "La domanda chiede quando l'assoluzione vincola: per l'art. 653, co. 1, c.p.p. ha efficacia di giudicato nel giudizio disciplinare quanto all'accertamento che il fatto non sussiste o non costituisce illecito penale ovvero che l'imputato non lo ha commesso. In questi casi l'azione disciplinare è impromovibile per lo stesso fatto. Non vincola, invece, ogni assoluzione: il proscioglimento per ragioni processuali o per estinzione del reato non preclude un'autonoma valutazione disciplinare.",
+   "spiegazione": "La domanda chiede quando l'assoluzione vincola: per l'art. 653, co. 1, c.p.p. ha efficacia di giudicato nel giudizio disciplinare quanto all'accertamento che il fatto non sussiste o non costituisce illecito penale ovvero che l'imputato non lo ha commesso. In questi casi l'azione disciplinare è impromovibile per lo stesso fatto. Limitare l'effetto al solo difetto dell'elemento soggettivo è errato: la norma comprende anzitutto l'insussistenza del fatto e la sua non commissione da parte dell'imputato. Non vincola, invece, ogni assoluzione: il proscioglimento per ragioni processuali o per estinzione del reato non preclude un'autonoma valutazione disciplinare.",
    "riferimenti": [
     "c.p.p. art. 653, co. 1"
    ],
@@ -9679,14 +9682,15 @@
     "D": "che esegua l'ordine più favorevole al servizio, secondo la propria valutazione, informando poi il superiore il cui ordine non ha eseguito"
    },
    "corretta": "C",
-   "spiegazione": "In caso di contrasto con l'ordine ricevuto da altro superiore, il militare deve farlo presente, obbedire al nuovo ordine e informare, appena possibile, il superiore dal quale aveva ricevuto il precedente (art. 729, co. 1, lett. c, TUROM). Resta fermo il dovere di non eseguire l'ordine manifestamente criminoso (art. 1349, co. 2, COM). Non c'è spazio per una scelta discrezionale dell'esecutore tra i due ordini.",
+   "spiegazione": "In caso di contrasto con l'ordine ricevuto da altro superiore, il militare deve farlo presente, obbedire al nuovo ordine e informare, appena possibile, il superiore dal quale aveva ricevuto il precedente (art. 729, co. 1, lett. c, TUROM). Resta fermo il dovere di non eseguire l'ordine manifestamente criminoso (art. 1349, co. 2, COM). Non c'è spazio per una scelta discrezionale dell'esecutore tra i due ordini. La regola non consente però a un superiore di revocare l'ordine impartito da un superiore a lui sovraordinato: soltanto l'organo sovraordinato può annullare, derogare o revocare un ordine militare.",
    "riferimenti": [
     "TUROM art. 729, co. 1, lett. c)",
     "COM art. 1349, co. 2"
    ],
    "fonti": [
     "domande poste in aula, 19.10.2026, n. 12",
-    "Sinossi p. 81"
+    "Sinossi p. 81",
+    "Sinossi p. 80"
    ],
    "domanda_aula": true,
    "lezione": 3,
@@ -9986,14 +9990,15 @@
     "D": "il n. 1 obbedisce al n. 2, suo superiore diretto, che prevale sul superiore dal quale non dipende; il n. 2 non rischia nulla, avendo agito nell'esercizio delle proprie funzioni di comando"
    },
    "corretta": "A",
-   "spiegazione": "L'ordine del n. 3 possiede nella forma e nella sostanza tutti i requisiti: il n. 1 deve eseguirlo (salvo che sia manifestamente criminoso) e poi riferire quanto gli ha detto il n. 2. Il superiore intermedio che invita a non eseguire si espone all'istigazione a commettere un reato militare (art. 212 c.p.m.p.: reclusione militare se l'istigazione non è accolta o il reato non è commesso; la condanna importa la rimozione se il colpevole è superiore dell'istigato) o, se la disobbedienza è commessa, al concorso nel reato di disobbedienza (art. 173 c.p.m.p.).",
+   "spiegazione": "L'ordine del n. 3 possiede nella forma e nella sostanza tutti i requisiti: il n. 1 deve eseguirlo (salvo che sia manifestamente criminoso) e poi riferire quanto gli ha detto il n. 2. Non vale qui la regola del contrasto tra ordini (art. 729, co. 1, lett. c, TUROM, che fa obbedire al nuovo ordine): il n. 2 non può revocare né paralizzare l'ordine del n. 3, suo superiore, perché in un sistema gerarchico soltanto l'organo sovraordinato può annullare, derogare o revocare un ordine militare. Il superiore intermedio che invita a non eseguire si espone all'istigazione a commettere un reato militare (art. 212 c.p.m.p.: reclusione militare se l'istigazione non è accolta o il reato non è commesso; la condanna importa la rimozione se il colpevole è superiore dell'istigato) o, se la disobbedienza è commessa, al concorso nel reato di disobbedienza (art. 173 c.p.m.p.).",
    "riferimenti": [
     "c.p.m.p. artt. 173 e 212",
-    "TUROM art. 729"
+    "TUROM art. 729, co. 1, lett. c)"
    ],
    "fonti": [
     "lezione 3 (19.10.2026)",
-    "domande poste in aula, 19.10.2026, n. 11"
+    "domande poste in aula, 19.10.2026, n. 11",
+    "Sinossi p. 80"
    ],
    "domanda_aula": true,
    "lezione": 3,
@@ -11590,9 +11595,10 @@
     "D": "è comunicata al Ministro, che decide se costituirsi parte civile nel successivo giudizio civile; la Corte dei conti interviene solo per il danno patrimoniale diretto"
    },
    "corretta": "B",
-   "spiegazione": "Per l'art. 51, co. 7, D.Lgs. 174/2016 la sentenza irrevocabile di condanna per delitti commessi a danno dell'amministrazione è comunicata al competente procuratore regionale della Corte dei conti, per l'eventuale giudizio di responsabilità, anche per il danno all'immagine. Fino al 2016 l'azione era limitata dall'art. 17, co. 30-ter, D.L. 78/2009 (lodo Bernardo), con rinvio all'art. 7 L. 97/2001; il codice di giustizia contabile ha abrogato entrambe le disposizioni.",
+   "spiegazione": "Per l'art. 51, co. 7, D.Lgs. 174/2016 la sentenza irrevocabile di condanna per delitti commessi a danno dell'amministrazione è comunicata al competente procuratore regionale della Corte dei conti, per l'eventuale giudizio di responsabilità, anche per il danno all'immagine. Il limite all'azione per il danno all'immagine nasce dall'art. 17, co. 30-ter, D.L. 78/2009 (c.d. lodo Bernardo), che la ammette «nei soli casi e nei modi previsti dall'articolo 7 della legge 27 marzo 2001, n. 97»; il codice di giustizia contabile ha abrogato l'art. 7 L. 97/2001 e soltanto il primo periodo del co. 30-ter, e disciplina ora la comunicazione della sentenza nell'art. 51, co. 7.",
    "riferimenti": [
-    "D.Lgs. 174/2016 art. 51, co. 7"
+    "D.Lgs. 174/2016 art. 51, co. 7",
+    "D.L. 78/2009 art. 17, co. 30-ter"
    ],
    "fonti": [
     "lezione 4 (21.10.2026)"
