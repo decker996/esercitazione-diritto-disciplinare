@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Diritto Disciplinare – Esercitazione</title>
 <meta name="description" content="Banca dati di quesiti a risposta multipla di Diritto Disciplinare militare: manuale d'uso.">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=2">
 </head>
 <body>
 <header class="testata">
@@ -48,7 +48,7 @@ norme alla data di aggiornamento indicata sopra; se trovi un errore, segnalalo (
 <h2>Come esercitarsi</h2>
 <h3>Se hai già studiato le lezioni</h3>
 <ol>
-  <li>Dopo ogni lezione, fai <strong>Allenamento</strong> sulla lezione appena studiata (filtro «Lezione»).</li>
+  <li>Dopo ogni lezione, fai <strong>Allenamento</strong> sulla lezione appena studiata (al passo 2 scegli «Per lezione»).</li>
   <li>Leggi la spiegazione anche quando hai risposto bene: spesso il quesito è costruito su un'eccezione o su una
   norma vicina, e la spiegazione dice qual è la trappola.</li>
   <li>Ogni pochi giorni, <strong>Ripasso degli errori</strong>, finché la lista non è vuota.</li>
@@ -64,6 +64,18 @@ norme alla data di aggiornamento indicata sopra; se trovi un errore, segnalalo (
   più della risposta.</li>
   <li>Chiudi l'argomento con un <strong>Allenamento</strong> sullo stesso argomento, in ordine casuale.</li>
 </ol>
+<h3>Come scegliere i quesiti</h3>
+<p>Nella pagina dell'esercitazione la scelta si fa in tre passi, e in fondo allo schermo resta sempre il riepilogo con
+il numero di quesiti e il pulsante <strong>Inizia</strong>:</p>
+<ol>
+  <li><strong>Modalità</strong>: Studio, Allenamento, Simulazione d'esame o Ripasso degli errori.</li>
+  <li><strong>Che cosa esercitare</strong>: <em>Tutta la banca</em>; <em>Per lezione</em> (tocca una o più lezioni: ogni
+  scheda indica data, numero di quesiti e argomenti principali); <em>Per argomento</em> (spunta una parte intera della
+  materia, apri «argomenti» per sceglierli uno per uno, oppure cerca per parola, per esempio «consegna»).</li>
+  <li><strong>Filtri</strong>, facoltativi: restano chiusi finché non servono; quando ne è attivo qualcuno, il
+  riquadro lo segnala.</li>
+</ol>
+<p>Le scelte del passo 2 restano memorizzate nel browser per la volta successiva.</p>
 <h3>Filtri utili</h3>
 <ul>
   <li><strong>Punti d'esame</strong>: solo i quesiti sui punti indicati come oggetto del test nei corsi precedenti
@@ -89,7 +101,8 @@ norme alla data di aggiornamento indicata sopra; se trovi un errore, segnalalo (
 </table>
 </div>
 <p>La difficoltà va da 1 (base) a 3 (alta: distrattori costruiti su norme vicine, eccezioni, numeri simili). L'ordine
-delle quattro risposte cambia a ogni tentativo, così non si memorizza la lettera. Sotto la spiegazione trovi i
+delle quattro risposte cambia a ogni tentativo, così non si memorizza la lettera, e in ogni prova la risposta esatta
+cade in A, B, C e D lo stesso numero di volte. Sotto la spiegazione trovi i
 <strong>riferimenti</strong> (articoli, sentenze, circolari) e le <strong>fonti</strong> dove approfondire (lezione,
 pagina della Sinossi o della Guida tecnica).</p>
 <p class="piccolo">Abbreviazioni: COM = D.Lgs. 15 marzo 2010, n. 66 (Codice dell'ordinamento militare); TUROM = D.P.R.
@@ -106,12 +119,12 @@ segnati.</p>
 <h2>Segnalare un errore</h2>
 <p>Sotto ogni spiegazione c'è il link <em>Segnala un errore</em>: apre una segnalazione su GitHub con il codice del
 quesito già compilato (serve un account GitHub gratuito). Indica che cosa non va e, se puoi, la norma o la pagina che
-lo dimostra. In alternativa, scrivi direttamente all'autore citando il codice del quesito (per esempio
-<code>DD-L03-007</code>).</p>
+lo dimostra. In alternativa, segnala a voce o per messaggio il codice del quesito (per esempio
+<code>DD-L03-007</code>) a chi ti ha passato il link.</p>
 
 <p class="riga-azioni"><a href="esercitazione.html"><button class="primario">Vai all'esercitazione</button></a></p>
 </main>
-<footer>Raccolta personale a cura di S. Ten. Salvatore Grasso · 8° Corso Applicativo Biennale · nessun carattere ufficiale.</footer>
+<footer>Raccolta personale · 8° Corso Applicativo Biennale · nessun carattere ufficiale.</footer>
 <script>
 fetch("banca_dati.json", { cache: "no-cache" }).then(r => r.json()).then(b => {
   const lez = new Set(b.quesiti.map(q => q.lezione).filter(Boolean));

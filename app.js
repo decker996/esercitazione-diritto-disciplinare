@@ -22,7 +22,8 @@ const el = (tag, attrs = {}, ...figli) => {
 const mescola = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 
 let banca = { quesiti: [], argomenti: [] }, ordineArg = {}, etichettaArg = {};
-let modo = "studio", prova = null, intervallo = null;
+let modo = "studio", ambito = "tutto", prova = null, intervallo = null;
+const SCELTE = "dd-scelte-v1";
 
 // --- progressi nel browser -------------------------------------------------
 let progressi = {};
@@ -35,20 +36,63 @@ function registra(id, giusta) {
 }
 
 // --- impostazioni --------------------------------------------------------------
+const spuntati = sel => new Set([...document.querySelectorAll(sel + " input[value]:checked")].map(c => c.value));
+const dataIt = d => d ? d.split("-").reverse().join(".") : "";
+const elenco = v => v.length > 1 ? v.slice(0, -1).join(", ") + " e " + v[v.length - 1] : v.join("");
+function nelPerimetro(q, lezioni, argomenti) {
+  if (ambito === "lezioni") return lezioni.has(String(q.lezione));
+  if (ambito === "argomenti") return argomenti.has(q.argomento);
+  return true;
+}
 function filtrati() {
-  const scelti = new Set([...document.querySelectorAll("#argomenti input:checked")].map(c => c.value));
-  const lez = $("lezione").value, tipo = $("tipo").value, diff = $("difficolta").value;
+  const lezioni = spuntati("#lezioni"), argomenti = spuntati("#argomenti");
+  const tipo = $("tipo").value, diff = $("difficolta").value;
   return banca.quesiti.filter(q =>
-    scelti.has(q.argomento) && (!lez || String(q.lezione) === lez) && (!tipo || q.tipo === tipo) &&
+    nelPerimetro(q, lezioni, argomenti) && (!tipo || q.tipo === tipo) &&
     (!diff || String(q.difficolta) === diff) && (!$("solo-test").checked || q.test_vernice) &&
     (!$("solo-aula").checked || q.domanda_aula) && (!$("mai-visti").checked || !progressi[q.id]) &&
     (modo !== "ripasso" || (progressi[q.id] && progressi[q.id].u === false)));
 }
+function descriviAmbito() {
+  if (ambito === "lezioni") {
+    const n = [...spuntati("#lezioni")].map(Number).sort((a, b) => a - b);
+    return n.length ? (n.length === 1 ? "Lezione " : "Lezioni ") + elenco(n.map(String)) : "";
+  }
+  if (ambito === "argomenti") {
+    const s = [...spuntati("#argomenti")];
+    return s.length ? (s.length === 1 ? etichettaArg[s[0]] : `${s.length} argomenti`) : "";
+  }
+  return "Tutta la banca";
+}
+function descriviFiltri() {
+  const f = [];
+  if ($("tipo").value) f.push(TIPI[$("tipo").value]);
+  if ($("difficolta").value) f.push("difficoltà " + $("difficolta").value);
+  if ($("solo-test").checked) f.push("punti d'esame");
+  if ($("solo-aula").checked) f.push("domande in aula");
+  if ($("mai-visti").checked) f.push("mai visti");
+  return f;
+}
+function aggiornaParti() {
+  document.querySelectorAll("#argomenti .parte").forEach(p => {
+    const voci = [...p.querySelectorAll(".voci input")], scelti = voci.filter(c => c.checked).length;
+    const tutta = p.querySelector(".tutta-parte");
+    tutta.checked = scelti === voci.length; tutta.indeterminate = scelti > 0 && scelti < voci.length;
+    p.querySelector(".scelti").textContent = scelti ? `${scelti} di ${voci.length} scelti` : `${voci.length} argomenti`;
+  });
+  document.querySelectorAll("#lezioni label").forEach(l => l.classList.toggle("attiva", l.querySelector("input").checked));
+}
 function aggiornaConteggio() {
-  const n = filtrati().length;
+  aggiornaParti();
+  const n = filtrati().length, cosa = descriviAmbito(), filtri = descriviFiltri();
   const quanti = modo === "simulazione" ? Math.min(n, +$("n-quesiti").value || 30) : n;
-  $("conteggio").textContent = n ? `${quanti} ${quanti === 1 ? "quesito" : "quesiti"}${modo === "simulazione" && n > quanti ? ` estratti tra ${n}` : ""}` : "Nessun quesito con questi filtri.";
-  $("inizia").disabled = !n;
+  $("filtri-attivi").textContent = filtri.length ? "attivi: " + filtri.join(", ") : "nessun filtro attivo";
+  $("box-filtri").classList.toggle("con-filtri", filtri.length > 0);
+  $("riepilogo").textContent = cosa ? cosa + (filtri.length ? " · " + filtri.join(", ") : "") : "";
+  $("conteggio").textContent = !cosa ? (ambito === "lezioni" ? "Scegli almeno una lezione." : "Scegli almeno un argomento.")
+    : n ? `${quanti} ${quanti === 1 ? "quesito" : "quesiti"}${modo === "simulazione" && n > quanti ? ` estratti a caso tra ${n}` : ""}`
+    : modo === "ripasso" ? "Nessun errore da rivedere con queste scelte." : "Nessun quesito con queste scelte: togli qualche filtro.";
+  $("inizia").disabled = !n || !cosa;
   const errori = banca.quesiti.filter(q => progressi[q.id] && progressi[q.id].u === false).length;
   $("n-errori").textContent = errori ? `${errori} da rivedere` : "nessun errore da rivedere";
   const fatti = banca.quesiti.filter(q => progressi[q.id]);
@@ -56,42 +100,107 @@ function aggiornaConteggio() {
   $("miei-progressi").innerHTML = `<span><b>${fatti.length} / ${banca.quesiti.length}</b>quesiti affrontati</span>` +
     `<span><b>${fatti.length ? Math.round(100 * giusti / fatti.length) : 0}%</b>esatti all'ultimo tentativo</span>` +
     `<span><b>${errori}</b>da rivedere</span>`;
+  salvaScelte();
+}
+function salvaScelte() {
+  try {
+    localStorage.setItem(SCELTE, JSON.stringify({ ambito, lezioni: [...spuntati("#lezioni")], argomenti: [...spuntati("#argomenti")] }));
+  } catch { /* browser senza memoria */ }
 }
 function scegliModo(m) {
   modo = MODI[m] ? m : "studio";
   document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-pressed", t.dataset.modo === modo));
   $("descrizione-modo").textContent = MODI[modo];
   $("opzioni-simulazione").classList.toggle("nascosto", modo !== "simulazione");
+  $("inizia").textContent = modo === "simulazione" ? "Inizia la simulazione" : modo === "ripasso" ? "Inizia il ripasso" : "Inizia";
   history.replaceState(null, "", "#" + modo);
   aggiornaConteggio();
 }
+function scegliAmbito(a) {
+  ambito = ["tutto", "lezioni", "argomenti"].includes(a) ? a : "tutto";
+  document.querySelectorAll("[data-ambito]").forEach(b => b.setAttribute("aria-checked", b.dataset.ambito === ambito));
+  ["tutto", "lezioni", "argomenti"].forEach(x => $("pannello-" + x).classList.toggle("nascosto", x !== ambito));
+  aggiornaConteggio();
+}
 function costruisciImpostazioni() {
+  let salvate = {};
+  try { salvate = JSON.parse(localStorage.getItem(SCELTE)) || {}; } catch { salvate = {}; }
   const conta = {};
   banca.quesiti.forEach(q => { conta[q.argomento] = (conta[q.argomento] || 0) + 1; });
-  const box = $("argomenti");
-  let parte = null;
+  $("n-tutto").textContent = `${banca.quesiti.length} quesiti`;
+
+  // argomenti raggruppati per parte (ordine della Sinossi)
+  const parti = [];
   banca.argomenti.forEach((a, i) => {
     ordineArg[a.slug] = i; etichettaArg[a.slug] = a.titolo;
-    if (a.parte !== parte) { parte = a.parte; box.append(el("div", { class: "parte" }, parte)); }
-    const c = el("input", { type: "checkbox", value: a.slug }); c.checked = true;
-    box.append(el("label", { title: a.descrizione }, c, el("span", {}, a.titolo), el("span", { class: "n" }, String(conta[a.slug] || 0))));
+    if (!parti.length || parti[parti.length - 1].nome !== a.parte) parti.push({ nome: a.parte, voci: [] });
+    parti[parti.length - 1].voci.push(a);
   });
+
+  // lezioni: una scheda per giornata, con gli argomenti più presenti
   [...new Set(banca.quesiti.map(q => q.lezione).filter(Boolean))].sort((a, b) => a - b).forEach(n => {
-    const q = banca.quesiti.find(x => x.lezione === n);
-    const data = q.data_lezione ? " – " + q.data_lezione.split("-").reverse().join(".") : "";
-    $("lezione").append(el("option", { value: n }, `Lezione ${n}${data}`));
+    const qs = banca.quesiti.filter(x => x.lezione === n), per = {};
+    qs.forEach(q => { per[q.argomento] = (per[q.argomento] || 0) + 1; });
+    const temi = Object.keys(per).sort((a, b) => per[b] - per[a]);
+    const c = el("input", { type: "checkbox", value: String(n) }); c.checked = (salvate.lezioni || []).includes(String(n));
+    $("lezioni").append(el("label", {}, c,
+      el("span", { class: "titolo" }, `Lezione ${n}`), el("span", { class: "data" }, `${dataIt(qs[0].data_lezione)} · ${qs.length} quesiti`),
+      el("span", { class: "temi" }, temi.slice(0, 3).map(s => etichettaArg[s] || s).join(" · ") + (temi.length > 3 ? " …" : ""))));
   });
+
+  // ogni parte si sceglie per intero o si apre per scegliere i singoli argomenti
+  const box = $("argomenti");
+  parti.forEach(p => {
+    const tutta = el("input", { type: "checkbox", class: "tutta-parte" });
+    const apri = el("button", { type: "button", class: "apri", "aria-expanded": "false" }, "argomenti ▾");
+    const voci = el("div", { class: "voci nascosto" });
+    p.voci.forEach(a => {
+      const c = el("input", { type: "checkbox", value: a.slug }); c.checked = (salvate.argomenti || []).includes(a.slug);
+      voci.append(el("label", { title: a.descrizione, "data-cerca": (a.titolo + " " + a.descrizione).toLowerCase() },
+        c, el("span", {}, a.titolo), el("span", { class: "n" }, String(conta[a.slug] || 0))));
+    });
+    const quesiti = p.voci.reduce((t, a) => t + (conta[a.slug] || 0), 0);
+    box.append(el("div", { class: "parte" },
+      el("div", { class: "testa-parte" }, el("label", {}, tutta, el("b", {}, p.nome)),
+        el("span", { class: "piccolo" }, el("span", { class: "scelti" }), ` · ${quesiti} quesiti`), apri), voci));
+    tutta.onchange = () => { voci.querySelectorAll("input").forEach(c => { c.checked = tutta.checked; }); aggiornaConteggio(); };
+    apri.onclick = () => {
+      const chiusa = voci.classList.toggle("nascosto");
+      apri.setAttribute("aria-expanded", String(!chiusa)); apri.textContent = chiusa ? "argomenti ▾" : "chiudi ▴";
+    };
+  });
+  $("cerca-arg").oninput = () => {
+    const t = $("cerca-arg").value.trim().toLowerCase();
+    box.querySelectorAll(".parte").forEach(p => {
+      let visibili = 0;
+      p.querySelectorAll(".voci label").forEach(l => { const ok = !t || l.dataset.cerca.includes(t); l.classList.toggle("nascosto", !ok); visibili += ok; });
+      p.classList.toggle("nascosto", !visibili);
+      const voci = p.querySelector(".voci"), apri = p.querySelector(".apri");
+      voci.classList.toggle("nascosto", !t); apri.classList.toggle("nascosto", !!t);
+      apri.textContent = "argomenti ▾"; apri.setAttribute("aria-expanded", "false");
+    });
+  };
+
   Object.entries(TIPI).forEach(([k, v]) => { if (banca.quesiti.some(q => q.tipo === k)) $("tipo").append(el("option", { value: k }, v)); });
   $("solo-test").closest("label").classList.toggle("nascosto", !banca.quesiti.some(q => q.test_vernice));
   $("solo-aula").closest("label").classList.toggle("nascosto", !banca.quesiti.some(q => q.domanda_aula));
   document.querySelectorAll("#impostazioni input, #impostazioni select").forEach(x => x.addEventListener("change", aggiornaConteggio));
-  $("tutti").onclick = () => { box.querySelectorAll("input").forEach(c => { c.checked = true; }); aggiornaConteggio(); };
-  $("nessuno").onclick = () => { box.querySelectorAll("input").forEach(c => { c.checked = false; }); aggiornaConteggio(); };
+  const tutte = (sel, v) => () => { document.querySelectorAll(sel + " input").forEach(c => { c.checked = v; }); aggiornaConteggio(); };
+  // con una ricerca in corso, «Seleziona tutti» prende solo gli argomenti trovati
+  $("tutti").onclick = tutte("#argomenti .voci label:not(.nascosto)", true); $("nessuno").onclick = tutte("#argomenti", false);
+  $("lez-tutte").onclick = tutte("#lezioni", true); $("lez-nessuna").onclick = tutte("#lezioni", false);
+  $("azzera-filtri").onclick = () => {
+    $("tipo").value = ""; $("difficolta").value = "";
+    ["solo-test", "solo-aula", "mai-visti"].forEach(x => { $(x).checked = false; });
+    aggiornaConteggio();
+  };
   document.querySelectorAll(".tab").forEach(t => { t.onclick = () => scegliModo(t.dataset.modo); });
+  document.querySelectorAll("[data-ambito]").forEach(b => { b.onclick = () => scegliAmbito(b.dataset.ambito); });
   $("azzera").onclick = () => {
     if (confirm("Cancellare tutte le risposte salvate in questo browser?")) { progressi = {}; salvaProgressi(); aggiornaConteggio(); }
   };
   $("inizia").onclick = inizia;
+  ambito = salvate.ambito || "tutto";
 }
 
 // --- prova -------------------------------------------------------------------------
@@ -100,8 +209,14 @@ function inizia() {
   if (modo === "studio") lista.sort((a, b) => (ordineArg[a.argomento] - ordineArg[b.argomento]) || (a.difficolta - b.difficolta) || a.id.localeCompare(b.id));
   else mescola(lista);
   if (modo === "simulazione") lista = lista.slice(0, Math.max(1, +$("n-quesiti").value || 30));
+  // la risposta esatta cade in A, B, C e D lo stesso numero di volte, in ordine casuale; le altre si mescolano
+  const posti = mescola(lista.map((_, k) => k % 4));
   prova = {
-    modo, i: 0, voci: lista.map(q => ({ q, ordine: mescola(["A", "B", "C", "D"]), risposta: null, vista: false })),
+    modo, i: 0, voci: lista.map((q, k) => {
+      const ordine = mescola(["A", "B", "C", "D"].filter(x => x !== q.corretta));
+      ordine.splice(posti[k], 0, q.corretta);
+      return { q, ordine, risposta: null, vista: false };
+    }),
     fine: modo === "simulazione" && +$("tempo").value ? Date.now() + 60000 * +$("tempo").value : 0,
   };
   $("impostazioni").classList.add("nascosto"); $("risultato").classList.add("nascosto"); $("prova").classList.remove("nascosto");
@@ -225,6 +340,7 @@ document.addEventListener("keydown", e => {
 fetch("banca_dati.json", { cache: "no-cache" }).then(r => r.json()).then(b => {
   banca = b;
   costruisciImpostazioni();
+  scegliAmbito(ambito);
   scegliModo(location.hash.slice(1));
   addEventListener("hashchange", () => { if (!prova) scegliModo(location.hash.slice(1)); });
 }).catch(() => {

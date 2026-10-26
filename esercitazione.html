@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Diritto Disciplinare – Esercitazione</title>
 <meta name="description" content="Esercitazione sui quesiti a risposta multipla di Diritto Disciplinare militare.">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=2">
 </head>
 <body>
 <header class="testata">
@@ -18,50 +18,69 @@
 <main>
 
 <section id="impostazioni">
+  <h2 class="passo ui"><span class="num">1</span> Scegli la modalità</h2>
   <div class="tabs ui" role="group" aria-label="Modalità">
     <button class="tab" data-modo="studio"><b>Studio</b><span>percorso guidato, spiegazione subito</span></button>
     <button class="tab" data-modo="allenamento"><b>Allenamento</b><span>ordine casuale, correzione subito</span></button>
     <button class="tab" data-modo="simulazione"><b>Simulazione d'esame</b><span>correzione alla fine</span></button>
     <button class="tab" data-modo="ripasso"><b>Ripasso errori</b><span id="n-errori">quesiti sbagliati</span></button>
   </div>
+  <p id="descrizione-modo" class="piccolo"></p>
 
+  <h2 class="passo ui"><span class="num">2</span> Scegli che cosa esercitare</h2>
   <div class="card">
-    <p id="descrizione-modo" class="piccolo" style="margin-top:0"></p>
-
-    <fieldset>
-      <legend>Argomenti</legend>
-      <div class="riga-azioni" style="margin-top:0">
-        <button type="button" id="tutti">Tutti</button><button type="button" id="nessuno">Nessuno</button>
-        <select id="lezione" aria-label="Lezione"><option value="">Tutte le lezioni</option></select>
-      </div>
-      <div class="argomenti" id="argomenti"></div>
-    </fieldset>
-
-    <fieldset>
-      <legend>Filtri</legend>
-      <div class="scelte">
-        <label>Tipo <select id="tipo"><option value="">tutti</option></select></label>
-        <label>Difficoltà <select id="difficolta"><option value="">tutte</option><option value="1">1 – base</option>
-          <option value="2">2 – media</option><option value="3">3 – alta</option></select></label>
-        <label><input type="checkbox" id="solo-test"> punti d'esame</label>
-        <label><input type="checkbox" id="solo-aula"> domande poste in aula</label>
-        <label><input type="checkbox" id="mai-visti"> mai visti</label>
-      </div>
-    </fieldset>
-
-    <fieldset id="opzioni-simulazione">
-      <legend>Simulazione</legend>
-      <div class="scelte">
-        <label>Quesiti <input type="number" id="n-quesiti" min="5" max="200" value="30" style="width:5em"></label>
-        <label>Tempo <select id="tempo"><option value="0">nessun limite</option><option value="30">30 minuti</option>
-          <option value="45">45 minuti</option><option value="60">60 minuti</option></select></label>
-      </div>
-    </fieldset>
-
-    <div class="riga-azioni">
-      <button class="primario" id="inizia">Inizia</button>
-      <span class="piccolo" id="conteggio"></span>
+    <div class="segmenti ui" role="radiogroup" aria-label="Che cosa esercitare">
+      <button type="button" role="radio" data-ambito="tutto"><b>Tutta la banca</b><span id="n-tutto">tutti i quesiti</span></button>
+      <button type="button" role="radio" data-ambito="lezioni"><b>Per lezione</b><span>una o più lezioni</span></button>
+      <button type="button" role="radio" data-ambito="argomenti"><b>Per argomento</b><span>uno o più argomenti</span></button>
     </div>
+    <div id="pannello-tutto" class="pannello">
+      <p class="piccolo">Tutti i quesiti di tutte le lezioni e di tutti gli argomenti. Per restringere, scegli
+      «Per lezione» o «Per argomento».</p>
+    </div>
+    <div id="pannello-lezioni" class="pannello">
+      <p class="piccolo">Tocca una o più lezioni: i quesiti nascono dagli argomenti trattati in quella giornata.</p>
+      <div class="lezioni" id="lezioni"></div>
+      <div class="riga-azioni"><button type="button" id="lez-tutte">Seleziona tutte</button>
+        <button type="button" id="lez-nessuna">Togli tutte</button></div>
+    </div>
+    <div id="pannello-argomenti" class="pannello">
+      <p class="piccolo">Gli argomenti seguono l'ordine della Sinossi, divisi in parti. Spunta una parte intera o apri
+      «argomenti» per sceglierli uno per uno; oppure cerca per parola.</p>
+      <input type="search" id="cerca-arg" class="ui" placeholder="Cerca un argomento (es. consegna, ricorso, giuramento)"
+        aria-label="Cerca un argomento">
+      <div class="argomenti" id="argomenti"></div>
+      <div class="riga-azioni"><button type="button" id="tutti">Seleziona tutti</button>
+        <button type="button" id="nessuno">Togli tutti</button></div>
+    </div>
+  </div>
+
+  <h2 class="passo ui"><span class="num">3</span> Filtri <span class="facoltativo">facoltativi</span></h2>
+  <details class="card filtri" id="box-filtri">
+    <summary class="ui"><span>Tipo di quesito, difficoltà, punti d'esame, mai visti</span>
+      <span id="filtri-attivi" class="piccolo"></span></summary>
+    <div class="scelte">
+      <label>Tipo <select id="tipo"><option value="">tutti</option></select></label>
+      <label>Difficoltà <select id="difficolta"><option value="">tutte</option><option value="1">1 – base</option>
+        <option value="2">2 – media</option><option value="3">3 – alta</option></select></label>
+      <label><input type="checkbox" id="solo-test"> solo punti d'esame</label>
+      <label><input type="checkbox" id="solo-aula"> solo domande poste in aula</label>
+      <label><input type="checkbox" id="mai-visti"> solo quesiti mai visti</label>
+    </div>
+    <div class="riga-azioni"><button type="button" id="azzera-filtri">Togli i filtri</button></div>
+  </details>
+
+  <div class="card" id="opzioni-simulazione">
+    <div class="scelte">
+      <label>Numero di quesiti <input type="number" id="n-quesiti" min="5" max="200" value="30" style="width:5em"></label>
+      <label>Tempo <select id="tempo"><option value="0">nessun limite</option><option value="30">30 minuti</option>
+        <option value="45">45 minuti</option><option value="60">60 minuti</option></select></label>
+    </div>
+  </div>
+
+  <div class="avvio ui">
+    <div><span id="riepilogo"></span><span class="piccolo" id="conteggio"></span></div>
+    <button class="primario" id="inizia">Inizia</button>
   </div>
 
   <div class="card ui">
@@ -100,6 +119,6 @@
 <noscript><p class="avviso">Per esercitarsi serve JavaScript.</p></noscript>
 </main>
 <footer>Raccolta personale · nessun carattere ufficiale · i progressi restano solo in questo browser.</footer>
-<script src="app.js"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>
