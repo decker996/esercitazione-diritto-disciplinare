@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
- "aggiornata": "2026-10-26",
- "totale": 612,
+ "aggiornata": "2026-10-28",
+ "totale": 679,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -194,6 +194,18 @@
    "titolo": "Procedimento per la consegna di rigore",
    "descrizione": "art. 1399 COM, commissione di disciplina per la consegna di rigore (VIII.3)",
    "parte": "VIII – I procedimenti disciplinari"
+  },
+  {
+   "slug": "procedimento-stato",
+   "titolo": "Procedimento di stato e inchiesta formale",
+   "descrizione": "inchiesta formale, ufficiale inquirente, relazione finale, decisione (VIII.4)",
+   "parte": "VIII – I procedimenti disciplinari"
+  },
+  {
+   "slug": "ricorsi",
+   "titolo": "I ricorsi",
+   "descrizione": "ricorso gerarchico, ricorso straordinario al Presidente della Repubblica, ricorso al TAR (IX.2)",
+   "parte": "IX – I procedimenti di secondo grado"
   },
   {
    "slug": "cessazione-effetti",
@@ -15376,7 +15388,7 @@
     "D": "la sostanza è una droga leggera; il militare ha meno di cinque anni di servizio; il fatto è avvenuto all'estero, durante una licenza"
    },
    "corretta": "B",
-   "spiegazione": "La sentenza (appuntato scelto positivo ai cannabinoidi, compatibili con cannabis light, uso ammesso in un periodo di stress, 22 esami successivi negativi) afferma che una sanzione è sempre applicabile, ma esclude quelle espulsive se ricorrono insieme tre condizioni: sostanza il cui procacciamento non implichi necessariamente ricettazione o contatti criminali; uso assolutamente non abituale; nessun ulteriore disvalore (sottrazione agli accertamenti, atteggiamento non collaborativo).",
+   "spiegazione": "La sentenza (appuntato scelto positivo ai cannabinoidi, compatibili con cannabis light, uso ammesso in un periodo di stress, 22 esami successivi negativi) afferma che una sanzione è sempre applicabile, ma esclude quelle espulsive se ricorrono insieme le condizioni indicate, che sono quattro (la prima frase della sentenza ne contiene due): procacciamento che non implichi necessariamente la ricettazione; né il contatto diretto con ambienti criminali; uso assolutamente non abituale; nessun ulteriore disvalore (sottrazione agli accertamenti, atteggiamento non collaborativo).",
    "riferimenti": [
     "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
     "COM art. 1355"
@@ -15811,6 +15823,1675 @@
    ],
    "lezione": 5,
    "data_lezione": "2026-10-22"
+  },
+  {
+   "id": "DD-L06-001",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.b",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 55, co. 1, c.p.p., la polizia giudiziaria deve, anche di propria iniziativa:",
+   "opzioni": {
+    "A": "prendere notizia dei reati e riferirne al pubblico ministero, al quale soltanto spetta impedirne le conseguenze ulteriori e ricercarne gli autori",
+    "B": "ricercare gli autori dei reati perseguibili d'ufficio, mentre per quelli procedibili a querela può agire solo dopo la presentazione della querela",
+    "C": "assicurare le fonti di prova dei reati già denunciati, senza poteri di iniziativa fino alla delega del pubblico ministero",
+    "D": "prendere notizia dei reati, impedire che vengano portati a conseguenze ulteriori, ricercarne gli autori e assicurare le fonti di prova"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 55, co. 1, c.p.p. affida alla polizia giudiziaria, anche di propria iniziativa, il compito di prendere notizia dei reati, impedire che vengano portati a conseguenze ulteriori, ricercarne gli autori e compiere gli atti necessari per assicurare le fonti di prova. Proprio perché i carabinieri, ufficiali e agenti di polizia giudiziaria, devono reprimere il traffico di stupefacenti, l'acquisto e l'uso anche occasionali sono ritenuti inconciliabili con le loro qualifiche.",
+   "riferimenti": [
+    "c.p.p. art. 55, co. 1"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-002",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.3.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché la posizione del Comando Generale ritiene inconciliabili con lo status del carabiniere l'acquisto e l'uso anche occasionali di stupefacenti?",
+   "opzioni": {
+    "A": "perché l'uso di stupefacenti costituisce sempre reato per il militare, anche quando per il cittadino rileva solo sul piano amministrativo dell'art. 75 del D.P.R. 309/1990",
+    "B": "perché il militare che fa uso di stupefacenti perde automaticamente l'idoneità al servizio e, con essa, il grado, senza bisogno di procedimento disciplinare",
+    "C": "perché l'Arma ha tra i propri compiti la prevenzione e repressione del traffico e i carabinieri, come polizia giudiziaria, devono impedire i reati e ricercarne gli autori",
+    "D": "perché l'uso di stupefacenti è espressamente equiparato dal codice penale militare di pace alla violata consegna e va sempre denunciato all'autorità giudiziaria militare"
+   },
+   "corretta": "C",
+   "spiegazione": "L'incompatibilità discende dalla funzione: l'Arma previene e reprime il traffico di stupefacenti e i suoi appartenenti, ufficiali e agenti di polizia giudiziaria, devono impedire che i reati siano portati a conseguenze ulteriori e ricercarne gli autori (art. 55 c.p.p.). L'uso personale resta di per sé un illecito amministrativo (art. 75 del D.P.R. 309/1990), la perdita del grado non è mai automatica e richiede il procedimento di stato, e il codice penale militare non contiene alcuna equiparazione alla violata consegna.",
+   "riferimenti": [
+    "c.p.p. art. 55",
+    "D.P.R. 309/1990 art. 75",
+    "circ. n. 276/148-78-2009 del 1.2.2019"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi p. 187"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-003",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 1,
+   "domanda": "Quali sono i due filoni della giurisprudenza amministrativa sull'uso di stupefacenti da parte di un carabiniere?",
+   "opzioni": {
+    "A": "uno che punisce l'uso con la consegna di rigore e uno che lo punisce con la sospensione dall'impiego, a seconda che il fatto sia avvenuto in servizio o fuori",
+    "B": "uno di particolare rigore, che ammette la perdita del grado anche per l'uso occasionale, e uno meno severo, che in casi particolari esclude l'espulsione ma non la sanzione",
+    "C": "uno che ritiene l'uso disciplinarmente irrilevante se non vi è reato e uno che lo punisce con la perdita del grado, secondo l'esito del procedimento penale",
+    "D": "uno che distingue tra droghe leggere, sempre punite con sanzioni di corpo, e droghe pesanti, sempre punite con la perdita del grado, senza valutazioni intermedie"
+   },
+   "corretta": "B",
+   "spiegazione": "La giurisprudenza conosce un orientamento consolidato di particolare rigore (anche l'uso occasionale ed episodico legittima la perdita del grado: Cons. Stato, sez. II, n. 522/2023) e un filone meno severo, nato da Cons. Stato, sez. II, n. 8439/2021, che in presenza di precise condizioni esclude la sanzione espulsiva ma ritiene comunque dovuta una sanzione, di regola la sospensione dall'impiego da uno a dodici mesi. In nessun filone l'uso è irrilevante.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522",
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "COM art. 1357, co. 1"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-004",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.2.a",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Perché fermarsi alla segnalazione al Prefetto dell'art. 75 del D.P.R. 309/1990 indebolisce la pratica disciplinare per uso di stupefacenti?",
+   "opzioni": {
+    "A": "perché la segnalazione al Prefetto estingue l'illecito disciplinare e impedisce all'amministrazione di procedere in via di stato per lo stesso fatto",
+    "B": "perché non fa emergere i contatti del militare con gli spacciatori, né a carico né a discolpa: per i tabulati occorre un'informativa di reato",
+    "C": "perché il procedimento dell'art. 75 è coperto dal segreto e i suoi atti non possono essere acquisiti nel procedimento disciplinare a carico del militare",
+    "D": "perché la segnalazione spetta al comandante di corpo e, se la effettua il comandante di compagnia, l'intera istruttoria disciplinare è viziata da incompetenza"
+   },
+   "corretta": "B",
+   "spiegazione": "Il procedimento amministrativo dell'art. 75 riguarda l'uso personale e non consente di acquisire i tabulati, che richiedono un procedimento penale avviato con un'informativa di reato. Fermandosi lì, l'uso risulterà sempre un episodio isolato e i contatti con lo spaccio, decisivi per la scelta tra sanzione espulsiva e sospensiva, non emergeranno: l'approfondimento serve anche alla difesa del militare. La segnalazione non estingue l'illecito disciplinare.",
+   "riferimenti": [
+    "D.P.R. 309/1990 art. 75",
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-005",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Nel caso deciso da Cons. Stato, sez. II, 16 gennaio 2023, n. 522, quale quantità di marijuana aveva il carabiniere scelto nella propria auto?",
+   "opzioni": {
+    "A": "0,389 grammi, custoditi in un vasetto di vetro nell'auto parcheggiata fuori dalla caserma e consegnati spontaneamente ai superiori",
+    "B": "3,89 grammi, custoditi in un vasetto di vetro nell'armadietto della caserma e scoperti nel corso di una perquisizione dei superiori",
+    "C": "38,9 grammi, suddivisi in dosi nell'auto parcheggiata nel cortile della caserma, che il militare aveva tentato di occultare",
+    "D": "389 grammi, custoditi in un vasetto nell'auto parcheggiata fuori dalla caserma, consegnati dopo l'arrivo dell'unità cinofila"
+   },
+   "corretta": "A",
+   "spiegazione": "Il carabiniere scelto, trovato in stato di alterazione durante un'ispezione serale, aveva nella propria auto, parcheggiata fuori dalla caserma, 0,389 grammi di marijuana in un vasetto di vetro, che consegnò spontaneamente al Comandante della Compagnia e al Comandante del NOR. Nonostante la modestia della quantità e la collaborazione, il Consiglio di Stato ha confermato la perdita del grado.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-006",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Per quali ragioni, secondo Cons. Stato, sez. II, n. 522/2023, il consumo del carabiniere scelto NON poteva considerarsi episodico e unico?",
+   "opzioni": {
+    "A": "per i precedenti disciplinari specifici del militare e per la risonanza che il fatto aveva avuto tra i colleghi del reparto, segno di un'abitudine nota",
+    "B": "per il rifiuto opposto dal militare all'esame delle urine e per la mancata indicazione dello spacciatore, considerati indici di un uso abituale",
+    "C": "per il luogo in cui era custodita la sostanza, all'interno della caserma, e per l'orario dell'ispezione, compreso nel turno di servizio del militare",
+    "D": "per la positività al test del capello, che dimostrava un'assunzione già avvenuta, e per l'ulteriore quantità detenuta, segno della disponibilità a un nuovo consumo"
+   },
+   "corretta": "D",
+   "spiegazione": "Il Collegio ha osservato che la positività al test del capello dimostrava che un'assunzione era già avvenuta e che la quantità detenuta, pur modica, dimostrava la disponibilità a un ulteriore consumo. Il militare non aveva precedenti, aveva consegnato spontaneamente la sostanza, e questa era nell'auto parcheggiata fuori dalla caserma: le altre circostanze sono estranee al caso.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-007",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VIII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo Cons. Stato, sez. II, n. 522/2023, quale rilievo ha l'esito positivo della messa alla prova nel procedimento penale per gli stessi fatti?",
+   "opzioni": {
+    "A": "estingue anche l'illecito disciplinare, perché il procedimento disciplinare segue l'esito di quello penale per gli stessi fatti",
+    "B": "impone all'amministrazione di convertire la perdita del grado nella sospensione dall'impiego per il periodo della prova",
+    "C": "nessun rilievo decisivo: la messa alla prova riguarda il comportamento successivo al fatto e non ne attenua la gravità disciplinare",
+    "D": "rende obbligatoria la riapertura del procedimento disciplinare davanti alla commissione di disciplina, a pena di nullità della sanzione"
+   },
+   "corretta": "C",
+   "spiegazione": "Per il Collegio la consapevolezza dell'errore manifestata con la messa alla prova riguarda il post fatto e non incide sulla gravità della condotta; del resto il procedimento disciplinare è avviato, proseguito e concluso anche in pendenza del procedimento penale (art. 1393, co. 1, COM), e la valutazione disciplinare è autonoma. Nel caso deciso, i fatti contestati in sede penale erano anzi più gravi.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522",
+    "COM art. 1393, co. 1"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-008",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo la giurisprudenza richiamata dall'amministrazione in Cons. Stato, sez. II, n. 522/2023, perché la perdita del grado per il consumo di droghe anche leggere da parte di un carabiniere «non palesa evidenti profili di illogicità»?",
+   "opzioni": {
+    "A": "perché le droghe leggere sono equiparate a quelle pesanti dal D.P.R. 309/1990 ai fini delle sanzioni disciplinari previste per gli appartenenti alle Forze di polizia",
+    "B": "perché il consumo di droghe leggere comporta la temporanea inidoneità al servizio e quindi, per legge, la cessazione dal servizio permanente",
+    "C": "perché l'Arma è preposta alla repressione dello spaccio e la provvista di stupefacente, anche per uso personale, impone il contatto con chi lo vende",
+    "D": "perché il carabiniere che fa uso di droghe leggere commette sempre il reato di ricettazione, che comporta la perdita del grado come pena accessoria"
+   },
+   "corretta": "C",
+   "spiegazione": "L'argomento è duplice: il Corpo è istituzionalmente preposto alla repressione dello spaccio, e la provvista di sostanza stupefacente, anche per il mero uso personale, impone necessariamente il contatto con chi la cede, cioè con il sottobosco delinquenziale. Il D.P.R. 309/1990 non contiene sanzioni disciplinari, l'inidoneità temporanea non comporta la cessazione dal servizio e la perdita del grado disciplinare non è una pena accessoria.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-009",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 1355, co. 4, COM, nel caso di concorso di più militari nella stessa infrazione disciplinare:",
+   "opzioni": {
+    "A": "è inflitta la stessa sanzione a tutti i concorrenti, perché la responsabilità disciplinare è personale e il grado rileva solo per la competenza",
+    "B": "è inflitta una sanzione più severa al più elevato in grado o, a parità di grado, al più anziano",
+    "C": "è inflitta una sanzione più severa al militare che ha avuto l'iniziativa del fatto, a prescindere dal grado e dall'anzianità di servizio",
+    "D": "è inflitta una sanzione più severa al meno anziano, perché si presume che abbia agito senza la necessaria esperienza del servizio"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1355, co. 4, COM stabilisce che nel concorso di più militari nella stessa infrazione è inflitta una sanzione più severa al più elevato in grado o, a parità di grado, al più anziano. Ad esempio, il capocorso che commette un'infrazione con un allievo di un altro corso riceve la sanzione più severa, anche perché ha concorso con un inferiore. L'iniziativa del fatto non è il criterio della norma.",
+   "riferimenti": [
+    "COM art. 1355, co. 4"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi p. 184"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-010",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale delle seguenti NON è tra le infrazioni che l'art. 1355, co. 3, COM indica come da punire con maggior rigore?",
+   "opzioni": {
+    "A": "le infrazioni commesse fuori dal servizio da militari in licenza",
+    "B": "le infrazioni intenzionali",
+    "C": "le infrazioni commesse in presenza di altri militari",
+    "D": "le infrazioni ricorrenti con carattere di recidività"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1355, co. 3, COM prevede maggior rigore per le infrazioni intenzionali, commesse in presenza di altri militari, commesse in concorso con altri militari e ricorrenti con carattere di recidività. La commissione fuori dal servizio o in licenza non è un'aggravante: anzi, fuori dalle condizioni dell'art. 1350, co. 2, COM operano solo i doveri del giuramento, del grado, del segreto e del riserbo.",
+   "riferimenti": [
+    "COM art. 1355, co. 3",
+    "COM art. 1350, co. 3"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-011",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Il capocorso e un allievo di un altro corso commettono insieme la stessa infrazione disciplinare. Come va graduata la sanzione?",
+   "opzioni": {
+    "A": "identica per entrambi, perché la sanzione dipende solo dal tipo di mancanza e non dalla posizione dei concorrenti nell'infrazione",
+    "B": "più severa per l'allievo dell'altro corso, che ha coinvolto un superiore in grado, mentre al capocorso si applica il solo richiamo",
+    "C": "concordata tra i due militari e l'autorità competente, che può ridurla se entrambi riconoscono subito la propria responsabilità",
+    "D": "più severa per il capocorso, più elevato in grado, che ha anche concorso con un inferiore, considerando poi precedenti, età e anzianità"
+   },
+   "corretta": "D",
+   "spiegazione": "Per l'art. 1355, co. 4, COM nel concorso la sanzione più severa va al più elevato in grado; il co. 3 punisce con maggior rigore anche le infrazioni commesse in concorso con altri militari, e il co. 2 impone di considerare precedenti, grado, età e anzianità. Nel sistema disciplinare militare non esiste alcun patteggiamento: la sanzione non si concorda.",
+   "riferimenti": [
+    "COM art. 1355, co. 2-4"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-012",
+   "argomento": "ricorsi",
+   "sinossi": "",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Nel giudizio contro un provvedimento disciplinare inflitto a un carabiniere, chi sta in giudizio per l'amministrazione e perché?",
+   "opzioni": {
+    "A": "il superiore che ha adottato l'atto, assistito dall'Avvocatura dello Stato, perché la responsabilità disciplinare dell'atto è personale del comandante",
+    "B": "il Comando Generale dell'Arma, tramite l'Ufficio Affari Giuridici, perché l'Arma ha personalità giuridica distinta da quella del Ministero",
+    "C": "il comandante di corpo del militare, perché è l'autorità che ha la potestà sanzionatoria e risponde in giudizio delle proprie decisioni",
+    "D": "il Ministero della Difesa, rappresentato dall'Avvocatura dello Stato, perché per l'immedesimazione organica l'atto dell'organo è imputato all'amministrazione"
+   },
+   "corretta": "D",
+   "spiegazione": "Le sentenze recano il Ministero della Difesa come parte, rappresentato e difeso dall'Avvocatura generale dello Stato. Per il principio di immedesimazione organica l'atto dell'organo è imputato all'amministrazione: anche se il militare impugna una valutazione caratteristica o un richiamo, non si costituisce il superiore che li ha redatti, ma il Ministero tramite l'Avvocatura.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-013",
+   "argomento": "procedimento-stato",
+   "sinossi": "VII.2.c",
+   "tipo": "competenza",
+   "difficolta": 1,
+   "domanda": "Chi decide di sottoporre a inchiesta formale un appuntato dei Carabinieri in servizio (art. 1378 COM)?",
+   "opzioni": {
+    "A": "il comandante di compagnia da cui dipende la stazione, che ha condotto gli accertamenti preliminari e conosce direttamente il militare",
+    "B": "il comandante di vertice di livello pari a generale di corpo d'armata, competente per tutti i militari dell'Arma non ufficiali",
+    "C": "il rispettivo comandante di corpo o, in mancanza di tale dipendenza, il comandante territoriale di corpo competente per residenza",
+    "D": "il Direttore generale per il personale militare, che ha la potestà sanzionatoria di stato per delega del Ministro della difesa"
+   },
+   "corretta": "C",
+   "spiegazione": "Per gli appuntati e carabinieri in servizio la decisione spetta ai rispettivi comandanti di corpo (art. 1378, co. 1, lett. i, COM); il comandante di vertice di livello generale di corpo d'armata è competente per ispettori e sovrintendenti (lett. h); il Direttore generale per il personale militare irroga la sanzione (art. 1375 COM), ma non dispone l'inchiesta. Il comandante di compagnia istruisce, ma non decide.",
+   "riferimenti": [
+    "COM art. 1378, co. 1, lett. i)",
+    "Guida tecnica p. 32"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Guida tecnica p. 32",
+    "Sinossi p. 239"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-014",
+   "argomento": "procedimento-stato",
+   "sinossi": "VII.2.c",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "A chi spetta la decisione di sottoporre a inchiesta formale un maresciallo dell'Arma in servizio?",
+   "opzioni": {
+    "A": "al rispettivo comandante di corpo, come per gli appuntati e carabinieri in servizio",
+    "B": "al rispettivo comandante di vertice di livello gerarchico pari a generale di corpo d'armata",
+    "C": "al Comandante generale dell'Arma, competente per tutti gli ispettori e sovrintendenti",
+    "D": "al Ministro della difesa, competente per tutti i sottufficiali delle Forze armate"
+   },
+   "corretta": "B",
+   "spiegazione": "Per gli ispettori e i sovrintendenti dell'Arma in servizio la decisione spetta ai rispettivi comandanti di vertice di livello pari a generale di corpo d'armata (art. 1378, co. 1, lett. h, COM). Il comandante di corpo è competente per appuntati e carabinieri (lett. i); il Comandante generale per gli ufficiali e, in via residuale, per gli altri militari se non provvedono le autorità delle lettere h) e i) (lett. e); il Ministro per colonnelli e generali e per alcuni casi di corresponsabilità (lett. a).",
+   "riferimenti": [
+    "COM art. 1378, co. 1, lett. h)"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-015",
+   "argomento": "procedimento-stato",
+   "sinossi": "VII.2.c",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "Chi decide di sottoporre a inchiesta formale un colonnello dei Carabinieri?",
+   "opzioni": {
+    "A": "il Ministro della difesa, competente per gli ufficiali generali e i colonnelli o gradi corrispondenti",
+    "B": "il Comandante generale dell'Arma, competente per tutti gli ufficiali dell'Arma senza distinzione di grado",
+    "C": "il comandante di vertice di livello pari a generale di corpo d'armata da cui il colonnello dipende",
+    "D": "il Capo di stato maggiore della difesa, competente per gli ufficiali superiori di tutte le Forze armate"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1378, co. 1, lett. a), n. 1, COM riserva al Ministro della difesa la decisione per gli ufficiali generali e i colonnelli o gradi corrispondenti; il Comandante generale è competente per gli altri ufficiali dell'Arma (lett. e, n. 1), cioè fino al grado di tenente colonnello. Il Capo di stato maggiore della difesa decide solo per il personale dipendente nella propria area (lett. b).",
+   "riferimenti": [
+    "COM art. 1378, co. 1, lett. a), n. 1 e lett. e), n. 1"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-016",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.c",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "L'art. 1375 COM attribuisce la potestà sanzionatoria di stato al Ministro della difesa o all'autorità militare da lui delegata. Chi adotta, di fatto, il provvedimento sanzionatorio di stato, e in base a quale principio?",
+   "opzioni": {
+    "A": "il Direttore generale per il personale militare, in base al principio di separazione tra indirizzo politico e gestione amministrativa",
+    "B": "il Capo di stato maggiore della difesa, in base al principio di unità di comando delle Forze armate e dei Corpi armati dello Stato",
+    "C": "il Comandante generale dell'Arma, in base al principio di autonomia ordinativa dell'Arma riconosciuto dal codice dell'ordinamento militare",
+    "D": "il comandante di corpo del militare, in base al principio di prossimità tra l'autorità che accerta il fatto e quella che lo sanziona"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1375 COM attribuisce la potestà sanzionatoria di stato al Ministro o all'autorità delegata e impone di motivare tutti i provvedimenti che concludono procedimenti di stato. In base al principio di separazione tra politica e amministrazione, da ultimo espresso dal D.Lgs. 30 marzo 2001, n. 165, il provvedimento è adottato dal Direttore generale per il personale militare: nel caso dei tatuaggi di Bologna la perdita del grado fu inflitta proprio dalla Direzione generale per il personale militare.",
+   "riferimenti": [
+    "COM art. 1375"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi p. 193"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-017",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Con quale atto è disposta la perdita del grado di un appuntato dei Carabinieri in servizio (art. 867, co. 1, COM)?",
+   "opzioni": {
+    "A": "con decreto ministeriale, come per tutti i militari; per gli appuntati e carabinieri in congedo, con decreto del comandante di corpo",
+    "B": "con determinazione del Comandante generale; per gli appuntati e carabinieri in congedo, con determinazione ministeriale",
+    "C": "con determinazione del comandante di corpo, su conforme giudizio della commissione di disciplina, in servizio come in congedo",
+    "D": "con determinazione ministeriale; per gli appuntati e carabinieri in congedo, con determinazione del Comandante generale"
+   },
+   "corretta": "D",
+   "spiegazione": "La regola generale è il decreto ministeriale; per il ruolo appuntati e carabinieri l'art. 867, co. 1, COM prevede la determinazione ministeriale per i militari in servizio e la determinazione del Comandante generale per quelli in congedo. Il provvedimento, definitivo, è impugnabile con ricorso al TAR o, in alternativa, con ricorso straordinario al Presidente della Repubblica.",
+   "riferimenti": [
+    "COM art. 867, co. 1"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi p. 188"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-018",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Nel caso deciso da Cons. Stato, sez. II, 20 dicembre 2021, n. 8439, come aveva dimostrato l'appuntato scelto l'occasionalità dell'uso?",
+   "opzioni": {
+    "A": "chiedendo l'analisi di revisione del campione conservato, che aveva dato esito negativo, e producendo la relazione del proprio consulente di parte",
+    "B": "facendosi ricoverare per una settimana in una struttura sanitaria privata, che aveva escluso ogni forma di dipendenza da sostanze",
+    "C": "sottoponendosi spontaneamente, tra maggio e settembre 2019, a ventidue esami tossicologici presso il servizio per le dipendenze, tutti negativi",
+    "D": "producendo lo scontrino di acquisto della cannabis light e la dichiarazione del titolare del negozio, che confermava l'unico acquisto"
+   },
+   "corretta": "C",
+   "spiegazione": "L'appuntato scelto, positivo ai cannabinoidi all'accertamento del 3 maggio 2019 (giorno dell'udienza per la separazione), aveva ammesso un uso sporadico in un periodo di grave stress familiare e si era sottoposto spontaneamente, dal 27 maggio al 30 settembre 2019, a 22 esami tossicologici presso il SERD, tutti negativi. Il Consiglio di Stato ha valorizzato l'ammissione e gli accertamenti ripetuti.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-019",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Perché, nel caso deciso da Cons. Stato, sez. II, n. 8439/2021, il TAR aveva ritenuto non provati i rapporti del militare con il mercato illecito degli stupefacenti?",
+   "opzioni": {
+    "A": "perché il militare aveva indicato lo spacciatore e la successiva indagine penale si era conclusa con l'archiviazione per particolare tenuità",
+    "B": "perché l'acquisto della cannabis light era consentito in esercizi aperti al pubblico e l'istruttoria non aveva accertato contatti diversi",
+    "C": "perché i tabulati telefonici, acquisiti in sede penale, non avevano mostrato contatti con pregiudicati nei due anni precedenti",
+    "D": "perché la positività era stata accertata solo con l'esame delle urine e non con quello del capello, inidoneo a provare la provenienza"
+   },
+   "corretta": "B",
+   "spiegazione": "Il TAR aveva ritenuto non provati i rapporti con il mercato illecito, posti tra i presupposti del provvedimento, in relazione all'acquisto di cannabis light, consentito in esercizi aperti al pubblico; a ben vedere il vizio era istruttorio, perché il comandante si era fermato alla segnalazione al Prefetto. Nessun tabulato era stato acquisito.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-020",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.8.h",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale disposizione qualifica come grave mancanza disciplinare, per il personale dell'Arma, «fare uso smodato di sostanze alcooliche o, comunque, di sostanze stupefacenti»?",
+   "opzioni": {
+    "A": "l'art. 713, co. 2, TUROM",
+    "B": "l'art. 732, co. 6, lett. c), TUROM",
+    "C": "l'art. 1356, co. 1, COM",
+    "D": "l'art. 751, co. 1, TUROM"
+   },
+   "corretta": "B",
+   "spiegazione": "È l'art. 732, co. 6, lett. c), TUROM, che elenca le gravi mancanze disciplinari per il personale dell'Arma. L'avverbio «comunque» riferisce la mancanza a qualsiasi uso di stupefacenti, mentre per l'alcol rileva l'uso smodato. L'art. 713, co. 2, riguarda i doveri attinenti al grado; l'art. 1356 COM applica ai militari tossicodipendenti le norme di stato in deroga al D.P.R. 309/1990; l'art. 751 elenca i comportamenti punibili con la consegna di rigore.",
+   "riferimenti": [
+    "TUROM art. 732, co. 6, lett. c)"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-021",
+   "argomento": "norme-comportamento",
+   "sinossi": "II.8.h",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere acquista in un negozio autorizzato alcuni vasetti di cannabis light e li consuma a casa. Sotto il profilo disciplinare:",
+   "opzioni": {
+    "A": "la condotta è rilevante a prescindere dalla rilevanza penale e dall'efficacia drogante, perché lesiva del prestigio dell'Arma e incompatibile con lo status",
+    "B": "la condotta è irrilevante, perché il prodotto è venduto legalmente e il fatto è avvenuto fuori dal servizio, senza alcuna delle condizioni dell'art. 1350, co. 2, COM",
+    "C": "la condotta è rilevante solo se l'analisi accerta un contenuto di THC superiore ai limiti di legge, che rende la sostanza stupefacente ai fini penali",
+    "D": "la condotta è rilevante solo se il militare la ha resa pubblica, perché in mancanza di risonanza esterna non vi è lesione del prestigio dell'Arma"
+   },
+   "corretta": "A",
+   "spiegazione": "Per Cons. Stato, sez. II, n. 8439/2021 la rilevanza penale della cessione di cannabis light è irrilevante sul piano disciplinare: l'uso di una sostanza anche con limitati effetti stupefacenti è lesivo del prestigio dell'Arma e incompatibile con le funzioni, senza che occorra provarne l'efficacia drogante; l'art. 732, co. 6, lett. c), TUROM parla di uso «comunque» di stupefacenti. I doveri attinenti al grado valgono anche fuori servizio (art. 713, co. 2, TUROM).",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "TUROM art. 732, co. 6, lett. c)",
+    "TUROM art. 713, co. 2"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-022",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Quale norma esterna all'ordinamento militare Cons. Stato, sez. II, n. 8439/2021 richiama come «utile ausilio interpretativo» sulla gradualità delle sanzioni per l'uso di stupefacenti?",
+   "opzioni": {
+    "A": "l'art. 55-quater del D.Lgs. 30 marzo 2001, n. 165, che per i dipendenti pubblici prevede il licenziamento disciplinare per l'uso di stupefacenti in servizio",
+    "B": "l'art. 75 del D.P.R. 9 ottobre 1990, n. 309, che per l'uso personale prevede sanzioni amministrative graduate secondo la frequenza dell'uso",
+    "C": "l'art. 16 delle disposizioni di attuazione del c.p.p., che per gli ufficiali e agenti di polizia giudiziaria prevede la sospensione dall'impiego",
+    "D": "l'art. 6, n. 8, del D.P.R. 25 ottobre 1981, n. 737, che per la Polizia di Stato prevede la sospensione dal servizio per l'uso non terapeutico di stupefacenti"
+   },
+   "corretta": "D",
+   "spiegazione": "Il Collegio richiama l'art. 6, n. 8, del D.P.R. 737/1981 (sanzioni disciplinari per il personale dell'Amministrazione di pubblica sicurezza), che, «pur dettato per le forze di Polizia ad ordinamento civile», prevede la sospensione dal servizio in caso di «uso non terapeutico di sostanze stupefacenti o psicotrope risultante da referto medico legale». È un esempio dell'uso di leggi esterne per interpretare il diritto disciplinare militare.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "D.P.R. 737/1981 art. 6"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-023",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Quale durata ha la sospensione dal servizio prevista per la Polizia di Stato dall'art. 6 del D.P.R. 737/1981, rispetto alla sospensione disciplinare dall'impiego del COM?",
+   "opzioni": {
+    "A": "da uno a dodici mesi nella Polizia di Stato; da uno a sei mesi per i militari (art. 1357, co. 1, lett. a, COM)",
+    "B": "da uno a sei mesi in entrambi gli ordinamenti, con detrazione di anzianità solo per i militari in servizio permanente",
+    "C": "da uno a sei mesi nella Polizia di Stato; da uno a dodici mesi per i militari (art. 1357, co. 1, lett. a, COM)",
+    "D": "da tre a dodici mesi nella Polizia di Stato; da uno a dodici mesi per i militari, frazionabile solo per i graduati"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 6 del D.P.R. 737/1981 stabilisce che la sospensione dal servizio consiste nell'allontanamento per un periodo da uno a sei mesi; l'art. 1357, co. 1, lett. a), COM prevede la sospensione disciplinare dall'impiego per un periodo da uno a dodici mesi. Nella Polizia di Stato la sanzione espulsiva è la destituzione (art. 1 e 7 D.P.R. 737/1981), per i militari la perdita del grado per rimozione.",
+   "riferimenti": [
+    "D.P.R. 737/1981 artt. 1 e 6",
+    "COM art. 1357, co. 1"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-024",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo Cons. Stato, sez. II, n. 4950/2021, la previsione della sospensione dal servizio per l'uso non terapeutico di stupefacenti (art. 6, n. 8, D.P.R. 737/1981) impedisce di destituire un appartenente alla Polizia di Stato che ne faccia uso?",
+   "opzioni": {
+    "A": "sì: la norma speciale sull'uso di stupefacenti prevale su quelle generali sulla destituzione, e la sanzione espulsiva è sempre illegittima",
+    "B": "sì, salvo che l'uso sia avvenuto in servizio, nel qual caso la destituzione è obbligatoria e sottratta alla valutazione dell'amministrazione",
+    "C": "no: la sospensione vale per i casi di modesta gravità, mentre nei casi più gravi, anche per uso di stupefacenti, è legittima la destituzione",
+    "D": "no, ma solo se la positività è accertata con l'esame del capello, che prova un uso abituale incompatibile con la sospensione"
+   },
+   "corretta": "C",
+   "spiegazione": "La sentenza, relativa a un assistente della Polizia di Stato presentatosi completamente depilato all'accertamento, conferma la destituzione: richiamando Cons. Stato, sez. III, ord. 12 dicembre 2013, n. 4978, osserva che la sospensione dell'art. 6 trova applicazione nei casi di modesta gravità, mentre nei casi più gravi può essere applicata la destituzione (art. 7 D.P.R. 737/1981). Spetta all'amministrazione stabilire se anche il consumo isolato giustifichi l'espulsione.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 30 giugno 2021, n. 4950",
+    "D.P.R. 737/1981 artt. 6 e 7"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-025",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo Cons. Stato, sez. II, n. 8439/2021, perché la perdita del grado, pur essendo sanzione «unica e indivisibile», è soggetta al controllo di proporzionalità?",
+   "opzioni": {
+    "A": "perché l'art. 1357 COM ne consente la graduazione tra un minimo e un massimo, che l'amministrazione deve motivare in relazione alla gravità del fatto",
+    "B": "perché, essendo la più grave delle sanzioni di stato, è legittima solo se applicata in effettiva correlazione con una particolare gravità del comportamento concreto",
+    "C": "perché la commissione di disciplina deve sempre proporre in alternativa una sanzione sospensiva, tra le quali l'autorità sceglie motivatamente",
+    "D": "perché il giudice amministrativo può sostituire la propria valutazione a quella dell'amministrazione quando la sanzione è espulsiva"
+   },
+   "corretta": "B",
+   "spiegazione": "La perdita del grado non si gradua, ma proprio per questo può ritenersi conforme ai principi di gradualità e ragionevolezza solo se correlata alla gravità del comportamento concreto: «non può che conseguire […] a una valutazione in termini di particolare gravità». Il sindacato resta limitato alla manifesta irrazionalità, illogicità, arbitrarietà o al travisamento, tra i quali rientra la chiara carenza di proporzionalità (art. 1355 COM): il giudice non sostituisce la propria valutazione.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "COM art. 1355"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-026",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo Cons. Stato, sez. II, n. 8439/2021, in ogni caso di accertata assunzione di sostanze stupefacenti da parte di un militare:",
+   "opzioni": {
+    "A": "una sanzione disciplinare è sempre applicabile; sono escluse solo quelle espulsive, se ricorrono congiuntamente le condizioni indicate",
+    "B": "una sanzione disciplinare è applicabile solo se ricorre almeno una delle condizioni indicate; altrimenti il fatto rileva solo sul piano amministrativo",
+    "C": "la sanzione espulsiva è sempre dovuta, salvo che ricorrano congiuntamente le condizioni indicate, nel qual caso non si applica alcuna sanzione",
+    "D": "si applica di regola una sanzione di corpo, e quella di stato solo se ricorrono congiuntamente le condizioni indicate dalla sentenza"
+   },
+   "corretta": "A",
+   "spiegazione": "La sentenza afferma che «una sanzione disciplinare è certamente applicabile in ogni caso di accertata assunzione di sostanze stupefacenti», ma con la necessaria esclusione di quelle espulsive quando ricorrono congiuntamente le condizioni indicate. Le condizioni, dunque, non escludono la sanzione: escludono soltanto l'espulsione, e lasciano spazio a una sanzione meno grave, di regola la sospensione dall'impiego da uno a dodici mesi.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "COM art. 1357, co. 1"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-027",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Quante sono, nella lettura proposta a lezione, le condizioni che secondo Cons. Stato, sez. II, n. 8439/2021 escludono la sanzione espulsiva, e quali?",
+   "opzioni": {
+    "A": "tre: assunzione non abituale; nessun precedente disciplinare; fatto avvenuto fuori servizio e lontano dal reparto di appartenenza",
+    "B": "quattro: droga leggera; uso fuori servizio; esame del capello negativo; esito positivo della messa alla prova nel procedimento penale",
+    "C": "due: assunzione non abituale e collaborazione del militare, mentre la provenienza della sostanza è irrilevante sul piano disciplinare",
+    "D": "quattro: niente ricettazione implicata dal procacciamento; niente contatto diretto con ambienti criminali; assunzione non abituale; nessun ulteriore disvalore"
+   },
+   "corretta": "D",
+   "spiegazione": "La sentenza indica tre condizioni, ma la prima ne contiene due distinte: (1) che il procacciamento non implichi necessariamente il reato di ricettazione; (2) che non implichi il contatto diretto con ambienti criminali; (3) che l'assunzione sia assolutamente non abituale, né frequente né reiterata; (4) che la vicenda non abbia un ulteriore disvalore, anche per violazione degli obblighi di lealtà e fiducia. Precedenti, servizio e messa alla prova non sono tra le condizioni.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-028",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Le condizioni di Cons. Stato, sez. II, n. 8439/2021 devono ricorrere «congiuntamente». Che cosa ne discende per l'amministrazione?",
+   "opzioni": {
+    "A": "che la sanzione espulsiva è consentita solo se mancano tutte, perché basta una condizione favorevole al militare per escluderla",
+    "B": "che la sanzione espulsiva è consentita solo se ne mancano almeno due, e il comandante deve indicarle nel rapporto con le prove relative",
+    "C": "che la sanzione espulsiva è consentita solo se manca la prima, mentre le altre incidono sulla durata della sospensione dall'impiego",
+    "D": "che la sanzione espulsiva resta consentita se ne manca anche una sola, per esempio se è provato il contatto con uno spacciatore"
+   },
+   "corretta": "D",
+   "spiegazione": "Se l'espulsione è esclusa solo quando le condizioni ricorrono tutte insieme, basta che ne manchi una per renderla di nuovo possibile. In pratica le condizioni sono concatenate: chi fa uso abituale va dagli spacciatori. Per questo il comandante deve accertare nell'istruttoria provenienza, contatti, abitualità e comportamento del militare.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-029",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Per quali sostanze, secondo Cons. Stato, sez. II, n. 8439/2021, il procacciamento può NON implicare necessariamente la ricettazione o il contatto con ambienti criminali?",
+   "opzioni": {
+    "A": "per tutte le droghe leggere, comprese hashish e marijuana acquistate da privati, purché in quantità compatibili con l'uso personale",
+    "B": "per le sostanze psicotrope prescritte da un medico, anche se assunte in dosi superiori a quelle indicate nella prescrizione",
+    "C": "allo stato, solo per quelle a base del principio attivo della cannabis, come la cannabis light venduta negli esercizi commerciali",
+    "D": "per le droghe sintetiche acquistate su siti internet esteri, purché il militare dimostri di averle pagate con strumenti tracciabili"
+   },
+   "corretta": "C",
+   "spiegazione": "La sentenza precisa, tra parentesi, che l'assenza di ricettazione o di contatti criminali «pare riscontrabile, allo stato, solo per il principio attivo della cannabis»: è il caso della cannabis light in negozio. Per cocaina, eroina e droghe sintetiche la prima condizione non ricorre mai, e la sanzione espulsiva resta sempre possibile; l'hashish o la marijuana comprati da uno spacciatore implicano proprio quel contatto.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-030",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché la detenzione di una sostanza stupefacente acquistata da uno spacciatore integra, in linea di principio, la ricettazione (art. 648 c.p.)?",
+   "opzioni": {
+    "A": "perché chi la acquista concorre nel reato di spaccio, e il concorso nel reato presupposto è la condizione richiesta dall'art. 648 c.p.",
+    "B": "perché la sostanza proviene da un delitto a monte, lo spaccio, e chi la acquista o la riceve, fuori dei casi di concorso, ha una cosa proveniente da delitto",
+    "C": "perché l'art. 648 c.p. punisce chiunque detenga sostanze stupefacenti senza autorizzazione, anche se destinate all'uso personale",
+    "D": "perché la sostanza è oggetto di sequestro obbligatorio, e chi la detiene sottrae una cosa sottoposta a vincolo dell'autorità giudiziaria"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 648 c.p. punisce, fuori dei casi di concorso nel reato, chi al fine di procurare a sé o ad altri un profitto acquista, riceve od occulta denaro o cose provenienti da un qualsiasi delitto. La droga acquistata dallo spacciatore proviene da un delitto a monte, lo spaccio; anche se è stata regalata, proviene comunque da reato. Il concorso nel reato presupposto, anzi, esclude la ricettazione.",
+   "riferimenti": [
+    "c.p. art. 648, co. 1",
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-031",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere è trovato con uno spinello. Non ne aveva mai fatto uso, gli esami del sangue e del capello sono negativi, non risultano contatti con spacciatori, collabora, consegna il telefono e apre l'armadietto. Secondo la giurisprudenza della n. 8439/2021:",
+   "opzioni": {
+    "A": "va comunque sanzionato, ma non con la sanzione espulsiva: di regola con la sospensione disciplinare dall'impiego, graduata da uno a dodici mesi",
+    "B": "non va sanzionato, perché in assenza di abitualità, contatti e ulteriore disvalore il fatto resta confinato nel procedimento amministrativo dell'art. 75",
+    "C": "va sanzionato con la consegna di rigore, perché l'uso occasionale senza contatti criminali non ha rilievo esterno e resta una mancanza di corpo",
+    "D": "va sanzionato con la perdita del grado, perché la collaborazione dopo il fatto non attenua la gravità e le condizioni operano solo per la cannabis light"
+   },
+   "corretta": "A",
+   "spiegazione": "Il caso descrive un militare per il quale ricorrono tutte le condizioni: la sanzione espulsiva è esclusa, ma una sanzione è sempre dovuta, e la sospensione disciplinare dall'impiego, da uno a dodici mesi (art. 1357, co. 1, lett. a, COM), consente di graduarla. Va ricordato però che, per l'orientamento prevalente (Cons. Stato, sez. II, n. 522/2023), anche l'uso occasionale può legittimare la perdita del grado: le condizioni sono un limite eccezionale.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "COM art. 1357, co. 1, lett. a)",
+    "Cons. Stato, sez. II, 16 gennaio 2023, n. 522"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-032",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un appuntato positivo ai cannabinoidi, che ha ammesso l'uso, risulta dai tabulati in contatto frequente con un noto spacciatore della zona. Gli esami successivi sono negativi. Secondo la griglia della n. 8439/2021:",
+   "opzioni": {
+    "A": "la sanzione espulsiva è consentita, perché manca la condizione dell'assenza di contatti diretti con ambienti criminali",
+    "B": "la sanzione espulsiva è esclusa, perché l'ammissione e gli esami negativi provano l'assenza di abitualità e di ulteriore disvalore",
+    "C": "la sanzione espulsiva è esclusa, perché i tabulati, acquisiti nel procedimento penale, non sono utilizzabili in quello disciplinare",
+    "D": "la sanzione espulsiva è consentita solo se il contatto ha dato luogo a una condanna per spaccio passata in giudicato"
+   },
+   "corretta": "A",
+   "spiegazione": "Le condizioni devono ricorrere congiuntamente: se manca anche una sola, l'espulsione torna possibile. Il contatto diretto con ambienti criminali, provato dai tabulati, fa venir meno una condizione, e ammissione ed esami negativi non bastano. La valutazione disciplinare è autonoma e non richiede una condanna penale (art. 1393 COM).",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "COM art. 1393"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-033",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un carabiniere, convocato per l'accertamento tossicologico, si presenta completamente depilato. Gli esami delle urine danno un esito compatibile con un uso occasionale. Quale condizione della n. 8439/2021 viene meno?",
+   "opzioni": {
+    "A": "l'assenza di abitualità, perché la depilazione impedisce di escludere un uso protratto e la legge presume allora l'uso abituale",
+    "B": "l'assenza di contatti con ambienti criminali, perché la depilazione dimostra la consapevolezza della provenienza illecita della sostanza",
+    "C": "nessuna, perché la depilazione è una scelta personale che il militare non è tenuto a giustificare e non incide sul giudizio disciplinare",
+    "D": "l'assenza di un ulteriore disvalore, perché sottrarsi all'accertamento viola gli obblighi di lealtà e fiducia reciproca"
+   },
+   "corretta": "D",
+   "spiegazione": "La sentenza indica espressamente come ulteriore disvalore la sottrazione del militare all'accertamento delle circostanze o un atteggiamento non pienamente collaborativo. La depilazione totale preordinata a impedire l'esame tricologico è stata qualificata come «aggravante teleologica» della condotta (Cons. Stato, sez. II, n. 4950/2021). Non esiste una presunzione legale di abitualità.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "Cons. Stato, sez. II, 30 giugno 2021, n. 4950"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-034",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere trovato con dell'hashish rifiuta di dire dove l'ha acquistato e da chi, di mostrare le ultime chiamate e di indicare se ne possiede altro. Quale indice della giurisprudenza ricorre?",
+   "opzioni": {
+    "A": "l'abitualità dell'uso, che si presume per legge quando il militare non indica la provenienza della sostanza",
+    "B": "nessun indice, perché il militare ha il diritto di non rispondere e il silenzio non può essere valutato in via disciplinare",
+    "C": "l'ulteriore disvalore per mancata collaborazione, che orienta verso la sanzione espulsiva",
+    "D": "la ricettazione, che si considera provata quando il militare non dimostra di aver ricevuto la sostanza in dono"
+   },
+   "corretta": "C",
+   "spiegazione": "La reticenza del militare (dove l'ha comprata, chi gliel'ha data, se ne ha altra, quando l'ha assunta) è il tipico «ulteriore disvalore» per violazione degli obblighi di lealtà e fiducia reciproca, che la n. 8439/2021 indica come incompatibile con l'esclusione dell'espulsione. Al contrario, il militare che indica dove si trova la sostanza e la consegna tiene un comportamento collaborativo, che pesa a suo favore.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-035",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Chi deve raccogliere la prova dei contatti del militare con gli ambienti criminali, perché la scelta tra sanzione espulsiva e sospensiva sia fondata?",
+   "opzioni": {
+    "A": "la commissione di disciplina, che può disporre d'ufficio intercettazioni e acquisizione di tabulati nel corso della seduta",
+    "B": "il comandante che istruisce la pratica, nell'immediatezza dei fatti, perché l'amministrazione centrale interviene a distanza di molti mesi",
+    "C": "l'ufficiale inquirente dell'inchiesta formale, che può chiedere i tabulati direttamente al gestore telefonico senza informativa di reato",
+    "D": "il Direttore generale per il personale militare, che prima di decidere deve disporre accertamenti integrativi tramite il comando di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "La pratica va costruita dal comandante che conduce gli accertamenti preliminari, quando gli elementi sono ancora reperibili: le dichiarazioni del militare, gli esami, le perquisizioni e, con un'informativa di reato, i tabulati. Nessuna autorità amministrativa può acquisire i tabulati senza procedimento penale; la commissione di disciplina non dispone intercettazioni. Se il contesto non è provato, la giurisprudenza tende a ritenere sproporzionata l'espulsione.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439",
+    "Cons. Stato, sez. II, 21 settembre 2023, n. 8452"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-036",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.e",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Che rapporto c'è tra le linee guida del Comando Generale del 2019 sugli stupefacenti e gli indici indicati dalla n. 8439/2021?",
+   "opzioni": {
+    "A": "le linee guida riproducono testualmente gli indici della sentenza, che anzi vi si è ispirata, e ne fanno criteri vincolanti per i comandanti",
+    "B": "le linee guida indicano come via maestra la perdita del grado e non menzionano gli indici, che la giurisprudenza richiede invece di accertare",
+    "C": "le linee guida escludono la perdita del grado per l'uso occasionale di droghe leggere, in contrasto con l'orientamento rigoroso del Consiglio di Stato",
+    "D": "le linee guida prevalgono sulla giurisprudenza, perché sono atti del Comando Generale e vincolano anche il giudice amministrativo"
+   },
+   "corretta": "B",
+   "spiegazione": "La circ. n. 276/148-78-2009 del 1.2.2019 indica la disciplina di stato e la perdita del grado come via maestra anche per l'uso occasionale; gli indici elaborati dalla giurisprudenza (contatti, abitualità, collaborazione) non vi compaiono, ed è stato osservato che sarebbe ora di aggiornarla. Le circolari non sono fonti del diritto e non vincolano il giudice: il provvedimento che non tiene conto della proporzionalità viene annullato.",
+   "riferimenti": [
+    "circ. n. 276/148-78-2009 del 1.2.2019",
+    "Cons. Stato, sez. II, 20 dicembre 2021, n. 8439"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-037",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.b",
+   "tipo": "termini",
+   "difficolta": 1,
+   "domanda": "Per quale durata può essere inflitta la sospensione disciplinare dall'impiego (art. 1357, co. 1, lett. a, COM)?",
+   "opzioni": {
+    "A": "per un periodo da uno a dodici mesi",
+    "B": "per un periodo da uno a sei mesi",
+    "C": "per un periodo da tre a dodici mesi",
+    "D": "per un periodo da sei mesi a due anni"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1357, co. 1, lett. a), COM prevede la sospensione disciplinare dall'impiego per un periodo da uno a dodici mesi; la stessa durata ha la sospensione dalle funzioni del grado (lett. b), propria dei militari in congedo. È frazionabile e quindi si presta a graduare la sanzione quando, per l'uso di stupefacenti, la perdita del grado sia sproporzionata. Da uno a sei mesi dura invece la sospensione dal servizio nella Polizia di Stato (art. 6 D.P.R. 737/1981).",
+   "riferimenti": [
+    "COM art. 1357, co. 1, lett. a)"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi p. 185"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-038",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "La sospensione disciplinare dall'impiego può essere inflitta al termine dell'inchiesta formale senza il previo giudizio della commissione di disciplina?",
+   "opzioni": {
+    "A": "no: ogni sanzione di stato richiede il giudizio della commissione di disciplina, il cui parere è vincolante per l'autorità che la infligge",
+    "B": "sì, ma solo se il militare vi consente per iscritto, rinunciando al giudizio della commissione di disciplina e alle relative garanzie",
+    "C": "no: senza commissione di disciplina si può infliggere solo la consegna di rigore, mentre la sospensione richiede sempre il deferimento",
+    "D": "sì: l'autorità competente, al termine dell'inchiesta formale, può proporne direttamente l'irrogazione senza deferire il militare alla commissione"
+   },
+   "corretta": "D",
+   "spiegazione": "Al termine dell'inchiesta formale l'autorità competente può discrezionalmente deferire il militare alla commissione di disciplina oppure proporre direttamente l'irrogazione della sospensione disciplinare; la perdita del grado per rimozione presuppone invece il deferimento alla commissione. Non è richiesto il consenso del militare.",
+   "riferimenti": [
+    "COM art. 1357",
+    "Sinossi pp. 183-184, 188"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi pp. 183-184, 188"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-039",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quali effetti produce la sospensione disciplinare dall'impiego sul rapporto del militare?",
+   "opzioni": {
+    "A": "il militare continua a prestare servizio a stipendio intero, ma perde per la durata della sospensione le attribuzioni di comando e la possibilità di avanzamento",
+    "B": "il rapporto di impiego si estingue e il militare viene riassunto al termine del periodo, senza detrazione di anzianità ma con perdita degli scatti maturati",
+    "C": "il militare non presta servizio, percepisce un trattamento economico ridotto e subisce una detrazione di anzianità; restano i doveri del giuramento e del grado",
+    "D": "il militare non presta servizio e non percepisce alcun emolumento, ma cessano per lui tutti i doveri disciplinari fino al rientro in servizio"
+   },
+   "corretta": "C",
+   "spiegazione": "La sospensione «congela» il rapporto: il militare non presta servizio pur restando in servizio permanente, riceve solo una parte del trattamento economico a titolo alimentare e subisce una detrazione di anzianità. Restano fermi i doveri attinenti al giuramento, al grado, al segreto e al riserbo, e la legge penale militare continua ad applicarsi. Del periodo di sospensione precauzionale sofferto si tiene conto nel calcolo della durata.",
+   "riferimenti": [
+    "COM art. 1357, co. 1, lett. a)",
+    "COM art. 1350, co. 3"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi pp. 184-185"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-040",
+   "argomento": "sanzioni-stato",
+   "sinossi": "V.3.b",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Un militare è stato sospeso precauzionalmente per otto mesi; al termine del procedimento gli viene inflitta la sospensione disciplinare dall'impiego per sei mesi. Che cosa accade?",
+   "opzioni": {
+    "A": "il militare sconta comunque i sei mesi di sospensione disciplinare, perché la sospensione precauzionale ha natura cautelare e non si computa nella sanzione",
+    "B": "il militare sconta i sei mesi, ma gli otto mesi di sospensione precauzionale gli vengono restituiti solo ai fini pensionistici e non economici",
+    "C": "la sanzione si considera già scontata, perché il periodo di sospensione precauzionale si computa nella sospensione disciplinare, e per l'eccedenza spetta la restitutio in integrum",
+    "D": "la sanzione viene convertita nella perdita del grado, perché la sospensione precauzionale superiore a quella disciplinare rivela la gravità del fatto"
+   },
+   "corretta": "C",
+   "spiegazione": "Del periodo di sospensione precauzionale si tiene conto nel calcolo della sospensione disciplinare: se il primo supera la sanzione inflitta, questa si considera già scontata e l'eccedenza dà diritto alla restitutio in integrum; se è inferiore, il militare sconta solo la parte residua.",
+   "riferimenti": [
+    "COM art. 1357, co. 1, lett. a)"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi p. 185"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-041",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 635, co. 1-ter, COM, i tatuaggi costituiscono causa di esclusione dal concorso per il reclutamento:",
+   "opzioni": {
+    "A": "se visibili con qualsiasi uniforme, compresa quella ginnica, a prescindere dal contenuto e dalle dimensioni del tatuaggio",
+    "B": "se lesivi del decoro dell'uniforme o della dignità della condizione del militare, secondo quanto stabilito dal bando",
+    "C": "se applicati dopo la presentazione della domanda di partecipazione, mentre quelli preesistenti sono sempre ammessi dal bando",
+    "D": "se raffigurano simboli politici o religiosi, mentre gli altri rilevano solo ai fini dell'idoneità psicofisica del candidato"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 635, co. 1-ter, COM, introdotto dal D.Lgs. 27 dicembre 2019, n. 173, stabilisce che i tatuaggi e le altre permanenti alterazioni volontarie dell'aspetto fisico non conseguenti a interventi sanitari, «se lesivi del decoro dell'uniforme o della dignità della condizione del militare», costituiscono causa di esclusione dal concorso secondo quanto stabilito dal bando. Non conta la sola visibilità, né la data in cui il tatuaggio è stato fatto.",
+   "riferimenti": [
+    "COM art. 635, co. 1-ter"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-042",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale atto ha introdotto nel COM la regola sui tatuaggi come causa di esclusione dal reclutamento (art. 635, co. 1-ter)?",
+   "opzioni": {
+    "A": "il D.Lgs. 27 dicembre 2019, n. 173",
+    "B": "il D.P.R. 15 marzo 2010, n. 90",
+    "C": "il D.Lgs. 24 febbraio 2012, n. 20",
+    "D": "la L. 28 aprile 2022, n. 46"
+   },
+   "corretta": "A",
+   "spiegazione": "Il co. 1-ter dell'art. 635 COM è stato inserito dall'art. 1, co. 1, lett. c), n. 2, del D.Lgs. 27 dicembre 2019, n. 173, come ricorda Cons. Stato, sez. IV, n. 1592/2021. Il D.P.R. 90/2010 è il TUROM; il D.Lgs. 20/2012 è un correttivo del COM; la L. 46/2022 riguarda l'esercizio della libertà sindacale dei militari.",
+   "riferimenti": [
+    "COM art. 635, co. 1-ter",
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-043",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Che cosa dispone il Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11) sui tatuaggi?",
+   "opzioni": {
+    "A": "vieta al personale di farsi applicare tatuaggi di qualsiasi tipologia, e prevede la rimozione a spese dell'amministrazione di quelli preesistenti",
+    "B": "consente i tatuaggi in qualunque parte del corpo, purché il militare in uniforme estiva li copra con fasce o bende di colore uniforme",
+    "C": "rinvia ai bandi di concorso la disciplina dei tatuaggi del personale in servizio, limitandosi a vietarli nelle uniformi di rappresentanza",
+    "D": "scoraggia il personale dal farsi applicare tatuaggi, per i rischi per la salute, e stabilisce che i militari in uniforme non possono esibirli"
+   },
+   "corretta": "D",
+   "spiegazione": "Il par. 3, lett. d), della parte I, cap. I, del Regolamento sulle uniformi «scoraggia» il personale dal farsi applicare tatuaggi per i rischi per la salute e, «ferma restando la soggettiva responsabilità», stabilisce che «i militari in uniforme non possono esibire tatuaggi». È vietato esibire, non farsi tatuare; non è prevista una rimozione a carico dell'amministrazione, né sono ammesse fasce o bende che non siano presidi sanitari.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3, lett. d)",
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-044",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il divieto di esibire tatuaggi del Regolamento sulle uniformi distingue tra uniforme estiva e uniforme invernale?",
+   "opzioni": {
+    "A": "sì: vale solo per l'uniforme invernale di rappresentanza, perché quella estiva è destinata ai servizi operativi",
+    "B": "sì: vale solo per l'uniforme di servizio estiva, l'unica in cui le braccia restano scoperte durante il servizio",
+    "C": "no: vale solo per le uniformi storiche e di cerimonia, mentre in quelle di servizio il tatuaggio è tollerato",
+    "D": "no: vale per qualsiasi uniforme che lasci visibile il tatuaggio, compresa quella di servizio estiva e quella ginnica"
+   },
+   "corretta": "D",
+   "spiegazione": "Il Consiglio di Stato ha sottolineato che il regolamento vieta di esibire tatuaggi in uniforme «senza al riguardo fare distinzione tra l'uniforme estiva e l'uniforme invernale». Rilevano quindi tutte le uniformi che lasciano scoperte parti del corpo: la SE con la camicia a maniche corte, l'uniforme ginnica, perfino il costume degli istruttori di nuoto.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3, lett. d)",
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-045",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale regola generale sull'aspetto esteriore pone il par. 3, lett. a), del Regolamento sulle uniformi per l'Arma, richiamata dal Consiglio di Stato sui tatuaggi?",
+   "opzioni": {
+    "A": "il personale è tenuto a curare l'aspetto esteriore solo in servizio, mentre fuori servizio l'aspetto è rimesso alle scelte personali",
+    "B": "il personale è tenuto a uniformare l'aspetto esteriore alle prescrizioni del comandante di corpo, che può derogare al regolamento",
+    "C": "il personale è tenuto a mantenere un aspetto consono al proprio status, evitando ogni forma di eccentricità",
+    "D": "il personale è tenuto a evitare tatuaggi, piercing e acconciature vistose solo se impiegato in servizi di rappresentanza"
+   },
+   "corretta": "C",
+   "spiegazione": "La lett. a) («Generalità») del par. 3, parte I, cap. I, stabilisce che le prescrizioni costituiscono direttiva generale per la disciplina dell'aspetto esteriore e che «in ogni caso, il personale è tenuto a mantenere un aspetto consono al proprio status, evitando ogni forma di eccentricità». Il Consiglio di Stato l'ha usata come seconda ragione della rilevanza disciplinare dei tatuaggi visibili.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3, lett. a)",
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-046",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale disposizione del TUROM impone al militare di non modificare né alterare l'uniforme e di indossarla con decoro?",
+   "opzioni": {
+    "A": "l'art. 713, co. 3, TUROM",
+    "B": "l'art. 720, co. 3 e 4, TUROM",
+    "C": "l'art. 732, co. 6, TUROM",
+    "D": "l'art. 717, co. 1, TUROM"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 720 TUROM («Uniforme») stabilisce al co. 3 che apposite norme prescrivono composizione, foggia e uso dell'uniforme, che il militare non deve in alcun caso modificare o alterare, e al co. 4 che il militare deve averne cura particolare e indossarla con decoro. È il fondamento regolamentare per escludere, ad esempio, le fasce color carne usate per coprire un tatuaggio. L'art. 713, co. 3, riguarda l'esempio del militare investito di un grado.",
+   "riferimenti": [
+    "TUROM art. 720, co. 3 e 4"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-047",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale disposizione del TUROM fonda l'osservazione che il comandante che tollera i tatuaggi visibili favorisce l'emulazione?",
+   "opzioni": {
+    "A": "l'art. 713, co. 3: il militare investito di un grado deve essere di esempio, perché l'esempio agevola l'azione e suscita lo spirito di emulazione",
+    "B": "l'art. 712, co. 1: il militare si impegna con il giuramento a operare con disciplina e onore, senza risparmio di energie fisiche e morali",
+    "C": "l'art. 717, co. 1: il militare deve agire con senso di responsabilità e consapevole partecipazione, anche in assenza di ordini",
+    "D": "l'art. 725, co. 2: il superiore deve approfondire la conoscenza dei dipendenti e curarne le condizioni di vita e di benessere"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 713, co. 3, TUROM stabilisce che il militare investito di un grado deve essere di esempio nel compimento dei doveri, «poiché l'esempio agevola l'azione e suscita lo spirito di emulazione». Il comandante che finge di non vedere i tatuaggi produce l'effetto opposto: gli altri si sentono autorizzati a fare lo stesso. Le altre norme riguardano il giuramento, il senso di responsabilità e i doveri del superiore verso i dipendenti.",
+   "riferimenti": [
+    "TUROM art. 713, co. 3"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-048",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "caso_pratico",
+   "difficolta": 1,
+   "domanda": "Un militare del Nucleo Operativo, che presta servizio abitualmente in abiti civili, ha un tatuaggio sull'avambraccio. Nel ragionamento svolto a lezione:",
+   "opzioni": {
+    "A": "oggi non lo esibisce in uniforme, ma il problema si porrà quando dovrà indossare l'uniforme di servizio estiva, ad esempio tornando all'Arma territoriale",
+    "B": "non vi sarà mai alcun problema, perché il divieto riguarda solo chi è assegnato a reparti in uniforme al momento in cui si fa tatuare",
+    "C": "commette già una mancanza disciplinare, perché il regolamento vieta di farsi applicare tatuaggi in parti del corpo potenzialmente visibili",
+    "D": "deve chiedere un'autorizzazione al comandante di corpo, che può consentirgli il tatuaggio finché resta assegnato al Nucleo Operativo"
+   },
+   "corretta": "A",
+   "spiegazione": "Il divieto riguarda l'esibizione in uniforme, non il tatuaggio in sé: il militare in abiti civili non lo viola. Ma chi presta servizio al Nucleo Operativo o al ROS prima o poi può tornare all'Arma territoriale o essere chiamato a indossare la SE, e allora il tatuaggio visibile diventa un problema; non è prevista alcuna autorizzazione del comandante.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3, lett. d)"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-049",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Quale questione ha sottoposto il TAR Lazio alla Corte di giustizia UE con l'ordinanza 30 aprile 2025, n. 8482?",
+   "opzioni": {
+    "A": "se il divieto di tatuaggi visibili per gli appartenenti alle Forze di polizia violi la libertà di espressione tutelata dalla Carta dei diritti fondamentali",
+    "B": "se la perdita del grado inflitta a un carabiniere per tatuaggi visibili sia una sanzione sproporzionata alla luce del diritto dell'Unione",
+    "C": "se gli Stati membri possano escludere dai concorsi pubblici i candidati con tatuaggi, alla luce della libera circolazione dei lavoratori",
+    "D": "se l'esclusione di una candidata alla Polizia di Stato per un tatuaggio visibile solo con la gonna dell'uniforme femminile sia una discriminazione fondata sul sesso"
+   },
+   "corretta": "D",
+   "spiegazione": "Il TAR Lazio (sez. I-quater, ord. 30 aprile 2025, n. 8482) ha chiesto alla Corte se il diritto dell'Unione, in particolare la direttiva 2006/54/CE e gli artt. 21 e 23 della Carta, osti all'esclusione di una candidata per un tatuaggio sul polpaccio visibile solo con l'uniforme di rappresentanza femminile, che prevede la gonna, mentre con i pantaloni dell'uniforme maschile non si vedrebbe. La causa è la C-320/25.",
+   "riferimenti": [
+    "TAR Lazio, sez. I-quater, ord. 30 aprile 2025, n. 8482",
+    "Corte giust. UE, causa C-320/25"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "News n. 64 del 14.7.2025 dell'Ufficio del massimario della giustizia amministrativa"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-050",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Che cosa ha concluso l'avvocata generale nella causa C-320/25 sul tatuaggio della candidata alla Polizia di Stato?",
+   "opzioni": {
+    "A": "che il divieto di tatuaggi visibili è legittimo perché persegue l'obiettivo di preservare l'identità delle forze di polizia nelle cerimonie ufficiali",
+    "B": "che la discriminazione è solo indiretta e può essere giustificata se l'amministrazione consente alla candidata di indossare i pantaloni",
+    "C": "che l'applicazione combinata del divieto di tatuaggi visibili e dell'uniforme diversa secondo il genere è una discriminazione diretta fondata sul sesso, non giustificata",
+    "D": "che la questione esula dal diritto dell'Unione, perché i requisiti di accesso alle forze di polizia rientrano nella competenza esclusiva degli Stati"
+   },
+   "corretta": "C",
+   "spiegazione": "Nelle conclusioni del 3 settembre 2026 l'avvocata generale Ćapeta ha ritenuto che le due norme, legittime se considerate separatamente, nella loro applicazione combinata penalizzino le candidate in ragione del sesso: è una discriminazione diretta, e l'esigenza di partecipare alle cerimonie ufficiali non la giustifica. Le conclusioni non vincolano la Corte, che deve ancora pronunciarsi.",
+   "riferimenti": [
+    "Corte giust. UE, causa C-320/25, conclusioni dell'avvocata generale del 3 settembre 2026"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Corte di giustizia UE, comunicato stampa n. 118/26 del 3.9.2026"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-051",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Il comandante nota un militare che si presenta in uniforme di servizio estiva con tatuaggi vistosi sugli avambracci. Qual è il primo passo indicato a lezione?",
+   "opzioni": {
+    "A": "fotografare i tatuaggi, anche all'insaputa del militare, per documentarli prima che possano essere coperti o rimossi",
+    "B": "inviare il militare in infermeria, perché il medico descriva il tatuaggio (sede, forma, colore) e ne valuti i profili sanitari",
+    "C": "ordinare al militare di rimuovere i tatuaggi entro trenta giorni, avvertendolo che altrimenti sarà avviato il procedimento di stato",
+    "D": "contestare subito l'addebito e infliggere la consegna di rigore, riservando la valutazione medica alla fase dell'inchiesta formale"
+   },
+   "corretta": "B",
+   "spiegazione": "Il tatuaggio è un'alterazione della pelle: prima della procedura disciplinare serve il parere del medico, che lo descrive anatomicamente e ne valuta i profili sanitari. Il comandante non deve fotografare o filmare il militare di nascosto (può usare le foto che il militare stesso ha pubblicato) e non può ordinare la rimozione, che è un trattamento sanitario.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3, lett. d)"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-052",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Come si può documentare legittimamente un tatuaggio con contenuto incompatibile con il giuramento?",
+   "opzioni": {
+    "A": "con le foto scattate dal comandante durante un controllo a sorpresa, purché alla presenza di un altro militare come testimone",
+    "B": "con il referto del medico che lo rileva durante una visita, oppure acquisendo la foto pubblicata dallo stesso militare sui social network",
+    "C": "con la dichiarazione dei colleghi che lo hanno visto, che sostituisce il referto medico quando il tatuaggio è in una parte coperta",
+    "D": "con un'ispezione corporale disposta dal comandante di corpo, consentita quando vi è il sospetto di tatuaggi vietati"
+   },
+   "corretta": "B",
+   "spiegazione": "Questi tatuaggi si scoprono in modo accidentale, quando il medico che visita il militare li referta e li segnala, o indiretto, quando il militare pubblica una foto in cui sono visibili: in tal caso il superiore può scaricare l'immagine e procedere. Foto o video ripresi di nascosto non sono ammessi, e il comandante non può disporre ispezioni corporali.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-053",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quali tatuaggi sono vietati anche se collocati in parti del corpo coperte dall'uniforme?",
+   "opzioni": {
+    "A": "quelli il cui contenuto è incompatibile con il giuramento e la fedeltà alle istituzioni repubblicane, come simboli razzisti, xenofobi o la svastica",
+    "B": "quelli di dimensioni superiori a quelle stabilite dal bando di concorso, anche se il loro contenuto è del tutto neutro",
+    "C": "quelli eseguiti dopo l'arruolamento senza la preventiva comunicazione al comandante di corpo e all'infermeria presidiaria",
+    "D": "quelli che raffigurano simboli di altre Forze armate o Corpi di polizia, che potrebbero ingenerare confusione sull'appartenenza"
+   },
+   "corretta": "A",
+   "spiegazione": "Oltre al divieto di esibire tatuaggi in uniforme, sono sempre vietati, in qualunque sede anatomica, i tatuaggi che contrastano con i principi del giuramento e con la fedeltà alle istituzioni repubblicane (art. 712 TUROM): simboli che inneggiano al razzismo, alla xenofobia, alla discriminazione di genere, la svastica. Un tatuaggio neutro in una parte coperta, ad esempio sulla schiena, non è contestabile.",
+   "riferimenti": [
+    "TUROM art. 712"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-054",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Perché il TAR Emilia-Romagna (n. 432/2020) annullò la perdita del grado inflitta all'appuntato scelto con tatuaggi sugli avambracci?",
+   "opzioni": {
+    "A": "per incompetenza: la perdita del grado doveva essere disposta con decreto ministeriale e non dalla Direzione generale per il personale militare",
+    "B": "per difetto di istruttoria: l'amministrazione non aveva sottoposto il militare a visita medica prima di avviare il procedimento disciplinare",
+    "C": "per violazione del diritto di difesa: il militare non era stato sentito dalla commissione di disciplina sulla pubblicazione delle foto",
+    "D": "per sproporzione: la condotta, seppur non lieve, non impediva la prosecuzione del rapporto, potendo il militare essere impiegato senza maniche corte o rimuovere i tatuaggi"
+   },
+   "corretta": "D",
+   "spiegazione": "Il TAR riconobbe che i tatuaggi deturpanti possono costituire illecito disciplinare, ma ritenne la sanzione espulsiva sproporzionata: «la condotta addebitata seppur non di lieve entità non appare inadempimento di gravità tale da non consentire la prosecuzione del rapporto», considerati l'impiego in unità senza uniforme a maniche corte e la rimozione volontaria. Il TAR respinse anzi l'eccezione dell'amministrazione relativa agli atti presupposti.",
+   "riferimenti": [
+    "TAR Emilia-Romagna, sez. I, 29 giugno 2020, n. 432"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-055",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Quale principio richiamò il TAR Emilia-Romagna (n. 432/2020) per escludere che l'esclusione dall'arruolamento per tatuaggi potesse equipararsi alla perdita del grado?",
+   "opzioni": {
+    "A": "il principio di irretroattività della legge penale (art. 25 Cost.), perché i tatuaggi erano stati fatti prima del D.Lgs. 173/2019",
+    "B": "il principio del ne bis in idem, perché il militare era già stato sottoposto a visita medica per gli stessi tatuaggi",
+    "C": "il principio di tassatività delle sanzioni disciplinari (art. 1353 COM), data la finalità punitiva della responsabilità disciplinare",
+    "D": "il principio di legalità dell'azione amministrativa (art. 97 Cost.), perché il bando di concorso non può applicarsi a chi è già in servizio"
+   },
+   "corretta": "C",
+   "spiegazione": "Il TAR ritenne che non si potesse equiparare l'esclusione dall'arruolamento prevista dal D.Lgs. 173/2019 alla perdita del grado, «pena la violazione del principio di tassatività di cui all'art. 1353 cod. ord. militare», applicabile al procedimento disciplinare per la sua finalità punitiva. Il Consiglio di Stato ha poi superato l'obiezione: le norme sul reclutamento non si applicano per analogia, ma offrono un parametro di gravità.",
+   "riferimenti": [
+    "TAR Emilia-Romagna, sez. I, 29 giugno 2020, n. 432",
+    "COM art. 1353"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-056",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo il TAR Emilia-Romagna (n. 432/2020), il principio di proporzionalità applicabile anche al procedimento disciplinare si articola in:",
+   "opzioni": {
+    "A": "legalità, imparzialità e buon andamento dell'azione, secondo l'art. 97 della Costituzione",
+    "B": "tipicità, tassatività e irretroattività della sanzione, secondo l'art. 1353 COM",
+    "C": "idoneità, necessarietà e adeguatezza della misura, secondo la sua derivazione dal diritto dell'Unione",
+    "D": "gradualità, contestualità e immediatezza della sanzione, secondo l'art. 1355 COM"
+   },
+   "corretta": "C",
+   "spiegazione": "Il TAR richiama il principio generale di derivazione comunitaria di proporzionalità dell'azione amministrativa, «nella sua triplice accezione di idoneità, necessarietà e adeguatezza», valevole anche nel procedimento disciplinare e richiamato dall'art. 1355 COM. Gli altri principi esistono, ma non sono le componenti della proporzionalità.",
+   "riferimenti": [
+    "TAR Emilia-Romagna, sez. I, 29 giugno 2020, n. 432",
+    "COM art. 1355"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-057",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Il TAR Emilia-Romagna (n. 432/2020) considerò il tatuaggio deturpante, per dimensioni e contenuto, come possibile indice di:",
+   "opzioni": {
+    "A": "una patologia psichiatrica, che impone la dispensa dal servizio per inidoneità permanente",
+    "B": "una personalità abnorme, elemento che può rendere il tatuaggio un illecito disciplinare",
+    "C": "un'appartenenza a gruppi eversivi, che va segnalata all'autorità giudiziaria militare",
+    "D": "una condotta contraria alla salute pubblica, che va segnalata all'azienda sanitaria locale"
+   },
+   "corretta": "B",
+   "spiegazione": "Il TAR osservò che l'incisione di tatuaggi che per dimensioni e contenuto siano deturpanti della persona e «indice di personalità abnorme» può costituire un illecito disciplinare. È anche la ragione dell'invio in infermeria: il militare con tatuaggi vistosi può essere posto in malattia per una valutazione della personalità, che non spetta al comandante.",
+   "riferimenti": [
+    "TAR Emilia-Romagna, sez. I, 29 giugno 2020, n. 432"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-058",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Per quali ragioni convergenti Cons. Stato, sez. IV, n. 1592/2021 ha affermato la rilevanza disciplinare dei tatuaggi visibili in uniforme?",
+   "opzioni": {
+    "A": "il divieto di esibirli del Regolamento sulle uniformi; l'obbligo generale di un aspetto consono allo status; la norma sul reclutamento, che ne rafforza la rilevanza",
+    "B": "l'art. 1353 COM sulla tassatività delle sanzioni; la circolare del Comando Generale sui tatuaggi; l'esito della visita medica del militare",
+    "C": "l'obbligo di indossare l'uniforme in servizio; il codice di comportamento dei dipendenti del Ministero della difesa; la risonanza sui social",
+    "D": "il divieto di farsi applicare tatuaggi del Regolamento sulle uniformi; la sua conferma nel bando di concorso; il parere della commissione medica"
+   },
+   "corretta": "A",
+   "spiegazione": "Il Collegio indica tre circostanze convergenti: il par. 3, lett. d), del Regolamento sulle uniformi vieta di esibire tatuaggi in uniforme; la lett. a) impone un aspetto consono allo status, senza eccentricità; la norma sul reclutamento (art. 635, co. 1-ter, COM) non dimostra a contrario la liceità dei tatuaggi per chi è in servizio, ma ne rafforza la rilevanza, perché non si può ammettere in servizio una pratica che impedisce l'arruolamento. Il regolamento scoraggia, ma non vieta, di farsi tatuare.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592",
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3",
+    "COM art. 635, co. 1-ter"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-059",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo Cons. Stato, sez. IV, n. 1592/2021, perché una sanzione meno grave della perdita del grado non avrebbe risolto il caso dell'appuntato con i tatuaggi?",
+   "opzioni": {
+    "A": "perché le sanzioni di corpo non possono essere inflitte per fatti già esaminati dalla commissione di disciplina nel procedimento di stato, e la sospensione era già scaduta",
+    "B": "perché la sospensione dall'impiego non può essere inflitta a chi ha una valutazione caratteristica superiore alla media, come era quella dell'appuntato scelto",
+    "C": "perché la perdita del grado era già stata proposta dalla commissione di disciplina, e l'autorità che infligge la sanzione non poteva discostarsene",
+    "D": "perché l'illecito sarebbe durato per tutto il rapporto: la rimozione non può essere imposta, data l'incoercibilità degli atti di disposizione del proprio corpo (art. 5 c.c.)"
+   },
+   "corretta": "D",
+   "spiegazione": "Il Collegio ritiene comprensibile la tesi dell'amministrazione: l'illecito che giustifica la sanzione «permarrebbe per il prosieguo del rapporto di servizio», perché non si può imporre la rimozione dei tatuaggi, «stante l'incoercibilità di atti di disposizione del proprio corpo ex art. 5 c.c.». La norma civile vieta gli atti di disposizione del proprio corpo che cagionino una diminuzione permanente dell'integrità fisica.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592",
+    "c.c. art. 5"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-060",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Nel caso dei tatuaggi deciso da Cons. Stato, sez. IV, n. 1592/2021, che rilievo hanno avuto le note interne dell'Arma secondo cui i tatuaggi sono «sconsigliati»?",
+   "opzioni": {
+    "A": "decisivo: dimostrano che l'Arma non considera illecito il tatuaggio visibile e rendono illegittima ogni sanzione disciplinare",
+    "B": "attenuante: non escludono l'illecito ma impongono la sospensione dall'impiego in luogo della perdita del grado",
+    "C": "procedurale: impongono all'amministrazione di diffidare il militare prima di avviare il procedimento disciplinare",
+    "D": "nessuno a favore del militare: si limitano a riprendere il regolamento, che sconsiglia di farsi tatuare ma vieta di esibire i tatuaggi"
+   },
+   "corretta": "D",
+   "spiegazione": "Il TAR aveva ritenuto che le note del 2003 e del 2017, che «sconsigliano» i tatuaggi, attenuassero la gravità della condotta. Il Consiglio di Stato ha osservato invece che quelle note si limitano a riprendere il regolamento: scoraggiare l'applicazione dei tatuaggi è cosa diversa dal consentirne l'esibizione, che resta vietata.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592",
+    "TAR Emilia-Romagna, sez. I, 29 giugno 2020, n. 432"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-061",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Nel caso dei tatuaggi deciso da Cons. Stato, sez. IV, n. 1592/2021, quale sorte ha avuto l'addebito relativo alla pubblicazione delle foto sui social network?",
+   "opzioni": {
+    "A": "il Collegio lo ha ritenuto infondato, perché non era provato che fosse stato il militare a pubblicare le foto, e ha ridotto la sanzione",
+    "B": "il Collegio lo ha ritenuto decisivo, perché la diffusione delle foto aveva leso il prestigio dell'Arma più dei tatuaggi in sé",
+    "C": "il Collegio non lo ha esaminato, perché la gravità dell'esibizione dei tatuaggi era di per sé sufficiente a giustificare la sanzione espulsiva",
+    "D": "il Collegio lo ha rimesso all'amministrazione, perché la pubblicazione costituiva un illecito di corpo da sanzionare separatamente"
+   },
+   "corretta": "C",
+   "spiegazione": "Considerata la gravità della condotta, «di per sé sufficiente ad integrare l'illecito disciplinare causa della sanzione espulsiva», il Collegio ha ritenuto di poter prescindere dal secondo profilo di addebito. Il TAR, in primo grado, aveva invece escluso l'aggravante perché non era provato chi avesse pubblicato le foto.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592",
+    "TAR Emilia-Romagna, sez. I, 29 giugno 2020, n. 432"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-062",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Nel caso dei tatuaggi di Bologna, quale autorità inflisse all'appuntato scelto la perdita del grado per rimozione?",
+   "opzioni": {
+    "A": "il Comandante della Legione Carabinieri Emilia-Romagna, all'esito dell'inchiesta formale, il 4 marzo 2020",
+    "B": "la Direzione generale per il personale militare del Ministero della Difesa, il 4 marzo 2020",
+    "C": "il Comandante generale dell'Arma, su proposta della commissione di disciplina, il 29 giugno 2020",
+    "D": "il comandante di corpo del militare, con determinazione motivata, all'esito della visita medica"
+   },
+   "corretta": "B",
+   "spiegazione": "Il provvedimento sanzionatorio, del 4 marzo 2020, fu adottato dal Ministero della Difesa – Direzione generale per il personale militare: la potestà sanzionatoria di stato compete al Ministro o all'autorità delegata (art. 1375 COM), e per gli appuntati e carabinieri in servizio la perdita del grado è disposta con determinazione ministeriale (art. 867, co. 1, COM). Il 29 giugno 2020 è la data della sentenza del TAR.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592",
+    "TAR Emilia-Romagna, sez. I, 29 giugno 2020, n. 432",
+    "COM art. 1375",
+    "COM art. 867, co. 1"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-063",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un militare con tatuaggi visibili in uniforme sostiene, nelle memorie difensive, che il comandante precedente non gli ha mai detto nulla e chiede di sentire testimoni che confermino che li porta da anni. Come va valutata la difesa?",
+   "opzioni": {
+    "A": "è irrilevante: la violazione si contesta per l'esibizione attuale, e la tolleranza di fatto del comandante precedente non crea una prassi né una sanatoria",
+    "B": "è decisiva: la tolleranza prolungata del comandante precedente ha creato un legittimo affidamento che esclude ogni sanzione disciplinare",
+    "C": "è rilevante ai soli fini della competenza: la contestazione spetta al comandante precedente, che ha conosciuto per primo il fatto",
+    "D": "impone di sospendere il procedimento fino alla conclusione di quello a carico del comandante precedente per omesso controllo"
+   },
+   "corretta": "A",
+   "spiegazione": "È vietato esibire i tatuaggi, e la violazione si contesta oggi. Nessuna prassi autorizza un comportamento vietato, perché la prassi si fonda sul diritto e non su un comportamento contra ius; la tolleranza del comandante precedente può semmai essere valutata a suo carico sul piano disciplinare, ma non giova al militare. Nel caso di Bologna, il richiamo a un procedimento di corpo avviato per un fatto analogo non ha impedito la conferma della perdita del grado.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3, lett. d)",
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-064",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un militare chiede se può coprire con una fascia color carne il tatuaggio sull'avambraccio quando indossa l'uniforme estiva. La risposta corretta è:",
+   "opzioni": {
+    "A": "no: l'uniforme non si modifica né si altera, e fasce o bende sono ammesse solo come presidi sanitari; si può concordare solo un percorso di rimozione con l'infermeria",
+    "B": "sì, purché la fascia sia di colore uniforme e sia autorizzata per iscritto dal comandante di corpo, che ne annota l'uso nel fascicolo personale",
+    "C": "sì, ma solo per i tatuaggi preesistenti all'arruolamento, mentre per quelli successivi la copertura non elimina l'illecito disciplinare",
+    "D": "no, ma può indossare in alternativa la camicia a maniche lunghe dell'uniforme invernale, che il regolamento consente in ogni stagione"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 720, co. 3, TUROM vieta di modificare o alterare l'uniforme, e le bende o fasce sono ammesse solo per cicatrici o ferite. Per tatuaggi di piccole dimensioni (una stellina, un'iniziale) si può concordare una soluzione provvisoria solo nell'ambito di un percorso di rimozione volontaria concordato con l'infermeria. Non esiste un'autorizzazione del comandante di corpo, né una scelta individuale dell'uniforme invernale.",
+   "riferimenti": [
+    "TUROM art. 720, co. 3"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-065",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché il comandante NON può ordinare al militare di rimuovere un tatuaggio?",
+   "opzioni": {
+    "A": "perché il tatuaggio fatto prima dell'arruolamento è un diritto acquisito del militare, che il comandante deve rispettare fino al congedo",
+    "B": "perché l'ordine spetta al comandante di corpo, mentre il comandante di reparto può solo segnalare il tatuaggio all'infermeria presidiaria",
+    "C": "perché la rimozione è a carico dell'amministrazione, e l'ordine richiede l'autorizzazione preventiva della Direzione di sanità",
+    "D": "perché la rimozione è un trattamento sanitario non imponibile (art. 32 Cost.; art. 5 c.c.) e può lasciare cicatrici deturpanti: il percorso lo gestisce il medico"
+   },
+   "corretta": "D",
+   "spiegazione": "Nessuno può essere obbligato a un trattamento sanitario se non per disposizione di legge (art. 32, co. 2, Cost.), e il Consiglio di Stato ha ricordato l'incoercibilità degli atti di disposizione del proprio corpo (art. 5 c.c.). La rimozione, con terapia laser, può lasciare cicatrici deturpanti o cheloidi, non rimarginarsi, infettarsi: e il militare che avesse obbedito potrebbe imputarne il danno all'ordine. Il protocollo sanitario lo stabilisce il medico.",
+   "riferimenti": [
+    "Cost. art. 32, co. 2",
+    "c.c. art. 5",
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-066",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Il comandante che, per tatuaggi vistosi potenzialmente punibili con una sanzione di stato, infligge subito una sanzione di corpo:",
+   "opzioni": {
+    "A": "esercita correttamente la propria discrezionalità, perché la sanzione di corpo può sempre essere seguita da quella di stato per lo stesso fatto",
+    "B": "adotta un atto nullo, che la Direzione generale per il personale militare deve annullare d'ufficio prima di procedere in via di stato",
+    "C": "commette un errore di valutazione, a sua volta disciplinarmente valutabile, che preclude la successiva adozione della sanzione di stato",
+    "D": "rispetta il principio di gradualità, che impone di infliggere prima la sanzione di corpo e solo in caso di recidiva quella di stato"
+   },
+   "corretta": "C",
+   "spiegazione": "La potestà sanzionatoria è una: la stessa condotta non può essere punita sia con una sanzione di corpo sia con una di stato. La sanzione di corpo è legittima solo per le mancanze per le quali si possa escludere con certezza la sanzione di stato (artt. 1352 e 1355 COM); il comandante che non se ne astiene davanti a gravi infrazioni incorre in un errore di valutazione che preclude la successiva sanzione di stato. La gradualità non impone una progressione obbligata.",
+   "riferimenti": [
+    "COM artt. 1352 e 1355"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi pp. 189-190"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-067",
+   "argomento": "norme-comportamento",
+   "sinossi": "",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "L'esibizione di tatuaggi vistosi in uniforme, che ha portato alla perdita del grado dell'appuntato di Bologna, è:",
+   "opzioni": {
+    "A": "un reato militare di violata consegna, perché il militare in servizio ha disatteso le prescrizioni sull'uniforme impartite dal comandante",
+    "B": "un fatto non costituente reato, ma una grave mancanza disciplinare che ha compromesso il rapporto di fiducia con l'amministrazione",
+    "C": "un reato comune di atti contrari alla pubblica decenza, perché l'esibizione è avvenuta in luogo pubblico durante il servizio",
+    "D": "un illecito amministrativo, punito con sanzione pecuniaria, al quale può aggiungersi una sanzione disciplinare di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Il tatuaggio non è reato e l'esibizione in uniforme non integra un reato militare o comune: il caso è un esempio di disciplina di stato, con sanzione espulsiva, applicata a un fatto non costituente reato, ma valutato come grave mancanza disciplinare lesiva del rapporto di fiducia (Cons. Stato, sez. IV, n. 1592/2021). Le sanzioni di stato rispondono all'interesse generale dell'amministrazione quando il fatto lede l'immagine e il prestigio dell'istituzione.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Sinossi pp. 189-190"
+   ],
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
   }
  ]
 }
