@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
- "aggiornata": "2026-10-28",
- "totale": 679,
+ "aggiornata": "2026-11-01",
+ "totale": 787,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -52,6 +52,12 @@
    "parte": "II – I doveri dei militari"
   },
   {
+   "slug": "doveri-segreto-riserbo",
+   "titolo": "Segreto e riserbo",
+   "descrizione": "segreto e riserbo sulle questioni militari (II.3.d)",
+   "parte": "II – I doveri dei militari"
+  },
+  {
    "slug": "doveri-condotta",
    "titolo": "Condotta e doveri attinenti al grado",
    "descrizione": "imparzialità, dedizione, condotta esemplare, doveri attinenti al grado (art. 713 TUROM), neutralità, Presidente della Repubblica (II.3.e-i)",
@@ -73,6 +79,18 @@
    "slug": "doveri-superiori",
    "titolo": "Doveri dei superiori",
    "descrizione": "doveri propri dei superiori (art. 725 TUROM) (II.5.e)",
+   "parte": "II – I doveri dei militari"
+  },
+  {
+   "slug": "doveri-formali",
+   "titolo": "Uniforme, saluto e doveri formali",
+   "descrizione": "bandiera, uniforme (art. 720 TUROM), cura della persona, saluto, norme di tratto (II.6)",
+   "parte": "II – I doveri dei militari"
+  },
+  {
+   "slug": "doveri-corpo-militare",
+   "titolo": "Spirito di corpo",
+   "descrizione": "spirito di corpo, comandante di corpo, solidarietà (II.7)",
    "parte": "II – I doveri dei militari"
   },
   {
@@ -17492,6 +17510,2731 @@
    ],
    "lezione": 6,
    "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L07-001",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 722, co. 1, lett. a), TUROM, il militare deve acquisire e mantenere l'abitudine al riserbo su argomenti o notizie la cui divulgazione può recare pregiudizio:",
+   "opzioni": {
+    "A": "al prestigio delle Forze armate, salvo che se ne parli in conversazioni private con i soli familiari conviventi e tenuti alla riservatezza",
+    "B": "all'efficienza del reparto, limitatamente alle notizie classificate come riservate o riservatissime",
+    "C": "al buon andamento dell'amministrazione, escluse le conversazioni private che non vengano rese pubbliche",
+    "D": "alla sicurezza dello Stato, escludendo qualsiasi riferimento a essi anche dalle conversazioni private con i familiari"
+   },
+   "corretta": "D",
+   "spiegazione": "La lett. a) dell'art. 722 TUROM ha per oggetto le notizie la cui divulgazione può pregiudicare la sicurezza dello Stato (vi rientra, in concreto, quanto riguarda l'attività di polizia giudiziaria e di pubblica sicurezza) e arriva fino alla sfera privata: ne esclude ogni riferimento dalle conversazioni private, «anche se hanno luogo con familiari». Non vi è alcuna eccezione per i familiari conviventi né per le conversazioni che restano private, e la norma non si limita alle notizie classificate, già protette dalla disciplina del segreto.",
+   "riferimenti": [
+    "TUROM art. 722, co. 1, lett. a)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 44"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-002",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 722, co. 1, lett. b), TUROM impone al militare di evitare la divulgazione di notizie attinenti al servizio:",
+   "opzioni": {
+    "A": "solo se la divulgazione arreca un pregiudizio concreto e accertato alla sicurezza dello Stato",
+    "B": "solo se classificate, perché le notizie non classificate rientrano nella libera manifestazione del pensiero",
+    "C": "solo se rivolte a organi di stampa, essendo libera la comunicazione tra privati",
+    "D": "anche se insignificanti, quando possono costituire materiale informativo"
+   },
+   "corretta": "D",
+   "spiegazione": "La lett. b) dell'art. 722 TUROM vieta la divulgazione di notizie attinenti al servizio che, «anche se insignificanti», possono costituire materiale informativo: la singola notizia può essere irrilevante, ma combinata con altre contribuisce a ricostruire dispositivi, abitudini e procedure. Non occorrono la classifica, un pregiudizio concreto o la destinazione alla stampa: basta l'idoneità a costituire materiale informativo.",
+   "riferimenti": [
+    "TUROM art. 722, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 44"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-003",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il dovere dell'art. 722, co. 1, lett. c), TUROM di riferire sollecitamente ai superiori ogni informazione che può interessare la sicurezza dello Stato o la salvaguardia delle armi e delle installazioni militari è inquadrato come:",
+   "opzioni": {
+    "A": "un autonomo dovere di informazione, collegato alla fedeltà e al giuramento e alla tutela dei beni dell'amministrazione militare",
+    "B": "un obbligo di denuncia penale equivalente a quello dell'art. 331 c.p.p., la cui omissione è soltanto reato",
+    "C": "una specificazione del dovere di riserbo, perché riguarda notizie che non devono essere divulgate all'esterno del reparto di appartenenza",
+    "D": "un dovere che grava sul solo comandante di corpo, in quanto responsabile della sicurezza delle installazioni"
+   },
+   "corretta": "A",
+   "spiegazione": "La lett. c) è solo estrinsecamente legata al riserbo: più che un dovere di riserbo, pone un autonomo dovere di informazione verso i superiori, che si collega al dovere di fedeltà e ai doveri del giuramento e ai doveri di tutela dei beni dell'amministrazione (art. 723 TUROM, che impone di opporsi a ogni atto che possa danneggiare armi, mezzi, materiali e installazioni). Grava su ogni militare, non sul solo comandante, e la sua omissione o il suo ritardo sono tipizzati tra i comportamenti punibili con la consegna di rigore (art. 751, co. 1, lett. a, n. 7).",
+   "riferimenti": [
+    "TUROM art. 722, co. 1, lett. c)",
+    "TUROM art. 723, co. 1",
+    "TUROM art. 751, co. 1, lett. a), n. 7"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 44"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-004",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere in licenza, in abito civile e lontano da luoghi militari, racconta durante una cena in famiglia i dettagli di un fermo che il suo reparto eseguirà il giorno dopo. Sotto il profilo disciplinare:",
+   "opzioni": {
+    "A": "è sanzionabile solo se la notizia esce dalla cerchia familiare e giunge a terzi estranei che ne fanno uso",
+    "B": "non è sanzionabile, perché in licenza e in abito civile non ricorre alcuna delle condizioni di applicabilità della disciplina militare previste dall'art. 1350, co. 2, COM",
+    "C": "è sanzionabile, perché il dovere di riserbo si osserva anche fuori dalle condizioni dell'art. 1350, co. 2, COM e anche nelle conversazioni con i familiari",
+    "D": "è sanzionabile solo se il fermo, a causa della notizia divulgata, non ha potuto essere eseguito"
+   },
+   "corretta": "C",
+   "spiegazione": "Il riserbo appartiene ai doveri che il militare osserva sempre: anche quando non ricorre alcuna delle condizioni dell'art. 1350, co. 2, COM (servizio, luoghi militari, uniforme, qualificazione come militare), il co. 3 lo vincola ai doveri del giuramento, del grado, della tutela del segreto e del dovuto riserbo sulle questioni militari. L'art. 722, co. 1, lett. a), TUROM esclude espressamente ogni riferimento a queste notizie dalle conversazioni private, anche con familiari: l'illecito non dipende dalla diffusione a terzi né dal danno all'operazione.",
+   "riferimenti": [
+    "COM art. 1350, co. 2-3",
+    "TUROM art. 722, co. 1, lett. a)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi pp. 43-44"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-005",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un ufficiale racconta in famiglia di aver tenuto una lezione in un istituto di formazione, senza alcun riferimento a operazioni o a indagini. Rispetto all'art. 722, co. 1, lett. a), TUROM:",
+   "opzioni": {
+    "A": "viola il dovere, perché ogni notizia attinente al servizio, anche insignificante, è di per sé materiale informativo",
+    "B": "non viola il dovere, perché la norma riguarda gli argomenti o le notizie la cui divulgazione può pregiudicare la sicurezza dello Stato",
+    "C": "viola il dovere, perché la norma esclude dalle conversazioni con i familiari ogni riferimento all'attività di servizio, qualunque ne sia il contenuto",
+    "D": "non viola il dovere, perché la lett. a) si applica soltanto quando ricorrono le condizioni dell'art. 1350, co. 2, COM"
+   },
+   "corretta": "B",
+   "spiegazione": "La lett. a) non vieta di parlare in famiglia del proprio lavoro, ma di riferire argomenti o notizie la cui divulgazione può pregiudicare la sicurezza dello Stato: occorre buon senso, e raccontare di aver tenuto una lezione non pregiudica nulla, mentre delle intercettazioni o di un fermo in corso non si parla a casa. Il dovere vale anche fuori dalle condizioni dell'art. 1350, co. 2, COM (co. 3), e la lett. b) riguarda le sole notizie che «possono costituire materiale informativo», non ogni notizia sul servizio.",
+   "riferimenti": [
+    "TUROM art. 722, co. 1, lett. a) e b)",
+    "COM art. 1350, co. 3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-006",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo l'orientamento del TAR Lazio, sez. I-bis (tra le altre, n. 10956/2003), poi confermato dal Consiglio di Stato, il divieto di trattare pubblicamente senza autorizzazione argomenti di interesse militare o di servizio:",
+   "opzioni": {
+    "A": "frena la divulgazione anche di fatti non classificati, purché attinenti agli interessi militari o al servizio d'istituto",
+    "B": "si applica solo alle dichiarazioni rese alla stampa da militari che si qualificano con il proprio grado",
+    "C": "frena la divulgazione dei soli fatti classificati come riservati dall'autorità competente, a tutela del buon nome delle Forze armate",
+    "D": "tutela soltanto la segretezza degli atti classificati, già presidiata anche dalla legge penale sul segreto"
+   },
+   "corretta": "A",
+   "spiegazione": "Il divieto «è posto non solo a tutela della segretezza o della riservatezza di atti o notizie», ma costituisce un freno alla libera divulgazione, attraverso la stampa o mezzi simili, «di fatti non necessariamente classificati riservati», purché attinenti a interessi militari o al servizio d'istituto, che per la tutela del buon nome e della credibilità delle Forze armate vanno trattati con cautela e riserbo. È l'orientamento consolidato: i fatti classificati hanno già una tutela penale; l'art. 722 TUROM e l'art. 1472 COM coprono anche ciò che classificato non è.",
+   "riferimenti": [
+    "TAR Lazio, sez. I-bis, n. 10956/2003",
+    "Cons. Stato, sez. IV, 5 febbraio 2010, n. 547",
+    "COM art. 1472, co. 1",
+    "TUROM art. 722"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 45"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-007",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo la giurisprudenza amministrativa, ai fini della rilevanza disciplinare della divulgazione di informazioni attinenti al servizio, il carattere «riservato» delle informazioni:",
+   "opzioni": {
+    "A": "è indispensabile, perché in sua assenza prevale la libera manifestazione del pensiero garantita ai militari dall'art. 1472, co. 1, COM e dall'art. 21 Cost.",
+    "B": "è necessario solo per la consegna di rigore, mentre per il rimprovero è sufficiente l'attinenza al servizio",
+    "C": "non è necessario: la propagazione di informazioni comunque attinenti al servizio è «sintomaticamente» in conflitto con l'abitudine al riserbo",
+    "D": "deve risultare da un atto formale di classifica, che il militare doveva conoscere al momento della divulgazione"
+   },
+   "corretta": "C",
+   "spiegazione": "Non vi è stretta correlazione tra il divieto di trattare pubblicamente questioni di servizio senza autorizzazione e il carattere riservato delle informazioni: è rilevante la condotta del militare che, favorendo la propagazione di informazioni comunque attinenti a interessi militari o al servizio d'istituto, tiene un comportamento «sintomaticamente» confliggente con il dovere dell'abitudine al riserbo; il disvalore cresce se gli argomenti riguardano il servizio prestato. La classifica non è un presupposto, né la distinzione tra le sanzioni di corpo dipende da essa.",
+   "riferimenti": [
+    "TAR Lazio, sez. I-bis, n. 11430/2003",
+    "TUROM art. 722",
+    "COM art. 1472"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi pp. 44-45"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-008",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Un ufficiale comunica ai giornalisti di aver presentato domanda di trasferimento, collegandola ai problemi di sicurezza del proprio servizio di indagine. Secondo Cons. Stato, sez. IV, 5 febbraio 2010, n. 547:",
+   "opzioni": {
+    "A": "la notizia riguarda un fatto personale del militare, e la sua diffusione rientra nella libera manifestazione del pensiero, senza necessità di alcuna autorizzazione preventiva",
+    "B": "la diffusione è lecita se l'autorizzazione è stata chiesta, anche solo oralmente, al diretto superiore prima dell'intervista",
+    "C": "la notizia, di per sé non riservata, assume carattere di particolare riserbo nel contesto del servizio, e la sua diffusione richiede la previa autorizzazione",
+    "D": "la diffusione è rilevante solo se l'ufficiale ha consegnato ai giornalisti documenti classificati del proprio ufficio"
+   },
+   "corretta": "C",
+   "spiegazione": "Nel caso di un maggiore dei Carabinieri, comandante di sezione del ROS, il Consiglio di Stato (confermando TAR Lazio, sez. I-bis, n. 6094/2002) ha ritenuto che anche una notizia di per sé non riservata, come la presentazione di una domanda di trasferimento, assuma carattere di particolare riserbo quando è inquadrata nel contesto del servizio e dei problemi di sicurezza che pone: la sua diffusione alla stampa richiede la previa autorizzazione formale e non rientra nella libera manifestazione del pensiero. L'autorizzazione dell'art. 1472 COM si chiede per via gerarchica ed è rilasciata, per l'Arma, dal Comando Generale (art. 1473 COM), non dal diretto superiore.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 5 febbraio 2010, n. 547",
+    "TAR Lazio, sez. I-bis, n. 6094/2002",
+    "COM artt. 1472 e 1473"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-009",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Nel giudizio deciso da Cons. Stato, sez. IV, n. 547/2010, l'interessato negava di essere la fonte delle notizie di servizio apparse sui giornali. Il Consiglio di Stato ha ritenuto che l'attribuzione delle esternazioni:",
+   "opzioni": {
+    "A": "possa fondarsi su indizi univoci, come le frasi riportate tra virgolette da più giornali e l'interesse esclusivo dell'interessato alla divulgazione",
+    "B": "possa fondarsi soltanto sulle registrazioni dell'intervista, acquisite presso la redazione del quotidiano",
+    "C": "richieda la confessione dell'interessato o la testimonianza del giornalista che ha raccolto e pubblicato le dichiarazioni, non bastando la coincidenza dei resoconti",
+    "D": "sia preclusa in sede disciplinare finché il giudice penale non abbia accertato la rivelazione di segreti d'ufficio"
+   },
+   "corretta": "A",
+   "spiegazione": "Il Consiglio di Stato ha confermato il rimprovero inflitto all'ufficiale: l'attribuzione delle esternazioni può fondarsi su indizi univoci (frasi riportate tra virgolette da più testate; interesse esclusivo dell'interessato alla divulgazione), e la celerità del procedimento non prova di per sé un difetto di istruttoria. Il procedimento disciplinare non richiede la confessione né prove dirette, né attende un accertamento penale, che nel caso non era nemmeno in discussione.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 5 febbraio 2010, n. 547",
+    "TUROM art. 722"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-010",
+   "argomento": "liberta-costituzionali",
+   "sinossi": "II.3.d",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Per l'Arma dei Carabinieri, l'autorizzazione a trattare pubblicamente argomenti a carattere riservato di interesse militare o di servizio (art. 1472 COM) è rilasciata:",
+   "opzioni": {
+    "A": "dallo Stato maggiore della difesa, su richiesta inoltrata per via gerarchica",
+    "B": "dal Ministro della difesa, su richiesta inoltrata tramite il comandante di corpo",
+    "C": "dal Comando Generale, su richiesta inoltrata per via gerarchica",
+    "D": "dal comandante di corpo, su richiesta presentata direttamente dall'interessato"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1473, co. 1, COM stabilisce che l'autorizzazione dell'art. 1472 va richiesta per via gerarchica ed è rilasciata, per l'Arma dei carabinieri (come per la Guardia di finanza), dal Comando generale; per Esercito, Marina e Aeronautica dai rispettivi Stati maggiori; per i militari presso lo Stato maggiore della difesa, dallo Stato maggiore della difesa. Né il comandante di corpo né il Ministro sono indicati dalla norma.",
+   "riferimenti": [
+    "COM art. 1473, co. 1, lett. b)",
+    "COM art. 1472, co. 1"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 45"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-011",
+   "argomento": "liberta-costituzionali",
+   "sinossi": "II.3.d",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "La richiesta di autorizzazione prevista dall'art. 1473 COM per la trattazione pubblica di argomenti riservati di interesse militare o di servizio deve:",
+   "opzioni": {
+    "A": "essere inoltrata con congruo anticipo e indicare l'argomento da trattare e i limiti nei quali la trattazione sarà contenuta",
+    "B": "essere inoltrata direttamente all'autorità competente, che risponde entro quindici giorni, intendendosi altrimenti accolta per silenzio-assenso",
+    "C": "indicare il mezzo di diffusione e il pubblico, e si intende respinta se la risposta non perviene prima dell'evento",
+    "D": "essere presentata almeno trenta giorni prima dell'evento e allegare il testo integrale dell'intervento da pronunciare"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1473, co. 2, COM richiede che la domanda sia inoltrata «con congruo anticipo» e contenga l'indicazione dell'argomento da trattare e dei limiti nei quali la trattazione sarà contenuta; l'autorità competente deve far pervenire la risposta in tempo utile. Non vi sono termini in giorni né forme di silenzio-assenso o silenzio-rigetto, e la richiesta segue la via gerarchica (co. 1), non è presentata direttamente.",
+   "riferimenti": [
+    "COM art. 1473, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-012",
+   "argomento": "liberta-costituzionali",
+   "sinossi": "II.3.d",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "Un ufficiale dell'Esercito in servizio presso lo Stato maggiore della difesa intende tenere una conferenza su argomenti a carattere riservato di interesse militare. L'autorizzazione dell'art. 1472 COM è rilasciata:",
+   "opzioni": {
+    "A": "dal Segretariato generale della difesa",
+    "B": "dallo Stato maggiore dell'Esercito",
+    "C": "dall'autorità più elevata in grado da cui dipende",
+    "D": "dallo Stato maggiore della difesa"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1473, co. 1, COM individua l'autorità in base all'impiego del militare, non alla sua Forza armata: per i militari in servizio presso lo Stato maggiore della difesa e i dipendenti organismi interforze, l'autorizzazione è rilasciata dallo Stato maggiore della difesa (lett. d). Lo Stato maggiore di Forza armata è competente per il personale che da esso dipende (lett. a), il Segretariato generale per chi vi presta servizio (lett. e), mentre l'autorità più elevata in grado è il criterio residuale per i militari non dipendenti dalle strutture elencate (lett. f).",
+   "riferimenti": [
+    "COM art. 1473, co. 1, lett. a), d), e), f)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-013",
+   "argomento": "liberta-costituzionali",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale delle seguenti affermazioni sull'art. 1472 COM è corretta?",
+   "opzioni": {
+    "A": "I militari possono trattenere nei luoghi di servizio solo le pubblicazioni periodiche preventivamente autorizzate dal comandante di corpo",
+    "B": "La manifestazione pubblica del pensiero richiede sempre l'autorizzazione, quando il militare si qualifica come tale",
+    "C": "I militari possono trattenere nei luoghi di servizio qualsiasi libro o giornale, e resta fermo il divieto di propaganda politica",
+    "D": "Il divieto di propaganda politica vale solo per i militari che si trovano nelle condizioni dell'art. 1350, co. 2, COM"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1472 COM consente ai militari di pubblicare scritti, tenere conferenze e manifestare pubblicamente il pensiero, con la sola autorizzazione per gli argomenti a carattere riservato di interesse militare o di servizio (co. 1); di trattenere nei luoghi di servizio qualsiasi libro, giornale o pubblicazione periodica (co. 2); e fa salvo il divieto di propaganda politica (co. 3). Il riferimento alle condizioni dell'art. 1350, co. 2, è proprio dell'art. 1483, co. 2, COM (partecipazione a riunioni di partito e propaganda), non dell'art. 1472, co. 3.",
+   "riferimenti": [
+    "COM art. 1472, co. 1-3",
+    "COM art. 1483, co. 2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-014",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "La trattazione pubblica non autorizzata di argomenti di carattere riservato di interesse militare e di servizio è tipizzata tra i comportamenti punibili con la consegna di rigore dall'art. 751, co. 1, lett. a), n. 6, TUROM, che richiama:",
+   "opzioni": {
+    "A": "l'art. 722 TUROM e l'art. 1472 COM",
+    "B": "gli artt. 715 e 722 TUROM",
+    "C": "gli artt. 713 e 732 TUROM",
+    "D": "l'art. 723 TUROM e l'art. 1483 del codice"
+   },
+   "corretta": "A",
+   "spiegazione": "Il n. 6 dell'art. 751, co. 1, lett. a), TUROM punisce la «trattazione pubblica non autorizzata di argomenti di carattere riservato di interesse militare e di servizio o comunque attinenti al segreto d'ufficio», con richiamo all'art. 722 TUROM e all'art. 1472 COM, che è la norma sull'autorizzazione. Gli artt. 715 e 722 sono richiamati dal n. 7 (omessa segnalazione di un pericolo); l'art. 1483 COM dal n. 9 (estraneità alle competizioni politiche).",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 6, 7 e 9",
+    "COM art. 1472"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-015",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Il n. 7 dell'art. 751, co. 1, lett. a), TUROM tipizza, tra i comportamenti punibili con la consegna di rigore:",
+   "opzioni": {
+    "A": "l'introduzione o la detenzione in luoghi militari di apparecchi trasmittenti o ricetrasmittenti, con richiamo agli artt. 722 e 745",
+    "B": "l'inosservanza delle prescrizioni concernenti la tutela del segreto militare e d'ufficio e delle disposizioni sull'accesso ai luoghi militari",
+    "C": "la violazione del dovere di riserbo sugli argomenti che si riferiscono alla difesa militare e allo stato di approntamento ed efficienza delle unità (artt. 722 e 723)",
+    "D": "l'omissione o il ritardo nel segnalare ai superiori un pericolo per la difesa dello Stato e delle istituzioni repubblicane o per la sicurezza delle Forze armate"
+   },
+   "corretta": "D",
+   "spiegazione": "Il n. 7 (artt. 715 e 722 TUROM) è il versante sanzionatorio del dovere di riferire della lett. c) dell'art. 722: punisce l'omissione o il ritardo nel segnalare ai superiori un pericolo per la difesa dello Stato e delle istituzioni repubblicane o per la sicurezza delle Forze armate. La violazione del riserbo sulla difesa militare e sull'approntamento delle unità è il n. 4; l'inosservanza delle prescrizioni sul segreto e sull'accesso ai luoghi militari il n. 5; gli apparecchi trasmittenti il n. 39.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 4, 5, 7 e 39",
+    "TUROM art. 722, co. 1, lett. c)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-016",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Secondo l'art. 751, co. 1, lett. a), TUROM, la detenzione e l'uso in luoghi militari di macchine fotografiche o di apparecchiature per la registrazione audiovisiva sono punibili con la consegna di rigore:",
+   "opzioni": {
+    "A": "solo se le immagini o le registrazioni effettuate vengono poi diffuse all'esterno o pubblicate in rete",
+    "B": "sempre, alla stessa stregua dell'introduzione o detenzione di apparecchi trasmittenti o ricetrasmittenti",
+    "C": "solo se il luogo militare è un'area riservata delle infrastrutture adibite a caserma, come le sale operative",
+    "D": "solo se ne è stato fatto espresso divieto, a differenza dell'introduzione di apparecchi trasmittenti"
+   },
+   "corretta": "D",
+   "spiegazione": "Il n. 37 punisce la «detenzione e uso in luoghi militari – se ne è fatto espresso divieto – di macchine fotografiche o cinematografiche, o di apparecchiature per registrazione fonica o audiovisiva» (artt. 722 e 745 TUROM). Il n. 39, invece, punisce l'introduzione o la detenzione in luoghi militari di apparecchi trasmittenti o ricetrasmittenti senza subordinarla a un divieto espresso. La diffusione delle immagini non è un presupposto del n. 37, ma può integrare ulteriori violazioni del riserbo.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 37 e 39"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-017",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il n. 4 dell'art. 751, co. 1, lett. a), TUROM tipizza la violazione del dovere di riserbo sugli argomenti che si riferiscono:",
+   "opzioni": {
+    "A": "alla difesa militare, allo stato di approntamento ed efficienza delle unità, alla sicurezza del personale, delle armi, dei mezzi e delle installazioni militari",
+    "B": "alle sole notizie classificate segretissimo, segreto, riservatissimo e riservato, escluse quelle non classificate controllate",
+    "C": "alla vita privata dei superiori e dei colleghi, alle relazioni gerarchiche interne e alle controversie del personale con l'amministrazione",
+    "D": "alle attività di polizia giudiziaria e di pubblica sicurezza, alle indagini e alle intercettazioni in corso e ai dati personali dei terzi a vario titolo interessati"
+   },
+   "corretta": "A",
+   "spiegazione": "Il n. 4 (artt. 722 e 723 TUROM) individua l'oggetto del riserbo punibile con la consegna di rigore negli argomenti relativi alla difesa militare, allo stato di approntamento ed efficienza delle unità e alla sicurezza del personale, delle armi, dei mezzi e delle installazioni militari. Non è limitato alle notizie classificate: il riserbo va oltre il segreto, come afferma la giurisprudenza sull'art. 722.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 4",
+    "TUROM artt. 722 e 723"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-018",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il pubblico ufficiale che, violando i doveri inerenti alle funzioni, rivela notizie d'ufficio che devono rimanere segrete, o ne agevola in qualsiasi modo la conoscenza, è punito dall'art. 326, co. 1, c.p. con:",
+   "opzioni": {
+    "A": "la reclusione fino a un anno",
+    "B": "la reclusione da due a cinque anni",
+    "C": "la reclusione non inferiore a tre anni",
+    "D": "la reclusione da sei mesi a tre anni"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 326, co. 1, c.p. (rivelazione ed utilizzazione di segreti di ufficio) punisce con la reclusione da sei mesi a tre anni la rivelazione dolosa o l'agevolazione della conoscenza di notizie d'ufficio che devono rimanere segrete. La reclusione fino a un anno è per l'agevolazione soltanto colposa (co. 2); da due a cinque anni è punita l'utilizzazione per un indebito profitto patrimoniale (co. 3); «non inferiore a tre anni» è la pena dell'art. 262 c.p. Per i militari la violazione ha anche rilievo disciplinare (art. 722 TUROM).",
+   "riferimenti": [
+    "c.p. art. 326, co. 1-3",
+    "c.p. art. 262"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-019",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Nell'art. 326 c.p. (rivelazione ed utilizzazione di segreti di ufficio), la forma colposa è prevista:",
+   "opzioni": {
+    "A": "in nessun caso, perché tutte le fattispecie dell'articolo richiedono il dolo dell'agente",
+    "B": "soltanto per l'agevolazione della conoscenza, punita con la reclusione fino a un anno",
+    "C": "per l'utilizzazione a fine di profitto non patrimoniale, punita con la reclusione fino a due anni",
+    "D": "per la rivelazione e per l'agevolazione, entrambe punite con la reclusione fino a un anno"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 326, co. 2, c.p. prevede la reclusione fino a un anno «se l'agevolazione è soltanto colposa»: la rivelazione resta dolosa (co. 1, da sei mesi a tre anni) e l'utilizzazione illegittima delle notizie, a fine di profitto o di danno, è anch'essa dolosa (co. 3). Ne discende che chi rivela una notizia in buona fede, ma consapevolmente, non commette un fatto colposo: la buona fede non trasforma la rivelazione in agevolazione colposa.",
+   "riferimenti": [
+    "c.p. art. 326, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-020",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Il pubblico ufficiale che, per procurare a sé un indebito profitto patrimoniale, si avvale illegittimamente di notizie d'ufficio che devono rimanere segrete è punito dall'art. 326, co. 3, c.p. con:",
+   "opzioni": {
+    "A": "la reclusione fino a due anni",
+    "B": "la reclusione da due a cinque anni",
+    "C": "la reclusione da sei mesi a tre anni",
+    "D": "la reclusione da uno a quattro anni"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 326, co. 3, c.p. punisce l'utilizzazione illegittima delle notizie d'ufficio segrete con la reclusione da due a cinque anni se il fine è un indebito profitto patrimoniale, e con la reclusione fino a due anni se il fine è un ingiusto profitto non patrimoniale o un danno ingiusto ad altri. Da sei mesi a tre anni è la pena della rivelazione (co. 1).",
+   "riferimenti": [
+    "c.p. art. 326, co. 1 e 3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-021",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Quale distinzione intercorre tra gli artt. 261 e 262 c.p.?",
+   "opzioni": {
+    "A": "l'art. 261 punisce la rivelazione colposa e l'art. 262 quella dolosa delle stesse notizie segrete, con la reclusione rispettivamente fino a tre e non inferiore a cinque anni, salvo il tempo di guerra",
+    "B": "l'art. 261 punisce la rivelazione di notizie riservate (non inferiore a tre anni), l'art. 262 quella di segreti di Stato (reclusione non inferiore a cinque anni)",
+    "C": "l'art. 261 si applica ai soli militari e l'art. 262 a chiunque, con pene identiche, salvo l'aggravamento per il fatto commesso in tempo di guerra",
+    "D": "l'art. 261 punisce la rivelazione di segreti di Stato (reclusione non inferiore a cinque anni), l'art. 262 quella di notizie di cui l'autorità ha vietato la divulgazione (non inferiore a tre anni)"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 261 c.p. punisce chiunque rivela notizie di carattere segreto indicate dall'art. 256 (segreti di Stato) con la reclusione non inferiore a cinque anni; l'art. 262 c.p. chi rivela notizie di cui l'autorità competente ha vietato la divulgazione con la reclusione non inferiore a tre anni. In entrambi la pena non è inferiore a dieci anni se il fatto è commesso in tempo di guerra o ha compromesso la preparazione o l'efficienza bellica dello Stato o le operazioni militari; entrambi prevedono anche la forma colposa e si applicano a chiunque.",
+   "riferimenti": [
+    "c.p. artt. 261 e 262"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-022",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Il militare che, non a scopo di spionaggio, rivela notizie concernenti la forza, la preparazione o la difesa militare dello Stato che devono rimanere segrete è punito dall'art. 91 c.p.m.p. con:",
+   "opzioni": {
+    "A": "la reclusione militare da sei mesi a tre anni, come per la rivelazione di segreti d'ufficio prevista dall'art. 326 c.p.",
+    "B": "la reclusione militare non inferiore a tre anni, e non inferiore a dieci se il fatto è commesso in tempo di guerra",
+    "C": "la reclusione militare non inferiore a dieci anni, e l'ergastolo se il fatto ha compromesso la preparazione o la difesa militare dello Stato",
+    "D": "la reclusione militare non inferiore a cinque anni, e non inferiore a venti se il fatto ha compromesso la preparazione o la difesa militare"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 91 c.p.m.p. (rivelazione di notizie segrete, non a scopo di spionaggio) punisce il militare con la reclusione militare non inferiore a cinque anni; non inferiore a venti se il fatto ha compromesso la preparazione o la difesa militare dello Stato. Se il fatto è colposo, da sei mesi a due anni (da tre a quindici anni nel caso aggravato). Le pene «non inferiore a tre anni» e «non inferiore a dieci in tempo di guerra» sono quelle dell'art. 262 c.p.",
+   "riferimenti": [
+    "c.p.m.p. art. 91",
+    "c.p. art. 262"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-023",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Per i fatti di rivelazione previsti dagli articoli che lo precedono (tra cui l'art. 91), quando le notizie non devono rimanere segrete ma hanno carattere riservato, perché l'autorità competente ne ha vietato la divulgazione, l'art. 93 c.p.m.p. dispone che:",
+   "opzioni": {
+    "A": "le pene siano diminuite fino a un terzo",
+    "B": "si applichi l'art. 326 c.p. in luogo della legge penale militare",
+    "C": "le pene siano diminuite da un terzo alla metà",
+    "D": "si applichino soltanto le sanzioni disciplinari di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 93 c.p.m.p. (procacciamento o rivelazione di notizie di carattere riservato) estende le fattispecie precedenti alle notizie non segrete ma riservate, perché ne è stata vietata la divulgazione dall'autorità competente: alla pena di morte con degradazione è sostituita la reclusione non inferiore a venti anni e le altre pene sono diminuite da un terzo alla metà. Il fatto resta reato militare; la responsabilità disciplinare (art. 722 TUROM) si aggiunge, non sostituisce quella penale.",
+   "riferimenti": [
+    "c.p.m.p. artt. 91 e 93"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-024",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 329, co. 1, c.p.p., gli atti di indagine compiuti dal pubblico ministero e dalla polizia giudiziaria sono coperti dal segreto:",
+   "opzioni": {
+    "A": "fino a quando il giudice per le indagini preliminari non ne disponga la pubblicazione con decreto motivato",
+    "B": "fino alla richiesta di rinvio a giudizio e, comunque, non oltre un anno dall'iscrizione della notizia di reato nel registro",
+    "C": "fino a quando l'imputato non ne possa avere conoscenza e, comunque, non oltre la chiusura delle indagini preliminari",
+    "D": "fino alla sentenza di primo grado, salvo che il pubblico ministero ne autorizzi prima la pubblicazione"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 329, co. 1, c.p.p. copre con il segreto gli atti di indagine del pubblico ministero e della polizia giudiziaria (con le richieste di autorizzazione e i relativi provvedimenti del giudice) fino a quando l'imputato non ne possa avere conoscenza e, comunque, non oltre la chiusura delle indagini preliminari. La pubblicazione anticipata di singoli atti è consentita dal pubblico ministero, con decreto motivato, quando è strettamente necessaria per le indagini (co. 2). Il militare che vi partecipa è tenuto all'assoluto riserbo.",
+   "riferimenti": [
+    "c.p.p. art. 329, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-025",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "La disciplina del segreto di Stato, alla quale rinvia l'art. 722 TUROM con le parole «oltre a osservare scrupolosamente le norme in materia di tutela del segreto», è contenuta principalmente:",
+   "opzioni": {
+    "A": "nella L. 3 agosto 2007, n. 124",
+    "B": "nella L. 7 agosto 1990, n. 241",
+    "C": "nel D.Lgs. 30 giugno 2003, n. 196",
+    "D": "nel D.P.R. 18 luglio 1986, n. 545"
+   },
+   "corretta": "A",
+   "spiegazione": "La normativa di riferimento sul segreto di Stato è la L. 3 agosto 2007, n. 124 (Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto), che all'art. 39 definisce il segreto di Stato. Il D.Lgs. 196/2003 è il codice della privacy, la L. 241/1990 la legge sul procedimento amministrativo, il D.P.R. 545/1986 il vecchio Regolamento di disciplina militare, abrogato dal COM, il cui art. 19 corrispondeva all'attuale art. 722 TUROM.",
+   "riferimenti": [
+    "L. 3 agosto 2007, n. 124, art. 39",
+    "TUROM art. 722, co. 1"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 44"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-026",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quale rapporto intercorre tra le norme sulla tutela del segreto e l'art. 722 TUROM?",
+   "opzioni": {
+    "A": "l'art. 722 le sostituisce in ambito militare, sicché la violazione del segreto da parte di un militare ha rilievo soltanto disciplinare e non penale, salvo il tempo di guerra",
+    "B": "l'art. 722 le richiama, sicché la loro violazione fonda, oltre alla responsabilità penale, anche una responsabilità disciplinare; poi aggiunge ulteriori doveri di riserbo",
+    "C": "l'art. 722 si applica solo quando il fatto non costituisce reato, per il divieto di sottoporre il militare a due procedimenti per lo stesso fatto",
+    "D": "l'art. 722 rinvia alle norme sul segreto per definire l'unico oggetto del dovere di riserbo, cioè le notizie classificate dall'autorità"
+   },
+   "corretta": "B",
+   "spiegazione": "In premessa l'art. 722 TUROM richiama le norme sul segreto, che hanno una propria disciplina e una tutela penale: la disciplina militare, richiamandole, aggiunge alla responsabilità penale quella disciplinare, e poi indica che cosa il militare deve fare oltre a rispettarle (lett. a-c). Il riserbo va quindi oltre le notizie classificate, e i due piani, penale e disciplinare, coesistono.",
+   "riferimenti": [
+    "TUROM art. 722, co. 1",
+    "L. 3 agosto 2007, n. 124"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 44"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-027",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere pubblica sullo «stato» di un'applicazione di messaggistica, visibile ai soli contatti, la fotografia di un collega con i panetti di marijuana appena sequestrati. Quale dovere viene in rilievo in primo luogo?",
+   "opzioni": {
+    "A": "il dovere di evitare la divulgazione di notizie attinenti al servizio che possono costituire materiale informativo (art. 722, co. 1, lett. b, TUROM)",
+    "B": "nessuno, perché lo «stato» è visibile ai soli contatti scelti dall'utente e non costituisce una comunicazione pubblica",
+    "C": "il solo dovere di riferire sollecitamente ai superiori le informazioni che interessano la sicurezza dello Stato e delle istituzioni (art. 722, co. 1, lett. c, TUROM)",
+    "D": "il solo dovere di avere cura dell'uniforme e di indossarla con decoro, se il collega è ritratto in uniforme (art. 720 TUROM)"
+   },
+   "corretta": "A",
+   "spiegazione": "È l'esempio tipico della lett. b) dell'art. 722 TUROM: una notizia di servizio, anche se in apparenza insignificante, diffusa in rete diventa materiale informativo per chi sfrutta i social per attività criminali. La visibilità ai soli contatti non esclude l'illecito: le circolari del Comando Generale ricordano che anche ciò che nasce in profili chiusi o chat private può diffondersi senza controllo, e vietano la diffusione di contenuti relativi alle attività di servizio.",
+   "riferimenti": [
+    "TUROM art. 722, co. 1, lett. b)",
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-028",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché anche notizie di servizio singolarmente insignificanti possono costituire «materiale informativo» ai sensi dell'art. 722, co. 1, lett. b), TUROM?",
+   "opzioni": {
+    "A": "perché la norma presume la colpa del militare che le divulga, invertendo l'onere della prova nel procedimento disciplinare",
+    "B": "perché ogni notizia attinente al servizio è per legge classificata come riservata fino alla chiusura delle indagini preliminari",
+    "C": "perché la loro divulgazione integra sempre il reato dell'art. 326 c.p., di cui la norma disciplinare costituisce un'anticipazione sul piano interno",
+    "D": "perché, combinate con altre, possono contribuire a ricostruire dispositivi, abitudini e procedure, come avviene con l'analisi dei contenuti dei social"
+   },
+   "corretta": "D",
+   "spiegazione": "Come le forze di polizia svolgono indagini analizzando i contenuti dei social, così chi svolge attività criminali sfrutta le notizie che gli operatori riversano in rete: più notizie circolano, più ne sanno gli avversari. La singola informazione può essere irrilevante, ma combinata con altre ricostruisce dispositivi, abitudini e procedure. Non esiste una classifica automatica delle notizie di servizio né una presunzione di colpa, e la norma disciplinare non richiede che il fatto sia reato.",
+   "riferimenti": [
+    "TUROM art. 722, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-029",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Nella sentenza TAR Puglia-Lecce, sez. III, n. 3149/2006, relativa al rilascio non autorizzato di dichiarazioni su argomenti di servizio da parte di un militare della Guardia di finanza, la consegna di rigore è stata annullata perché:",
+   "opzioni": {
+    "A": "le dichiarazioni non riguardavano notizie classificate e non potevano avere rilievo disciplinare",
+    "B": "al militare della Guardia di finanza non si applicano le norme del TUROM sul riserbo",
+    "C": "la condotta integrava un reato, sicché il procedimento disciplinare doveva essere sospeso",
+    "D": "sproporzionata, dato che nei precedenti la stessa condotta era stata punita con il rimprovero"
+   },
+   "corretta": "D",
+   "spiegazione": "Il TAR di Lecce ha ripreso la formula consolidata sul riserbo (rilevano anche le informazioni non classificate attinenti al servizio), ma ha annullato la consegna di rigore per difetto di proporzionalità, rilevando che nei precedenti la stessa condotta era stata sanzionata con il rimprovero. La Guardia di finanza è corpo militare, cui si applicano COM e TUROM in materia disciplinare; la classifica non è presupposto dell'illecito.",
+   "riferimenti": [
+    "TAR Puglia-Lecce, sez. III, n. 3149/2006",
+    "TUROM art. 722",
+    "COM art. 1472"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 45, nota 55"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-030",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un appuntato scelto firma, qualificandosi con il grado e senza autorizzazione, un articolo pubblicato da un quotidiano su fatti di ordine pubblico ai quali le Forze di polizia avevano preso parte, con giudizi lesivi del loro prestigio. Secondo TAR Lazio, sez. I-bis, n. 10956/2003:",
+   "opzioni": {
+    "A": "la sanzione è illegittima, perché i fatti erano già noti all'opinione pubblica attraverso la stampa e non erano quindi più riservati",
+    "B": "la sanzione è illegittima, perché la libertà di manifestazione del pensiero dell'art. 21 Cost. prevale sul limite posto dall'art. 1472 COM quando i fatti narrati sono veri",
+    "C": "la sanzione è legittima solo se l'articolo conteneva notizie classificate, che il militare aveva acquisito per ragioni d'ufficio",
+    "D": "la sanzione di corpo è legittima, perché il divieto di trattazione pubblica non autorizzata riguarda anche fatti non classificati attinenti al servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "Il TAR ha respinto il ricorso contro la consegna di rigore (dodici giorni) inflitta all'appuntato per l'articolo sui fatti del vertice G8 di Genova: il divieto di trattare pubblicamente senza autorizzazione argomenti di interesse militare o di servizio non tutela solo il segreto, ma frena la divulgazione di fatti non necessariamente classificati, attinenti al servizio, a tutela del buon nome delle Forze armate e «in linea con la tradizionale linea di riservatezza e discrezione dell'Arma». La notorietà dei fatti non elimina l'obbligo di autorizzazione, e l'art. 1472 COM è un limite legittimo alla libertà dell'art. 21 Cost.",
+   "riferimenti": [
+    "TAR Lazio, sez. I-bis, n. 10956/2003",
+    "COM art. 1472, co. 1",
+    "TUROM art. 722"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 45, nota 55"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-031",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Quale circolare del Comando Generale disciplina oggi l'uso dei social network e delle applicazioni di messaggistica da parte dei militari dell'Arma?",
+   "opzioni": {
+    "A": "la circ. n. 1104/43-8-1-1994 del 23 agosto 2014, integrata e aggiornata dalla successiva circolare del 2019, che ne richiama i principi",
+    "B": "la circ. n. 228/2-1-2022 del 12 dicembre 2022, che ha sostituito integralmente la circolare del 2019",
+    "C": "la circ. n. 27/28-1-2016 del 12 novembre 2019, che ha abrogato le precedenti, comprese quelle del 2011 e del 2014",
+    "D": "la circ. n. 1104/43-1-1994 del 19 dicembre 2011, aggiornata nel 2014 e nel 2019 senza essere abrogata"
+   },
+   "corretta": "C",
+   "spiegazione": "Il Comando Generale è intervenuto sul tema nel 2011 e nel 2014 (Ufficio Operazioni) e nel 2019, con la circolare dell'Ufficio Affari giuridici e Condizione militare n. 27/28-1-2016 del 12.11.2019 «Uso consapevole di social network e applicazioni di messaggistica», che rielabora in modo organico la materia e abroga sette circolari precedenti, tra cui quelle del 2011 e del 2014. La circ. n. 228/2-1-2022 riguarda la competenza disciplinare. Le circolari non sono fonti del diritto, ma disposizioni interne che autovincolano l'amministrazione.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014",
+    "circ. n. 1104/43-1-1994 del 19.12.2011"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-032",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La circ. n. 27/28-1-2016 del 12.11.2019 «Uso consapevole di social network e applicazioni di messaggistica»:",
+   "opzioni": {
+    "A": "abroga la sola circolare del 2011 e lascia in vigore quella del 2014 per i comandi dei reparti operativi",
+    "B": "integra la circolare del 2014, che resta in vigore per la parte relativa al contegno e alla riservatezza sul web e nelle chat",
+    "C": "si limita a richiamare le circolari del 2011 e del 2014, che restano entrambe in vigore nelle parti compatibili",
+    "D": "rielabora in modo organico le disposizioni emanate nel tempo e ne abroga sette, tra cui le circolari del 2011 e del 2014"
+   },
+   "corretta": "D",
+   "spiegazione": "La circolare del 2019 dell'Ufficio Affari giuridici e Condizione militare, indirizzata ai comandi fino a livello Comando Stazione e consultabile nell'intranet (Compendio telematico sulla normativa interna riferita al personale), riordina la materia e abroga espressamente sette circolari precedenti, tra le quali la n. 1104/43-1-1994 del 19.12.2011 e la n. 1104/43-8-1-1994 del 23.8.2014. Nel conflitto tra circolari sullo stesso oggetto vale la più recente, e qui l'abrogazione è espressa.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-033",
+   "argomento": "fonti",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Nella gerarchia delle fonti, una circolare del Comando Generale sull'uso dei social network:",
+   "opzioni": {
+    "A": "è fonte normativa interna che prevale sul TUROM nelle materie che riguardano specificamente l'Arma dei Carabinieri",
+    "B": "non è fonte normativa, ma autovincola l'amministrazione: il provvedimento adottato in difformità può essere viziato da eccesso di potere",
+    "C": "non produce alcun effetto giuridico, nemmeno per l'amministrazione che la emana, ed è un mero suggerimento di comportamento",
+    "D": "è fonte normativa secondaria, equiparata ai regolamenti adottati con decreto ministeriale, e la sua violazione costituisce un illecito disciplinare autonomo"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare non è una fonte del diritto, ma un atto interno che autovincola l'amministrazione: un provvedimento adottato in difformità da essa può essere viziato da eccesso di potere. Al militare che non la osserva non si contesta la circolare in sé, ma la norma del COM o del TUROM (ad esempio l'art. 722) «in correlazione» con la circolare. Prima della firma vi è un lavoro di stato maggiore (studio della normativa, coordinamento con gli uffici competenti), ma ciò non ne muta la natura.",
+   "riferimenti": [
+    "COM art. 1352, co. 1",
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-034",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La circolare del 2011 sull'uso dei social network affermava che le informazioni contenute in rete, anche quando originate in «circuiti relazionali a numero chiuso»:",
+   "opzioni": {
+    "A": "assumono rilievo disciplinare solo se il profilo dell'utente dichiara espressamente lo status di appartenente all'Arma",
+    "B": "rilevano solo se riguardano il servizio, mentre le relazioni amicali o sentimentali coltivate in rete ne restano escluse",
+    "C": "sono suscettibili di evidenza pubblica e impongono un uso prudente e responsabile del web, ispirato a sobrietà e compostezza",
+    "D": "restano nella sfera privata del militare, salvo che sia egli stesso a diffonderle al di fuori della cerchia ristretta dei destinatari"
+   },
+   "corretta": "C",
+   "spiegazione": "Secondo la circolare del 2011, qualsiasi comportamento tenuto attraverso i social va considerato suscettibile di «evidenza pubblica»: le informazioni in rete, anche se nate in circuiti a numero chiuso, impongono un uso prudente e responsabile, ispirato alla sobrietà e alla compostezza che sono, per norma e per tradizione, un riferimento irrinunciabile per ogni appartenente all'Arma. Anche la mera socializzazione su base sentimentale o amicale deve tener conto dei doveri di serietà e decoro (n. 423 RGA) e di quelli connessi con il grado (art. 713 TUROM).",
+   "riferimenti": [
+    "circ. n. 1104/43-1-1994 del 19.12.2011",
+    "TUROM artt. 713 e 722",
+    "Regolamento generale per l'Arma dei Carabinieri, n. 423"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi pp. 46 e 48"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-035",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo la circolare del 2011, le adesioni, anche occasionali, a pagine, forum o gruppi che si qualificano per orientamento ideologico o per posizioni discriminatorie (sessuali, religiose, razziali) sono gravi perché:",
+   "opzioni": {
+    "A": "contravvengono ai valori cardine dell'Istituzione, tra i quali l'apoliticità e il rigoroso rispetto della libertà e dell'uguaglianza di tutti i cittadini",
+    "B": "violano il divieto di iscrizione ai partiti e ai movimenti politici che il codice pone a carico dei militari in servizio attivo",
+    "C": "integrano di per sé la propaganda politica vietata dall'art. 1472, co. 3, COM a tutti i militari, anche se in congedo, fuori servizio o in abito civile",
+    "D": "sono vietate se avvengono durante il servizio, mentre fuori servizio prevale la libertà di associazione garantita dalla Costituzione"
+   },
+   "corretta": "A",
+   "spiegazione": "La circolare definiva gravi queste adesioni, anche occasionali, perché contrastano con i valori cardine dell'Istituzione, tra cui l'apoliticità e il rispetto della libertà e dell'uguaglianza di tutti i cittadini. Era nata da una situazione concreta: negli anni 2009-2011 alcuni militari aderivano con commenti a pagine e gruppi politici o discriminatori. Non esiste un divieto di iscrizione ai partiti, e la rilevanza non dipende dal servizio: i doveri derivanti dallo status non vengono meno nella vita privata. La circolare del 2019 riprende il punto tra le condotte censurabili («partecipazione attiva» a tali pagine).",
+   "riferimenti": [
+    "circ. n. 1104/43-1-1994 del 19.12.2011",
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "COM art. 1483, co. 1"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 48"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-036",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere, con un profilo social a lui riconducibile, mette un «like» a un post di una pagina che inneggia all'allontanamento di persone dal territorio nazionale per il loro orientamento sessuale. Secondo l'impostazione seguita in materia:",
+   "opzioni": {
+    "A": "il «like» rileva solo se è accompagnato da un commento scritto che esprima un'adesione esplicita",
+    "B": "il «like» è un'adesione alla posizione espressa dalla pagina e, se il profilo è riconducibile al militare, gli è attribuibile",
+    "C": "il «like» non è una manifestazione del pensiero e non può assumere rilievo disciplinare in nessun caso, neppure se il profilo è riconducibile al militare",
+    "D": "il «like» rileva solo se il profilo riporta il grado o una fotografia del militare in uniforme"
+   },
+   "corretta": "B",
+   "spiegazione": "Anche il «like» è un'adesione alla posizione ideologica espressa dalla pagina, e il problema è la riconducibilità: se il profilo è riconducibile al militare, il pensiero espresso in rete gli è attribuibile e, attraverso lui, è facilmente riferito all'Istituzione. Lo status non deve essere dichiarato: è potenzialmente noto a più persone (circolare del 2014), e non vale come esimente averlo taciuto (circolare del 2019). Occorre buon senso nel distinguere un contenuto ironico da una pagina che esprime posizioni discriminatorie.",
+   "riferimenti": [
+    "circ. n. 1104/43-1-1994 del 19.12.2011",
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014",
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "TUROM artt. 713 e 732"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-037",
+   "argomento": "diritti-politici",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quale delle seguenti affermazioni sull'apoliticità delle Forze armate è corretta?",
+   "opzioni": {
+    "A": "l'apoliticità riguarda i soli ufficiali, mentre per gli altri ruoli vale la libertà di propaganda politica prevista dall'art. 1472 COM",
+    "B": "non vi è un divieto di iscrizione ai partiti, ma le Forze armate devono in ogni circostanza mantenersi al di fuori delle competizioni politiche (art. 1483, co. 1, COM)",
+    "C": "il militare in servizio attivo non può iscriversi ai partiti politici, a pena della consegna di rigore per violazione del principio di estraneità alle competizioni politiche (art. 751 TUROM)",
+    "D": "il militare può partecipare a riunioni e manifestazioni di partito anche in uniforme, purché sia libero dal servizio (art. 1483, co. 2, COM)"
+   },
+   "corretta": "B",
+   "spiegazione": "Dal principio dell'art. 1483, co. 1, COM («Le Forze armate devono in ogni circostanza mantenersi al di fuori dalle competizioni politiche») discendono il divieto di propaganda politica (art. 1472, co. 3, COM), il divieto di partecipare a riunioni e manifestazioni di partiti e di svolgere propaganda per il militare che si trova nelle condizioni dell'art. 1350, co. 2 (art. 1483, co. 2: chi indossa l'uniforme vi rientra) e la consegna di rigore per il comportamento lesivo dell'estraneità (art. 751, n. 9, TUROM). Non esiste invece un divieto di iscrizione: secondo Cons. Stato, sez. IV, n. 5845/2017, è sanzionabile l'assunzione di una carica di partito, non la mera iscrizione.",
+   "riferimenti": [
+    "COM artt. 1472, co. 3, e 1483, co. 1-2",
+    "TUROM art. 751, co. 1, lett. a), n. 9",
+    "Cons. Stato, sez. IV, 12 dicembre 2017, n. 5845"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-038",
+   "argomento": "diritti-politici",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Il comportamento lesivo del principio della estraneità delle Forze armate alle competizioni politiche:",
+   "opzioni": {
+    "A": "è punibile soltanto con il richiamo, trattandosi della violazione di una norma di mero principio",
+    "B": "è tipizzato tra i comportamenti punibili con la consegna di rigore, con richiamo all'art. 1483 COM",
+    "C": "è punibile con la consegna di rigore solo se tenuto in uniforme, in servizio o in luoghi militari",
+    "D": "è punibile esclusivamente con una sanzione di stato, perché incide sui fondamenti delle istituzioni"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 751, co. 1, lett. a), n. 9, TUROM prevede la consegna di rigore per il «comportamento lesivo del principio della estraneità delle Forze armate alle competizioni politiche (articolo 1483 del codice)», senza limitarlo alle condizioni dell'art. 1350, co. 2, COM. È il n. 10 che riguarda la partecipazione a riunioni o manifestazioni di partito e la propaganda «nelle condizioni indicate nell'articolo 1350, comma 2». Nei casi gravi resta possibile la disciplina di stato, ma non è l'unica sanzione.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 9 e 10",
+    "COM art. 1483"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-039",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "La circolare del 2014 «Contegno e riservatezza nell'utilizzo del web» afferma che qualsiasi informazione veicolata attraverso i canali del web:",
+   "opzioni": {
+    "A": "può essere resa visibile a una platea indeterminata di utenti, indipendentemente dalla volontà di chi la genera",
+    "B": "è visibile a terzi solo se l'autore ne ha autorizzato la condivisione con le impostazioni di privacy del proprio profilo personale",
+    "C": "resta riservata se pubblicata su profili chiusi, salvo che l'autore stesso la condivida con terzi",
+    "D": "ha rilievo disciplinare solo se l'autore ha dichiarato espressamente il proprio status nel profilo"
+   },
+   "corretta": "A",
+   "spiegazione": "La circolare del 2014, richiamando le iniziative legali assunte da privati per comportamenti di militari sui social, avverte che qualsiasi informazione veicolata sul web «può essere resa visibile a una platea indeterminata di utenti della rete, indipendentemente dalla volontà di chi la genera», con inevitabile amplificazione dell'evidenza pubblica e dell'offensività della condotta. Ciò vale anche per il messaggio inviato a un familiare in una chat privata: basta uno screenshot inoltrato altrove. Lo status di militare, inoltre, è potenzialmente noto anche quando non è dichiarato.",
+   "riferimenti": [
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 49"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-040",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo la circolare del 2014, sul piano etico e delle responsabilità, qualsiasi comportamento tenuto in rete:",
+   "opzioni": {
+    "A": "equivale a una dichiarazione resa alla stampa, e richiede quindi sempre la preventiva autorizzazione del Comando Generale",
+    "B": "equivale a quello tenuto in un luogo privato, salvo che il militare si qualifichi espressamente come appartenente all'Arma",
+    "C": "equivale a quello tenuto in un luogo pubblico, perché il web non è una dimensione anonima e avulsa dalla realtà",
+    "D": "rileva solo se è tenuto durante il servizio o utilizzando strumenti informatici forniti dall'amministrazione"
+   },
+   "corretta": "C",
+   "spiegazione": "La circolare del 2014 afferma che lo status di militare dell'Arma, anche quando non dichiarato, è potenzialmente noto a più persone (conoscenza diretta, dati anagrafici, fotografie riconoscibili); perciò il mondo virtuale non può essere considerato una dimensione anonima e avulsa dalla realtà, e qualsiasi comportamento in rete equivale, sul piano etico e delle responsabilità, a quello tenuto in un luogo pubblico. Il web non è un hortus conclusus: scrivere in rete equivale a parlare in una piazza affollata, con un pubblico indeterminato. L'autorizzazione dell'art. 1472 COM serve solo per gli argomenti riservati di servizio.",
+   "riferimenti": [
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014",
+    "COM art. 1472"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 49"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-041",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un ufficiale superiore commenta in termini offensivi verso l'amministrazione, sulla pagina ufficiale di un Sottosegretario alla Difesa, un post sulla gestione degli alloggi di servizio dell'Arma. Il suo profilo riporta nome e cognome ma non il grado. Quale valutazione è corretta?",
+   "opzioni": {
+    "A": "la condotta è rilevante: lo status è accertabile anche da elementi indiretti, e la critica supera i limiti di continenza, sobrietà e compostezza",
+    "B": "la condotta è rilevante solo se l'ufficiale ha usato strumenti informatici dell'amministrazione o la rete istituzionale per pubblicare il commento",
+    "C": "la condotta non è rilevante, perché il profilo non riporta il grado e il militare ha agito come privato cittadino sul web",
+    "D": "la condotta non è rilevante, perché la critica verso un'autorità di governo è garantita senza limiti dall'art. 21 Cost."
+   },
+   "corretta": "A",
+   "spiegazione": "Nel caso esaminato, l'immagine del profilo mostrava particolari della sciabola che la rendevano riconoscibile come quella di un ufficiale, e lo status è stato accertato senza difficoltà; una critica offensiva espressa sulla pagina ufficiale di un'autorità di governo è come se provenisse dall'amministrazione. Il militare ha il diritto di manifestare il proprio pensiero (art. 21 Cost.; art. 1472 COM), ma entro i limiti di continenza, sobrietà e compostezza richiesti dalla circolare del 2014; il mezzo usato è irrilevante.",
+   "riferimenti": [
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014",
+    "COM art. 1472",
+    "TUROM artt. 713 e 732"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-042",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Nell'esprimere critiche od opinioni sui social, specie su temi politici, religiosi, sessuali o razziali, la circolare del 2014 chiede al militare un contegno improntato a:",
+   "opzioni": {
+    "A": "prudenza, trasparenza e assoluta neutralità",
+    "B": "sobrietà, compostezza e imparzialità",
+    "C": "decoro, fermezza e discrezione",
+    "D": "riservatezza, lealtà e obbedienza"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare del 2014 chiede a ciascun militare, nell'esprimere critiche od opinioni o nell'intervenire anche incidentalmente in discussioni di terzi su blog e social, specie su temi sensibili, di improntare il contegno «alla sobrietà, alla compostezza e all'imparzialità, da sempre tratti peculiari dello stile di vita del Carabiniere», astenendosi da comportamenti che possano condizionare l'esercizio delle funzioni, ledere il prestigio dell'Istituzione o pregiudicare l'apoliticità delle Forze armate.",
+   "riferimenti": [
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 49"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-043",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Quale compito la circolare del 2014 sull'utilizzo del web affida ai comandanti di ogni livello?",
+   "opzioni": {
+    "A": "il rilascio dell'autorizzazione preventiva all'apertura di profili social personali da parte dei militari dipendenti",
+    "B": "un'incisiva e costante azione di ammaestramento e sensibilizzazione del personale, anche nei rapporti periodici e nelle istruzioni settimanali",
+    "C": "il monitoraggio periodico dei profili social dei dipendenti, con una segnalazione mensile degli esiti al Comando Generale tramite la scala gerarchica",
+    "D": "la raccolta delle dichiarazioni dei dipendenti sui gruppi di messaggistica ai quali risultano iscritti"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare del 2014 chiede ai comandanti, in ogni utile circostanza, oltre che nei rapporti periodici e nelle istruzioni settimanali, un'incisiva e costante azione di ammaestramento e sensibilizzazione del personale. Non prevede alcun monitoraggio dei profili né autorizzazioni all'apertura di account: ciascuno è libero di avere un profilo, ma ne risponde. La circolare del 2019 aggiunge l'obbligo di trattare la materia nei corsi e di svolgere tempestivi accertamenti quando la condotta può integrare violazioni.",
+   "riferimenti": [
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014",
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-044",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo la circ. n. 27/28-1-2016 del 12.11.2019, la cancellazione di un contenuto dalla chat o dal profilo in cui è stato pubblicato:",
+   "opzioni": {
+    "A": "esclude la responsabilità disciplinare se avviene prima che il contenuto sia segnalato all'amministrazione o a terzi",
+    "B": "non basta, perché ogni dato in rete rischia di sottrarsi al controllo di chi lo ha originato, anche con profili chiusi o chat private",
+    "C": "attenua la responsabilità e impone di applicare in ogni caso la sanzione meno grave, cioè il richiamo",
+    "D": "è sufficiente se il contenuto era stato pubblicato in un profilo chiuso o in una chat privata composta da soli militari dello stesso reparto"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare del 2019 osserva che le piattaforme consentono la condivisione dei contenuti, sicché anche con profili chiusi o chat private vi è il rischio di una diffusione involontaria e indiscriminata, anche di ciò che è stato disponibile solo momentaneamente: il dato rischia di essere sottratto al controllo di chi lo ha originato, «non essendo sufficiente la sua cancellazione dalla chat e/o dal profilo originario». Perciò nessuna azione sui social è mai virtuale: è come se avvenisse in un luogo pubblico straordinariamente affollato. La rimozione può incidere sulla valutazione, ma non esclude l'illecito né vincola la scelta della sanzione.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-045",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "La circolare del 2019 esclude che la comunicazione «one to one» o le chat tra militari possano costituire una modalità legittima per scambiare informazioni d'ufficio, salvo:",
+   "opzioni": {
+    "A": "che la chat sia composta esclusivamente da militari dello stesso reparto e che la sua costituzione sia stata autorizzata per iscritto dal comandante di corpo, che ne nomina l'amministratore",
+    "B": "il comprovato stato di necessità o l'urgente adempimento di un dovere, da comunicare tempestivamente al comandante di reparto o, se indisponibile, al primo superiore sulla linea gerarchica",
+    "C": "il caso in cui le informazioni riguardino attività di polizia giudiziaria urgenti, da comunicare successivamente all'Autorità giudiziaria procedente",
+    "D": "che le informazioni non siano classificate e che il gruppo sia amministrato dal comandante del reparto interessato, che ne risponde verso i superiori"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare del 2019 vieta l'uso dei social e delle app di messaggistica per trattare, a qualsiasi titolo, questioni di servizio o comunque riservate: né la comunicazione tra singoli né le chat tra militari, «anche se appartenenti allo stesso reparto», sono modalità legittime, salvo l'oggettivo ricorrere di un comprovato stato di necessità o dell'urgente adempimento di un dovere, da comunicare tempestivamente al comandante di reparto o, in caso di indisponibilità, al primo superiore sulla linea gerarchica. L'appartenenza allo stesso reparto, l'autorizzazione o l'amministrazione del gruppo da parte del comandante non sono eccezioni.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "TUROM art. 722"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-046",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "L'eccezione dello stato di necessità o dell'urgente adempimento di un dovere, prevista dalla circolare del 2019 per lo scambio di informazioni d'ufficio con applicazioni di messaggistica:",
+   "opzioni": {
+    "A": "si estende alle informazioni classificate fino al livello «riservato», purché la comunicazione avvenga in forma cifrata e sia poi cancellata",
+    "B": "si applica a tutte le informazioni, purché la comunicazione sia poi cancellata dai dispositivi di tutti i partecipanti",
+    "C": "riguarda le sole informazioni classificate, perché per quelle non classificate lo scambio con app è sempre consentito",
+    "D": "non riguarda in alcun caso le informazioni classificate e non classificate controllate, per le quali restano ferme le relative disposizioni"
+   },
+   "corretta": "D",
+   "spiegazione": "La circolare precisa in nota che l'eccezione non comprende in alcun caso le informazioni classificate (segretissimo, segreto, riservatissimo, riservato) e quelle non classificate controllate, per le quali restano ferme le specifiche disposizioni; riferiva inoltre che era in sviluppo un sistema di messaggistica dedicato alle comunicazioni di servizio. La cifratura o la cancellazione non rendono legittimo lo scambio, e per le informazioni non classificate la regola resta il divieto, salvo l'eccezione.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-047",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un gruppo di messaggistica tra militari dello stesso reparto è usato abitualmente per scambiarsi gli orari dei servizi esterni e le targhe dei veicoli da controllare. Secondo la circolare del 2019:",
+   "opzioni": {
+    "A": "la prassi è consentita per le informazioni non classificate, come orari e targhe, ed è vietata solo per quelle classificate",
+    "B": "la prassi è consentita, perché il gruppo è composto solo da militari dello stesso reparto, tutti tenuti al segreto d'ufficio, e le informazioni non sono classificate",
+    "C": "la prassi non è consentita: né la comunicazione one to one né le chat tra militari, anche dello stesso reparto, possono servire a scambiare informazioni d'ufficio",
+    "D": "la prassi è consentita se il gruppo è chiuso e l'amministratore è il comandante del reparto, che ne risponde verso i superiori"
+   },
+   "corretta": "C",
+   "spiegazione": "Le app di messaggistica non sono strumenti di comunicazione sicuri: la circolare del 2019 esclude che la comunicazione tra singoli o le chat tra militari, anche dello stesso reparto, possano servire a scambiare informazioni d'ufficio, salvo un comprovato stato di necessità o l'urgente adempimento di un dovere, che non ricorrono in una prassi abituale. Diverso è il gruppo usato a fini ricreativi, nel quale non circolano informazioni d'ufficio. Nei reparti investigativi si usano applicazioni più sicure, pur sapendo che una sicurezza assoluta non esiste.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "TUROM art. 722, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-048",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo la circolare del 2019, le circolari e le altre disposizioni a carattere interno, anche se diramate a tutto il personale o disponibili nell'intranet istituzionale:",
+   "opzioni": {
+    "A": "possono essere divulgate all'esterno se prive di classifica di segretezza",
+    "B": "non sono in alcun modo divulgabili all'esterno",
+    "C": "possono essere divulgate citandone gli estremi, ma non il contenuto",
+    "D": "possono essere divulgate se diramate a tutto il personale e quindi già note"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare del 2019, nell'ambito del divieto di diffondere contenuti relativi alle attività di servizio, stabilisce che circolari e disposizioni interne, «ancorché diramate a tutto il personale e/o disponibili nell'area intranet istituzionale, non sono in alcun modo divulgabili all'esterno». L'intranet è riservata al personale: la diffusione può configurare anche reati, in relazione alle norme sulla tutela del segreto militare e d'ufficio (art. 326 c.p. e c.p.m.p.).",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "c.p. art. 326"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 49"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-049",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Le fotografie, i filmati e i file audio realizzati da un militare nel corso di un'attività di polizia giudiziaria, secondo la circolare del 2019:",
+   "opzioni": {
+    "A": "possono essere condivisi con i colleghi delle altre forze di polizia impegnati nella stessa attività, senza bisogno di alcuna autorizzazione, purché non vengano pubblicati in rete né su profili personali",
+    "B": "vanno cancellati dal dispositivo personale subito dopo la redazione del verbale, salvo diversa disposizione scritta del comandante del reparto che ha svolto l'attività",
+    "C": "vanno rimessi all'Autorità giudiziaria a corredo degli atti e, salvo sua espressa autorizzazione, non possono essere trasmessi a chi non vi abbia titolo, anche se appartenente a una forza di polizia",
+    "D": "possono essere pubblicati dopo la chiusura delle indagini preliminari, purché privi dei dati personali dei terzi e previa comunicazione al comandante di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "Per la circolare del 2019, l'obbligo del segreto delle indagini (art. 329 c.p.p.) impone l'assoluto riserbo sugli argomenti che vi si riferiscono: foto, filmati e file audio realizzati durante le attività operative sono documentazione utile alla ricostruzione dei fatti e vanno rimessi all'Autorità giudiziaria a corredo degli atti di polizia giudiziaria, senza possibilità di trasmetterli a chi non abbia titolo, anche se appartenente a una forza di polizia, salvo espressa autorizzazione dell'Autorità giudiziaria. La loro trasmissione ad altri è tra le condotte censurabili elencate dalla circolare.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "c.p.p. art. 329"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-050",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale disposizione pone la circolare del 2019 sull'uso dello smartphone durante il servizio?",
+   "opzioni": {
+    "A": "rimette ogni regola al comandante di stazione, che stabilisce con ordine scritto i tempi e i modi di utilizzo durante i servizi esterni",
+    "B": "ne vieta qualsiasi utilizzo durante il servizio, comprese le comunicazioni urgenti con la centrale operativa, che devono avvenire solo con gli apparati radio in dotazione",
+    "C": "ne vieta il prolungato o compulsivo utilizzo per comunicazioni private, tanto più alla guida, salvo situazioni contingenti di particolare e comprovata urgenza o necessità",
+    "D": "ne consente l'uso anche alla guida di mezzi, perché agli appartenenti alle Forze di polizia si applica l'esenzione prevista dal Codice della strada"
+   },
+   "corretta": "C",
+   "spiegazione": "La circolare del 2019 vieta il prolungato o compulsivo utilizzo di smartphone o altri dispositivi per comunicazioni private durante il servizio, tanto più alla guida di mezzi, salvo situazioni contingenti di particolare e comprovata urgenza o necessità: compromette la vigile attenzione e la sicurezza del personale e dei cittadini ed è percepito come sintomo di scarsa professionalità, ancor più durante il controllo del territorio. L'eccezione dell'art. 173 del Codice della strada per le Forze di polizia è connessa esclusivamente con esigenze operative.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "D.Lgs. 30 aprile 1992, n. 285, art. 173"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-051",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo la circolare del 2019, gli interventi di un militare su blog e riviste on line su temi concernenti il servizio o fatti ad esso assimilabili:",
+   "opzioni": {
+    "A": "sono liberi, perché il blog è uno spazio personale dell'autore e non un mezzo di comunicazione di massa come la stampa",
+    "B": "sono assimilati al rilascio di dichiarazioni pubbliche o di interviste e richiedono la preventiva autorizzazione prevista dall'art. 1472 COM",
+    "C": "sono vietati in ogni caso ai militari in servizio attivo, anche se l'amministrazione ha rilasciato la relativa autorizzazione per il singolo intervento",
+    "D": "richiedono soltanto una comunicazione successiva al comandante di corpo, entro cinque giorni dalla data di pubblicazione"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare del 2019 assimila gli interventi su blog e riviste on line al rilascio di dichiarazioni pubbliche o di interviste: se riguardano il servizio richiedono la preventiva autorizzazione dell'amministrazione (art. 1472 COM, rilasciata per l'Arma dal Comando Generale ai sensi dell'art. 1473), e il loro rilascio senza autorizzazione è tra le condotte censurabili elencate. Non vi è un divieto assoluto, né basta una comunicazione successiva.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "COM artt. 1472 e 1473"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-052",
+   "argomento": "doveri-via-gerarchica",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un appuntato invia al proprio comandante, tramite un'applicazione di messaggistica, una lamentela sulla programmazione dei turni di servizio. Secondo la circolare del 2019:",
+   "opzioni": {
+    "A": "la comunicazione è legittima solo se inviata contemporaneamente a tutti i superiori della linea gerarchica, per garantire la trasparenza della via gerarchica",
+    "B": "la comunicazione è legittima se il comandante risponde con lo stesso mezzo, accettando così la modalità di comunicazione prescelta dal dipendente",
+    "C": "la comunicazione è legittima, perché la via gerarchica è a forma libera e il militare può utilizzare qualsiasi mezzo idoneo a far giungere tempestivamente l'istanza al superiore competente",
+    "D": "i social e le app non devono essere usati come mezzo privilegiato per rappresentare alla scala gerarchica questioni di servizio o private: vanno seguite le regole e le procedure previste"
+   },
+   "corretta": "D",
+   "spiegazione": "La circolare del 2019 stabilisce che i militari dell'Arma, indipendentemente da funzione e grado, non devono utilizzare i social come mezzo privilegiato per rappresentare alla scala gerarchica questioni di servizio o di carattere privato, perché lo status militare comporta l'osservanza di precise regole e procedure (art. 715 TUROM, via gerarchica); il ricorso ai social per interloquire con l'amministrazione, anche su questioni controverse, è tra le condotte censurabili. Non deve sorprendere il comandante che non risponda a un messaggio su una questione di servizio e inviti a parlarne in ufficio.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "TUROM art. 715"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-053",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "La circolare del 2019 vieta di impiegare sui social, senza esplicita autorizzazione, denominazioni, emblemi e marchi dell'Arma. Su quale norma si fonda il diritto delle Forze armate, compresa l'Arma dei Carabinieri, all'uso esclusivo delle proprie denominazioni, stemmi ed emblemi?",
+   "opzioni": {
+    "A": "art. 1472 COM",
+    "B": "art. 498 c.p.",
+    "C": "art. 300 COM",
+    "D": "art. 720 TUROM"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 300, co. 1, COM attribuisce alle Forze armate, compresa l'Arma dei carabinieri, il diritto all'uso esclusivo delle proprie denominazioni, stemmi, emblemi e segni distintivi; il D.M. 25 luglio 2012, n. 162 ne individua l'oggetto, e il co. 2 punisce con la multa l'uso a fine di profitto non autorizzato. L'art. 1472 COM riguarda la manifestazione del pensiero, l'art. 720 TUROM l'uniforme, l'art. 498 c.p. l'uso abusivo in pubblico della divisa o dei segni distintivi di un ufficio pubblico.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "COM art. 300",
+    "D.M. 25 luglio 2012, n. 162"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-054",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo la circolare del 2019, il militare che ha tenuto sui social una delle condotte censurabili elencate può invocare come esimente di aver taciuto o nascosto il proprio status?",
+   "opzioni": {
+    "A": "sì, ma solo per le condotte di carattere politico, per le quali prevale sempre la libertà di manifestazione del pensiero",
+    "B": "no: le condotte sono censurabili senza che si possa invocare come esimente l'aver taciuto o nascosto il proprio status",
+    "C": "sì, se il profilo è anonimo e non contiene immagini o dati che rendano riconoscibile l'autore come militare",
+    "D": "no, ma la circostanza impone all'autorità di applicare in ogni caso la sanzione meno grave del richiamo"
+   },
+   "corretta": "B",
+   "spiegazione": "La circolare del 2019 elenca, senza pretesa di esaustività, le condotte censurabili sotto plurimi profili (trattazione di questioni di servizio, partecipazione attiva a pagine discriminatorie, divulgazione di dati di terzi, uso compulsivo dello smartphone, diffusione di contenuti sul servizio, trasmissione di foto di polizia giudiziaria, uso dei social verso la scala gerarchica, interventi non autorizzati su blog), «senza che si possa invocare come esimente l'aver taciuto o nascosto il proprio status». Già la circolare del 2014 rilevava che lo status è potenzialmente noto anche se non dichiarato. La scelta della sanzione resta rimessa alla valutazione del caso.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-055",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Quale delle seguenti condotte NON è compresa nell'elenco delle condotte censurabili della circolare del 2019 sui social network?",
+   "opzioni": {
+    "A": "il ricorso ai social per rappresentare alla scala gerarchica questioni di servizio, anche se di natura controversa",
+    "B": "la trasmissione a soggetti diversi dall'Autorità giudiziaria di foto realizzate in attività di polizia giudiziaria",
+    "C": "l'apertura di un profilo personale su un social network, senza contenuti riferiti al servizio",
+    "D": "la divulgazione, non giustificata da esigenze di servizio, di dati personali, indirizzi o abitudini di terzi"
+   },
+   "corretta": "C",
+   "spiegazione": "Ciascuno è libero di utilizzare le applicazioni di messaggistica e di avere un profilo sui social: la circolare non vieta l'uso in sé, ma ne regola circostanze, modalità e finalità. Tra le condotte censurabili elencate vi sono invece la trasmissione a soggetti diversi dall'Autorità giudiziaria di foto, filmati e audio di attività di polizia giudiziaria, il ricorso ai social per interloquire con l'amministrazione o rappresentare alla scala gerarchica questioni di servizio o private, la divulgazione non giustificata di dati personali, indirizzi, preferenze e abitudini di terzi.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-056",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Secondo la circolare del 2019, quando una condotta tenuta sui social può integrare violazioni disciplinari o di legge, i comandanti devono:",
+   "opzioni": {
+    "A": "svolgere tempestivi e puntuali accertamenti",
+    "B": "chiedere il nulla osta del Comando Generale",
+    "C": "attendere la segnalazione della persona offesa",
+    "D": "limitarsi al richiamo, se il contenuto è stato rimosso"
+   },
+   "corretta": "A",
+   "spiegazione": "Oltre a ribadire le disposizioni a ogni favorevole occasione e a trattare la materia nei corsi di formazione e aggiornamento, i comandanti devono svolgere «tempestivi e puntuali accertamenti» in tutti i casi in cui la condotta possa integrare violazioni disciplinari o di legge. È un'applicazione dell'obbligatorietà dell'azione disciplinare: non si attende la denuncia dell'interessato, non occorrono nulla osta, e la rimozione del contenuto non preclude l'accertamento.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-057",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo Cons. Stato, sez. II, 23 febbraio 2022, n. 1284, le pagine dei social network:",
+   "opzioni": {
+    "A": "garantiscono la segretezza delle conversazioni nei gruppi chiusi, ma non nei profili pubblici o nelle pagine aperte",
+    "B": "sono equiparate alla stampa periodica, e ogni contenuto vi richiede la preventiva autorizzazione dell'amministrazione",
+    "C": "non sono siti privati e non garantiscono la segretezza delle conversazioni, nemmeno nei gruppi cosiddetti chiusi",
+    "D": "sono siti privati, e la pubblicazione di critiche vi è libera finché il profilo non è reso pubblico dal titolare"
+   },
+   "corretta": "C",
+   "spiegazione": "Il Consiglio di Stato ha confermato che le pagine dei social network non possono essere considerate siti privati e non garantiscono la segretezza delle conversazioni, nemmeno nei gruppi chiusi; e che l'ordinamento militare prevede modalità specifiche per rappresentare anche situazioni critiche, sicché il militare deve usare i canali previsti e non pubblicare fotografie o commenti in grado di nuocere al prestigio dell'amministrazione. Non tutti i contenuti richiedono autorizzazione: solo quelli su argomenti riservati di servizio (art. 1472 COM).",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 23 febbraio 2022, n. 1284",
+    "COM art. 1472"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-058",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un militare dell'Esercito pubblica sul proprio profilo Facebook fotografie dell'accampamento allagato durante un servizio di sorveglianza, con commenti critici poi ripresi dalla stampa, ed è punito con sette giorni di consegna di rigore. Secondo Cons. Stato, sez. II, n. 1284/2022:",
+   "opzioni": {
+    "A": "la sanzione è legittima: non è in discussione la facoltà di rappresentare disagi e critiche, ma l'uso di modalità non consentite, dovendo il militare usare i canali previsti",
+    "B": "la sanzione è illegittima, perché l'accertamento si fondava su un monitoraggio sistematico dei profili social dei militari, che l'amministrazione non può svolgere",
+    "C": "la sanzione è illegittima, perché il militare ha esercitato il diritto di critica su condizioni di servizio oggettivamente disagiate e documentate dalle fotografie pubblicate",
+    "D": "la sanzione è legittima solo perché le fotografie ritraevano installazioni classificate, coperte dal segreto militare e quindi non divulgabili"
+   },
+   "corretta": "A",
+   "spiegazione": "Il Consiglio di Stato ha respinto l'appello e ritenuto proporzionati i sette giorni di consegna di rigore (art. 713 TUROM) al danno d'immagine: il social non è un sito privato, e l'ordinamento militare offre canali specifici per rappresentare anche situazioni critiche; non si discute la facoltà di segnalare disagi, ma la modalità scelta. La vicenda era stata accertata dall'ufficiale inquirente su pagine pubbliche, senza alcun monitoraggio dei profili, e non riguardava notizie classificate.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 23 febbraio 2022, n. 1284",
+    "TUROM art. 713",
+    "TUROM art. 722"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-059",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 11-ter del Codice di comportamento dei dipendenti del Ministero della difesa (D.M. 10 luglio 2024) prevede che, nell'uso dei propri account di social media, il dipendente:",
+   "opzioni": {
+    "A": "usi ogni cautela affinché le proprie opinioni o i propri giudizi non siano in alcun modo attribuibili direttamente all'amministrazione di appartenenza",
+    "B": "indichi sempre nel profilo l'amministrazione di appartenenza e il proprio ruolo, per garantire trasparenza verso gli altri utenti della piattaforma digitale",
+    "C": "si astenga da qualsiasi commento su eventi, cose o persone, anche estranei al servizio e all'attività dell'amministrazione",
+    "D": "chieda l'autorizzazione dell'amministrazione prima di aprire un profilo che ne menzioni l'appartenenza o ne riproduca gli emblemi"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 11-ter, co. 1, impone al dipendente di usare ogni cautela affinché le proprie opinioni o i propri giudizi su eventi, cose o persone non siano in alcun modo attribuibili direttamente all'amministrazione; il co. 2 gli impone di astenersi da interventi o commenti che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione; il co. 3 esclude, di norma, che le comunicazioni afferenti al servizio si svolgano attraverso conversazioni pubbliche sui social. Non vieta di commentare in generale, né richiede autorizzazioni all'apertura di profili.",
+   "riferimenti": [
+    "Codice di comportamento del Ministero della difesa (D.M. 10 luglio 2024), art. 11-ter, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 47"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-060",
+   "argomento": "doveri-generalita",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Per il personale militare, che valore hanno i doveri della sezione seconda del Codice di comportamento del Ministero della difesa (D.M. 10 luglio 2024), nella quale è collocato l'art. 11-ter sui social media?",
+   "opzioni": {
+    "A": "prevalgono sulle norme del TUROM, perché il Codice è stato approvato successivamente, con decreto ministeriale del 2024",
+    "B": "sono obblighi la cui violazione costituisce un autonomo illecito disciplinare, sanzionato secondo le regole del D.Lgs. 30 marzo 2001, n. 165, anche per i militari",
+    "C": "non si applicano in alcun modo ai militari, perché il Codice riguarda soltanto il personale civile del Ministero della difesa",
+    "D": "costituiscono principi di comportamento, mentre gli obblighi e la responsabilità disciplinare restano disciplinati dal Libro IV, Titolo VIII, del COM e del TUROM"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 2, co. 2, del Codice distingue: i doveri della sezione seconda (diligenza, lealtà, imparzialità, buona condotta) sono applicabili al personale contrattualizzato e costituiscono «principi di comportamento» per il personale in regime di diritto pubblico dell'art. 3 del D.Lgs. 165/2001, tra cui i militari (lett. a); per i militari gli obblighi e la responsabilità disciplinare restano disciplinati dal Libro IV, Titolo VIII, del COM e del TUROM (lett. b e c). Un decreto ministeriale non può prevalere sul regolamento adottato con D.P.R.",
+   "riferimenti": [
+    "Codice di comportamento del Ministero della difesa (D.M. 10 luglio 2024), art. 2, co. 2",
+    "D.Lgs. 30 marzo 2001, n. 165, art. 3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-061",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 11-bis, co. 5, del Codice di comportamento del Ministero della difesa, il dipendente, oltre a osservare scrupolosamente le norme in materia di tutela del segreto, deve:",
+   "opzioni": {
+    "A": "cancellare ogni giorno dagli strumenti forniti dall'amministrazione le informazioni di servizio trattate, a tutela della loro riservatezza",
+    "B": "usare esclusivamente strumenti informatici personali per le comunicazioni urgenti, così da non sovraccaricare le reti e i sistemi informatici istituzionali dell'amministrazione",
+    "C": "astenersi dal trattare informazioni di servizio con strumenti informatici personali, se non mediante applicativi regolamentati, autorizzati o forniti dall'amministrazione",
+    "D": "comunicare preventivamente all'amministrazione gli strumenti informatici personali che intende usare per trattare informazioni di servizio"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 11-bis, co. 5, riprende la formula dell'art. 722 TUROM («oltre a osservare scrupolosamente le norme in materia di tutela del segreto») e impone di astenersi dal trattare informazioni di servizio con strumenti informatici personali, se non mediante applicativi regolamentati, autorizzati e/o forniti dall'amministrazione; il co. 6 vieta i messaggi oltraggiosi, discriminatori o lesivi della reputazione dell'amministrazione. È lo stesso principio della circolare del 2019 sulle app di messaggistica.",
+   "riferimenti": [
+    "Codice di comportamento del Ministero della difesa (D.M. 10 luglio 2024), art. 11-bis, co. 5-6",
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 47"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-062",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Secondo l'art. 11-ter, co. 3, del Codice di comportamento del Ministero della difesa, le comunicazioni afferenti, direttamente o indirettamente, al servizio:",
+   "opzioni": {
+    "A": "non si svolgono, di norma, attraverso conversazioni pubbliche su piattaforme digitali o social media, salvo che l'uso dei social risponda a un'esigenza istituzionale",
+    "B": "possono svolgersi su piattaforme digitali pubbliche, purché il dipendente si identifichi con il proprio ruolo e l'ufficio di appartenenza",
+    "C": "non possono mai svolgersi attraverso i social media, nemmeno per le attività di comunicazione istituzionale dell'amministrazione",
+    "D": "si svolgono esclusivamente mediante applicazioni di messaggistica fornite dal Ministero, senza alcuna eccezione, neppure per le attività di comunicazione istituzionale"
+   },
+   "corretta": "A",
+   "spiegazione": "Il co. 3 dell'art. 11-ter, a garanzia della riservatezza, stabilisce che le comunicazioni afferenti al servizio «non si svolgono, di norma, attraverso conversazioni pubbliche mediante l'utilizzo di piattaforme digitali o social media», escludendo da questa limitazione le attività o le comunicazioni per le quali l'uso dei social risponde a un'esigenza di carattere istituzionale. La regola è quindi tendenziale («di norma»), non assoluta, e non impone un unico strumento.",
+   "riferimenti": [
+    "Codice di comportamento del Ministero della difesa (D.M. 10 luglio 2024), art. 11-ter, co. 3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi pp. 47-48"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-063",
+   "argomento": "liberta-sindacale",
+   "sinossi": "II.3.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo CGARS, sez. giurisdizionale, 15 dicembre 2025, n. 1004, il dirigente di un'associazione professionale a carattere sindacale tra militari che diffonde comunicati fortemente critici verso i vertici dell'amministrazione:",
+   "opzioni": {
+    "A": "è sanzionabile come qualsiasi altro militare, perché la funzione sindacale non comporta alcuna guarentigia per le opinioni espresse nell'esercizio del mandato",
+    "B": "non è perseguibile per le opinioni espresse nell'esercizio del mandato, perché l'art. 1479-bis COM sottrae in ogni caso alla disciplina militare l'attività e le dichiarazioni pubbliche dei dirigenti sindacali",
+    "C": "è sanzionabile solo se i comunicati contengono notizie riservate di servizio, mentre la critica ai vertici, anche aspra, rientra sempre nella libertà sindacale",
+    "D": "gode della guarentigia dell'art. 1479-bis COM solo se rispetta la correttezza formale e i doveri del giuramento, del grado e del contegno, e la perde quando la critica diventa invettiva o delegittimazione"
+   },
+   "corretta": "D",
+   "spiegazione": "Il CGARS ha accolto l'appello del Ministero contro l'annullamento di una sospensione dall'impiego di due mesi: la funzione sindacale non sospende né attenua il vincolo del giuramento, e l'art. 1479-bis COM non crea uno spazio franco, ma una guarentigia condizionata al rispetto della correttezza formale e dei doveri del giuramento, del grado e del contegno. Il militare-sindacalista può rappresentare e rivendicare, non demolire con il linguaggio la dignità e il prestigio dell'istituzione. La guarentigia esiste, dunque, ma ha limiti.",
+   "riferimenti": [
+    "CGARS, sez. giurisd., 15 dicembre 2025, n. 1004",
+    "COM art. 1479-bis"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-064",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché ciò che un militare pubblica sui social, anche quando agisce come privato, è riconducibile all'amministrazione?",
+   "opzioni": {
+    "A": "perché l'art. 1472 COM richiede l'autorizzazione per ogni manifestazione pubblica del pensiero dei militari",
+    "B": "perché i profili social dei militari sono registrati presso l'amministrazione, che ne risponde verso i terzi",
+    "C": "perché il militare è sempre in servizio, e ogni sua attività, anche privata o svolta in rete, rientra nelle condizioni dell'art. 1350, co. 2, COM",
+    "D": "per il rapporto di immedesimazione organica, che impone di contemperare la sfera privata con la rappresentanza dell'amministrazione"
+   },
+   "corretta": "D",
+   "spiegazione": "In virtù del rapporto di immedesimazione organica, il militare rappresenta l'amministrazione anche quando agisce come privato: la sfera privata esiste ed è tutelata, ma per l'appartenente alle Forze armate va contemperata con questo principio, e occorrono moderazione, contegno e continenza. Non è vero che il militare sia sempre in servizio (le condizioni dell'art. 1350, co. 2, COM sono limitate, salvo i doveri permanenti del co. 3), né l'art. 1472 COM richiede l'autorizzazione per ogni manifestazione del pensiero.",
+   "riferimenti": [
+    "COM artt. 1350 e 1472",
+    "Codice di comportamento del Ministero della difesa (D.M. 10 luglio 2024), art. 11-ter, co. 1"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-065",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Il diritto di critica del militare, riconosciuto dalla giurisprudenza, diventa illecito disciplinare quando:",
+   "opzioni": {
+    "A": "riguarda l'operato di un superiore gerarchico diretto, qualunque sia la forma utilizzata",
+    "B": "è esercitato su un mezzo di comunicazione pubblico, anche se in forma misurata",
+    "C": "supera i limiti della continenza e dell'opportunità e trasmoda nell'offesa personale",
+    "D": "non è preceduto da un'istanza presentata per via gerarchica sullo stesso tema"
+   },
+   "corretta": "C",
+   "spiegazione": "La giurisprudenza riconosce a tutti i militari il diritto di critica, che diventa illecito quando supera i limiti della continenza e dell'opportunità e trasmoda nell'offesa personale. Continenza significa esercitare la critica con una prudenza che non trascenda nell'offesa; la critica verso i superiori o sui mezzi pubblici non è vietata in sé, ma deve rispettare questi limiti e, per gli argomenti riservati di servizio, l'autorizzazione dell'art. 1472 COM.",
+   "riferimenti": [
+    "COM art. 1472",
+    "CGARS, sez. giurisd., 15 dicembre 2025, n. 1004"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-066",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il n. 423 del Regolamento generale per l'Arma dei Carabinieri, richiamato dalle circolari per i comportamenti in rete, prescrive al militare dell'Arma di ogni grado di:",
+   "opzioni": {
+    "A": "astenersi da relazioni con persone estranee all'Arma che non siano state preventivamente autorizzate dal comandante di stazione competente",
+    "B": "tenere anche nella vita privata condotta seria e decorosa e, nel contrarre relazioni e amicizie, osservare gli obblighi del suo stato",
+    "C": "tenere condotta seria e decorosa durante il servizio, restando libero nelle relazioni della vita privata",
+    "D": "comunicare al comandante di stazione le amicizie contratte con persone pregiudicate o sospette entro dieci giorni"
+   },
+   "corretta": "B",
+   "spiegazione": "Il n. 423 RGA dispone: «Il militare dell'Arma di ogni grado deve tenere anche nella vita privata condotta seria e decorosa. Nel contrarre relazioni ed amicizie è tenuto ad osservare gli obblighi del suo stato». Le circolari sui social ne ricavano che anche la socializzazione in rete su base sentimentale o amicale deve tener conto dei doveri di serietà e decoro e di quelli connessi con il grado. Il RGA non è fonte del diritto ma disposizione interna; il dovere corrisponde all'art. 732, co. 5, TUROM.",
+   "riferimenti": [
+    "Regolamento generale per l'Arma dei Carabinieri, n. 423",
+    "TUROM art. 732, co. 5",
+    "circ. n. 1104/43-1-1994 del 19.12.2011",
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 48"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-067",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La circolare del 2014 avverte che la divulgazione in rete di notizie o immagini acquisite per ragioni d'ufficio (dati personali, indirizzi, preferenze, abitudini di terzi):",
+   "opzioni": {
+    "A": "ha rilievo soltanto civile, ai fini del risarcimento del danno alla persona i cui dati personali sono stati diffusi",
+    "B": "ha rilievo soltanto disciplinare, perché i dati sono acquisiti dall'amministrazione e non dal singolo militare, che non ne risponde né civilmente né penalmente verso i terzi",
+    "C": "è consentita se i dati sono già reperibili in rete o in pubblici registri, perché in tal caso non sono più riservati",
+    "D": "può comportare gravi violazioni della privacy e responsabilità penali e civili, oltre che disciplinari, e pregiudicare l'efficacia delle attività istituzionali"
+   },
+   "corretta": "D",
+   "spiegazione": "La circolare del 2014 estende la riflessione al principio di riservatezza: in rete si trovano spesso informazioni sul servizio o foto e video registrati durante l'attività operativa; la divulgazione di notizie o immagini acquisite per ragioni d'ufficio può comportare gravi violazioni della privacy e responsabilità penali e civili, oltre che disciplinari, e pregiudicare l'efficacia delle attività istituzionali (riservatezza delle procedure operative) o violare il segreto d'indagine, se riferita ad attività di polizia giudiziaria.",
+   "riferimenti": [
+    "circ. n. 1104/43-8-1-1994 del 23.8.2014",
+    "c.p.p. art. 329"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 49"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-068",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo la circolare del 2019, una ricerca sistematica sui profili social di più militari, se alimentati con superficialità, può:",
+   "opzioni": {
+    "A": "consentire all'amministrazione di valutare il rendimento dei militari ai fini della redazione della documentazione caratteristica e delle proposte di avanzamento",
+    "B": "rilevare soltanto le opinioni politiche dei militari, la cui diffusione è vietata a tutti dall'art. 1483 COM",
+    "C": "disvelare informazioni sensibili, come incarichi e attività, e facilitare progettualità offensive anche terroristiche o l'elusione delle investigazioni",
+    "D": "essere svolta dai comandanti per controllare preventivamente il rispetto della circolare da parte di tutti i dipendenti"
+   },
+   "corretta": "C",
+   "spiegazione": "La circolare del 2019 osserva che la permeabilità dei dati veicolati con social e app può favorire mirate attività di raccolta e selezione da parte di malintenzionati: una ricerca sistematica sui profili di più militari può disvelare informazioni sensibili (incarichi, attività) e facilitare progettualità offensive anche di natura terroristica (ad esempio contro unità impiegate in teatro d'operazioni), oppure l'adozione di precauzioni per sfuggire alle investigazioni o vanificare la prevenzione. È la ragione per cui anche notizie insignificanti sono materiale informativo (art. 722, lett. b, TUROM).",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "TUROM art. 722, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-069",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Secondo la circolare del 2019, i social e le applicazioni di messaggistica istantanea:",
+   "opzioni": {
+    "A": "possono essere usati per le questioni di servizio se l'applicazione garantisce la cifratura end to end dei messaggi scambiati",
+    "B": "sono vietati ai militari dell'Arma per qualsiasi uso privato durante l'intera giornata lavorativa, anche fuori dal servizio",
+    "C": "possono essere usati per le questioni di servizio non classificate, se il gruppo è composto esclusivamente da militari dello stesso reparto ed è chiuso a terzi",
+    "D": "non sono strumenti di comunicazione sicuri e non possono essere usati per trattare, a qualsiasi titolo, questioni di servizio o comunque riservate"
+   },
+   "corretta": "D",
+   "spiegazione": "Il web non è una zona franca rispetto alle responsabilità penali, civili e disciplinari: secondo la circolare del 2019 social e app di messaggistica non possono essere considerati strumenti sicuri e non possono essere usati per la trattazione, a qualsiasi titolo, di questioni di servizio o comunque riservate, salvo il comprovato stato di necessità o l'urgente adempimento di un dovere. L'uso privato non è vietato in sé: è vietato quello prolungato o compulsivo durante il servizio.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-070",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.3.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Secondo la circolare del 2019, l'eccezione prevista dall'art. 173 del Codice della strada per gli appartenenti alle Forze di polizia, in materia di uso di apparecchi telefonici alla guida:",
+   "opzioni": {
+    "A": "è stata superata dalla circolare, che vieta l'uso anche per esigenze operative",
+    "B": "consente l'uso del telefono alla guida anche per brevi comunicazioni private",
+    "C": "è connessa esclusivamente con il soddisfacimento di esigenze operative",
+    "D": "si applica soltanto ai conducenti dei veicoli con colori d'istituto"
+   },
+   "corretta": "C",
+   "spiegazione": "La circolare del 2019, nel vietare il prolungato o compulsivo utilizzo dello smartphone per comunicazioni private durante il servizio, «tanto più alla guida», precisa che l'eccezione dell'art. 173 del Codice della strada per gli appartenenti alle Forze di polizia è connessa esclusivamente con le esigenze operative: non copre le comunicazioni private. Una circolare, del resto, non può derogare a una norma di legge.",
+   "riferimenti": [
+    "circ. n. 27/28-1-2016 del 12.11.2019",
+    "D.Lgs. 30 aprile 1992, n. 285, art. 173"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-071",
+   "argomento": "doveri-segreto-riserbo",
+   "sinossi": "II.3.d",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Quando la divulgazione di notizie di servizio da parte di un militare è grave, ha avuto risonanza pubblica o integra un reato:",
+   "opzioni": {
+    "A": "il procedimento disciplinare è precluso, perché la responsabilità penale assorbe quella disciplinare",
+    "B": "si applica in ogni caso la consegna di rigore, unica sanzione prevista dall'art. 751 TUROM per il riserbo",
+    "C": "si applica il rimprovero, aggravato dalla risonanza pubblica che la notizia ha avuto",
+    "D": "la valutazione si sposta verso la disciplina di stato, oltre all'eventuale responsabilità penale"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 751 TUROM tipizza le violazioni del riserbo punibili con la consegna di rigore (nn. 4-7, 37, 39), ma non esclude la disciplina di stato: quando la divulgazione è grave, ha risonanza pubblica (strepitus fori) o integra un reato, la valutazione si sposta verso le sanzioni di stato, secondo i criteri propri del procedimento di stato. Responsabilità penale e disciplinare coesistono: il richiamo alle norme sul segreto nell'art. 722 aggiunge la seconda alla prima.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a)",
+    "TUROM art. 722",
+    "COM art. 1357"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-072",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 720, co. 1, TUROM, l'uniforme indica:",
+   "opzioni": {
+    "A": "la Forza armata, il corpo, il grado dei militari e, talvolta, le loro funzioni e incarichi",
+    "B": "il ruolo, la categoria e il grado dei militari e, talvolta, la specialità posseduta",
+    "C": "la Forza armata, il grado e l'anzianità di servizio e, talvolta, le ricompense e le decorazioni conseguite",
+    "D": "la Forza armata e il grado dei militari, ma mai le funzioni o gli incarichi ricoperti"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 720, co. 1, TUROM stabilisce che «l'uniforme indica la Forza armata, il corpo, il grado dei militari, e, talvolta, le loro funzioni e incarichi», come quelli di comandante di stazione o di comandante di corpo. È strumento di individuazione e di identificazione del militare: permette di distinguerlo dal non militare e di identificarlo per posizione gerarchica, corpo e competenza.",
+   "riferimenti": [
+    "TUROM art. 720, co. 1"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 89"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-073",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Le stellette a cinque punte, secondo l'art. 720, co. 2, TUROM:",
+   "opzioni": {
+    "A": "sono il distintivo peculiare dell'uniforme militare e il simbolo comune dell'appartenenza alle Forze armate",
+    "B": "sono il distintivo di grado degli ufficiali generali e degli ammiragli di tutte le Forze armate",
+    "C": "sono il distintivo dei soli militari dell'Esercito, mentre le altre Forze armate e l'Arma adottano propri simboli distintivi",
+    "D": "sono il simbolo dell'Arma dei Carabinieri, adottato poi anche dai corpi di polizia a ordinamento civile"
+   },
+   "corretta": "A",
+   "spiegazione": "Le stellette a cinque punte, distintivo peculiare dell'uniforme militare, sono il simbolo comune dell'appartenenza alle Forze armate (art. 720, co. 2, TUROM). Sono il segno distintivo della condizione militare, perché un'uniforme è indossata anche da non militari, come gli appartenenti alle forze di polizia a ordinamento civile e alle polizie locali.",
+   "riferimenti": [
+    "TUROM art. 720, co. 2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 89"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-074",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché nell'ordinamento militare la forma ha una rilevanza autonoma rispetto alla sostanza?",
+   "opzioni": {
+    "A": "perché è parametro di individuazione e di identificazione del militare ed è un modo di comunicare, all'interno e all'esterno, valori, identità e principi organizzativi",
+    "B": "perché le regole formali sono stabilite dalla legge, mentre la sostanza dei comportamenti è rimessa ai soli regolamenti interni",
+    "C": "perché la violazione delle regole formali è sempre punita con le sanzioni di stato, a differenza della violazione degli altri doveri, punita con le sanzioni di corpo",
+    "D": "perché i doveri formali sono gli unici che il militare deve osservare anche quando non ricorrono le condizioni dell'art. 1350, co. 2, COM"
+   },
+   "corretta": "A",
+   "spiegazione": "Nell'amministrazione militare forma e sostanza vanno di pari passo, ma la forma ha una rilevanza autonoma: è anzitutto parametro di individuazione e identificazione (riconoscere e farsi riconoscere come militari, distinguere il militare dal non militare e identificarlo per grado, corpo e competenza) ed è un modo di comunicare valori, identità e principi organizzativi. Le violazioni formali sono punite di regola con sanzioni di corpo, e i doveri permanenti dell'art. 1350, co. 3, COM sono quelli del giuramento, del grado, del segreto e del riserbo.",
+   "riferimenti": [
+    "TUROM artt. 720 e 721",
+    "COM art. 1350, co. 3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 88"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-075",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Che cosa rimette l'art. 720, co. 3, TUROM ad «apposite norme»?",
+   "opzioni": {
+    "A": "le sanzioni per l'uso scorretto dell'uniforme, che il TUROM non individua e rimette interamente ai regolamenti sulle uniformi delle singole Forze armate e dei Corpi armati",
+    "B": "l'individuazione dei soggetti estranei alle Forze armate che sono autorizzati a indossare uniformi militari",
+    "C": "i casi in cui il militare può modificare l'uniforme assegnata per esigenze personali documentate, previa autorizzazione",
+    "D": "la composizione, la foggia e l'uso dell'uniforme, che il militare non deve in alcun caso modificare o alterare, e i casi in cui è obbligatorio indossarla"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 720, co. 3, TUROM rinvia ad apposite norme per la composizione, la foggia e l'uso dell'uniforme, che il militare non deve in alcun caso modificare o alterare, e per i casi in cui è obbligatorio indossarla. Per l'Arma sono il Regolamento sulle uniformi del Comando Generale: la violazione delle sue prescrizioni si contesta in correlazione con l'art. 720. Le sanzioni sono invece nel TUROM (art. 751, nn. 33-35).",
+   "riferimenti": [
+    "TUROM art. 720, co. 3",
+    "TUROM art. 751, co. 1, lett. a), nn. 33-35"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 89"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-076",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 1351 COM, l'uso dell'uniforme è obbligatorio:",
+   "opzioni": {
+    "A": "durante l'espletamento dei compiti di servizio e nei luoghi militari o comunque destinati al servizio, salvo diverse disposizioni",
+    "B": "nei soli luoghi militari, mentre per i servizi esterni la scelta è rimessa al comandante di reparto",
+    "C": "in ogni circostanza pubblica, compresa la libera uscita, salvo specifica autorizzazione del comandante di corpo all'uso dell'abito civile",
+    "D": "durante il servizio e nelle ore di libera uscita, con la sola eccezione delle licenze e dei permessi"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1351, co. 1, COM rende obbligatoria l'uniforme durante l'espletamento dei compiti di servizio e nei luoghi militari o comunque destinati al servizio, salvo diverse disposizioni; l'abito civile è consentito fuori dai luoghi militari, durante le licenze e i permessi (co. 2) e, di regola, nelle ore di libera uscita (co. 3), salve le limitazioni elencate. L'art. 746 TUROM rinvia all'art. 1351 per l'abito civile fuori dai luoghi militari.",
+   "riferimenti": [
+    "COM art. 1351",
+    "TUROM art. 746, co. 1"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 90"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-077",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Nelle ore di libera uscita l'uso dell'abito civile è consentito, salvo le limitazioni derivanti, tra l'altro, dalle esigenze:",
+   "opzioni": {
+    "A": "dei reparti operativi, durante i periodi di licenza ordinaria e straordinaria del personale",
+    "B": "delle scuole allievi sottufficiali, durante i primi quattro mesi di corso formativo",
+    "C": "delle scuole allievi sottufficiali, durante l'intero primo anno di corso",
+    "D": "delle accademie militari, durante l'intero ciclo di studi accademici"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1351, co. 3, COM consente l'abito civile in libera uscita, salvo limitazioni derivanti dalle esigenze delle accademie militari durante il primo anno di corso, delle scuole allievi sottufficiali durante i primi quattro mesi di corso formativo, delle scuole militari, dei servizi di sicurezza di particolari impianti e installazioni, e operative e di addestramento fuori sede. Il «primo anno» riguarda le accademie, non le scuole sottufficiali; in licenza l'abito civile è sempre consentito (co. 2).",
+   "riferimenti": [
+    "COM art. 1351, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-078",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 746, co. 3, TUROM, il militare in abito civile:",
+   "opzioni": {
+    "A": "può indossare capi di vestiario militare in distribuzione, se privi di distintivi",
+    "B": "non deve indossare alcun distintivo o indumento caratteristico dell'uniforme",
+    "C": "può indossare indumenti dell'uniforme fuori dai luoghi militari, se autorizzato",
+    "D": "può indossare i distintivi di grado, purché non indossi capi dell'uniforme"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 746, co. 3, TUROM vieta al militare in abito civile di indossare «alcun distintivo o indumento caratteristico dell'uniforme». La ripetuta violazione del divieto di indossare, in abito civile, indumenti caratteristici o distintivi della serie di vestiario in distribuzione è punibile con la consegna di rigore (art. 751, co. 1, lett. a, n. 35). Per l'Arma e la Guardia di finanza valgono anche le particolari disposizioni emanate in relazione ai compiti istituzionali (co. 4).",
+   "riferimenti": [
+    "TUROM art. 746, co. 3-4",
+    "TUROM art. 751, co. 1, lett. a), n. 35"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-079",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Per il personale dell'Arma dei Carabinieri e del Corpo della guardia di finanza, l'art. 746, co. 4, TUROM prevede, in materia di uso dell'abito civile:",
+   "opzioni": {
+    "A": "l'applicazione delle particolari disposizioni emanate in materia, in relazione agli specifici compiti istituzionali",
+    "B": "l'applicazione delle stesse regole previste per l'Esercito, salvo diversa disposizione del Ministro della difesa o del Comandante generale",
+    "C": "il divieto assoluto di indossare l'abito civile nei luoghi militari, anche al di fuori dell'orario di servizio",
+    "D": "l'obbligo di indossare l'uniforme anche durante le licenze trascorse nella località sede di servizio"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 746 TUROM rinvia all'art. 1351 COM per l'abito civile fuori dai luoghi militari (co. 1), ad apposite disposizioni di servizio per l'abito civile nei luoghi militari (co. 2), vieta distintivi e indumenti dell'uniforme in abito civile (co. 3) e, per l'Arma e la Guardia di finanza, rinvia alle particolari disposizioni emanate in relazione agli specifici compiti istituzionali (co. 4): i servizi di polizia in abito civile ne sono l'esempio.",
+   "riferimenti": [
+    "TUROM art. 746, co. 1-4"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-080",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.d",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Il dovere di indossare l'uniforme «con decoro» (art. 720, co. 4, TUROM) trova corrispondenza nell'art. 721 TUROM, secondo cui l'aspetto esteriore del militare deve essere:",
+   "opzioni": {
+    "A": "uniforme a quello degli altri militari del reparto, secondo le disposizioni impartite dal comandante di corpo",
+    "B": "conforme alle mode correnti, purché non contrasti con le prescrizioni del regolamento sulle uniformi della propria Forza armata o Corpo",
+    "C": "decoroso, come richiede la dignità della sua condizione, e tale da consentire il corretto uso dei capi di equipaggiamento previsti",
+    "D": "sobrio nella vita privata, mentre in servizio valgono soltanto le prescrizioni del regolamento sulle uniformi"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 721 TUROM (dignità e decoro del militare) prescrive che l'aspetto esteriore sia decoroso, come richiede la dignità della condizione militare, e comunque tale da consentire il corretto uso dei capi di equipaggiamento previsti. Il decoro (dal latino decorum, da decere, «essere conveniente») è il complesso di dignità, contegno, misura e rispetto delle regole che si manifesta nell'aspetto e nel comportamento. L'inosservanza ripetuta delle norme sull'aspetto esteriore è punibile con la consegna di rigore (art. 751, n. 33).",
+   "riferimenti": [
+    "TUROM artt. 720, co. 4, e 721",
+    "TUROM art. 751, co. 1, lett. a), n. 33"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 91"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-081",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il n. 33 dell'art. 751, co. 1, lett. a), TUROM consente la consegna di rigore per:",
+   "opzioni": {
+    "A": "ogni singola inosservanza delle norme sul corretto uso dell'uniforme, se commessa durante il servizio",
+    "B": "l'uso dell'uniforme durante una sospensione dall'impiego disposta in via precauzionale",
+    "C": "l'inosservanza ripetuta delle norme attinenti all'aspetto esteriore o al corretto uso dell'uniforme",
+    "D": "la trasgressione al divieto dell'uso dell'uniforme nelle circostanze previste dal regolamento"
+   },
+   "corretta": "C",
+   "spiegazione": "Il n. 33 punisce l'«inosservanza ripetuta delle norme attinenti all'aspetto esteriore o al corretto uso dell'uniforme (articoli 720 e 721)»: occorre la ripetizione, sicché la singola inosservanza si punisce con le sanzioni di corpo minori. La trasgressione al divieto d'uso dell'uniforme nelle circostanze previste dal regolamento, come durante la sospensione, è invece il n. 34, che non richiede la ripetizione.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 33 e 34",
+    "TUROM artt. 720 e 721"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 91"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-082",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Quale differenza intercorre tra i nn. 33 e 35 e il n. 34 dell'art. 751, co. 1, lett. a), TUROM?",
+   "opzioni": {
+    "A": "i nn. 33 e 35 si applicano ai comportamenti tenuti in servizio, mentre il n. 34 riguarda soltanto i comportamenti tenuti in abito civile",
+    "B": "i nn. 33 e 35 richiedono la ripetizione della condotta, mentre il n. 34 consente la consegna di rigore anche per la singola trasgressione del divieto d'uso dell'uniforme",
+    "C": "i nn. 33 e 35 riguardano i soli ufficiali e sottufficiali, mentre il n. 34 si applica a tutte le categorie di militari, compresi i volontari in ferma prefissata",
+    "D": "il n. 34 richiede la ripetizione della trasgressione, mentre i nn. 33 e 35 consentono la consegna di rigore già per il singolo episodio contestato"
+   },
+   "corretta": "B",
+   "spiegazione": "Il n. 33 (inosservanza «ripetuta» delle norme sull'aspetto esteriore o sul corretto uso dell'uniforme) e il n. 35 («ripetuta» violazione del divieto di indossare in abito civile indumenti caratteristici o distintivi) richiedono la reiterazione; il n. 34 (trasgressione al divieto dell'uso dell'uniforme nelle circostanze previste dal regolamento, artt. 720 e 746) consente la consegna di rigore anche per la singola trasgressione. Il n. 35 riguarda proprio l'abito civile; nessuna delle tre ipotesi distingue tra categorie.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 33-35"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-083",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere si presenta di servizio al corpo di guardia con la cravatta non in ordine; è la prima volta. Secondo la progressione indicata in materia:",
+   "opzioni": {
+    "A": "non si applica alcuna sanzione, perché le prescrizioni sull'uniforme sono regole interne prive di rilievo disciplinare in assenza di reiterazione della stessa mancanza",
+    "B": "si applica una sanzione di corpo minore, come il richiamo; se il fatto si ripete, il rimprovero, e solo in caso di ulteriore ripetizione la consegna di rigore",
+    "C": "si applica il rimprovero e, alla prima ripetizione, la sospensione disciplinare dalle funzioni del grado per violazione dei doveri formali",
+    "D": "si applica subito la consegna di rigore, perché il n. 33 dell'art. 751 TUROM riguarda ogni inosservanza commessa durante il servizio armato"
+   },
+   "corretta": "B",
+   "spiegazione": "Poiché il n. 33 dell'art. 751 TUROM richiede l'inosservanza «ripetuta», la singola mancanza si sanziona con le sanzioni di corpo minori: il richiamo; se il fatto si ripete, il rimprovero, per la recidiva; se si ripete ancora, la consegna di rigore. La violazione delle prescrizioni sull'uniforme ha comunque rilievo disciplinare, contestata in correlazione con l'art. 720 TUROM, e non conduce di regola alle sanzioni di stato.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 33",
+    "TUROM art. 720, co. 3-4"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-084",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un maresciallo è sospeso precauzionalmente dall'impiego perché imputato di un reato da cui può derivare la perdita del grado. Durante la sospensione partecipa in uniforme a una cerimonia pubblica. Quale norma viola?",
+   "opzioni": {
+    "A": "nessuna, perché la sospensione precauzionale facoltativa non incide sull'uso dell'uniforme fuori dal servizio e dai luoghi militari",
+    "B": "nessuna, perché il divieto riguarda la sola sospensione disciplinare inflitta come sanzione di stato, non quella precauzionale",
+    "C": "l'art. 720, co. 5, lett. a), TUROM, che vieta l'uso dell'uniforme al militare sospeso dall'impiego, dal servizio o dalle funzioni del grado",
+    "D": "soltanto l'art. 1351 COM, che vieta l'uniforme fuori dai luoghi militari al militare che non presta attività di servizio"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 720, co. 5, lett. a), TUROM vieta l'uso dell'uniforme al militare sospeso dall'impiego, dal servizio o dalle funzioni del grado, qualunque sia la causa: sospensione per l'espiazione di pena detentiva (art. 914 COM), precauzionale obbligatoria o facoltativa (artt. 915-917 COM), pena militare accessoria (art. 24 c.p.m.p.) o sanzione disciplinare di stato (art. 1357 COM). La trasgressione è punibile con la consegna di rigore anche se singola (art. 751, n. 34). L'art. 1351 COM non vieta l'uniforme fuori dai luoghi militari.",
+   "riferimenti": [
+    "TUROM art. 720, co. 5, lett. a)",
+    "COM artt. 914-917 e 1357",
+    "TUROM art. 751, co. 1, lett. a), n. 34"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 90"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-085",
+   "argomento": "sospensione-precauzionale",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 915 COM, la sospensione precauzionale dall'impiego è sempre applicata al militare quando sono adottati a suo carico, tra l'altro:",
+   "opzioni": {
+    "A": "la condanna anche non definitiva per un delitto non colposo a pena detentiva superiore a un anno",
+    "B": "l'avvio di un procedimento disciplinare di stato per fatti di notevole gravità",
+    "C": "il rinvio a giudizio per un reato dal quale può derivare la perdita del grado",
+    "D": "il fermo o l'arresto, oppure le misure cautelari coercitive limitative della libertà personale"
+   },
+   "corretta": "D",
+   "spiegazione": "La sospensione precauzionale obbligatoria (art. 915 COM) si applica sempre se sono adottati il fermo o l'arresto, misure cautelari coercitive limitative della libertà personale, misure cautelari interdittive o coercitive che impediscono la prestazione del servizio, misure di prevenzione provvisorie che la rendono impossibile; viene meno con la revoca di tali provvedimenti. L'imputazione per un reato da cui può derivare la perdita del grado e il procedimento disciplinare di stato per fatti di notevole gravità sono presupposti della sospensione facoltativa (artt. 916 e 917).",
+   "riferimenti": [
+    "COM artt. 915-917"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-086",
+   "argomento": "sospensione-precauzionale",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Quale differenza intercorre tra la sospensione precauzionale dell'art. 916 e quella dell'art. 917 COM?",
+   "opzioni": {
+    "A": "la prima è obbligatoria ed è connessa al procedimento penale, la seconda è facoltativa ed è connessa al procedimento disciplinare di corpo per le infrazioni punite con la consegna di rigore dall'art. 751 TUROM",
+    "B": "entrambe sono facoltative: la prima è connessa al procedimento penale per un reato da cui può derivare la perdita del grado, la seconda al procedimento disciplinare di stato per fatti di notevole gravità",
+    "C": "la prima è facoltativa e riguarda l'espiazione di pene detentive sostituite, la seconda è obbligatoria e consegue al fermo, all'arresto o alle misure cautelari",
+    "D": "entrambe sono obbligatorie: la prima consegue alla condanna non definitiva, la seconda alla contestazione degli addebiti nel procedimento disciplinare di stato"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 916 COM consente la sospensione precauzionale («può essere applicata») del militare imputato per un reato da cui può derivare la perdita del grado; l'art. 917 la consente («può essere disposta») durante il procedimento disciplinare di stato instaurato per fatti di notevole gravità da cui possa derivare la perdita del grado, anche in vista dell'azione disciplinare. È obbligatoria quella dell'art. 915 (fermo, arresto, misure cautelari e di prevenzione); l'espiazione di pene detentive comporta la sospensione dall'impiego dell'art. 914.",
+   "riferimenti": [
+    "COM artt. 914-917"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-087",
+   "argomento": "sospensione-precauzionale",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "La sospensione precauzionale disposta in vista dell'esercizio dell'azione disciplinare (art. 917, co. 2, COM) è revocata a tutti gli effetti se la contestazione degli addebiti non ha luogo entro:",
+   "opzioni": {
+    "A": "novanta giorni dalla data in cui è stato adottato il provvedimento di sospensione",
+    "B": "sessanta giorni dalla data in cui è stato comunicato il provvedimento di sospensione",
+    "C": "centottanta giorni dalla conoscenza dei fatti da parte dell'amministrazione",
+    "D": "trenta giorni dalla data in cui è stato comunicato all'interessato il provvedimento di sospensione"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 917, co. 2, COM consente la sospensione precauzionale anche prima dell'avvio del procedimento disciplinare di stato, «in vista dell'esercizio dell'azione disciplinare», ma la revoca a tutti gli effetti se la contestazione degli addebiti non avviene entro sessanta giorni dalla data in cui è stato comunicato il provvedimento di sospensione. Il termine decorre dalla comunicazione, non dall'adozione.",
+   "riferimenti": [
+    "COM art. 917, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-088",
+   "argomento": "sospensione-precauzionale",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Ai sensi dell'art. 914 COM, la sospensione dall'impiego si applica ai militari:",
+   "opzioni": {
+    "A": "durante l'esecuzione delle sole pene militari accessorie previste dal codice penale militare di pace",
+    "B": "durante l'espiazione di pene detentive, salvo che siano state sostituite con misure alternative alla detenzione dal tribunale di sorveglianza",
+    "C": "dalla condanna in primo grado a pena detentiva, fino al passaggio in giudicato della sentenza",
+    "D": "durante l'espiazione di pene detentive, anche se sostituite in base alle disposizioni dell'ordinamento penitenziario"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 914 COM (sospensione a seguito di condanna penale) applica la sospensione dall'impiego durante l'espiazione di pene detentive, «anche se sostituite in base alle disposizioni dell'ordinamento penitenziario»: le misure alternative non la escludono. Non è legata alla condanna non definitiva, e la pena militare accessoria della sospensione è prevista separatamente dall'art. 24 c.p.m.p. Anche in questo caso è vietato l'uso dell'uniforme (art. 720, co. 5, lett. a, TUROM).",
+   "riferimenti": [
+    "COM art. 914",
+    "TUROM art. 720, co. 5, lett. a)"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-089",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 720, co. 5, lett. b), TUROM, l'uso dell'uniforme è vietato al militare:",
+   "opzioni": {
+    "A": "nello svolgimento di servizi in abito civile disposti dal comandante",
+    "B": "nelle ore di libera uscita, salvo che sia allievo di un istituto di formazione",
+    "C": "nello svolgimento delle attività private e pubbliche consentite",
+    "D": "durante le licenze e i permessi trascorsi fuori dalla sede di servizio"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 720, co. 5, vieta l'uniforme al militare sospeso (lett. a) e «nello svolgimento delle attività private e pubbliche consentite» (lett. b): l'aggettivo «consentite» si riferisce alle attività pubbliche, che non sono attività di servizio (ad esempio la partecipazione autorizzata a un convegno in abito civile). In licenza, in permesso e in libera uscita l'abito civile è consentito (art. 1351 COM), non l'uniforme vietata; i servizi in abito civile sono regolati da disposizioni di servizio.",
+   "riferimenti": [
+    "TUROM art. 720, co. 5, lett. b)",
+    "COM art. 1351"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 90"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-090",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un ufficiale è autorizzato a intervenire come relatore a un convegno pubblico, con l'indicazione dell'amministrazione di intervenire in abito civile; si presenta invece in uniforme. Quale valutazione è corretta?",
+   "opzioni": {
+    "A": "non commette violazioni, perché fuori dai luoghi militari l'uso dell'uniforme è sempre consentito al militare che non sia sospeso dall'impiego",
+    "B": "viola soltanto l'art. 1472 COM, perché l'autorizzazione a trattare in pubblico l'argomento era subordinata all'abito civile",
+    "C": "viola il divieto di uso dell'uniforme nello svolgimento delle attività pubbliche consentite, che non sono attività di servizio (art. 720, co. 5, lett. b, TUROM)",
+    "D": "non commette violazioni, perché l'attività è autorizzata e quindi assimilata al servizio, durante il quale l'uso dell'uniforme è obbligatorio (art. 1351, co. 1, COM)"
+   },
+   "corretta": "C",
+   "spiegazione": "L'attività pubblica consentita non è un'attività di servizio: è, ad esempio, la partecipazione a un convegno alla quale il militare è autorizzato, con l'indicazione di intervenire in abito civile. In quel caso l'uso dell'uniforme è vietato dall'art. 720, co. 5, lett. b), TUROM, e la trasgressione al divieto d'uso nelle circostanze previste dal regolamento è punibile con la consegna di rigore anche se singola (art. 751, n. 34). L'autorizzazione dell'art. 1472 COM riguarda il contenuto dell'intervento, non l'abito.",
+   "riferimenti": [
+    "TUROM art. 720, co. 5, lett. b)",
+    "TUROM art. 751, co. 1, lett. a), n. 34",
+    "COM artt. 1351 e 1472"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-091",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Il militare che porta abusivamente in pubblico segni distintivi di grado o decorazioni militari ai quali non ha diritto commette:",
+   "opzioni": {
+    "A": "il reato dell'art. 221 c.p.m.p. (usurpazione di decorazioni o distintivi militari), punito con la reclusione militare fino a sei mesi",
+    "B": "il reato dell'art. 221 c.p.m.p. (usurpazione di decorazioni o distintivi militari), punito con la reclusione militare da uno a cinque anni",
+    "C": "il reato dell'art. 498 c.p. (usurpazione di titoli o di onori), punito con la reclusione da uno a tre anni anche se commesso da un militare",
+    "D": "il solo illecito disciplinare dell'art. 720 TUROM, perché il fatto non ha rilievo penale se commesso da un appartenente alle Forze armate"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 221 c.p.m.p. punisce con la reclusione militare fino a sei mesi il militare che porta abusivamente in pubblico decorazioni militari o segni distintivi di grado, cariche, specialità, brevetti militari. L'art. 498 c.p. riguarda chiunque porti abusivamente in pubblico la divisa o i segni distintivi di un ufficio o impiego pubblico, ed è oggi punito con una sanzione amministrativa pecuniaria. Il reato militare, punito nel massimo con sei mesi, è procedibile a richiesta del comandante di corpo (art. 260, co. 2, c.p.m.p.).",
+   "riferimenti": [
+    "c.p.m.p. artt. 221 e 260, co. 2",
+    "c.p. art. 498"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 90"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-092",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Un militare porta in pubblico una decorazione militare alla quale ha diritto, pur non trovandosi nell'esercizio delle proprie funzioni. Secondo la giurisprudenza riportata in materia:",
+   "opzioni": {
+    "A": "il fatto non costituisce reato, perché il porto non è abusivo, ma può integrare un'infrazione disciplinare",
+    "B": "il fatto è sempre lecito, anche sul piano disciplinare, perché il militare ha diritto alla decorazione",
+    "C": "il fatto integra il reato dell'art. 221 c.p.m.p., perché il porto è avvenuto fuori dall'esercizio delle funzioni",
+    "D": "il fatto integra il reato dell'art. 498 c.p., che punisce l'uso dei segni distintivi fuori dal servizio"
+   },
+   "corretta": "A",
+   "spiegazione": "Perché il porto in pubblico di decorazioni o distintivi integri il reato dell'art. 498 c.p. o quello dell'art. 221 c.p.m.p. occorre che sia abusivo, cioè che il militare non abbia diritto a quei titoli. Se vi ha diritto, anche quando non è nell'attuale esercizio delle funzioni, il fatto non è reato ma, eventualmente, una semplice infrazione disciplinare (Cass., 15 dicembre 1955), da valutare alla luce delle norme sull'uniforme (art. 720 TUROM).",
+   "riferimenti": [
+    "c.p.m.p. art. 221",
+    "c.p. art. 498",
+    "TUROM art. 720"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 90, nota 117"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-093",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il Regolamento sul servizio territoriale e di presidio (art. 14), a salvaguardia del decoro dell'uniforme, prescrive tra l'altro:",
+   "opzioni": {
+    "A": "di indossare l'uniforme in ogni occasione pubblica, anche fuori servizio, per rendere visibile l'Istituzione sul territorio",
+    "B": "di chiedere l'autorizzazione del comandante di corpo per ogni uso dell'uniforme al di fuori dei luoghi militari",
+    "C": "di non indossare l'uniforme nei giorni festivi, salvo che si tratti di servizio comandato o di cerimonie ufficiali",
+    "D": "di evitare di frequentare in uniforme persone e luoghi o di praticare attività contrastanti con l'austerità militare"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 14 del Regolamento sul servizio territoriale e di presidio, a salvaguardia del decoro dell'uniforme, prescrive di evitare di frequentare in uniforme persone e luoghi o di praticare attività contrastanti con l'austerità militare, e di impedire a estranei alle Forze armate l'indebito uso delle uniformi militari o di uniformi che possono confondersi con queste. Fuori dal servizio l'uniforme è consentita, salvi i divieti dell'art. 720, co. 5, TUROM, senza un'autorizzazione generalizzata.",
+   "riferimenti": [
+    "Regolamento sul servizio territoriale e di presidio, art. 14",
+    "TUROM art. 720, co. 4-5"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 90"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-094",
+   "argomento": "doveri-formali",
+   "sinossi": "II.6.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Tra le prescrizioni del Regolamento sulle uniformi dell'Arma dei Carabinieri vi è:",
+   "opzioni": {
+    "A": "il divieto di indossare l'uniforme in licenza all'estero, salvo espressa autorizzazione",
+    "B": "la facoltà di usare promiscuamente capi militari e civili fuori dai luoghi militari",
+    "C": "l'obbligo di adottare sull'uniforme i segni di lutto previsti per gli abiti borghesi",
+    "D": "l'obbligo di indossare l'uniforme in licenza all'estero, per rendere riconoscibile lo status"
+   },
+   "corretta": "A",
+   "spiegazione": "Il Regolamento sulle uniformi dell'Arma vieta, tra l'altro, l'uso promiscuo di capi di uniformi di tipo diverso o di capi militari e civili; impone la variante stagionale in uso nel presidio in cui il militare si trova; esclude i segni di lutto per gli abiti borghesi sulle uniformi; consente l'uniforme anche fuori servizio in luoghi non militari, salvi i divieti dell'art. 720, co. 5, TUROM; vieta l'uniforme in licenza all'estero, salvo espressa autorizzazione; impone l'uniforme per i servizi collettivi in territorio nazionale. La violazione si contesta in correlazione con l'art. 720 TUROM.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri",
+    "TUROM art. 720, co. 3 e 5"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 90"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-095",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.b",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 719, co. 1, TUROM, lo spirito di corpo è:",
+   "opzioni": {
+    "A": "il sentimento di emulazione tra le unità, che deve prevalere sulla solidarietà tra i componenti delle diverse Forze armate quando vi sia contrasto",
+    "B": "il dovere di obbedienza verso il comandante di corpo, fondato sul giuramento prestato e sulle tradizioni militari e storiche della Forza armata di appartenenza",
+    "C": "l'insieme delle tradizioni storiche del corpo, che il comandante deve illustrare ai militari entro i primi sei mesi dal loro arrivo al reparto",
+    "D": "il sentimento di solidarietà che, fondato sulle tradizioni etiche e storiche del corpo, deve unirne i membri per mantenere elevato e accrescere il prestigio del corpo"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 719, co. 1, TUROM definisce lo spirito di corpo come il sentimento di solidarietà che, fondato sulle tradizioni etiche e storiche del corpo, deve unire i membri di una stessa unità al fine di mantenere elevato e accrescere il prestigio del corpo. Il co. 2 chiede un particolare impegno nell'illustrare storia e tradizioni a chi entra nel corpo (senza termini), il co. 3 stabilisce che l'emulazione tra unità non deve intaccare la solidarietà tra tutti i componenti delle Forze armate.",
+   "riferimenti": [
+    "TUROM art. 719, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 94"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-096",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 719, co. 3, TUROM, lo spirito di corpo, pur essendo fonte di emulazione tra le unità:",
+   "opzioni": {
+    "A": "è rimesso alla valutazione del comandante di corpo, che ne fissa i limiti con ordine scritto",
+    "B": "non deve intaccare lo spirito di solidarietà tra tutti i componenti delle Forze armate",
+    "C": "deve prevalere sulla solidarietà verso le unità di altre Forze armate, in caso di contrasto",
+    "D": "non deve essere alimentato con il richiamo alle tradizioni storiche, per evitare rivalità"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 719, co. 3, TUROM riconosce che lo spirito di corpo è fonte di emulazione tra le unità, ma stabilisce che non deve intaccare lo spirito di solidarietà tra tutti i componenti delle Forze armate: è antidoto alla disgregazione e all'individualismo, non motivo di contrapposizione. Le tradizioni, anzi, vanno illustrate con particolare impegno a chi entra nel corpo (co. 2).",
+   "riferimenti": [
+    "TUROM art. 719, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi pp. 94-95"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-097",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché l'art. 719 TUROM è considerato una norma di limitata efficacia precettiva?",
+   "opzioni": {
+    "A": "perché è una norma di programma, che definisce lo spirito di corpo e indica un impegno, e assume rilievo disciplinare soprattutto attraverso l'art. 751, n. 17",
+    "B": "perché la sua violazione è punibile soltanto con il richiamo, con esclusione delle altre sanzioni disciplinari di corpo e di stato",
+    "C": "perché è stata abrogata dal Codice dell'ordinamento militare, che ne ha trasferito il contenuto tra i principi generali dell'art. 1346 COM sulla disciplina militare",
+    "D": "perché si applica ai soli comandanti di corpo, e non ai singoli militari che entrano a far parte del corpo o vi prestano servizio"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 719 TUROM è una norma di programma: definisce lo spirito di corpo, chiede un impegno nell'illustrarne storia e tradizioni e ne indica il limite, ma pone pochi obblighi puntuali. Rileva in diritto disciplinare perché vi rinvia l'art. 751, co. 1, lett. a), n. 17, TUROM: il comportamento gravemente lesivo del prestigio o della reputazione delle Forze armate o del corpo è punibile con la consegna di rigore. Al singolo corrisponde il dovere di porre interesse alle vicende del corpo (art. 718, co. 2, lett. b).",
+   "riferimenti": [
+    "TUROM artt. 718, co. 2, lett. b), 719 e 751, co. 1, lett. a), n. 17"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-098",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il dovere del singolo militare di porre interesse alle vicende presenti e passate del corpo cui appartiene è previsto:",
+   "opzioni": {
+    "A": "dall'art. 712, co. 1, TUROM (giuramento)",
+    "B": "dall'art. 718, co. 2, lett. b), TUROM (formazione militare)",
+    "C": "dall'art. 719, co. 2, TUROM (spirito di corpo)",
+    "D": "dall'art. 726, co. 2, TUROM (doveri del comandante di corpo)"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 718 TUROM (formazione militare), co. 2, lett. b), impone al militare di «porre interesse alle vicende presenti e passate del corpo cui appartiene». L'art. 719, co. 2, pone invece l'impegno speculare di illustrare la storia e le tradizioni del corpo a chi vi entra: i due doveri si completano. L'art. 726 riguarda i doveri del comandante di corpo.",
+   "riferimenti": [
+    "TUROM art. 718, co. 2, lett. b)",
+    "TUROM art. 719, co. 2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 95"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-099",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il comportamento gravemente lesivo del prestigio o della reputazione delle Forze armate o del corpo di appartenenza è previsto tra i comportamenti punibili con la consegna di rigore dall'art. 751, co. 1, lett. a), n. 17, TUROM, con richiamo:",
+   "opzioni": {
+    "A": "all'art. 719 TUROM (spirito di corpo)",
+    "B": "all'art. 722 TUROM (riserbo)",
+    "C": "all'art. 713 TUROM (doveri attinenti al grado)",
+    "D": "all'art. 732 TUROM (contegno del militare)"
+   },
+   "corretta": "A",
+   "spiegazione": "Il n. 17 dell'art. 751 TUROM richiama l'art. 719: il legislatore del TUROM ha ritenuto che un comportamento gravemente lesivo del prestigio e della reputazione delle Forze armate o del corpo sia antitetico al dovere di mantenere vivo lo spirito di corpo, il cui fine è proprio «mantenere elevato e accrescere il prestigio del corpo». Il n. 3 richiama invece l'art. 713 (violazione rilevante dei doveri attinenti al grado).",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 3 e 17",
+    "TUROM art. 719, co. 1"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 95"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-100",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un comportamento gravemente lesivo della reputazione del corpo di appartenenza ha avuto ampia risonanza sulla stampa. Quale affermazione è corretta?",
+   "opzioni": {
+    "A": "il comportamento è di per sé punibile con la consegna di rigore (art. 751, n. 17, TUROM), ma lo strepitus fori consente all'amministrazione di valutare la sanzione di stato",
+    "B": "il comportamento è punibile soltanto con una sanzione di stato, perché la risonanza pubblica rende in ogni caso inapplicabile la consegna di rigore",
+    "C": "il comportamento è punibile soltanto con la consegna di rigore, perché la sua tipizzazione nel n. 17 dell'art. 751 TUROM esclude il ricorso alla disciplina di stato per lo stesso fatto",
+    "D": "il comportamento non ha rilievo disciplinare, perché l'art. 719 TUROM è una norma di programma priva di qualsiasi efficacia precettiva"
+   },
+   "corretta": "A",
+   "spiegazione": "Il n. 17 dell'art. 751 TUROM rende il comportamento gravemente lesivo del prestigio delle Forze armate o del corpo di per sé sanzionabile con la consegna di rigore; ma è più plausibile che un comportamento del genere sia punito con una sanzione di stato, perché quando vi è lo strepitus fori l'amministrazione può agire con le sanzioni di stato. La tipizzazione tra i comportamenti da consegna di rigore non preclude la disciplina di stato, né la risonanza la impone automaticamente; la limitata precettività dell'art. 719 non ne esclude il rilievo, che passa proprio per il n. 17.",
+   "riferimenti": [
+    "TUROM artt. 719 e 751, co. 1, lett. a), n. 17",
+    "COM art. 1357"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-101",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La locuzione «corpi armati» indica le organizzazioni militari dello Stato organicamente non inserite in alcuna Forza armata. L'unico corpo armato tuttora esistente è:",
+   "opzioni": {
+    "A": "il Corpo di polizia penitenziaria",
+    "B": "il Corpo nazionale dei Vigili del fuoco",
+    "C": "il Corpo della Guardia di finanza",
+    "D": "il Corpo delle Capitanerie di porto"
+   },
+   "corretta": "C",
+   "spiegazione": "Con «corpi armati» si intendono le organizzazioni militari dello Stato non inserite organicamente in alcuna Forza armata: l'unico tuttora esistente è il Corpo della Guardia di finanza (per questo l'art. 726, co. 3, TUROM parla di «ciascuna Forza armata o Corpo armato»). Il Corpo delle Capitanerie di porto è parte della Marina militare; i Vigili del fuoco sono un corpo civile militarmente ordinato; la Polizia penitenziaria è una forza di polizia a ordinamento civile.",
+   "riferimenti": [
+    "TUROM art. 726, co. 3",
+    "COM art. 1350, co. 4"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 93"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-102",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.a",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Con l'espressione «corpi civili militarmente ordinati» si indicano:",
+   "opzioni": {
+    "A": "le organizzazioni che mutuano il modello organizzativo militare, come le forze di polizia a ordinamento civile e il Corpo nazionale dei Vigili del fuoco",
+    "B": "le articolazioni interne, operative o logistiche, di una Forza armata o di un'arma dell'Esercito, come il corpo degli alpini o il corpo di commissariato dell'Esercito",
+    "C": "tutte le organizzazioni, militari o civili, statali o locali, che svolgono funzioni di polizia, comprese le polizie municipali e provinciali",
+    "D": "le organizzazioni militari dello Stato organicamente non inserite in alcuna Forza armata, come il Corpo della Guardia di finanza"
+   },
+   "corretta": "A",
+   "spiegazione": "La parola «corpo» ha più significati: corpi civili militarmente ordinati sono le organizzazioni che mutuano il modello organizzativo militare (forze di polizia a ordinamento civile, Corpo nazionale dei Vigili del fuoco); corpi armati le organizzazioni militari non inserite in una Forza armata (oggi la sola Guardia di finanza); corpi di polizia tutte le organizzazioni che svolgono funzioni di polizia, comprese le polizie locali; in ambito militare, «corpo» indica anche l'articolazione interna di una Forza armata (alpini, commissariato) e, ai sensi dell'art. 726, co. 1, TUROM, l'unità dotata di autonomia d'impiego, logistica, tecnica e amministrativa.",
+   "riferimenti": [
+    "TUROM art. 726, co. 1"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi pp. 93-94"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-103",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Ai sensi dell'art. 726, co. 1, TUROM, il corpo è un'unità, un ente o un servizio:",
+   "opzioni": {
+    "A": "comandato da un ufficiale superiore e composto da almeno due reparti dotati di autonomia amministrativa",
+    "B": "dotato di autonomia nel solo campo dell'impiego operativo, mentre la gestione logistica e amministrativa resta accentrata",
+    "C": "individuato dal Ministro della difesa con decreto, a prescindere dall'autonomia d'impiego e amministrativa",
+    "D": "organicamente costituito e dotato di autonomia nel campo dell'impiego e in quello logistico, tecnico e amministrativo"
+   },
+   "corretta": "D",
+   "spiegazione": "L'ufficiale preposto al comando o alla direzione di unità, ente o servizio «organicamente costituito e dotato di autonomia nel campo dell'impiego e in quello logistico, tecnico e amministrativo» esercita le funzioni di comandante di corpo (art. 726, co. 1, TUROM). Il corpo è un'articolazione ordinativa autosufficiente di livello gerarchico elevato, normalmente reggimento o battaglione; l'appartenenza comporta doveri di solidarietà verso gli altri membri e di tutela del corpo come bene morale e materiale. Gli incarichi che comportano comunque le funzioni di comandante di corpo sono stabiliti dalle disposizioni di ciascuna Forza armata (co. 3).",
+   "riferimenti": [
+    "TUROM art. 726, co. 1 e 3"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 93"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-104",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.c",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Il comandante di corpo esplica le funzioni di polizia giudiziaria militare nei riguardi dei propri dipendenti. Tali funzioni trovano fondamento, oltre che nell'art. 726, co. 2, TUROM:",
+   "opzioni": {
+    "A": "nell'art. 260 c.p.m.p., che le attribuisce al comandante dell'ente superiore da cui dipende il militare",
+    "B": "nell'art. 301 c.p.m.p., che le attribuisce in primo luogo ai comandanti di corpo, di distaccamento o di posto",
+    "C": "nell'art. 55 c.p.p., che le attribuisce a tutti gli ufficiali delle Forze armate in servizio permanente effettivo",
+    "D": "nell'art. 1350 COM, che le attribuisce ai comandanti per i fatti commessi nei luoghi militari o in servizio"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 301 c.p.m.p. stabilisce che, per i reati soggetti alla giurisdizione militare, le funzioni di polizia giudiziaria sono esercitate nell'ordine dai comandanti di corpo, di distaccamento o di posto delle varie forze armate e dagli ufficiali e sottufficiali dei Carabinieri e dagli altri ufficiali di polizia giudiziaria. L'art. 726, co. 2, TUROM vi rinvia («secondo l'ordinamento vigente»). L'art. 260 c.p.m.p. riguarda invece la richiesta di procedimento.",
+   "riferimenti": [
+    "c.p.m.p. artt. 260 e 301",
+    "TUROM art. 726, co. 2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 95"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-105",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.c",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Il comandante di corpo può presentare la richiesta di procedimento per i reati militari puniti con la reclusione militare non superiore nel massimo a sei mesi (art. 260, co. 2, c.p.m.p.):",
+   "opzioni": {
+    "A": "senza termine, finché il reato non sia estinto per il decorso della prescrizione",
+    "B": "entro un mese dal giorno in cui ha avuto notizia del fatto che costituisce il reato",
+    "C": "entro sessanta giorni dalla conclusione degli accertamenti disciplinari sul fatto",
+    "D": "entro tre mesi dal giorno in cui il fatto che costituisce il reato è stato commesso dal militare"
+   },
+   "corretta": "B",
+   "spiegazione": "I reati militari puniti con la reclusione militare non superiore nel massimo a sei mesi sono procedibili a richiesta del comandante del corpo o di altro ente superiore da cui dipende il militare (art. 260, co. 2, c.p.m.p.); la richiesta non può più essere proposta decorso un mese dal giorno in cui l'autorità ha avuto notizia del fatto (co. 4). La Corte costituzionale (sent. n. 449/1991) ha esteso la legittimazione al comandante di altro ente superiore quando il comandante di corpo è la persona offesa.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2 e 4"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 95"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-106",
+   "argomento": "doveri-corpo-militare",
+   "sinossi": "II.7.c",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 726, co. 2, TUROM, il comandante di corpo, oltre ai doveri generali comuni a tutti i superiori, nell'ambito del corpo è direttamente responsabile:",
+   "opzioni": {
+    "A": "dell'impiego operativo e dell'addestramento del personale, mentre la disciplina spetta ai comandanti dei reparti dipendenti",
+    "B": "della sola disciplina del personale, mentre l'organizzazione, l'impiego e la gestione amministrativa spettano al comando di livello superiore e all'ente amministrativo",
+    "C": "della disciplina, dell'organizzazione, dell'impiego, dell'addestramento del personale, della conservazione dei materiali e della gestione amministrativa",
+    "D": "della gestione amministrativa e della conservazione dei materiali, mentre la disciplina è rimessa alle commissioni di disciplina"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 726, co. 2, TUROM attribuisce al comandante di corpo doveri particolari: nell'ambito del corpo è direttamente responsabile della disciplina, dell'organizzazione, dell'impiego, dell'addestramento del personale, della conservazione dei materiali e della gestione amministrativa, ed esplica le funzioni di polizia giudiziaria militare verso i propri dipendenti. È quindi chiamato a garantire anche la tenuta morale ed etica del personale, ed è strettamente legato allo spirito di corpo.",
+   "riferimenti": [
+    "TUROM art. 726, co. 2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)",
+    "Sinossi p. 95"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-107",
+   "argomento": "fonti",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Quale dei seguenti è un atto amministrativo generale, e non un atto amministrativo a valenza normativa?",
+   "opzioni": {
+    "A": "un regolamento adottato con decreto del Presidente della Repubblica",
+    "B": "un bando di concorso per l'arruolamento di personale",
+    "C": "il Testo unico delle disposizioni regolamentari in materia di ordinamento militare",
+    "D": "un regolamento adottato con decreto ministeriale"
+   },
+   "corretta": "B",
+   "spiegazione": "Gli atti amministrativi generali, come i bandi di concorso, si rivolgono a una pluralità indeterminata di destinatari ma non innovano l'ordinamento; gli atti a valenza normativa sono i regolamenti, adottati con decreto del Presidente della Repubblica o con decreto ministeriale. Il TUROM (D.P.R. 15 marzo 2010, n. 90) è un regolamento, e i doveri da esso previsti fondano l'illecito disciplinare insieme a quelli del codice e a quelli conseguenti a un ordine (art. 1352, co. 1, COM).",
+   "riferimenti": [
+    "COM art. 1352, co. 1",
+    "D.P.R. 15 marzo 2010, n. 90"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
+  },
+  {
+   "id": "DD-L07-108",
+   "argomento": "illecito-nozione",
+   "sinossi": "II.1",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 1352 COM, costituisce illecito disciplinare ogni violazione dei doveri del servizio e della disciplina militare:",
+   "opzioni": {
+    "A": "sanciti dal codice, dal regolamento o da un ordine, e comporta soltanto sanzioni di corpo, salvo il caso di reato",
+    "B": "sanciti dal codice, dal regolamento e dalle circolari del Comando Generale, che hanno per i militari la stessa forza del regolamento",
+    "C": "sanciti dal codice e dal regolamento, con esclusione di quelli che derivano da un ordine, punibili solo penalmente",
+    "D": "sanciti dal codice, dal regolamento, o conseguenti all'emanazione di un ordine, e comporta sanzioni di stato o di corpo"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1352, co. 1, COM definisce l'illecito disciplinare come ogni violazione dei doveri del servizio e della disciplina militare sanciti dal codice, dal regolamento (il TUROM) o conseguenti all'emanazione di un ordine; il co. 2 stabilisce che la violazione comporta sanzioni disciplinari di stato o di corpo. Le circolari non sono fonti dei doveri: la loro inosservanza si contesta in correlazione con la norma del COM o del TUROM che attuano.",
+   "riferimenti": [
+    "COM art. 1352, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 7 (31.10.2026)"
+   ],
+   "lezione": 7,
+   "data_lezione": "2026-10-31"
   }
  ]
 }
