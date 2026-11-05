@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Diritto Disciplinare – Esercitazione</title>
 <meta name="description" content="Esercitazione sui quesiti a risposta multipla di Diritto Disciplinare militare.">
-<link rel="stylesheet" href="style.css?v=2">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 <header class="testata">
@@ -20,6 +20,8 @@
 <section id="impostazioni">
   <h2 class="passo ui"><span class="num">1</span> Scegli la modalità</h2>
   <div class="tabs ui" role="group" aria-label="Modalità">
+    <button class="tab esame" data-modo="esame"><b>Simulazione esame finale · stile Dell'Olio</b><span>tutti i
+      quesiti scritti come quelli del docente: prova da 30 o esercitazione completa</span></button>
     <button class="tab" data-modo="studio"><b>Studio</b><span>percorso guidato, spiegazione subito</span></button>
     <button class="tab" data-modo="allenamento"><b>Allenamento</b><span>ordine casuale, correzione subito</span></button>
     <button class="tab" data-modo="simulazione"><b>Simulazione d'esame</b><span>correzione alla fine</span></button>
@@ -55,14 +57,15 @@
     </div>
   </div>
 
-  <h2 class="passo ui"><span class="num">3</span> Filtri <span class="facoltativo">facoltativi</span></h2>
+  <h2 class="passo ui" id="passo-filtri"><span class="num">3</span> Filtri <span class="facoltativo">facoltativi</span></h2>
   <details class="card filtri" id="box-filtri">
     <summary class="ui"><span>Tipo di quesito, difficoltà, punti d'esame, mai visti</span>
       <span id="filtri-attivi" class="piccolo"></span></summary>
     <div class="scelte">
       <label>Tipo <select id="tipo"><option value="">tutti</option></select></label>
       <label>Difficoltà <select id="difficolta"><option value="">tutte</option><option value="1">1 – base</option>
-        <option value="2">2 – media</option><option value="3">3 – alta</option></select></label>
+        <option value="2">2 – media</option><option value="3">3 – alta</option>
+        <option value="4">4 – esame (stile Dell'Olio)</option></select></label>
       <label><input type="checkbox" id="solo-test"> solo punti d'esame</label>
       <label><input type="checkbox" id="solo-aula"> solo domande poste in aula</label>
       <label><input type="checkbox" id="mai-visti"> solo quesiti mai visti</label>
@@ -72,9 +75,15 @@
 
   <div class="card" id="opzioni-simulazione">
     <div class="scelte">
-      <label>Numero di quesiti <input type="number" id="n-quesiti" min="5" max="200" value="30" style="width:5em"></label>
-      <label>Tempo <select id="tempo"><option value="0">nessun limite</option><option value="30">30 minuti</option>
+      <label id="riga-quanti-esame">Quesiti <select id="quanti-esame">
+        <option value="30">30, come all'esame</option><option value="tutti">tutti</option></select></label>
+      <label id="riga-correzione-esame">Correzione <select id="correzione-esame">
+        <option value="fine">alla consegna, come all'esame</option>
+        <option value="subito">dopo ogni risposta, con la spiegazione</option></select></label>
+      <label id="riga-n-quesiti">Numero di quesiti <input type="number" id="n-quesiti" min="5" max="200" value="30" style="width:5em"></label>
+      <label id="riga-tempo">Tempo <select id="tempo"><option value="0">nessun limite</option><option value="30">30 minuti</option>
         <option value="45">45 minuti</option><option value="60">60 minuti</option></select></label>
+      <label id="riga-mai-visti-esame"><input type="checkbox" id="esame-mai-visti"> solo quelli che non ho ancora fatto</label>
     </div>
   </div>
 
@@ -119,6 +128,6 @@
 <noscript><p class="avviso">Per esercitarsi serve JavaScript.</p></noscript>
 </main>
 <footer>Raccolta personale · nessun carattere ufficiale · i progressi restano solo in questo browser.</footer>
-<script src="app.js?v=2"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>

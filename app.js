@@ -7,6 +7,7 @@ const TIPI = {
   caso_pratico: "Caso pratico", giurisprudenza: "Giurisprudenza", confronto: "Confronto",
 };
 const MODI = {
+  esame: "I quesiti di livello d'esame, scritti nello stile del docente (Ten. Col. Dell'Olio): domande brevi e senza appigli, affermazioni da valutare una per una, opzioni che cambiano per una sola parola, nomi esatti degli istituti, estremi di atti e sentenze; ci sono anche i quesiti dei test intermedi del docente. Puoi fare la prova da 30 come all'esame, con la correzione alla consegna, oppure esercitarti su tutti, anche con la correzione dopo ogni risposta; con «solo quelli che non ho ancora fatto» li copri tutti in più volte.",
   studio: "Percorso guidato: i quesiti degli argomenti scelti, nell'ordine della Sinossi e dal più facile al più difficile. La spiegazione compare subito; se non sai rispondere, «Mostra la soluzione».",
   allenamento: "Quesiti in ordine casuale sugli argomenti scelti, con correzione e spiegazione dopo ogni risposta.",
   simulazione: "Come all'esame: quesiti estratti a caso, nessuna correzione fino alla fine. Puoi tornare indietro e cambiare risposta.",
@@ -44,8 +45,13 @@ function nelPerimetro(q, lezioni, argomenti) {
   if (ambito === "argomenti") return argomenti.has(q.argomento);
   return true;
 }
+// prove con la correzione alla fine: simulazione libera ed esame stile Dell'Olio
+const aConsegna = m => m === "simulazione" || m === "esame";
 function filtrati() {
   const lezioni = spuntati("#lezioni"), argomenti = spuntati("#argomenti");
+  // l'esame stile Dell'Olio usa solo i quesiti di livello d'esame (difficoltà 4, compresi i test del docente)
+  if (modo === "esame") return banca.quesiti.filter(q => q.difficolta === 4 && nelPerimetro(q, lezioni, argomenti)
+    && (!$("esame-mai-visti").checked || !progressi[q.id]));
   const tipo = $("tipo").value, diff = $("difficolta").value;
   return banca.quesiti.filter(q =>
     nelPerimetro(q, lezioni, argomenti) && (!tipo || q.tipo === tipo) &&
@@ -64,7 +70,14 @@ function descriviAmbito() {
   }
   return "Tutta la banca";
 }
+// quanti quesiti entrano nella prova: nell'esame 30 o tutti; nella simulazione il numero scelto; altrove tutti
+function quantiInProva(n) {
+  if (modo === "esame") return $("quanti-esame").value === "tutti" ? n : Math.min(n, 30);
+  return modo === "simulazione" ? Math.min(n, +$("n-quesiti").value || 30) : n;
+}
+const esameSubito = () => modo === "esame" && $("correzione-esame").value === "subito";
 function descriviFiltri() {
+  if (modo === "esame") return $("esame-mai-visti").checked ? ["mai visti"] : [];
   const f = [];
   if ($("tipo").value) f.push(TIPI[$("tipo").value]);
   if ($("difficolta").value) f.push("difficoltà " + $("difficolta").value);
@@ -85,13 +98,16 @@ function aggiornaParti() {
 function aggiornaConteggio() {
   aggiornaParti();
   const n = filtrati().length, cosa = descriviAmbito(), filtri = descriviFiltri();
-  const quanti = modo === "simulazione" ? Math.min(n, +$("n-quesiti").value || 30) : n;
+  const quanti = quantiInProva(n);
   $("filtri-attivi").textContent = filtri.length ? "attivi: " + filtri.join(", ") : "nessun filtro attivo";
   $("box-filtri").classList.toggle("con-filtri", filtri.length > 0);
-  $("riepilogo").textContent = cosa ? cosa + (filtri.length ? " · " + filtri.join(", ") : "") : "";
+  $("riepilogo").textContent = cosa ? cosa + (modo === "esame" ? " · stile Dell'Olio" : "") + (filtri.length ? " · " + filtri.join(", ") : "") : "";
   $("conteggio").textContent = !cosa ? (ambito === "lezioni" ? "Scegli almeno una lezione." : "Scegli almeno un argomento.")
-    : n ? `${quanti} ${quanti === 1 ? "quesito" : "quesiti"}${modo === "simulazione" && n > quanti ? ` estratti a caso tra ${n}` : ""}`
-    : modo === "ripasso" ? "Nessun errore da rivedere con queste scelte." : "Nessun quesito con queste scelte: togli qualche filtro.";
+    : n ? `${quanti} ${quanti === 1 ? "quesito" : "quesiti"}${n > quanti ? ` estratti a caso tra ${n}${modo === "esame" ? " di livello d'esame" : ""}`
+      : modo === "esame" ? ` di livello d'esame${quanti > 1 ? ", tutti, in ordine casuale" : ""}` : ""}`
+    : modo === "ripasso" ? "Nessun errore da rivedere con queste scelte."
+    : modo === "esame" ? "Nessun quesito di livello d'esame con queste scelte: scegli altre lezioni o argomenti."
+    : "Nessun quesito con queste scelte: togli qualche filtro.";
   $("inizia").disabled = !n || !cosa;
   const errori = banca.quesiti.filter(q => progressi[q.id] && progressi[q.id].u === false).length;
   $("n-errori").textContent = errori ? `${errori} da rivedere` : "nessun errore da rivedere";
@@ -111,10 +127,21 @@ function scegliModo(m) {
   modo = MODI[m] ? m : "studio";
   document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-pressed", t.dataset.modo === modo));
   $("descrizione-modo").textContent = MODI[modo];
-  $("opzioni-simulazione").classList.toggle("nascosto", modo !== "simulazione");
-  $("inizia").textContent = modo === "simulazione" ? "Inizia la simulazione" : modo === "ripasso" ? "Inizia il ripasso" : "Inizia";
+  $("opzioni-simulazione").classList.toggle("nascosto", !aConsegna(modo));
+  aggiornaOpzioniEsame();
+  // l'esame ha un perimetro fisso (livello d'esame): i filtri non servono
+  ["passo-filtri", "box-filtri"].forEach(x => $(x).classList.toggle("nascosto", modo === "esame"));
+  $("inizia").textContent = modo === "esame" ? "Inizia l'esame" : modo === "simulazione" ? "Inizia la simulazione"
+    : modo === "ripasso" ? "Inizia il ripasso" : "Inizia";
   history.replaceState(null, "", "#" + modo);
   aggiornaConteggio();
+}
+// nell'esame: quanti (30/tutti), correzione (consegna/subito), mai visti; il tempo vale solo con la correzione alla consegna
+function aggiornaOpzioniEsame() {
+  const esame = modo === "esame";
+  ["riga-quanti-esame", "riga-correzione-esame", "riga-mai-visti-esame"].forEach(x => $(x).classList.toggle("nascosto", !esame));
+  $("riga-n-quesiti").classList.toggle("nascosto", esame);
+  $("riga-tempo").classList.toggle("nascosto", esameSubito());
 }
 function scegliAmbito(a) {
   ambito = ["tutto", "lezioni", "argomenti"].includes(a) ? a : "tutto";
@@ -142,9 +169,13 @@ function costruisciImpostazioni() {
     const qs = banca.quesiti.filter(x => x.lezione === n), per = {};
     qs.forEach(q => { per[q.argomento] = (per[q.argomento] || 0) + 1; });
     const temi = Object.keys(per).sort((a, b) => per[b] - per[a]);
+    // i quesiti dei test del docente hanno la lezione ma non la data: la data si prende dai quesiti della lezione
+    const data = (qs.find(q => q.data_lezione) || {}).data_lezione;
+    const esame = qs.filter(q => q.difficolta === 4).length;
     const c = el("input", { type: "checkbox", value: String(n) }); c.checked = (salvate.lezioni || []).includes(String(n));
     $("lezioni").append(el("label", {}, c,
-      el("span", { class: "titolo" }, `Lezione ${n}`), el("span", { class: "data" }, `${dataIt(qs[0].data_lezione)} · ${qs.length} quesiti`),
+      el("span", { class: "titolo" }, `Lezione ${n}`),
+      el("span", { class: "data" }, `${dataIt(data)} · ${qs.length} quesiti${esame ? ` (${esame} d'esame)` : ""}`),
       el("span", { class: "temi" }, temi.slice(0, 3).map(s => etichettaArg[s] || s).join(" · ") + (temi.length > 3 ? " …" : ""))));
   });
 
@@ -185,6 +216,7 @@ function costruisciImpostazioni() {
   $("solo-test").closest("label").classList.toggle("nascosto", !banca.quesiti.some(q => q.test_vernice));
   $("solo-aula").closest("label").classList.toggle("nascosto", !banca.quesiti.some(q => q.domanda_aula));
   document.querySelectorAll("#impostazioni input, #impostazioni select").forEach(x => x.addEventListener("change", aggiornaConteggio));
+  $("correzione-esame").addEventListener("change", aggiornaOpzioniEsame);
   const tutte = (sel, v) => () => { document.querySelectorAll(sel + " input").forEach(c => { c.checked = v; }); aggiornaConteggio(); };
   // con una ricerca in corso, «Seleziona tutti» prende solo gli argomenti trovati
   $("tutti").onclick = tutte("#argomenti .voci label:not(.nascosto)", true); $("nessuno").onclick = tutte("#argomenti", false);
@@ -208,16 +240,17 @@ function inizia() {
   let lista = filtrati();
   if (modo === "studio") lista.sort((a, b) => (ordineArg[a.argomento] - ordineArg[b.argomento]) || (a.difficolta - b.difficolta) || a.id.localeCompare(b.id));
   else mescola(lista);
-  if (modo === "simulazione") lista = lista.slice(0, Math.max(1, +$("n-quesiti").value || 30));
+  lista = lista.slice(0, Math.max(1, quantiInProva(lista.length)));
+  const subito = !aConsegna(modo) || esameSubito();
   // la risposta esatta cade in A, B, C e D lo stesso numero di volte, in ordine casuale; le altre si mescolano
   const posti = mescola(lista.map((_, k) => k % 4));
   prova = {
-    modo, i: 0, voci: lista.map((q, k) => {
+    modo, subito, i: 0, voci: lista.map((q, k) => {
       const ordine = mescola(["A", "B", "C", "D"].filter(x => x !== q.corretta));
       ordine.splice(posti[k], 0, q.corretta);
       return { q, ordine, risposta: null, vista: false };
     }),
-    fine: modo === "simulazione" && +$("tempo").value ? Date.now() + 60000 * +$("tempo").value : 0,
+    fine: !subito && +$("tempo").value ? Date.now() + 60000 * +$("tempo").value : 0,
   };
   $("impostazioni").classList.add("nascosto"); $("risultato").classList.add("nascosto"); $("prova").classList.remove("nascosto");
   clearInterval(intervallo);
@@ -230,7 +263,18 @@ function aggiornaTimer() {
   $("timer").textContent = `⏱ ${Math.floor(resto / 60000)}:${String(Math.floor(resto / 1000) % 60).padStart(2, "0")}`;
   if (!resto) { clearInterval(intervallo); alert("Tempo scaduto."); termina(); }
 }
-const immediata = () => prova.modo !== "simulazione";
+const immediata = () => prova.subito;
+function pillole(q) {
+  return [
+    el("span", { class: "pill" }, etichettaArg[q.argomento] || q.argomento),
+    el("span", { class: "pill" }, TIPI[q.tipo] || q.tipo),
+    q.difficolta === 4 ? el("span", { class: "pill esame" }, "livello d'esame · stile Dell'Olio")
+      : el("span", { class: "pill" }, "difficoltà " + q.difficolta),
+    q.lezione ? el("span", { class: "pill" }, "lezione " + q.lezione) : null,
+    q.test_docente ? el("span", { class: "pill test" }, "test del docente") : null,
+    q.test_vernice ? el("span", { class: "pill test" }, "punto d'esame") : null,
+    q.domanda_aula ? el("span", { class: "pill" }, "domanda in aula") : null].filter(Boolean);
+}
 function mostra() {
   const v = prova.voci[prova.i], q = v.q, n = prova.voci.length;
   $("posizione").textContent = `Quesito ${prova.i + 1} di ${n}`;
@@ -239,13 +283,8 @@ function mostra() {
     const date = prova.voci.filter(x => x.risposta);
     $("punteggio").textContent = date.length ? `${date.filter(x => x.risposta === x.q.corretta).length} esatte su ${date.length}` : "";
   } else $("punteggio").textContent = `${prova.voci.filter(x => x.risposta).length} risposte date`;
-  $("etichette").replaceChildren(...[
-    el("span", { class: "pill" }, etichettaArg[q.argomento] || q.argomento),
-    el("span", { class: "pill" }, TIPI[q.tipo] || q.tipo),
-    el("span", { class: "pill" }, "difficoltà " + q.difficolta),
-    q.lezione ? el("span", { class: "pill" }, "lezione " + q.lezione) : null,
-    q.test_vernice ? el("span", { class: "pill test" }, "punto d'esame") : null,
-    q.domanda_aula ? el("span", { class: "pill" }, "domanda in aula") : null].filter(Boolean));
+  // all'esame, come nel test del docente, il quesito si presenta senza etichette (argomento e tipo sarebbero un aiuto)
+  $("etichette").replaceChildren(...(prova.modo === "esame" ? [] : pillole(q)));
   $("domanda").textContent = q.domanda;
   const chiusa = immediata() && (v.risposta || v.vista);
   const box = $("opzioni"); box.replaceChildren();
@@ -294,7 +333,8 @@ function termina() {
   $("prova").classList.add("nascosto"); $("risultato").classList.remove("nascosto");
   $("voto").textContent = `${giuste} / ${tot}`;
   const perc = tot ? Math.round(100 * giuste / tot) : 0;
-  $("giudizio").textContent = `${perc}% di risposte esatte` + (immediata() ? "" : `; ${prova.voci.filter(v => !v.risposta).length} senza risposta`) + ".";
+  $("giudizio").textContent = (prova.modo === "esame" ? "Simulazione esame finale · stile Dell'Olio: " : "") +
+    `${perc}% di risposte esatte` + (immediata() ? "" : `; ${prova.voci.filter(v => !v.risposta).length} senza risposta`) + ".";
   revisione(false);
   window.scrollTo(0, 0);
 }
@@ -310,7 +350,8 @@ function revisione(soloErrate) {
       if (orig === v.q.corretta) b.classList.add("giusta"); else if (orig === v.risposta) b.classList.add("sbagliata");
       opz.append(b);
     });
-    box.append(el("div", { class: "rivedi" }, el("p", { class: "domanda" }, `${k + 1}. ${v.q.domanda}`), opz, correzione(v)));
+    box.append(el("div", { class: "rivedi" }, el("div", {}, ...pillole(v.q)),
+      el("p", { class: "domanda" }, `${k + 1}. ${v.q.domanda}`), opz, correzione(v)));
   });
   if (box.children.length === 1) box.append(el("p", {}, "Nessuna risposta errata."));
 }

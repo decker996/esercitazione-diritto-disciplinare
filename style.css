@@ -95,6 +95,9 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .tab b { display: block; font-size: 1rem; }
 .tab span { font-size: .82rem; color: var(--muted); }
 .tab[aria-pressed="true"] { border-color: var(--accent); background: var(--accent-soft); box-shadow: inset 0 0 0 1px var(--accent); }
+.tab.esame { flex-basis: 100%; border-left: 4px solid var(--warn); }
+.tab.esame b { color: var(--warn); }
+.pill.esame { background: var(--accent-soft); color: var(--accent); }
 fieldset { border: 1px solid var(--border); border-radius: 8px; margin: 12px 0; padding: 10px 14px; }
 legend { font: 600 .88rem system-ui, sans-serif; color: var(--muted); padding: 0 4px; }
 label { font: .93rem system-ui, sans-serif; }
@@ -200,6 +203,7 @@ footer { max-width: 880px; margin: 0 auto; padding: 0 16px 40px; font-size: .82r
   .card { padding: 16px; }
   .testata nav a { margin-left: 12px; }
   .tab { flex-basis: calc(50% - 4px); padding: 10px 12px; }
+  .tab.esame { flex-basis: 100%; }
   .domanda { font-size: 1.05rem; }
   .opzione { padding: 12px; min-height: 48px; }
   /* sul telefono i comandi della prova restano a portata di pollice */
