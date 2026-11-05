@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
  "aggiornata": "2026-11-05",
- "totale": 1094,
+ "totale": 1100,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -24814,6 +24814,89 @@
    "data_lezione": "2026-10-28"
   },
   {
+   "id": "DD-L06-068",
+   "argomento": "disciplina-polizia-giudiziaria",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Una querela è presentata presso un Comando Stazione dei Carabinieri e ricevuta materialmente da un carabiniere, agente di polizia giudiziaria. La querela:",
+   "opzioni": {
+    "A": "è valida, perché la ricezione da parte dell'ufficiale garantisce la provenienza dell'atto e non ne è condizione di validità, se l'ufficio è diretto da un ufficiale di polizia giudiziaria",
+    "B": "è invalida, perché il codice di procedura penale riserva la ricezione al pubblico ministero e all'ufficiale di polizia giudiziaria, e il reato diventa improcedibile se il termine scade",
+    "C": "è valida solo se il carabiniere la trasmette personalmente al pubblico ministero entro quarantotto ore, attestando data e luogo della presentazione e l'identità del querelante",
+    "D": "è valida solo nel caso di arresto in flagranza per un delitto perseguibile a querela, l'unico in cui la legge ne prevede la ricezione da parte dell'agente"
+   },
+   "corretta": "A",
+   "spiegazione": "Per la lettera della legge la querela si propone, con le forme dell'art. 333, co. 2, c.p.p., al pubblico ministero o a un ufficiale di polizia giudiziaria (art. 337, co. 1, c.p.p.). Ma per la giurisprudenza costante della Cassazione la ricezione da parte dell'ufficiale non è condizione di validità dell'atto: serve a garantirne la provenienza dal soggetto legittimato. Basta che la querela sia presentata a un ufficio posto sotto il comando di un ufficiale di polizia giudiziaria, come il Comando Stazione, perché si presume che la trasmissione all'autorità giudiziaria avvenga a sua cura (Cass. pen., sez. V, 29 aprile 2008, n. 17449; conforme sez. V, 5 ottobre 2012, n. 39373, su una querela ricevuta da un carabiniere scelto). L'arresto in flagranza per un delitto perseguibile a querela è il solo caso in cui la legge stessa prevede la querela resa oralmente all'agente (artt. 380, co. 3, e 381, co. 3, c.p.p.), ma non è l'unico in cui la querela ricevuta dall'agente è valida; le quarantotto ore riguardano l'arresto obbligatorio eseguito quando la persona offesa non è prontamente rintracciabile (art. 380, co. 3, c.p.p.). La via sicura resta la sottoscrizione o la trasmissione dell'ufficiale (art. 337, co. 4, c.p.p.); l'appuntato che ha l'effettivo comando della stazione è, per quel periodo, ufficiale di polizia giudiziaria (art. 178, co. 3, COM).",
+   "riferimenti": [
+    "c.p.p. artt. 333, co. 2, e 337, co. 1 e 4",
+    "c.p.p. artt. 380, co. 3, e 381, co. 3",
+    "COM art. 178, co. 3",
+    "Cass. pen., sez. V, 29 aprile 2008, n. 17449",
+    "Cass. pen., sez. V, 5 ottobre 2012, n. 39373"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Approfondimento – La querela ricevuta dall'agente di polizia giudiziaria (lezione 6)",
+    "domande poste in aula (versione del 1.11.2026), n. 99"
+   ],
+   "domanda_aula": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-069",
+   "argomento": "azione-disciplinare",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "In materia di tatuaggi esibiti in uniforme, qual è il vero problema secondo l'impostazione illustrata a lezione?",
+   "opzioni": {
+    "A": "la difficoltà di impiegare il militare tatuato, che obbliga l'amministrazione a destinarlo a reparti senza uniforme a maniche corte",
+    "B": "la riconoscibilità del militare tatuato, che lo rende inidoneo ai servizi di polizia giudiziaria svolti in abiti civili",
+    "C": "il mancato esercizio dell'azione disciplinare, che crea una disparità di trattamento iniqua tra chi è sanzionato e chi no",
+    "D": "l'assenza di una norma che vieti di esibire i tatuaggi, che lascia la materia alla prassi dei singoli comandi"
+   },
+   "corretta": "C",
+   "spiegazione": "Il vero problema non è la riconoscibilità del militare né la difficoltà di impiegarlo, ma il mancato esercizio dell'azione disciplinare: molti militari esibiscono tatuaggi in uniforme senza che i superiori intervengano, mentre altri, come l'appuntato scelto del caso di Bologna, hanno perso il grado. Ne nasce una disparità di trattamento iniqua, che ha una sola origine: il tarlo dell'obbligatorietà dell'azione disciplinare, disattesa perché i comandanti esitano a esercitare il comando. La norma c'è: il Regolamento sulle uniformi per l'Arma vieta di esibire tatuaggi in uniforme. E il reimpiego in reparti senza uniforme a maniche corte non è dovuto: l'amministrazione non può essere condizionata nelle sue scelte organizzative dalla decisione arbitraria di un dipendente (Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592).",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3",
+    "Cons. Stato, sez. IV, 23 febbraio 2021, n. 1592"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "domande poste in aula (versione del 1.11.2026), n. 123"
+   ],
+   "domanda_aula": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-070",
+   "argomento": "azione-disciplinare",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un tenente vuole procedere per un appuntato che esibisce tatuaggi vistosi in uniforme, ma il comandante di compagnia gli dice di lasciar perdere. Secondo l'impostazione illustrata a lezione, il tenente:",
+   "opzioni": {
+    "A": "è esonerato da ogni responsabilità, perché ha interpellato il superiore e ne ha ricevuto un'indicazione che lo vincola a non procedere",
+    "B": "fa bene a parlarne prima a voce e a presentarsi con le idee chiare, dicendo che il tatuaggio non può restare e che sta redigendo il rapporto",
+    "C": "deve rivolgersi direttamente al comandante di Legione, scavalcando il comandante di compagnia che gli ha dato l'indicazione di non procedere",
+    "D": "deve attendere un ordine scritto del comandante di compagnia, senza il quale non può presentare il rapporto disciplinare sui tatuaggi"
+   },
+   "corretta": "B",
+   "spiegazione": "Conviene parlarne prima a voce e presentarsi con le idee chiare, rappresentando che il tatuaggio non può restare e che si sta redigendo il rapporto disciplinare, anziché chiedere che cosa fare. Chi accetta di lasciar perdere ne accetta il rischio: se il problema riemerge (la visita di un comandante superiore, una fotografia che si diffonde in rete), non basterà dire di aver interpellato il superiore e di aver ricevuto un diniego, e la negligenza nel controllo sul comportamento disciplinare degli inferiori è punibile con la consegna di rigore (art. 751, co. 1, lett. a), n. 18, TUROM). Il rapporto segue la via gerarchica (art. 1397 COM) e non richiede un ordine scritto. Trattandosi di disciplina di stato, la decisione di sottoporre un appuntato a inchiesta formale spetta comunque al comandante di corpo (art. 1378, co. 1, lett. i), COM), non al comandante di compagnia.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 18",
+    "COM art. 1397",
+    "COM art. 1378, co. 1, lett. i)"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "domande poste in aula (versione del 1.11.2026), n. 129"
+   ],
+   "domanda_aula": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
    "id": "DD-L06-E001",
    "argomento": "norme-comportamento",
    "tipo": "giurisprudenza",
@@ -25969,6 +26052,101 @@
    "fonti": [
     "lezione 6 (28.10.2026)",
     "domande poste in aula (versione del 1.11.2026), n. 120"
+   ],
+   "domanda_aula": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-E038",
+   "argomento": "disciplina-polizia-giudiziaria",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "assoluti",
+    "rinvio"
+   ],
+   "domanda": "Per la lettera del codice di procedura penale, la querela si propone:",
+   "opzioni": {
+    "A": "al pubblico ministero o a un ufficiale di polizia giudiziaria",
+    "B": "al pubblico ministero o a un ufficiale o agente di polizia giudiziaria",
+    "C": "soltanto al pubblico ministero, che ne cura l'iscrizione",
+    "D": "a qualsiasi appartenente a una forza di polizia"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 337, co. 1, c.p.p. rinvia alle forme dell'art. 333, co. 2: la querela si propone alle autorità alle quali può essere presentata la denuncia, cioè al pubblico ministero o a un ufficiale di polizia giudiziaria (oltre che a un agente consolare all'estero). L'opzione che aggiunge l'agente cambia una sola parola e non corrisponde alla lettera della legge: la querela ricevuta dall'agente è valida per la giurisprudenza della Cassazione, se l'ufficio è diretto da un ufficiale di polizia giudiziaria (Cass. pen., sez. V, 29 aprile 2008, n. 17449), e la legge la prevede espressamente solo nell'arresto in flagranza (artt. 380, co. 3, e 381, co. 3, c.p.p.). Il pubblico ministero non è l'unico destinatario, né basta l'appartenenza a una forza di polizia: conta la qualifica di ufficiale, che l'appuntato ha per il periodo in cui comanda effettivamente una stazione (art. 178, co. 3, COM).",
+   "riferimenti": [
+    "c.p.p. artt. 333, co. 2, e 337, co. 1",
+    "c.p.p. artt. 380, co. 3, e 381, co. 3",
+    "COM art. 178, co. 3",
+    "Cass. pen., sez. V, 29 aprile 2008, n. 17449"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "Approfondimento – La querela ricevuta dall'agente di polizia giudiziaria (lezione 6)",
+    "domande poste in aula (versione del 1.11.2026), n. 99"
+   ],
+   "domanda_aula": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-E039",
+   "argomento": "azione-disciplinare",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "affermazioni",
+    "posizione-docente"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "è vietato esibire i tatuaggi in uniforme, non farseli",
+    "B": "il vero problema dei tatuaggi è la difficoltà di impiegare il militare",
+    "C": "tollerare i tatuaggi esibiti in uniforme crea una disparità di trattamento",
+    "D": "la tolleranza del comandante precedente non autorizza l'esibizione attuale"
+   },
+   "corretta": "B",
+   "spiegazione": "Si cerca l'affermazione errata: il vero problema dei tatuaggi non è la difficoltà di impiegare il militare né la sua riconoscibilità, ma il mancato esercizio dell'azione disciplinare, che crea una disparità di trattamento iniqua tra chi perde il posto e chi esibisce tatuaggi senza conseguenze. Le altre affermazioni sono corrette: il Regolamento sulle uniformi vieta di esibire i tatuaggi in uniforme, non di farseli; la violazione è attuale, e la tolleranza del comandante precedente non crea una prassi né obbliga i successori, perché nessuna prassi può autorizzare un comportamento vietato.",
+   "riferimenti": [
+    "Regolamento sulle uniformi per l'Arma dei Carabinieri (R 11), parte I, cap. I, par. 3"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "domande poste in aula (versione del 1.11.2026), n. 123"
+   ],
+   "domanda_aula": true,
+   "lezione": 6,
+   "data_lezione": "2026-10-28"
+  },
+  {
+   "id": "DD-L06-E040",
+   "argomento": "azione-disciplinare",
+   "tipo": "caso_pratico",
+   "difficolta": 4,
+   "trappole": [
+    "premessa-vera",
+    "posizione-docente",
+    "assoluti"
+   ],
+   "domanda": "Il tenente che, su indicazione del comandante di compagnia, lascia perdere il rapporto sui tatuaggi di un appuntato:",
+   "opzioni": {
+    "A": "è giustificato dall'indicazione ricevuta, se ne ha conservato traccia",
+    "B": "risponde dell'inerzia solo se l'indicazione del superiore era scritta",
+    "C": "non risponde mai, perché per l'appuntato decide il Comandante di Corpo",
+    "D": "ne accetta il rischio: l'indicazione ricevuta non giustifica l'inerzia"
+   },
+   "corretta": "D",
+   "spiegazione": "Chi accetta di lasciar perdere accetta il rischio che il problema riemerga: davanti a un superiore che chiede conto, o a una fotografia che si diffonde in rete, non basterà riferire di aver interpellato il comandante e di aver ricevuto un diniego. La responsabilità resta di chi non procede, scritta o orale che sia l'indicazione, e la negligenza nel controllo sul comportamento disciplinare degli inferiori è punibile con la consegna di rigore (art. 751, co. 1, lett. a), n. 18, TUROM). È vero che per un appuntato la decisione di sottoporlo a inchiesta formale spetta al Comandante di Corpo (art. 1378, co. 1, lett. i), COM), ma proprio per questo il tenente deve fare rapporto: la premessa è vera, la conclusione no.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 18",
+    "COM art. 1378, co. 1, lett. i)"
+   ],
+   "fonti": [
+    "lezione 6 (28.10.2026)",
+    "domande poste in aula (versione del 1.11.2026), n. 129"
    ],
    "domanda_aula": true,
    "lezione": 6,

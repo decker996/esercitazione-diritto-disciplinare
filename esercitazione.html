@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Diritto Disciplinare – Esercitazione</title>
 <meta name="description" content="Esercitazione sui quesiti a risposta multipla di Diritto Disciplinare militare.">
-<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="style.css?v=4">
 </head>
 <body>
 <header class="testata">
@@ -20,8 +20,8 @@
 <section id="impostazioni">
   <h2 class="passo ui"><span class="num">1</span> Scegli la modalità</h2>
   <div class="tabs ui" role="group" aria-label="Modalità">
-    <button class="tab esame" data-modo="esame"><b>Simulazione esame finale · stile Dell'Olio</b><span>tutti i
-      quesiti scritti come quelli del docente: prova da 30 o esercitazione completa</span></button>
+    <button class="tab esame" data-modo="esame"><b>Simulazione esame finale · stile Dell'Olio</b><span>i quesiti
+      scritti come quelli del docente: prova da 30 come al test, oppure tutti</span></button>
     <button class="tab" data-modo="studio"><b>Studio</b><span>percorso guidato, spiegazione subito</span></button>
     <button class="tab" data-modo="allenamento"><b>Allenamento</b><span>ordine casuale, correzione subito</span></button>
     <button class="tab" data-modo="simulazione"><b>Simulazione d'esame</b><span>correzione alla fine</span></button>
@@ -29,7 +29,25 @@
   </div>
   <p id="descrizione-modo" class="piccolo"></p>
 
-  <h2 class="passo ui"><span class="num">2</span> Scegli che cosa esercitare</h2>
+  <div id="passo-esame" class="nascosto">
+    <h2 class="passo ui"><span class="num">2</span> Scegli come esercitarti</h2>
+    <div class="card">
+      <div class="segmenti scelte-esame ui" role="radiogroup" aria-label="Come esercitarti">
+        <button type="button" role="radio" data-esame="prova"><b>Prova d'esame</b>
+          <span>30 quesiti a caso, correzione alla consegna: come il test finale</span><em id="n-esame-prova"></em></button>
+        <button type="button" role="radio" data-esame="tutti"><b>Tutti i quesiti</b>
+          <span>in ordine casuale, con correzione e spiegazione dopo ogni risposta</span><em id="n-esame-tutti"></em></button>
+        <button type="button" role="radio" data-esame="nuovi"><b>Solo quelli nuovi</b>
+          <span>quelli che non hai ancora fatto: riprendi da dove eri rimasto</span><em id="n-esame-nuovi"></em></button>
+      </div>
+      <div class="scelte" id="riga-tempo-esame">
+        <label>Tempo per la prova <select id="tempo-esame"><option value="0">nessun limite</option>
+          <option value="30">30 minuti</option><option value="45">45 minuti</option><option value="60">60 minuti</option></select></label>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="passo ui" id="passo-ambito"><span class="num">2</span> <span id="titolo-ambito">Scegli che cosa esercitare</span></h2>
   <div class="card">
     <div class="segmenti ui" role="radiogroup" aria-label="Che cosa esercitare">
       <button type="button" role="radio" data-ambito="tutto"><b>Tutta la banca</b><span id="n-tutto">tutti i quesiti</span></button>
@@ -75,15 +93,9 @@
 
   <div class="card" id="opzioni-simulazione">
     <div class="scelte">
-      <label id="riga-quanti-esame">Quesiti <select id="quanti-esame">
-        <option value="30">30, come all'esame</option><option value="tutti">tutti</option></select></label>
-      <label id="riga-correzione-esame">Correzione <select id="correzione-esame">
-        <option value="fine">alla consegna, come all'esame</option>
-        <option value="subito">dopo ogni risposta, con la spiegazione</option></select></label>
-      <label id="riga-n-quesiti">Numero di quesiti <input type="number" id="n-quesiti" min="5" max="200" value="30" style="width:5em"></label>
-      <label id="riga-tempo">Tempo <select id="tempo"><option value="0">nessun limite</option><option value="30">30 minuti</option>
+      <label>Numero di quesiti <input type="number" id="n-quesiti" min="5" max="200" value="30" style="width:5em"></label>
+      <label>Tempo <select id="tempo"><option value="0">nessun limite</option><option value="30">30 minuti</option>
         <option value="45">45 minuti</option><option value="60">60 minuti</option></select></label>
-      <label id="riga-mai-visti-esame"><input type="checkbox" id="esame-mai-visti"> solo quelli che non ho ancora fatto</label>
     </div>
   </div>
 
@@ -128,6 +140,6 @@
 <noscript><p class="avviso">Per esercitarsi serve JavaScript.</p></noscript>
 </main>
 <footer>Raccolta personale · nessun carattere ufficiale · i progressi restano solo in questo browser.</footer>
-<script src="app.js?v=3"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>

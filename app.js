@@ -7,7 +7,7 @@ const TIPI = {
   caso_pratico: "Caso pratico", giurisprudenza: "Giurisprudenza", confronto: "Confronto",
 };
 const MODI = {
-  esame: "I quesiti di livello d'esame, scritti nello stile del docente (Ten. Col. Dell'Olio): domande brevi e senza appigli, affermazioni da valutare una per una, opzioni che cambiano per una sola parola, nomi esatti degli istituti, estremi di atti e sentenze; ci sono anche i quesiti dei test intermedi del docente. Puoi fare la prova da 30 come all'esame, con la correzione alla consegna, oppure esercitarti su tutti, anche con la correzione dopo ogni risposta; con «solo quelli che non ho ancora fatto» li copri tutti in più volte.",
+  esame: "I quesiti di livello d'esame, scritti come quelli del docente (Ten. Col. Dell'Olio): domande brevi e senza appigli, affermazioni da valutare una per una, opzioni che cambiano per una sola parola, nomi esatti degli istituti, estremi di atti e sentenze. Ci sono anche i quesiti dei suoi test intermedi. Al passo 2 scegli come esercitarti.",
   studio: "Percorso guidato: i quesiti degli argomenti scelti, nell'ordine della Sinossi e dal più facile al più difficile. La spiegazione compare subito; se non sai rispondere, «Mostra la soluzione».",
   allenamento: "Quesiti in ordine casuale sugli argomenti scelti, con correzione e spiegazione dopo ogni risposta.",
   simulazione: "Come all'esame: quesiti estratti a caso, nessuna correzione fino alla fine. Puoi tornare indietro e cambiare risposta.",
@@ -24,6 +24,13 @@ const mescola = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.f
 
 let banca = { quesiti: [], argomenti: [] }, ordineArg = {}, etichettaArg = {};
 let modo = "studio", ambito = "tutto", prova = null, intervallo = null;
+// modalità Dell'Olio: «prova» (30, correzione alla consegna), «tutti» o «nuovi» (correzione dopo ogni risposta)
+const ESAME = {
+  prova: { nome: "Prova d'esame", inizia: "Inizia la prova d'esame" },
+  tutti: { nome: "Tutti i quesiti d'esame", inizia: "Inizia l'esercitazione" },
+  nuovi: { nome: "Quesiti d'esame nuovi", inizia: "Continua con i nuovi" },
+};
+let esame = "prova";
 const SCELTE = "dd-scelte-v1";
 
 // --- progressi nel browser -------------------------------------------------
@@ -47,11 +54,14 @@ function nelPerimetro(q, lezioni, argomenti) {
 }
 // prove con la correzione alla fine: simulazione libera ed esame stile Dell'Olio
 const aConsegna = m => m === "simulazione" || m === "esame";
+function livelloEsame() {
+  const lezioni = spuntati("#lezioni"), argomenti = spuntati("#argomenti");
+  return banca.quesiti.filter(q => q.difficolta === 4 && nelPerimetro(q, lezioni, argomenti));
+}
 function filtrati() {
   const lezioni = spuntati("#lezioni"), argomenti = spuntati("#argomenti");
   // l'esame stile Dell'Olio usa solo i quesiti di livello d'esame (difficoltà 4, compresi i test del docente)
-  if (modo === "esame") return banca.quesiti.filter(q => q.difficolta === 4 && nelPerimetro(q, lezioni, argomenti)
-    && (!$("esame-mai-visti").checked || !progressi[q.id]));
+  if (modo === "esame") return livelloEsame().filter(q => esame !== "nuovi" || !progressi[q.id]);
   const tipo = $("tipo").value, diff = $("difficolta").value;
   return banca.quesiti.filter(q =>
     nelPerimetro(q, lezioni, argomenti) && (!tipo || q.tipo === tipo) &&
@@ -70,14 +80,15 @@ function descriviAmbito() {
   }
   return "Tutta la banca";
 }
-// quanti quesiti entrano nella prova: nell'esame 30 o tutti; nella simulazione il numero scelto; altrove tutti
+// quanti quesiti entrano nella prova: nella prova d'esame 30; nella simulazione il numero scelto; altrove tutti
 function quantiInProva(n) {
-  if (modo === "esame") return $("quanti-esame").value === "tutti" ? n : Math.min(n, 30);
+  if (modo === "esame") return esame === "prova" ? Math.min(n, 30) : n;
   return modo === "simulazione" ? Math.min(n, +$("n-quesiti").value || 30) : n;
 }
-const esameSubito = () => modo === "esame" && $("correzione-esame").value === "subito";
+const esameSubito = () => modo === "esame" && esame !== "prova";
+const tempoScelto = () => +(modo === "esame" ? $("tempo-esame").value : $("tempo").value);
 function descriviFiltri() {
-  if (modo === "esame") return $("esame-mai-visti").checked ? ["mai visti"] : [];
+  if (modo === "esame") return [];
   const f = [];
   if ($("tipo").value) f.push(TIPI[$("tipo").value]);
   if ($("difficolta").value) f.push("difficoltà " + $("difficolta").value);
@@ -101,13 +112,14 @@ function aggiornaConteggio() {
   const quanti = quantiInProva(n);
   $("filtri-attivi").textContent = filtri.length ? "attivi: " + filtri.join(", ") : "nessun filtro attivo";
   $("box-filtri").classList.toggle("con-filtri", filtri.length > 0);
-  $("riepilogo").textContent = cosa ? cosa + (modo === "esame" ? " · stile Dell'Olio" : "") + (filtri.length ? " · " + filtri.join(", ") : "") : "";
+  $("riepilogo").textContent = cosa ? (modo === "esame" ? `${ESAME[esame].nome} · ` : "") + cosa
+    + (filtri.length ? " · " + filtri.join(", ") : "") : "";
   $("conteggio").textContent = !cosa ? (ambito === "lezioni" ? "Scegli almeno una lezione." : "Scegli almeno un argomento.")
-    : n ? `${quanti} ${quanti === 1 ? "quesito" : "quesiti"}${n > quanti ? ` estratti a caso tra ${n}${modo === "esame" ? " di livello d'esame" : ""}`
-      : modo === "esame" ? ` di livello d'esame${quanti > 1 ? ", tutti, in ordine casuale" : ""}` : ""}`
+    : modo === "esame" ? conteggioEsame(n, quanti)
+    : n ? `${quanti} ${quanti === 1 ? "quesito" : "quesiti"}${n > quanti ? ` estratti a caso tra ${n}` : ""}`
     : modo === "ripasso" ? "Nessun errore da rivedere con queste scelte."
-    : modo === "esame" ? "Nessun quesito di livello d'esame con queste scelte: scegli altre lezioni o argomenti."
     : "Nessun quesito con queste scelte: togli qualche filtro.";
+  if (modo === "esame") contaSchedeEsame();
   $("inizia").disabled = !n || !cosa;
   const errori = banca.quesiti.filter(q => progressi[q.id] && progressi[q.id].u === false).length;
   $("n-errori").textContent = errori ? `${errori} da rivedere` : "nessun errore da rivedere";
@@ -118,30 +130,53 @@ function aggiornaConteggio() {
     `<span><b>${errori}</b>da rivedere</span>`;
   salvaScelte();
 }
+function conteggioEsame(n, quanti) {
+  const tot = livelloEsame().length;
+  if (!tot) return "Nessun quesito di livello d'esame con queste scelte: scegli altre lezioni o argomenti.";
+  if (esame === "prova") return n > quanti ? `30 quesiti estratti a caso tra ${n} di livello d'esame` : `${n} quesiti di livello d'esame`;
+  if (esame === "tutti") return `${n} quesiti di livello d'esame, in ordine casuale`;
+  return n ? `${n} ${n === 1 ? "quesito" : "quesiti"} ancora da fare, su ${tot}`
+    : "Li hai già fatti tutti: scegli «Tutti i quesiti» per ripeterli.";
+}
+// numeri sulle tre schede della modalità Dell'Olio, per le lezioni o gli argomenti scelti
+function contaSchedeEsame() {
+  const tutti = livelloEsame(), nuovi = tutti.filter(q => !progressi[q.id]).length;
+  $("n-esame-prova").textContent = tutti.length > 30 ? `30 su ${tutti.length}` : `${tutti.length} quesiti`;
+  $("n-esame-tutti").textContent = `${tutti.length} quesiti`;
+  $("n-esame-nuovi").textContent = nuovi ? `${nuovi} da fare` : "nessuno da fare";
+}
 function salvaScelte() {
   try {
-    localStorage.setItem(SCELTE, JSON.stringify({ ambito, lezioni: [...spuntati("#lezioni")], argomenti: [...spuntati("#argomenti")] }));
+    localStorage.setItem(SCELTE, JSON.stringify({ ambito, esame, lezioni: [...spuntati("#lezioni")], argomenti: [...spuntati("#argomenti")] }));
   } catch { /* browser senza memoria */ }
 }
 function scegliModo(m) {
   modo = MODI[m] ? m : "studio";
   document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-pressed", t.dataset.modo === modo));
   $("descrizione-modo").textContent = MODI[modo];
-  $("opzioni-simulazione").classList.toggle("nascosto", !aConsegna(modo));
-  aggiornaOpzioniEsame();
-  // l'esame ha un perimetro fisso (livello d'esame): i filtri non servono
+  $("opzioni-simulazione").classList.toggle("nascosto", modo !== "simulazione");
+  // l'esame ha un passo in più (come esercitarsi) e un perimetro fisso (livello d'esame): i filtri non servono
+  $("passo-esame").classList.toggle("nascosto", modo !== "esame");
   ["passo-filtri", "box-filtri"].forEach(x => $(x).classList.toggle("nascosto", modo === "esame"));
-  $("inizia").textContent = modo === "esame" ? "Inizia l'esame" : modo === "simulazione" ? "Inizia la simulazione"
-    : modo === "ripasso" ? "Inizia il ripasso" : "Inizia";
+  $("passo-ambito").querySelector(".num").textContent = modo === "esame" ? "3" : "2";
+  $("titolo-ambito").textContent = modo === "esame" ? "Scegli su quali lezioni o argomenti" : "Scegli che cosa esercitare";
+  const n4 = banca.quesiti.filter(q => q.difficolta === 4).length;
+  $("n-tutto").textContent = modo === "esame" ? `${n4} quesiti d'esame` : `${banca.quesiti.length} quesiti`;
+  aggiornaInizia();
   history.replaceState(null, "", "#" + modo);
   aggiornaConteggio();
 }
-// nell'esame: quanti (30/tutti), correzione (consegna/subito), mai visti; il tempo vale solo con la correzione alla consegna
-function aggiornaOpzioniEsame() {
-  const esame = modo === "esame";
-  ["riga-quanti-esame", "riga-correzione-esame", "riga-mai-visti-esame"].forEach(x => $(x).classList.toggle("nascosto", !esame));
-  $("riga-n-quesiti").classList.toggle("nascosto", esame);
-  $("riga-tempo").classList.toggle("nascosto", esameSubito());
+function aggiornaInizia() {
+  $("inizia").textContent = modo === "esame" ? ESAME[esame].inizia : modo === "simulazione" ? "Inizia la simulazione"
+    : modo === "ripasso" ? "Inizia il ripasso" : "Inizia";
+}
+// modalità Dell'Olio: prova d'esame, tutti, solo nuovi; il tempo vale solo per la prova d'esame
+function scegliEsame(e) {
+  esame = ESAME[e] ? e : "prova";
+  document.querySelectorAll("[data-esame]").forEach(b => b.setAttribute("aria-checked", b.dataset.esame === esame));
+  $("riga-tempo-esame").classList.toggle("nascosto", esame !== "prova");
+  aggiornaInizia();
+  aggiornaConteggio();
 }
 function scegliAmbito(a) {
   ambito = ["tutto", "lezioni", "argomenti"].includes(a) ? a : "tutto";
@@ -216,7 +251,7 @@ function costruisciImpostazioni() {
   $("solo-test").closest("label").classList.toggle("nascosto", !banca.quesiti.some(q => q.test_vernice));
   $("solo-aula").closest("label").classList.toggle("nascosto", !banca.quesiti.some(q => q.domanda_aula));
   document.querySelectorAll("#impostazioni input, #impostazioni select").forEach(x => x.addEventListener("change", aggiornaConteggio));
-  $("correzione-esame").addEventListener("change", aggiornaOpzioniEsame);
+  document.querySelectorAll("[data-esame]").forEach(b => { b.onclick = () => scegliEsame(b.dataset.esame); });
   const tutte = (sel, v) => () => { document.querySelectorAll(sel + " input").forEach(c => { c.checked = v; }); aggiornaConteggio(); };
   // con una ricerca in corso, «Seleziona tutti» prende solo gli argomenti trovati
   $("tutti").onclick = tutte("#argomenti .voci label:not(.nascosto)", true); $("nessuno").onclick = tutte("#argomenti", false);
@@ -233,6 +268,7 @@ function costruisciImpostazioni() {
   };
   $("inizia").onclick = inizia;
   ambito = salvate.ambito || "tutto";
+  esame = ESAME[salvate.esame] ? salvate.esame : "prova";
 }
 
 // --- prova -------------------------------------------------------------------------
@@ -250,7 +286,7 @@ function inizia() {
       ordine.splice(posti[k], 0, q.corretta);
       return { q, ordine, risposta: null, vista: false };
     }),
-    fine: !subito && +$("tempo").value ? Date.now() + 60000 * +$("tempo").value : 0,
+    fine: !subito && tempoScelto() ? Date.now() + 60000 * tempoScelto() : 0,
   };
   $("impostazioni").classList.add("nascosto"); $("risultato").classList.add("nascosto"); $("prova").classList.remove("nascosto");
   clearInterval(intervallo);
@@ -383,6 +419,7 @@ fetch("banca_dati.json", { cache: "no-cache" }).then(r => r.json()).then(b => {
   costruisciImpostazioni();
   scegliAmbito(ambito);
   scegliModo(location.hash.slice(1));
+  scegliEsame(esame);
   addEventListener("hashchange", () => { if (!prova) scegliModo(location.hash.slice(1)); });
 }).catch(() => {
   $("impostazioni").replaceChildren(el("p", { class: "avviso" }, "Banca dati non disponibile: riprova più tardi."));
