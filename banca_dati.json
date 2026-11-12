@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
- "aggiornata": "2026-11-07",
- "totale": 1227,
+ "aggiornata": "2026-11-12",
+ "totale": 1360,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -148,6 +148,18 @@
    "parte": "V – Le sanzioni disciplinari"
   },
   {
+   "slug": "rimprovero",
+   "titolo": "Il rimprovero",
+   "descrizione": "(art. 1360 COM) (V.2.c)",
+   "parte": "V – Le sanzioni disciplinari"
+  },
+  {
+   "slug": "consegna",
+   "titolo": "La consegna",
+   "descrizione": "(art. 1361 COM) (V.2.d)",
+   "parte": "V – Le sanzioni disciplinari"
+  },
+  {
    "slug": "consegna-di-rigore",
    "titolo": "La consegna di rigore",
    "descrizione": "(art. 1362 COM; comportamenti punibili: art. 751 TUROM) (V.2.e)",
@@ -169,6 +181,12 @@
    "slug": "potesta-sanzionatoria",
    "titolo": "Potestà sanzionatoria",
    "descrizione": "titolarità (art. 1354 COM), autorità competenti di corpo e di stato, deleghe, reparto e corpo ai fini disciplinari (V.4)",
+   "parte": "V – Le sanzioni disciplinari"
+  },
+  {
+   "slug": "esecuzione-sanzioni",
+   "titolo": "Esecuzione delle sanzioni",
+   "descrizione": "esecutività ed esecuzione delle sanzioni (V.5)",
    "parte": "V – Le sanzioni disciplinari"
   },
   {
@@ -33576,6 +33594,3611 @@
    ],
    "lezione": 8,
    "data_lezione": "2026-11-07"
+  },
+  {
+   "id": "DD-L09-001",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.2.a",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Le sanzioni disciplinari di corpo previste dall'art. 1358, co. 1, COM sono:",
+   "opzioni": {
+    "A": "il richiamo, il rimprovero, la consegna e la sospensione disciplinare dalle funzioni del grado",
+    "B": "il richiamo, l'ammonizione, la consegna e la consegna di rigore",
+    "C": "il rimprovero, il rimprovero solenne, la consegna e gli arresti di rigore",
+    "D": "il richiamo, il rimprovero, la consegna e la consegna di rigore"
+   },
+   "corretta": "D",
+   "spiegazione": "Le sanzioni di corpo sono quattro: richiamo, rimprovero, consegna e consegna di rigore (art. 1358, co. 1, COM). La sospensione disciplinare dalle funzioni del grado è una sanzione di stato (art. 1357 COM); l'ammonizione non è una sanzione militare; il rimprovero solenne e gli arresti di rigore appartenevano al sistema previgente, superato dalla L. 382/1978. Le sanzioni sono tassative: non se ne possono infliggere altre (art. 1353 COM).",
+   "riferimenti": [
+    "COM art. 1358, co. 1",
+    "COM art. 1353",
+    "COM art. 1357"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi pp. 169-170"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-002",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.1.e",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "In base al contenuto afflittivo, le sanzioni di corpo che si limitano a esprimere un biasimo, verbale o scritto, sono:",
+   "opzioni": {
+    "A": "la consegna e la consegna di rigore, perché non incidono sulla libertà personale",
+    "B": "il richiamo soltanto, perché il rimprovero comporta la trascrizione nella documentazione personale",
+    "C": "il richiamo e il rimprovero, mentre consegna e consegna di rigore impongono obblighi di comportamento",
+    "D": "il rimprovero e la consegna, perché entrambe sono comunicate per iscritto e trascritte"
+   },
+   "corretta": "C",
+   "spiegazione": "Il richiamo e il rimprovero sono sanzioni dichiarative: esprimono un biasimo, verbale il primo, scritto il secondo. La consegna e la consegna di rigore impongono invece al militare obblighi di comportamento disciplinarmente vincolanti (non uscire nelle ore di libera uscita, rimanere in apposito spazio o nel proprio alloggio). La trascrizione del rimprovero non ne cambia la natura dichiarativa; la forma scritta accomuna rimprovero, consegna e consegna di rigore, ma è un criterio di classificazione diverso.",
+   "riferimenti": [
+    "COM art. 1358"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 169"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-003",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.2.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quale delle seguenti sanzioni di corpo non è più prevista dall'ordinamento vigente?",
+   "opzioni": {
+    "A": "la consegna di rigore, che comporta il vincolo di rimanere in apposito spazio fino a quindici giorni",
+    "B": "gli arresti di rigore, previsti dal regolamento del 1964 per ufficiali e marescialli",
+    "C": "il rimprovero, dichiarazione di biasimo scritta trascritta nella documentazione personale",
+    "D": "la consegna, che consiste nella privazione della libera uscita fino a sette giorni consecutivi"
+   },
+   "corretta": "B",
+   "spiegazione": "Il regolamento di disciplina del 1964 prevedeva sanzioni di contenuto in larga parte detentivo e differenziate per categoria: arresti semplici e di rigore per ufficiali e marescialli, sala di punizione per i sergenti, camera di punizione per i militari di truppa, rimprovero solenne. La L. 11 luglio 1978, n. 382, le ha implicitamente abrogate e ha introdotto le quattro sanzioni oggi elencate dall'art. 1358 COM: richiamo, rimprovero, consegna e consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1358, co. 1",
+    "L. 11 luglio 1978, n. 382"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 170"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-004",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 1,
+   "domanda": "La consegna di rigore può essere inflitta:",
+   "opzioni": {
+    "A": "esclusivamente dal comandante del corpo o dell'ente presso il quale il militare presta servizio",
+    "B": "da qualsiasi superiore che abbia rilevato la mancanza, previo rapporto al comandante di corpo",
+    "C": "dal comandante di corpo e dal comandante di reparto, sentita la commissione di disciplina",
+    "D": "dal comandante di reparto, con ratifica del comandante di corpo entro trenta giorni"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1396, co. 1, COM riserva la consegna di rigore esclusivamente al comandante del corpo o dell'ente presso il quale il militare presta servizio, che decide dopo aver sentito la commissione di disciplina (artt. 1399 e 1400 COM). Il comandante di reparto può infliggere la consegna e il rimprovero (co. 2-3); qualsiasi superiore soltanto il richiamo (art. 1359, co. 2). Non esiste alcuna «ratifica» del comandante di corpo.",
+   "riferimenti": [
+    "COM art. 1396, co. 1-3",
+    "COM art. 1359, co. 2",
+    "COM art. 1400"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 143",
+    "Sinossi p. 180"
+   ],
+   "test_vernice": true,
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-005",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Il rimprovero può essere inflitto, oltre che dal comandante di corpo e dal comandante di reparto, anche:",
+   "opzioni": {
+    "A": "da qualsiasi superiore in grado del militare, purché collocato nella sua linea gerarchica di dipendenza",
+    "B": "dal superiore che ha rilevato la mancanza, se riveste almeno il grado di ufficiale e ne fa rapporto",
+    "C": "dal presidente della commissione di disciplina, quando ritiene che il fatto non meriti la consegna di rigore",
+    "D": "dall'ufficiale comandante di distaccamento e dal sottufficiale comandante di distaccamento che ne ha le attribuzioni"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1396, co. 3, COM estende la competenza a infliggere il rimprovero all'ufficiale comandante di distaccamento e al sottufficiale comandante di distaccamento avente le attribuzioni di comandante di reparto. La competenza di qualsiasi superiore vale soltanto per il richiamo (art. 1359, co. 2); il grado di ufficiale non attribuisce di per sé potestà sanzionatoria; la commissione di disciplina esprime un parere, non infligge sanzioni.",
+   "riferimenti": [
+    "COM art. 1396, co. 3",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 143"
+   ],
+   "test_vernice": true,
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-006",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 1,
+   "domanda": "La consegna può essere inflitta:",
+   "opzioni": {
+    "A": "dal solo comandante di corpo, sentita la commissione di disciplina",
+    "B": "dal comandante di corpo e dal comandante di reparto",
+    "C": "da qualsiasi superiore, senza obbligo di rapporto se nella linea gerarchica",
+    "D": "dal comandante di reparto e dall'ufficiale comandante di distaccamento"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1396, co. 2, COM: la consegna può essere inflitta dal comandante di corpo e dal comandante di reparto. Il comandante di distaccamento può infliggere soltanto il rimprovero (co. 3); la commissione di disciplina interviene solo per la consegna di rigore, riservata al comandante di corpo (co. 1); la competenza di qualsiasi superiore riguarda il solo richiamo.",
+   "riferimenti": [
+    "COM art. 1396, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 143"
+   ],
+   "test_vernice": true,
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-007",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "Le punizioni ai colonnelli, ai comandanti di corpo e agli ufficiali che non dipendono da un comando di corpo sono inflitte:",
+   "opzioni": {
+    "A": "dal superiore militare diretto o da altra autorità indicata di volta in volta da ciascuna Forza armata o Corpo armato",
+    "B": "dal comandante di corpo più elevato in grado della stessa Forza armata, sentita la commissione",
+    "C": "dal Ministro della difesa o dall'autorità militare da lui delegata, come le sanzioni di stato",
+    "D": "dal Capo di stato maggiore della Forza armata o, per l'Arma, dal Comandante generale in ogni caso"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1396, co. 4, COM: le punizioni agli ufficiali generali e ammiragli, ai colonnelli, ai capitani di vascello, ai comandanti di corpo e agli ufficiali che non dipendono da un comando di corpo sono inflitte dal superiore militare diretto o da altra autorità militare indicata di volta in volta da ciascuna Forza armata o Corpo armato. La potestà del Ministro riguarda le sanzioni di stato (art. 1375 COM); non è prevista una competenza generale del vertice di Forza armata.",
+   "riferimenti": [
+    "COM art. 1396, co. 4",
+    "COM art. 1375"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 144"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-008",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Un militare è aggregato presso un reparto diverso da quello di appartenenza. Ai fini disciplinari:",
+   "opzioni": {
+    "A": "dipende dal reparto di appartenenza organica, cui il reparto ospitante deve fare rapporto",
+    "B": "dipende dal reparto presso cui è aggregato, e decide l'autorità da cui dipende all'atto della decisione",
+    "C": "dipende da entrambi i reparti, e decide quello che per primo ha avuto notizia della mancanza",
+    "D": "dipende dal reparto di appartenenza per le sanzioni di corpo e da quello ospitante per il richiamo"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1396, co. 5, COM: i militari comandati o aggregati presso un reparto, corpo o ente dipendono disciplinarmente da tale reparto, corpo o ente, e ogni decisione è devoluta all'autorità competente da cui il militare dipende all'atto della decisione. Non vale invece per la richiesta di procedimento ex art. 260 c.p.m.p., che spetta al comandante del corpo di appartenenza organica anche se il militare è aggregato.",
+   "riferimenti": [
+    "COM art. 1396, co. 5"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 193",
+    "Guida tecnica p. 144"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-009",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Nell'ambito della disciplina di corpo si distinguono tre «sottoprocedimenti»:",
+   "opzioni": {
+    "A": "il richiamo, il rimprovero e la consegna, ciascuno con il proprio rito, mentre la consegna di rigore segue il procedimento di stato",
+    "B": "il rapporto disciplinare, la contestazione degli addebiti e la decisione, fasi comuni a tutte le sanzioni di corpo",
+    "C": "quello davanti al comandante di reparto, quello davanti al comandante di corpo e quello davanti alla commissione",
+    "D": "il richiamo, di qualsiasi superiore; le sanzioni fino alla consegna, del comandante di reparto; la consegna di rigore, del comandante di corpo"
+   },
+   "corretta": "D",
+   "spiegazione": "La disciplina di corpo si articola in tre procedimenti: il richiamo, che può infliggere qualsiasi superiore (art. 1359, co. 2, COM); il procedimento per le sanzioni diverse dalla consegna di rigore (richiamo, rimprovero, consegna), di competenza del comandante di reparto ai fini disciplinari o del comandante di corpo (art. 1398); il procedimento per la consegna di rigore, riservato al comandante di corpo, con il difensore e il parere della commissione di disciplina (artt. 1399-1400). La consegna di rigore resta una sanzione di corpo; la commissione esprime soltanto un parere.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1396",
+    "COM artt. 1398-1400"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-010",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Il comandante interinale o in sede vacante può infliggere sanzioni disciplinari di corpo?",
+   "opzioni": {
+    "A": "Sì, ma ogni sanzione deve essere ratificata dal titolare al suo rientro in sede",
+    "B": "No, perché la potestà sanzionatoria è personale e spetta solo al titolare del comando",
+    "C": "Solo il richiamo, perché le altre sanzioni sono riservate al comandante titolare",
+    "D": "Sì, perché ai fini della potestà sanzionatoria rileva la qualifica di comandante"
+   },
+   "corretta": "D",
+   "spiegazione": "Deve ritenersi competente a irrogare le sanzioni disciplinari di corpo anche il superiore che riveste la qualità di comandante interinale o in sede vacante, perché ciò che rileva è la qualifica di comandante. Non è prevista alcuna ratifica. Poiché il procedimento di corpo deve concludersi entro novanta giorni dalla contestazione, può accadere che la definizione spetti al titolare rientrato.",
+   "riferimenti": [
+    "COM art. 1396",
+    "TUROM art. 1046, co. 1, lett. h), n. 6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 193",
+    "Guida tecnica p. 144"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-011",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Durante l'attività fisica un appuntato istruttore nota il comportamento scorretto di un tenente. L'appuntato:",
+   "opzioni": {
+    "A": "può infliggergli il richiamo, perché in quel momento esercita la funzione di istruttore",
+    "B": "non può punirlo, ma può segnalare il fatto con una relazione di servizio al proprio comandante",
+    "C": "deve fare rapporto alla commissione di disciplina, unica competente sui superiori",
+    "D": "non può fare nulla, perché l'inferiore non può riferire sulla condotta di un superiore"
+   },
+   "corretta": "B",
+   "spiegazione": "Gli inferiori non hanno potere disciplinare: il richiamo può essere inflitto solo da un superiore (art. 1359, co. 2, COM). L'inferiore può però far punire, rappresentando il fatto con una relazione di servizio al proprio comandante, che valuterà. La funzione temporaneamente esercitata (istruttore) non attribuisce la potestà sanzionatoria; la commissione di disciplina interviene solo nel procedimento per la consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-012",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un capitano di un altro reparto infligge il richiamo a un carabiniere che non dipende da lui. Secondo l'art. 1359, co. 2, COM:",
+   "opzioni": {
+    "A": "la sanzione è nulla, perché il richiamo spetta solo ai superiori della linea gerarchica",
+    "B": "non ha obblighi, perché il richiamo non è trascritto e si esaurisce con l'ammonimento",
+    "C": "l'esonero dal rapporto non lo riguarda, perché non è collocato nella linea gerarchica di dipendenza",
+    "D": "deve chiedere la convalida del comandante di corpo del carabiniere entro novanta giorni"
+   },
+   "corretta": "C",
+   "spiegazione": "Il richiamo può essere inflitto da qualsiasi superiore; l'art. 1359, co. 2, COM esonera dall'obbligo di rapporto soltanto il superiore «collocato nella linea gerarchica di dipendenza del militare». Il superiore estraneo alla linea deve quindi riferire, ed è comunque opportuno informare per iscritto il superiore gerarchico del militare, che ne ha il controllo disciplinare e dovrà valutarlo anche ai fini della recidiva. La sanzione non è nulla e non richiede convalida.",
+   "riferimenti": [
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi pp. 172-173"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-013",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Secondo l'impostazione seguita a lezione, nell'art. 1359, co. 1, COM la colpa:",
+   "opzioni": {
+    "A": "riguarda soltanto le omissioni ed è la sola negligenza, non l'imperizia o l'imprudenza",
+    "B": "riguarda entrambe le ipotesi, perché il richiamo punisce solo mancanze colpose di lieve entità",
+    "C": "non rileva, perché il richiamo punisce le lievi mancanze indipendentemente dall'elemento psicologico",
+    "D": "comprende negligenza, imprudenza e imperizia, purché la mancanza sia di lieve entità"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1359, co. 1, COM separa con un punto e virgola due ipotesi: a) le lievi mancanze; b) le omissioni causate da negligenza. La colpa è quindi richiesta solo per le omissioni, e consiste nella sola negligenza. Non è corretta la lettura che unisce le due ipotesi e riferisce il richiamo alle sole mancanze colpose di lieve entità; né si può dire che l'elemento psicologico sia irrilevante: comportamenti né intenzionali né colposi non sono punibili.",
+   "riferimenti": [
+    "COM art. 1359, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 171"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-014",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Con il richiamo si possono punire:",
+   "opzioni": {
+    "A": "soltanto le omissioni causate da negligenza, perché le lievi mancanze sono punite con il rimprovero",
+    "B": "lievi mancanze, dolose o colpose, e omissioni causate da negligenza",
+    "C": "soltanto le mancanze colpose di lieve entità, escluse quelle intenzionali",
+    "D": "lievi mancanze dolose e omissioni causate da negligenza, imprudenza o imperizia"
+   },
+   "corretta": "B",
+   "spiegazione": "Il richiamo punisce le lievi mancanze e le omissioni causate da negligenza (art. 1359, co. 1, COM). Le lievi mancanze possono essere dolose o colpose: l'art. 1355, co. 3, lett. a), stabilendo che le infrazioni intenzionali vanno punite con maggior rigore, presuppone che ne esistano anche di colpose. La colpa, per le omissioni, è la sola negligenza. Il rimprovero punisce le lievi trasgressioni, non le lievi mancanze.",
+   "riferimenti": [
+    "COM art. 1359, co. 1",
+    "COM art. 1355, co. 3, lett. a)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-015",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Da quale norma si desume che esistono infrazioni disciplinari colpose?",
+   "opzioni": {
+    "A": "dall'art. 1355, co. 3, COM, secondo cui vanno punite con maggior rigore le infrazioni intenzionali",
+    "B": "dall'art. 1352 COM, che definisce l'illecito disciplinare come violazione colposa dei doveri",
+    "C": "dall'art. 1359 COM, che riferisce il richiamo alle sole mancanze colpose",
+    "D": "dall'art. 1370 COM, che impone di acquisire le giustificazioni sul grado della colpa"
+   },
+   "corretta": "A",
+   "spiegazione": "L'illecito disciplinare è costruito in termini generali (art. 1352 COM: ogni violazione dei doveri del servizio e della disciplina), senza distinguere dolo e colpa. È l'art. 1355, co. 3, lett. a), che, imponendo di punire con maggior rigore le infrazioni intenzionali, implica l'esistenza di infrazioni colpose. L'art. 1359 non riferisce il richiamo alle sole mancanze colpose; l'art. 1370 riguarda il diritto di difesa.",
+   "riferimenti": [
+    "COM art. 1355, co. 3, lett. a)",
+    "COM art. 1352"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-016",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Tra la «lieve mancanza» punita con il richiamo e la «lieve trasgressione» punita con il rimprovero vi è una differenza:",
+   "opzioni": {
+    "A": "soltanto di gravità, rimessa alla valutazione discrezionale dell'autorità",
+    "B": "di condotta: la mancanza è un'omissione, la trasgressione un comportamento commissivo",
+    "C": "di fonte: la mancanza viola i doveri del COM, la trasgressione le norme del TUROM",
+    "D": "di elemento psicologico: la mancanza è colposa, la trasgressione è sempre intenzionale"
+   },
+   "corretta": "A",
+   "spiegazione": "Secondo l'impostazione seguita a lezione, tra lieve mancanza e lieve trasgressione non vi è differenza se non di gravità: la distinzione è lessicale, e spetta all'autorità, nell'esercizio della discrezionalità, qualificare il fatto. Non è esatta la lettura che vede nella mancanza un'omissione e nella trasgressione un fare sbagliato: si può mancare anche agendo. Le lievi trasgressioni possono essere intenzionali o colpose. Secondo un diverso orientamento, la «trasgressione» si riferirebbe alle norme del Capo II del TUROM.",
+   "riferimenti": [
+    "COM art. 1359, co. 1",
+    "COM art. 1360, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi pp. 176-177"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-017",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il rimprovero è più grave del richiamo perché:",
+   "opzioni": {
+    "A": "può essere inflitto solo dal comandante di corpo, mentre il richiamo spetta a qualsiasi superiore",
+    "B": "è comunicato per iscritto, mentre il richiamo è soltanto verbale e non lascia traccia",
+    "C": "è la sanzione prevista per la recidiva nelle mancanze punibili con il richiamo, e segue nella scala di gravità",
+    "D": "punisce soltanto le infrazioni intenzionali, mentre il richiamo punisce quelle colpose"
+   },
+   "corretta": "C",
+   "spiegazione": "Il rimprovero punisce anche la recidiva nelle mancanze per le quali può essere inflitto il richiamo (art. 1360, co. 1, COM): se il richiamo non è bastato, si sale, per il principio di gradualità, alla sanzione immediatamente successiva, idonea a ripristinare l'ordine violato. È questa la ragione della maggiore gravità, non la forma scritta. Il rimprovero può essere inflitto anche dal comandante di reparto e di distaccamento (art. 1396, co. 2-3) e punisce lievi trasgressioni intenzionali o colpose.",
+   "riferimenti": [
+    "COM art. 1360, co. 1",
+    "COM art. 1396, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-018",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Nel TUROM, il Capo II del Titolo VIII del Libro IV, dall'art. 732, è intitolato:",
+   "opzioni": {
+    "A": "«Doveri dei militari», e comprende i doveri generali, dei superiori e degli inferiori",
+    "B": "«Norme della disciplina e del servizio», con la stessa formula usata dall'art. 1360 COM",
+    "C": "«Norme di comportamento e di servizio», mentre il COM parla di norme «della disciplina e del servizio»",
+    "D": "«Comportamenti punibili con la consegna di rigore», e si apre con il contegno del militare"
+   },
+   "corretta": "C",
+   "spiegazione": "Il Titolo VIII del Libro IV del TUROM comprende il Capo I, «Doveri dei militari» (artt. 712-731: doveri generali, dei superiori, degli inferiori), e il Capo II, «Norme di comportamento e di servizio», che si apre con l'art. 732 (Contegno del militare). L'art. 1360 COM parla invece di norme «della disciplina e del servizio»: per l'impostazione seguita a lezione è una svista innocua, e il rimprovero vale per tutte le mancanze lievi. I comportamenti punibili con la consegna di rigore sono elencati nell'art. 751.",
+   "riferimenti": [
+    "TUROM Libro IV, Titolo VIII, Capi I e II",
+    "COM art. 1360, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 177"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-019",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Qualificare un fatto come lieve trasgressione anziché come lieve mancanza comporta, per il militare:",
+   "opzioni": {
+    "A": "nessuna conseguenza ulteriore, perché entrambe le sanzioni si estinguono dopo due anni",
+    "B": "la sola perdita della possibilità di proporre ricorso gerarchico, ammesso solo contro il richiamo",
+    "C": "l'obbligo di scontare la sanzione nella fascia della libera uscita, come per la consegna",
+    "D": "la trascrizione del rimprovero nella documentazione personale, con effetti su incarichi e interpelli"
+   },
+   "corretta": "D",
+   "spiegazione": "La vera differenza pratica tra richiamo e rimprovero è la trascrizione: il richiamo non è trascritto (art. 1359, co. 3, COM), il rimprovero sì (art. 1360, co. 3), con effetti ad esempio sulle selezioni per incarichi e interpelli; la cessazione dei suoi effetti si può chiedere solo dopo almeno due anni senza sanzioni diverse dal richiamo (art. 1369, co. 1). Il ricorso gerarchico è ammesso contro entrambe le sanzioni; il rimprovero non ha contenuto esecutivo.",
+   "riferimenti": [
+    "COM art. 1359, co. 3",
+    "COM art. 1360, co. 3",
+    "COM art. 1369, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-020",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "La scelta dell'autorità di qualificare un fatto come lieve mancanza o come lieve trasgressione è sindacabile dal giudice amministrativo?",
+   "opzioni": {
+    "A": "Sì, sempre: il giudice può sostituire la propria valutazione a quella dell'amministrazione",
+    "B": "Solo nei limiti della logicità della motivazione, trattandosi di valutazione discrezionale",
+    "C": "Sì, ma solo dopo il ricorso gerarchico, che il giudice può riformare nel merito",
+    "D": "No, mai: si tratta di atti di alta amministrazione sottratti al sindacato giurisdizionale"
+   },
+   "corretta": "B",
+   "spiegazione": "La qualificazione del fatto come lieve mancanza o lieve trasgressione rientra nella discrezionalità dell'amministrazione: il giudice amministrativo non entra nel merito, ma verifica che la motivazione dia conto di un procedimento logico (difetto di motivazione, illogicità, travisamento). Gli atti disciplinari sono impugnabili; il ricorso gerarchico è condizione per il ricorso giurisdizionale contro le sanzioni di corpo (art. 1363, co. 2, COM), ma non apre un sindacato di merito del giudice.",
+   "riferimenti": [
+    "COM art. 1363, co. 2",
+    "COM art. 1398, co. 6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-021",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Aperto un procedimento disciplinare di corpo, l'autorità che non ritiene di punire:",
+   "opzioni": {
+    "A": "lascia decorrere i novanta giorni, perché il procedimento si estingue senza ulteriori atti",
+    "B": "rimette gli atti al comandante di corpo, l'unico che può archiviare il procedimento",
+    "C": "deve comunque infliggere almeno il richiamo, perché l'azione disciplinare è obbligatoria",
+    "D": "lo definisce senza sanzione e comunica la decisione all'interessato senza ritardo"
+   },
+   "corretta": "D",
+   "spiegazione": "Il procedimento può chiudersi senza sanzione: la decisione è comunicata verbalmente senza ritardo all'interessato anche se l'autorità non ritiene di applicare alcuna sanzione (art. 1398, co. 4, COM), e va formalizzata con un provvedimento espresso (art. 2, co. 1, L. 241/1990), di regola scritto, con la formula «senza l'adozione di alcuna sanzione disciplinare di corpo». L'obbligatorietà dell'azione impone di procedere, non di punire comunque.",
+   "riferimenti": [
+    "COM art. 1398, co. 4",
+    "L. 241/1990, art. 2, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica pp. 148-149"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-022",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Perché anche il procedimento che non si conclude con il richiamo va chiuso con un atto?",
+   "opzioni": {
+    "A": "perché l'art. 1359 COM impone di annotare ogni richiamo e ogni proscioglimento nella pratica 1/7",
+    "B": "perché l'art. 1367 COM impone di presentare il militare al superiore al termine del procedimento",
+    "C": "perché l'art. 2 della L. 241/1990 impone di concludere il procedimento con un provvedimento espresso",
+    "D": "perché, senza un atto di chiusura, il militare non potrebbe proporre ricorso gerarchico"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 2, co. 1, della L. 241/1990 dispone che, ove il procedimento consegua obbligatoriamente a un'istanza ovvero debba essere iniziato d'ufficio, le pubbliche amministrazioni hanno il dovere di concluderlo mediante l'adozione di un provvedimento espresso. Il procedimento disciplinare va quindi chiuso con un atto anche quando non si punisce. L'art. 1367 COM riguarda la presentazione del militare dopo aver scontato una punizione; contro il proscioglimento il militare non ha interesse a ricorrere.",
+   "riferimenti": [
+    "L. 241/1990, art. 2, co. 1",
+    "COM art. 1398, co. 4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-023",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 1398, co. 5, COM, il provvedimento sanzionatorio contenente la motivazione è comunicato per iscritto:",
+   "opzioni": {
+    "A": "soltanto su richiesta dell'interessato, entro dieci giorni",
+    "B": "salvo che sia stata inflitta la sanzione del richiamo o del rimprovero",
+    "C": "soltanto quando è stata inflitta la consegna di rigore",
+    "D": "salvo che sia stata inflitta la sanzione del richiamo"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1398, co. 5, COM: al trasgressore è comunicato per iscritto il provvedimento sanzionatorio contenente la motivazione, salvo che sia stata inflitta la sanzione del richiamo. Il rimprovero, anzi, è per definizione scritto e trascritto (artt. 1358, co. 3, e 1360, co. 3); la consegna e la consegna di rigore sono comunicate per iscritto (artt. 1361, co. 2, e 1362, co. 8). L'esenzione del richiamo dalla forma scritta non vieta di documentarlo.",
+   "riferimenti": [
+    "COM art. 1398, co. 5",
+    "COM art. 1360, co. 3",
+    "COM art. 1361, co. 2",
+    "COM art. 1362, co. 8"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 148"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-024",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 1398, co. 2, COM stabilisce che il procedimento disciplinare di corpo:",
+   "opzioni": {
+    "A": "si svolge esclusivamente per iscritto, a pena di nullità della sanzione",
+    "B": "si svolge, anche oralmente, attraverso fasi che vanno dalla contestazione alla comunicazione",
+    "C": "si svolge oralmente in ogni fase, e solo la decisione finale è comunicata per iscritto",
+    "D": "si svolge per iscritto, salvo che per il richiamo, che si infligge senza alcun procedimento"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1398, co. 2, COM: il procedimento disciplinare si svolge, anche oralmente, attraverso le fasi della contestazione degli addebiti, dell'acquisizione delle giustificazioni ed eventuali prove testimoniali, dell'esame e valutazione, della decisione e della comunicazione all'interessato. La regola dell'oralità, che risale alla L. 382/1978, non esclude la forma scritta, oggi consigliabile per esigenze di prova; anche il richiamo presuppone un procedimento (art. 1370, co. 1, COM: nessuna sanzione senza contestazione e giustificazioni).",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 149"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-025",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Nel testo originario del COM (2010), l'art. 1359, co. 3, consentiva di tenere traccia del richiamo:",
+   "opzioni": {
+    "A": "nella documentazione personale, con annotazione cancellata d'ufficio dopo due anni",
+    "B": "con la pubblicazione all'albo del reparto, prevista per finalità di prevenzione generale",
+    "C": "con la memoria agli atti dell'allegato 4.N, poi resa obbligatoria dal D.Lgs. 173/2019",
+    "D": "con l'annotazione in registri a esclusivo uso interno, previsione soppressa nel 2012"
+   },
+   "corretta": "D",
+   "spiegazione": "Nel testo in vigore dal 9 ottobre 2010 al 26 marzo 2012, l'art. 1359, co. 3, COM stabiliva che il richiamo non produceva effetti giuridici e non dava luogo a trascrizione né a particolari forme di comunicazione scritta o pubblicazione, «fatta salva l'annotazione in registri a esclusivo uso interno» per tenerne conto nel biennio. La previsione è stata soppressa dal D.Lgs. 24 febbraio 2012, n. 20. La memoria agli atti (all. 4.N) è stata introdotta dalla Guida tecnica del 2023 e non è prescritta da una norma.",
+   "riferimenti": [
+    "COM art. 1359, co. 3 (testo originario)",
+    "D.Lgs. 24 febbraio 2012, n. 20, art. 4, co. 1, lett. iii)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-026",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "L'inciso secondo cui il richiamo non dà luogo «né a particolari forme di comunicazione scritta o pubblicazione»:",
+   "opzioni": {
+    "A": "è stato soppresso dal D.Lgs. 27 dicembre 2019, n. 173",
+    "B": "è tuttora vigente, e per questo il richiamo non può essere messo per iscritto",
+    "C": "è stato introdotto dal D.Lgs. 24 febbraio 2012, n. 20, insieme ai registri dei richiami",
+    "D": "è stato dichiarato illegittimo dalla Corte costituzionale con la sentenza n. 406 del 2000"
+   },
+   "corretta": "A",
+   "spiegazione": "L'inciso, presente nell'art. 1359, co. 3, COM anche dopo la sostituzione del comma ad opera del D.Lgs. 24 febbraio 2012, n. 20, è stato soppresso dal D.Lgs. 27 dicembre 2019, n. 173 (art. 1, co. 1, lett. cc). Oggi la norma dice soltanto che il richiamo non dà luogo a trascrizione nella documentazione personale. I registri dei richiami erano invece previsti dal testo originario e sono stati soppressi nel 2012. La Corte costituzionale, con la sentenza n. 406 del 2000, si è pronunciata sull'art. 260 c.p.m.p.",
+   "riferimenti": [
+    "COM art. 1359, co. 3",
+    "D.Lgs. 27 dicembre 2019, n. 173"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-027",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "La copia del richiamo documentato per iscritto, che non va consegnata al militare, si conserva:",
+   "opzioni": {
+    "A": "nel fascicolo matricolare, con l'annotazione che il richiamo non produce effetti dopo due anni",
+    "B": "nel registro dei richiami del reparto, previsto dall'art. 1359, co. 3, COM",
+    "C": "presso la commissione di disciplina, che ne tiene conto in caso di consegna di rigore",
+    "D": "nella pratica 1/7 (disciplina) del carteggio ordinario, non nella documentazione personale"
+   },
+   "corretta": "D",
+   "spiegazione": "L'unico limite posto dall'art. 1359, co. 3, COM è che il richiamo non sia trascritto nella documentazione personale. La copia si conserva quindi nel carteggio ordinario, nella pratica 1/7 (disciplina), che non è il fascicolo matricolare. I registri dei richiami non esistono più dal 2012; la commissione di disciplina interviene solo nel singolo procedimento per la consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1359, co. 3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-028",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Chi infligge il richiamo a un militare che non dipende da lui:",
+   "opzioni": {
+    "A": "non deve informarne nessuno, perché il richiamo non dà luogo a trascrizione né a comunicazioni",
+    "B": "informa per iscritto il superiore gerarchico del militare, che ne ha il controllo disciplinare",
+    "C": "deve chiedere al militare il consenso alla comunicazione, per la tutela dei dati personali",
+    "D": "trasmette l'atto al comando di corpo perché lo trascriva nella documentazione personale"
+   },
+   "corretta": "B",
+   "spiegazione": "Il superiore estraneo alla linea gerarchica non è esonerato dall'obbligo di rapporto (art. 1359, co. 2, COM), ed è comunque opportuno che informi per iscritto il superiore gerarchico del militare: è lui che ne ha il controllo disciplinare, che dovrà valutarlo e tenere conto della recidiva. È un onere informativo, assolto con il carteggio ordinario, e non una trascrizione nella documentazione personale, che resta vietata.",
+   "riferimenti": [
+    "COM art. 1359, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 173"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-029",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Perché è opportuno indicare il motivo nella memoria agli atti del richiamo?",
+   "opzioni": {
+    "A": "per la recidiva e perché, in caso di trasferimento nel biennio, il nuovo comandante sappia perché è stato inflitto",
+    "B": "perché senza motivo il richiamo non può essere trascritto nella documentazione personale del militare",
+    "C": "perché l'art. 1398, co. 5, COM impone la motivazione scritta di ogni sanzione, compreso il richiamo",
+    "D": "per consentire alla commissione di disciplina di esprimere il proprio parere sulla congruità della sanzione"
+   },
+   "corretta": "A",
+   "spiegazione": "Il modello 4.N della Guida tecnica rinvia ai «fatti contestati» senza descriverli: indicarne il motivo serve ai fini della recidiva nel biennio (art. 1359, co. 4, COM) e perché l'atto deve seguire il militare: se è trasferito, chi lo riceve deve sapere per quale fatto è stato richiamato. Il richiamo non si trascrive comunque; l'art. 1398, co. 5, esclude proprio il richiamo dall'obbligo di comunicazione scritta motivata; la commissione di disciplina riguarda la consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1359, co. 3-4",
+    "COM art. 1398, co. 5"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 173"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-030",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Al termine del procedimento, notificata la sanzione, l'autorità redige per il comando di corpo:",
+   "opzioni": {
+    "A": "una relazione per la commissione di disciplina, che ne verifica la congruità",
+    "B": "una nota esplicativa, di cui il comando di corpo prende atto se tutto si è svolto regolarmente",
+    "C": "una richiesta di ratifica, senza la quale la sanzione non diventa esecutiva",
+    "D": "un rapporto disciplinare, perché il comandante di corpo possa infliggere la sanzione definitiva"
+   },
+   "corretta": "B",
+   "spiegazione": "Notificata la sanzione, si redige una nota esplicativa al comando di corpo, che è direttamente responsabile della disciplina (art. 726, co. 2, TUROM): il comandante di corpo valuta la legittimità e la congruità dell'operato e, se tutto si è svolto regolarmente, ne prende atto. La nota esplicativa va redatta anche per il richiamo. La sanzione è esecutiva dalla comunicazione (artt. 1361, co. 3, e 1362, co. 9, COM) e non richiede ratifica.",
+   "riferimenti": [
+    "TUROM art. 726, co. 2",
+    "COM art. 1361, co. 3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-031",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un superiore riprende con energia un militare per un ritardo, senza contestargli formalmente il fatto né chiedergli giustificazioni. Si tratta di un richiamo?",
+   "opzioni": {
+    "A": "Sì, perché il richiamo è per legge verbale e si esaurisce nell'ammonimento",
+    "B": "Sì, purché il superiore sia collocato nella linea gerarchica del militare",
+    "C": "No, perché il richiamo deve essere sempre inflitto per iscritto con il modello 4.N",
+    "D": "No, perché nessuna sanzione può essere inflitta senza contestazione e giustificazioni"
+   },
+   "corretta": "D",
+   "spiegazione": "Il richiamo è una sanzione e conclude un procedimento: nessuna sanzione disciplinare può essere inflitta senza contestazione degli addebiti e senza che siano state acquisite e vagliate le giustificazioni del militare (art. 1370, co. 1, COM). La ripresa verbale energica è azione di comando (art. 725, co. 2, lett. b, TUROM), non sanzione. La forma verbale riguarda la sanzione, non esclude il procedimento; il modello 4.N è facoltativo, ma documentare il richiamo è opportuno.",
+   "riferimenti": [
+    "COM art. 1370, co. 1",
+    "COM art. 1359",
+    "TUROM art. 725, co. 2, lett. b)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 175"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-032",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Un militare sostiene che le sue note caratteristiche non potevano essere abbassate per un richiamo, perché del richiamo si tiene conto solo ai fini della recidiva. La tesi:",
+   "opzioni": {
+    "A": "è fondata, perché l'art. 1359, co. 4, COM vieta ogni altro uso del richiamo",
+    "B": "non è stata accolta, perché il richiamo è trascritto nella documentazione caratteristica",
+    "C": "è fondata solo se il richiamo non è stato documentato con la memoria agli atti",
+    "D": "non è stata accolta: le note possono scendere anche senza sanzioni, perché si valuta il rendimento"
+   },
+   "corretta": "D",
+   "spiegazione": "L'argomento, spesso proposto nei ricorsi, è stato respinto dal Consiglio di Stato: la valutazione caratteristica riguarda il rendimento, e le note possono essere abbassate anche in assenza di sanzioni disciplinari; la scheda esprime un giudizio sintetico e non deve elencare i singoli fatti (TAR Calabria, Catanzaro, sez. I, 21 luglio 2004, n. 1658). Il richiamo, comunque, non è trascritto nella documentazione personale (art. 1359, co. 3, COM).",
+   "riferimenti": [
+    "COM art. 1359, co. 3-4",
+    "TAR Calabria, Catanzaro, sez. I, 21 luglio 2004, n. 1658"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-033",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un comandante di compagnia riceve un rapporto disciplinare, contesta l'addebito, esamina le memorie e ritiene il fatto una lieve mancanza. Può infliggere il richiamo con un provvedimento scritto?",
+   "opzioni": {
+    "A": "Sì, chiudendo il procedimento con un provvedimento espresso, senza trascrizione",
+    "B": "No, perché il procedimento nato da rapporto deve concludersi almeno con il rimprovero",
+    "C": "Sì, ma il provvedimento deve essere trascritto nella documentazione personale",
+    "D": "No, perché il richiamo è per legge verbale e la forma scritta lo trasformerebbe in rimprovero"
+   },
+   "corretta": "A",
+   "spiegazione": "Il richiamo «verbale» dell'art. 1358, co. 2, COM sembra riferirsi al richiamo dato nell'immediatezza; ma il richiamo può nascere da un rapporto, da un esposto, dall'esame di una pratica, e in questi casi chiude per iscritto un procedimento (art. 2 L. 241/1990). La forma scritta non lo trasforma in rimprovero: l'unico limite è il divieto di trascrizione (art. 1359, co. 3). Secondo un diverso orientamento il richiamo andrebbe inflitto solo verbalmente e documentato con la memoria agli atti.",
+   "riferimenti": [
+    "COM art. 1358, co. 2",
+    "COM art. 1359, co. 3",
+    "L. 241/1990, art. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 149"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-034",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'art. 725, co. 2, lett. b), TUROM, che impone al superiore di evitare di massima di richiamare in pubblico il militare che ha mancato e di riprenderlo in disparte con forma breve ed energica:",
+   "opzioni": {
+    "A": "regola il procedimento per infliggere la sanzione del richiamo",
+    "B": "regola l'azione di comando correttiva, che non è una sanzione",
+    "C": "regola il modo di comunicare la consegna di rigore al punito",
+    "D": "regola la contestazione orale degli addebiti nel procedimento di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "La norma usa il verbo «richiamare», ma riguarda l'azione di comando: il modo in cui il superiore corregge ed esorta i dipendenti, tutelandone la dignità. Non prevede un procedimento speciale per la sanzione del richiamo, che resta disciplinata dagli artt. 1359 e 1398 COM e presuppone contestazione e giustificazioni (art. 1370, co. 1). La consegna di rigore è comunicata subito verbalmente e poi per iscritto (art. 1362, co. 8).",
+   "riferimenti": [
+    "TUROM art. 725, co. 2, lett. b)",
+    "COM art. 1359",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 175"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-035",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Il ricorso gerarchico contro un richiamo inflitto da un superiore estraneo alla linea gerarchica del militare si propone:",
+   "opzioni": {
+    "A": "al comandante di corpo del militare, responsabile della sua disciplina",
+    "B": "al comandante di reparto del militare, che può annullare il richiamo in autotutela",
+    "C": "all'organo gerarchicamente superiore a quello che ha inflitto il richiamo",
+    "D": "alla commissione di disciplina, che si pronuncia con parere vincolante"
+   },
+   "corretta": "C",
+   "spiegazione": "L'organo sovraordinato competente sul ricorso gerarchico è quello gerarchicamente superiore a chi ha emesso il provvedimento (art. 1363, co. 1, COM): se il richiamo è inflitto da un superiore di altra linea gerarchica, il ricorso va al suo superiore, non al comandante del militare. Per la stessa ragione l'annullamento in autotutela spetta al superiore di chi ha sanzionato. È uno degli inconvenienti della competenza diffusa del richiamo.",
+   "riferimenti": [
+    "COM art. 1363, co. 1",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 173"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-036",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 1360 COM, il rimprovero è:",
+   "opzioni": {
+    "A": "una dichiarazione di biasimo con cui sono punite le lievi trasgressioni e la recidiva nelle mancanze punibili con il richiamo",
+    "B": "un ammonimento verbale con cui sono punite le lievi mancanze e le omissioni causate da negligenza",
+    "C": "una dichiarazione di biasimo con cui sono punite le più gravi trasgressioni e la recidiva nel richiamo",
+    "D": "un ammonimento scritto con cui è punita la violazione dei doveri diversi da quelli dell'art. 751 TUROM"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1360, co. 1, COM: il rimprovero è una dichiarazione di biasimo con cui sono punite le lievi trasgressioni alle norme della disciplina e del servizio o la recidiva nelle mancanze per le quali può essere inflitto il richiamo. L'ammonimento per lievi mancanze e omissioni causate da negligenza è il richiamo (art. 1359); le più gravi trasgressioni e la violazione dei doveri diversi da quelli dell'art. 751 TUROM sono punite con la consegna (art. 1361).",
+   "riferimenti": [
+    "COM art. 1360, co. 1",
+    "COM art. 1359, co. 1",
+    "COM art. 1361, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-037",
+   "argomento": "rimprovero",
+   "sinossi": "V.5.b",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Il provvedimento con il quale è inflitto il rimprovero:",
+   "opzioni": {
+    "A": "è comunicato verbalmente e non è trascritto, salvo recidiva nel biennio",
+    "B": "è comunicato per iscritto e trascritto solo se il militare non propone ricorso",
+    "C": "è comunicato per iscritto all'interessato ed è trascritto nella documentazione personale",
+    "D": "è comunicato verbalmente e trascritto nella documentazione personale"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1360, co. 3, COM: il provvedimento con il quale è inflitto il rimprovero è comunicato per iscritto all'interessato ed è trascritto nella documentazione personale. Per il rimprovero non si può parlare di esecuzione in senso proprio: la sanzione esaurisce la sua efficacia con la comunicazione, cui segue la trascrizione. Il ricorso non ne sospende gli effetti. È il richiamo a essere verbale e non trascritto.",
+   "riferimenti": [
+    "COM art. 1360, co. 3",
+    "COM art. 1358, co. 3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 194"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-038",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "La cessazione degli effetti di un rimprovero può essere chiesta:",
+   "opzioni": {
+    "A": "dopo almeno due anni dalla comunicazione, purché nel periodo non sia stato inflitto neppure un richiamo",
+    "B": "dopo almeno un anno dalla comunicazione della punizione, se nel periodo non si sono riportate altre sanzioni di alcun tipo",
+    "C": "dopo almeno due anni di servizio dalla comunicazione della punizione, se nel periodo non si sono riportate sanzioni diverse dal richiamo",
+    "D": "in qualsiasi momento, con istanza al comandante di corpo che ha inflitto la sanzione"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1369, co. 1, COM: i militari possono chiedere la cessazione di ogni effetto delle sanzioni trascritte nella documentazione personale con istanza al Ministro della difesa, per via gerarchica, dopo almeno due anni di servizio dalla data della comunicazione della punizione, se in tale periodo non hanno riportato sanzioni disciplinari diverse dal richiamo. Il richiamo, quindi, non impedisce l'istanza. Il Ministro o l'autorità delegata decide entro sei mesi (co. 2).",
+   "riferimenti": [
+    "COM art. 1369, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-039",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "La consegna consiste:",
+   "opzioni": {
+    "A": "nel vincolo di rimanere in apposito spazio dell'ambiente militare fino a sette giorni",
+    "B": "nella privazione della libera uscita fino al massimo di sette giorni consecutivi",
+    "C": "nella privazione della libertà personale fino al massimo di sette giorni consecutivi",
+    "D": "nella privazione della libera uscita fino al massimo di quindici giorni consecutivi"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1358, co. 4, COM: la consegna consiste nella privazione della libera uscita fino al massimo di sette giorni consecutivi. Non incide sulla libertà personale. Il vincolo di rimanere in apposito spazio dell'ambiente militare o nel proprio alloggio, fino a quindici giorni, è la consegna di rigore (co. 5).",
+   "riferimenti": [
+    "COM art. 1358, co. 4-5"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-040",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Con la consegna, secondo l'art. 1361, co. 1, COM, sono punite:",
+   "opzioni": {
+    "A": "le lievi trasgressioni, la recidiva nel richiamo e le violazioni dei doveri attinenti al giuramento",
+    "B": "la violazione dei doveri diversi da quelli dell'art. 751 TUROM, la recidiva nel rimprovero e le più gravi trasgressioni",
+    "C": "i comportamenti specificamente indicati dall'art. 751 TUROM e i fatti previsti come reato",
+    "D": "la violazione di tutti i doveri del TUROM, compresi quelli dell'art. 751, se commessa con dolo"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1361, co. 1, COM: con la consegna sono punite a) la violazione dei doveri diversi da quelli previsti dall'art. 751 del regolamento; b) la recidiva nelle mancanze già sanzionate con il rimprovero; c) le più gravi trasgressioni alle norme della disciplina e del servizio. I comportamenti dell'art. 751 e i fatti previsti come reato (art. 1362, co. 7) sono puniti con la consegna di rigore; le lievi trasgressioni e la recidiva nel richiamo con il rimprovero.",
+   "riferimenti": [
+    "COM art. 1361, co. 1",
+    "COM art. 1362, co. 1 e 7"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 150"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-041",
+   "argomento": "consegna",
+   "sinossi": "V.5.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il provvedimento che infligge la consegna è esecutivo:",
+   "opzioni": {
+    "A": "dal giorno della comunicazione scritta, che fa decorrere anche il termine per il ricorso",
+    "B": "dal giorno successivo alla scadenza del termine per il ricorso gerarchico",
+    "C": "dal giorno della comunicazione verbale all'interessato",
+    "D": "dal giorno della presa d'atto del comando di corpo sulla nota esplicativa"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1361, co. 3, COM: il provvedimento è esecutivo dal giorno della comunicazione verbale all'interessato. La comunicazione scritta (co. 2), con la motivazione, segue e fa decorrere il termine per il ricorso gerarchico, che non sospende l'esecuzione. La stessa regola vale per la consegna di rigore (art. 1362, co. 9). La presa d'atto del comando di corpo non condiziona l'esecutività.",
+   "riferimenti": [
+    "COM art. 1361, co. 2-3",
+    "COM art. 1362, co. 9"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 194"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-042",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 1361, co. 4, COM, sono autorizzati a scontare la consegna presso il proprio alloggio privato:",
+   "opzioni": {
+    "A": "i militari di truppa coniugati, i graduati, i sottufficiali e gli ufficiali che ne usufruiscono",
+    "B": "soltanto gli ufficiali e i sottufficiali, esclusi i graduati e i militari di truppa",
+    "C": "tutti i militari, purché lo chieda il comandante di reparto per motivi di servizio",
+    "D": "i soli militari in servizio permanente, esclusi quelli in ferma volontaria"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1361, co. 4, COM: i militari di truppa coniugati, i graduati, i sottufficiali e gli ufficiali che usufruiscono di alloggio privato sono autorizzati a scontare presso tale alloggio la punizione di consegna. Per il personale in servizio permanente, che non fruisce della libera uscita, è la soluzione preferita: è la meno rigida e la meno invasiva. I motivi di servizio rilevano invece per la consegna di rigore (art. 1362, co. 4).",
+   "riferimenti": [
+    "COM art. 1361, co. 4",
+    "COM art. 1362, co. 4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-043",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 741 TUROM, fruiscono di libera uscita:",
+   "opzioni": {
+    "A": "i volontari in ferma prefissata con meno di dodici mesi di servizio e gli allievi degli istituti di formazione",
+    "B": "tutti i militari, compresi quelli in servizio permanente, secondo gli orari stabiliti dal comandante di corpo",
+    "C": "i militari in servizio permanente che non dispongono di un alloggio privato o di servizio",
+    "D": "gli ufficiali frequentatori dei corsi applicativi e i sottufficiali in ferma volontaria accasermati"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 741, co. 1, TUROM: i volontari in ferma prefissata con meno di dodici mesi di servizio, gli allievi delle scuole, delle accademie e degli altri istituti di istruzione militare fruiscono di libera uscita secondo turni od orari stabiliti; il co. 2 estende la regola al rimanente personale in ferma che, pur senza obbligo di accasermamento, fruisce degli alloggiamenti di reparto. Il personale in servizio permanente non fruisce della libera uscita: per questo la consegna, privazione della libera uscita, pone per esso problemi di esecuzione.",
+   "riferimenti": [
+    "TUROM art. 741, co. 1-2",
+    "COM art. 1358, co. 4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-044",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Gli orari della libera uscita:",
+   "opzioni": {
+    "A": "sono fissati dal Comandante generale per tutta l'Arma e pubblicati nel Foglio d'ordini",
+    "B": "sono stabiliti di volta in volta dal superiore diretto e non possono essere modificati con permessi",
+    "C": "sono affissi all'albo del reparto e possono essere anticipati o prorogati con permessi",
+    "D": "sono comunicati al solo militare punito con la consegna, insieme al provvedimento"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 741 TUROM: i turni e gli orari della libera uscita, stabiliti dalle disposizioni di ciascuna Forza armata, devono essere resi pubblici nell'ambito di ciascuna unità mediante affissione all'albo del reparto (co. 3); il comandante di compagnia o di reparto può anticipare o prorogare l'orario dei militari dipendenti che ne facciano richiesta per motivate esigenze, mediante la concessione di permessi (co. 4).",
+   "riferimenti": [
+    "TUROM art. 741, co. 1, 3-4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-045",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "La consegna come sanzione disciplinare si distingue dalla consegna rilevante nel reato di violata consegna perché quest'ultima:",
+   "opzioni": {
+    "A": "è la sanzione che punisce le più gravi trasgressioni commesse durante un servizio armato",
+    "B": "è la consegna di rigore inflitta per un fatto previsto come reato militare",
+    "C": "è l'atto, di solito scritto, che regola un particolare servizio, come quello dell'ufficiale di picchetto",
+    "D": "è la privazione della libera uscita disposta dall'autorità giudiziaria militare"
+   },
+   "corretta": "C",
+   "spiegazione": "La consegna rilevante nel reato di violata consegna è l'atto, orale o di solito scritto, che regola un servizio (ufficiale di picchetto, pattuglia: art. 730 TUROM); la consegna dell'art. 1361 COM è invece una sanzione disciplinare, consistente nella privazione della libera uscita. Non va chiamata «consegna semplice». La consegna di rigore è una sanzione distinta (art. 1362).",
+   "riferimenti": [
+    "COM art. 1361",
+    "TUROM art. 730"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-046",
+   "argomento": "consegna",
+   "sinossi": "V.5.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un maresciallo in servizio permanente, con alloggio privato, è punito con cinque giorni di consegna. In concreto:",
+   "opzioni": {
+    "A": "deve rimanere in caserma per cinque giorni, salvo i turni di servizio",
+    "B": "nella fascia della libera uscita deve rimanere nel proprio alloggio, ma presta servizio se comandato",
+    "C": "è sospeso dal servizio per cinque giorni e deve rimanere nel proprio alloggio",
+    "D": "non sconta alcuna limitazione, perché il personale in servizio permanente non fruisce di libera uscita"
+   },
+   "corretta": "B",
+   "spiegazione": "La consegna priva della libera uscita; il personale in servizio permanente non ne fruisce, ma chi ha un alloggio privato è autorizzato a scontarvi la consegna (art. 1361, co. 4, COM): nella fascia oraria della libera uscita ha l'obbligo di non uscire, e se in quella fascia è di servizio presta regolarmente servizio. Non è una sospensione dall'impiego; non comporta la permanenza in caserma, che riguarda chi è accasermato.",
+   "riferimenti": [
+    "COM art. 1358, co. 4",
+    "COM art. 1361, co. 4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 194"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-047",
+   "argomento": "consegna",
+   "sinossi": "V.5.c",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un militare punito con la consegna esce dall'alloggio nella fascia della libera uscita e resta coinvolto in un incidente stradale. Quale affermazione è corretta?",
+   "opzioni": {
+    "A": "commette il reato di evasione, perché si è sottratto a una misura restrittiva",
+    "B": "commette un'infrazione disciplinare autonoma, punibile anche con la consegna di rigore",
+    "C": "non commette alcun illecito, perché la consegna non può essere controllata coattivamente",
+    "D": "può essere ricondotto con la forza nell'alloggio dalla pattuglia intervenuta"
+   },
+   "corretta": "B",
+   "spiegazione": "La consegna non è una restrizione della libertà personale, ma un obbligo giuridico: il punito si pone da sé in punizione. Chi lo viola non commette evasione né può essere ricondotto con la forza, ma risponde dell'«inosservanza degli obblighi connessi all'esecuzione della sanzione disciplinare di consegna di rigore o della consegna», punibile con la consegna di rigore (art. 751, co. 1, lett. a, n. 41, TUROM). Il fatto che non vi sia un potere coattivo non toglie rilevanza alla violazione.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 41",
+    "COM art. 1361"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 179"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-048",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un comandante di plotone infligge a un allievo la consegna e gli ordina di non uscire dalla caserma per tre giorni, a qualsiasi titolo. È corretto?",
+   "opzioni": {
+    "A": "Sì, perché la consegna consiste nel vincolo di rimanere nell'ambiente militare",
+    "B": "Sì, se l'allievo non dispone di un alloggio privato in cui scontare la punizione",
+    "C": "No, perché la consegna priva della libera uscita e non di ogni uscita dalla caserma",
+    "D": "No, perché la consegna può essere inflitta solo per sette giorni consecutivi"
+   },
+   "corretta": "C",
+   "spiegazione": "La consegna è la privazione della libera uscita fino a sette giorni consecutivi (art. 1358, co. 4, COM): il punito non va in libera uscita, ma la sanzione non comporta il divieto di uscire dalla caserma per servizio o per altre ragioni autorizzate (ad esempio una visita medica). Il vincolo di rimanere in apposito spazio dell'ambiente militare è il contenuto della consegna di rigore (co. 5). Sette giorni sono il massimo, non la durata fissa.",
+   "riferimenti": [
+    "COM art. 1358, co. 4-5"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-049",
+   "argomento": "esecuzione-sanzioni",
+   "sinossi": "V.5.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Durante l'esecuzione della consegna o della consegna di rigore, il militare:",
+   "opzioni": {
+    "A": "perde temporaneamente le funzioni di comando, che sono esercitate dal sostituto",
+    "B": "conserva il grado ma perde le qualifiche di polizia giudiziaria fino al termine della punizione",
+    "C": "conserva il grado, le funzioni di comando e le qualifiche, come quella di ufficiale o agente di polizia giudiziaria",
+    "D": "è collocato nella forza assente del comando di corpo per la durata della sanzione"
+   },
+   "corretta": "C",
+   "spiegazione": "Durante l'esecuzione della consegna e della consegna di rigore il militare non subisce alcuna diminuzione del grado, delle funzioni direttive o di comando, né delle qualifiche soggettive (ufficiale o agente di polizia giudiziaria): attende alle normali occupazioni e al servizio. Il transito nella forza assente e la perdita dell'esercizio delle funzioni riguardano la sospensione disciplinare dall'impiego, sanzione di stato.",
+   "riferimenti": [
+    "COM artt. 1361-1362"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi pp. 195-196"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-050",
+   "argomento": "esecuzione-sanzioni",
+   "sinossi": "V.5.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Ultimata la punizione, secondo l'art. 1367 COM, il militare:",
+   "opzioni": {
+    "A": "riferisce per iscritto sull'esecuzione al superiore che ha controllato la punizione",
+    "B": "presenta istanza di cancellazione della trascrizione al comandante di corpo",
+    "C": "è presentato al comandante di corpo, che prende atto della regolare esecuzione",
+    "D": "è presentato al superiore che l'ha inflitta, se non ne è espressamente dispensato"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1367 COM: tutti i militari, ultimata la punizione, sono presentati al superiore che l'ha inflitta, se non ne sono espressamente dispensati; giorno e ora sono stabiliti dalla stessa autorità. La cancellazione degli effetti delle sanzioni trascritte si chiede al Ministro dopo almeno due anni (art. 1369).",
+   "riferimenti": [
+    "COM art. 1367",
+    "COM art. 1369"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 195"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-051",
+   "argomento": "esecuzione-sanzioni",
+   "sinossi": "V.5.c",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "L'esecuzione della consegna o della consegna di rigore può essere sospesa:",
+   "opzioni": {
+    "A": "dal comandante di corpo, solo per motivi di servizio, fino a un massimo di sette giorni",
+    "B": "dall'autorità che decide il ricorso gerarchico, se il ricorso è proposto entro trenta giorni",
+    "C": "dall'autorità che ha inflitto la sanzione, per il tempo strettamente necessario, per esigenze private o di servizio",
+    "D": "dal Ministro della difesa, in occasione di particolari ricorrenze"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1368, co. 1, COM: l'autorità che ha inflitto la consegna o la consegna di rigore può sospenderne l'esecuzione, per il tempo strettamente necessario, sia per concrete e motivate esigenze di carattere privato del punito, sia per motivi di servizio. Il ricorso gerarchico non sospende l'esecuzione. Il Ministro, in occasione di particolari ricorrenze, può condonare collettivamente le sanzioni (co. 2): è un istituto diverso.",
+   "riferimenti": [
+    "COM art. 1368, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 195"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-052",
+   "argomento": "esecuzione-sanzioni",
+   "sinossi": "V.5.c",
+   "tipo": "competenza",
+   "difficolta": 3,
+   "domanda": "Il condono collettivo delle sanzioni della consegna e della consegna di rigore in corso di esecuzione:",
+   "opzioni": {
+    "A": "spetta al Ministro, al Comandante generale per la festa d'Arma e al comandante di corpo per la festa del corpo, e non cancella la trascrizione",
+    "B": "spetta al solo Ministro della difesa, in particolari ricorrenze, e comporta la cancellazione della trascrizione dagli atti matricolari",
+    "C": "spetta al Comandante generale per la festa d'Arma e al comandante di corpo per la festa del corpo, e comporta la cessazione di ogni effetto",
+    "D": "spetta al Ministro della difesa e al Comandante generale, e riguarda anche il rimprovero già trascritto nella documentazione"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1368, co. 2-3, COM: il Ministro della difesa, in occasione di particolari ricorrenze, può condonare collettivamente le consegne e le consegne di rigore in corso di esecuzione; analoga facoltà è concessa al Capo di stato maggiore di Forza armata o al Comandante generale per la festa d'Arma e al comandante del corpo per la festa del corpo. Il condono non comporta la cancellazione della trascrizione dagli atti matricolari o personali. Il rimprovero non ha esecuzione e non è oggetto di condono.",
+   "riferimenti": [
+    "COM art. 1368, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-053",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Il n. 41 dell'art. 751, co. 1, lett. a), TUROM punisce con la consegna di rigore:",
+   "opzioni": {
+    "A": "la violazione degli obblighi di esecuzione della consegna o della consegna di rigore e le punizioni non previste",
+    "B": "il ritardo ingiustificato e ripetuto, superiore alle otto ore, nel rientro dalla libera uscita, dalla licenza o dal permesso",
+    "C": "l'inosservanza degli obblighi connessi all'esecuzione della sola consegna di rigore, non della consegna",
+    "D": "l'irrogazione di sanzioni sproporzionate da parte del superiore, senza la commissione di disciplina"
+   },
+   "corretta": "A",
+   "spiegazione": "Il n. 41 punisce l'«inosservanza degli obblighi connessi all'esecuzione della sanzione disciplinare di consegna di rigore o della consegna» e l'«irrogazione di punizioni non previste dal regolamento» (artt. 1358, 1361 e 1362 COM): colpisce quindi sia il punito che viola l'obbligo, per entrambe le sanzioni, sia il superiore che infligge punizioni non previste. Il ritardo nel rientro dalla libera uscita è il n. 31. La sproporzione della sanzione è un vizio dell'atto, non questa infrazione.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), nn. 31 e 41",
+    "COM art. 1353"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 201"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-054",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo Cons. Stato, sez. IV, 29 aprile 2015, n. 2179, la consegna di rigore:",
+   "opzioni": {
+    "A": "è una misura restrittiva della libertà personale, legittima perché prevista dalla legge e motivata",
+    "B": "si configura come un mero obbligo giuridico, la cui violazione fonda solo nuove sanzioni disciplinari",
+    "C": "è incompatibile con l'art. 5 CEDU se inflitta da un'autorità amministrativa",
+    "D": "è una pena accessoria militare, applicabile solo dopo la condanna penale irrevocabile"
+   },
+   "corretta": "B",
+   "spiegazione": "La sentenza ha respinto la tesi del contrasto con l'art. 5 CEDU: la consegna di rigore non ha carattere di limite alla libertà personale, perché i locali destinati ai puniti hanno caratteristiche analoghe agli alloggi della caserma (esclusa l'assimilabilità a strutture detentive) e la norma prevede un mero potere di controllo dell'esecuzione, senza strumenti di restrizione; la sanzione «viene a configurarsi come un mero obbligo giuridico, il cui mancato rispetto può eventualmente essere posto solo a fondamento di ulteriori interventi disciplinari».",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179",
+    "COM artt. 1358, co. 5, e 1362, co. 5-6",
+    "Cost. art. 13"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 181"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-055",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Su quali dati normativi Cons. Stato, sez. IV, n. 2179/2015 fonda l'esclusione del carattere detentivo della consegna di rigore?",
+   "opzioni": {
+    "A": "sui locali, analoghi agli alloggi della caserma, e sul mero potere di controllo dell'esecuzione",
+    "B": "sul parere obbligatorio della commissione di disciplina e sull'assistenza del difensore militare",
+    "C": "sulla durata massima di quindici giorni e sulla competenza esclusiva del comandante di corpo",
+    "D": "sulla possibilità di scontare la sanzione nel proprio alloggio e sul condono collettivo"
+   },
+   "corretta": "A",
+   "spiegazione": "La sentenza valorizza l'art. 1362 COM: i locali destinati ai puniti di consegna di rigore hanno caratteristiche analoghe a quelle degli altri locali della caserma adibiti ad alloggio (co. 5), il che esclude l'assimilabilità a strutture detentive; e la norma prevede un mero potere di «controllo dell'esecuzione della sanzione» (co. 6), senza consentire strumenti di restrizione. La durata, la competenza, le garanzie procedimentali e il condono non sono gli argomenti usati.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179",
+    "COM art. 1362, co. 5-6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-056",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Con la sentenza n. 406 del 2000 la Corte costituzionale:",
+   "opzioni": {
+    "A": "ha dichiarato illegittima la consegna di rigore inflitta per fatti già oggetto di richiesta di procedimento penale",
+    "B": "ha dichiarato non fondata la questione sull'art. 260, co. 2, c.p.m.p., senza decidere se la consegna di rigore limiti la libertà personale",
+    "C": "ha affermato che la consegna di rigore è una misura restrittiva della libertà personale compatibile con l'art. 13 Cost.",
+    "D": "ha dichiarato illegittimo l'art. 260, co. 2, c.p.m.p. nella parte in cui non prevede l'alternatività con la consegna di rigore"
+   },
+   "corretta": "B",
+   "spiegazione": "La Corte militare di appello dubitava, in riferimento agli artt. 2 e 3 Cost., dell'art. 260, co. 2, c.p.m.p. nella parte in cui non preclude la richiesta di procedimento dopo l'inflizione della consegna di rigore per lo stesso fatto. La Corte ha dichiarato la questione non fondata; ha ricordato la tesi secondo cui la consegna di rigore si traduce in un mero obbligo giuridico, senza deciderla, e ha osservato che le norme regolamentari miravano a impedire la celebrazione contemporanea dei due procedimenti, non il cumulo delle sanzioni. La tesi del mero obbligo è stata poi accolta da Cons. Stato, sez. IV, n. 2179/2015.",
+   "riferimenti": [
+    "Corte cost., 31 luglio 2000, n. 406",
+    "c.p.m.p. art. 260, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-057",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Cons. Stato, sez. II, 11 maggio 2022, n. 3720, relativa a tre giorni di consegna, ha affermato che:",
+   "opzioni": {
+    "A": "la consegna, a differenza della consegna di rigore, limita la libertà personale ed è legittima solo se breve",
+    "B": "la contestazione deve essere immediata, perché il «senza ritardo» dell'art. 1398 COM è un termine perentorio",
+    "C": "le sanzioni di corpo hanno natura sostanzialmente penale secondo i criteri Engel, ma non violano il ne bis in idem",
+    "D": "il procedimento disciplinare ha natura amministrativa e la consegna di rigore non ha contenuto afflittivo omologo alla reclusione militare"
+   },
+   "corretta": "D",
+   "spiegazione": "La sentenza, richiamando Corte cost. n. 406/2000 e Cons. Stato, sez. IV, n. 2179/2015, ha respinto la censura di limitazione della libertà personale secondo gli indici europei: il procedimento disciplinare ha natura amministrativa e sfocia in un provvedimento non giurisdizionale, e la consegna di rigore non ha un contenuto afflittivo omologo alla sanzione penale della reclusione militare. Ha anche ribadito che il «senza ritardo» delle sanzioni di corpo va inteso secondo ragionevolezza.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 11 maggio 2022, n. 3720",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-058",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Se deve essere adottato un provvedimento disciplinare per più trasgressioni commesse da un militare, anche in tempi diversi:",
+   "opzioni": {
+    "A": "si infligge un'unica punizione in relazione alla più grave delle trasgressioni e al comportamento complessivo",
+    "B": "si infligge una sanzione per ciascuna trasgressione, da scontare consecutivamente",
+    "C": "si infligge la sanzione più grave, aumentata fino al doppio della durata massima",
+    "D": "si procede con la consegna di rigore, perché la pluralità di trasgressioni ne è presupposto"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1355, co. 5, COM: se deve essere adottato un provvedimento disciplinare riguardante più trasgressioni commesse da un militare, anche in tempi diversi, è inflitta un'unica punizione in relazione alla più grave delle trasgressioni e al comportamento contrario alla disciplina rivelato complessivamente dalla condotta del militare. È quindi scorretto infliggere più provvedimenti distinti da scontare uno dopo l'altro. La recidiva è un'aggravante (co. 3, lett. d), non un presupposto della consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1355, co. 5",
+    "COM art. 1355, co. 3, lett. d)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 150"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-059",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Perché la consegna e la consegna di rigore non contrastano con l'art. 13, co. 2, Cost.?",
+   "opzioni": {
+    "A": "perché l'obbligo che impongono non è assistito da strumenti coercitivi e la sua violazione fonda solo ulteriori sanzioni disciplinari",
+    "B": "perché l'art. 52 Cost. consente restrizioni della libertà personale dei militari senza atto dell'autorità giudiziaria",
+    "C": "perché sono inflitte all'esito di un procedimento con le garanzie del contraddittorio",
+    "D": "perché la loro durata è inferiore al limite delle quarantotto ore previsto per i provvedimenti provvisori"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 13, co. 2, Cost. riserva all'autorità giudiziaria ogni restrizione della libertà personale. La consegna e la consegna di rigore non sono restrizioni di questo tipo: impongono un obbligo giuridico che il punito osserva da sé; non può essere fermato con la forza né ricondotto nel luogo della punizione, e la violazione rileva solo come nuova infrazione (art. 751, n. 41, TUROM). Le garanzie procedimentali non basterebbero a legittimare una vera restrizione; l'art. 52 Cost. non deroga all'art. 13.",
+   "riferimenti": [
+    "Cost. art. 13, co. 2",
+    "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179",
+    "TUROM art. 751, co. 1, lett. a), n. 41"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi pp. 178-179"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-060",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Il «proprio alloggio» in cui si può scontare la consegna di rigore, secondo l'art. 1362, co. 2, COM:",
+   "opzioni": {
+    "A": "è soltanto l'alloggio di servizio, perché quello privato è sottratto al controllo",
+    "B": "è la cameretta assegnata in caserma, anche a chi ha un alloggio privato",
+    "C": "è soltanto quello privato, per i militari coniugati",
+    "D": "può essere sia quello privato sia quello di servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1362, co. 2, COM: il proprio alloggio di cui all'art. 1358, co. 5, può essere sia quello privato sia quello di servizio. La cameretta non è un alloggio privato: i locali destinati ai puniti devono avere caratteristiche analoghe a quelle degli alloggi della caserma (co. 5), con un minimo abitativo.",
+   "riferimenti": [
+    "COM art. 1362, co. 2 e 5",
+    "COM art. 1358, co. 5"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-061",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il comandante di corpo può far scontare la consegna di rigore in apposito spazio dell'ambiente militare anche al personale provvisto di alloggio?",
+   "opzioni": {
+    "A": "No, il personale con alloggio sconta sempre la consegna di rigore nell'alloggio",
+    "B": "Sì, per particolari motivi di servizio",
+    "C": "Sì, ma solo con il consenso dell'interessato",
+    "D": "Sì, per particolari ragioni di disciplina"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1362, co. 3, COM: il comandante di corpo può far scontare, per particolari ragioni di disciplina, la consegna di rigore in apposito spazio nell'ambiente militare anche al personale provvisto di alloggio privato o di servizio. I «particolari motivi di servizio» sono invece il presupposto del co. 4, che consente al superiore che ha inflitto la punizione di farla scontare con le stesse modalità della consegna. Nella prassi la facoltà del co. 3 non viene esercitata.",
+   "riferimenti": [
+    "COM art. 1362, co. 3-4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-062",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 1362, co. 4, COM, la consegna di rigore può essere scontata con le stesse modalità previste per la consegna:",
+   "opzioni": {
+    "A": "se lo dispone il comandante di corpo, per particolari ragioni di disciplina",
+    "B": "se lo chiede il militare punito, per concrete e motivate esigenze di carattere privato",
+    "C": "se lo propone la commissione di disciplina nel suo parere, che diventa vincolante",
+    "D": "se lo dispone il superiore che ha inflitto la punizione, quando lo richiedono particolari motivi di servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1362, co. 4, COM: il superiore che ha inflitto la punizione può disporre che la consegna di rigore venga scontata con le stesse modalità previste per la consegna, se lo richiedono particolari motivi di servizio. È la soluzione seguita nella prassi. Le esigenze private giustificano la sospensione dell'esecuzione (art. 1368, co. 1); le «ragioni di disciplina» sono il presupposto opposto del co. 3; il parere della commissione non è vincolante.",
+   "riferimenti": [
+    "COM art. 1362, co. 3-4",
+    "COM art. 1368, co. 1",
+    "COM art. 1399, co. 6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 181"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-063",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.5.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il controllo dell'esecuzione della consegna di rigore è affidato:",
+   "opzioni": {
+    "A": "ai carabinieri della stazione competente per il luogo in cui si trova l'alloggio",
+    "B": "alla commissione di disciplina che ha espresso il parere",
+    "C": "a superiori o pari grado del punito, secondo le disposizioni di ciascuna Forza armata",
+    "D": "esclusivamente al comandante di corpo che ha inflitto la sanzione, senza deleghe"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1362, co. 6, COM: il controllo dell'esecuzione della sanzione è affidato a superiori o pari grado del punito ed è esercitato secondo le disposizioni di ciascuna Forza armata o Corpo armato. È un mero controllo, senza poteri coattivi; nella prassi del servizio territoriale è una norma in disuso, mentre negli istituti di formazione si esercita, ad esempio, con l'adunata dei puniti.",
+   "riferimenti": [
+    "COM art. 1362, co. 6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 181"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-064",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.5.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il provvedimento che infligge la consegna di rigore:",
+   "opzioni": {
+    "A": "è subito comunicato verbalmente, poi notificato per iscritto, ed è esecutivo dalla comunicazione verbale",
+    "B": "è comunicato verbalmente al termine della seduta della commissione ed è esecutivo dopo la presa d'atto",
+    "C": "è comunicato per iscritto ed è esecutivo dalla notifica",
+    "D": "è comunicato per iscritto entro tre giorni ed è esecutivo dal giorno successivo"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1362, co. 8-9, COM: il provvedimento è subito comunicato verbalmente all'interessato e successivamente notificato mediante comunicazione scritta; è trascritto nella documentazione personale ed è esecutivo dal giorno della comunicazione verbale. Il comandante deve rendere nota la decisione possibilmente entro lo stesso giorno della seduta (art. 1399, co. 7).",
+   "riferimenti": [
+    "COM art. 1362, co. 8-9",
+    "COM art. 1399, co. 7"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 195"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-065",
+   "argomento": "procedimento-consegna-rigore",
+   "sinossi": "VIII.3",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "La commissione di disciplina per la consegna di rigore:",
+   "opzioni": {
+    "A": "è composta da cinque militari nominati dal comandante di corpo e decide a maggioranza",
+    "B": "è composta da tre ufficiali superiori ed esprime un parere vincolante sulla specie della sanzione",
+    "C": "è composta da tre militari, due di grado superiore e uno pari grado del militare, ed esprime un parere non vincolante",
+    "D": "è composta da tre militari di grado superiore al militare ed esprime un parere vincolante solo se unanime"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1400 COM: il comandante di corpo, quando deve giudicare un'infrazione per la quale è prevista la consegna di rigore, deve sentire il parere di una commissione di tre militari, due di grado superiore e uno pari grado del militare, nominata da lui e presieduta dal più elevato in grado o dal più anziano. Il parere, reso entro due ore, eventualmente a maggioranza, non è vincolante (art. 1399, co. 3, 5 e 6). Non possono farne parte il superiore che ha rilevato la mancanza e il militare offeso o danneggiato.",
+   "riferimenti": [
+    "COM art. 1400",
+    "COM art. 1399, co. 3-6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 151"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-066",
+   "argomento": "procedimento-consegna-rigore",
+   "sinossi": "VIII.3",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Se il rapporto disciplinare riguarda un comportamento punibile con la consegna di rigore, il comandante di corpo:",
+   "opzioni": {
+    "A": "può valutare discrezionalmente se aprire il procedimento o definire il fatto con il richiamo",
+    "B": "è obbligato a instaurare il procedimento disciplinare",
+    "C": "deve rimettere gli atti al comandante di reparto ai fini disciplinari",
+    "D": "deve attendere l'esito di eventuali procedimenti penali prima di procedere"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1397, co. 7, COM: se l'infrazione indicata nel rapporto è prevista tra i comportamenti punibili con la consegna di rigore, il comandante di corpo è obbligato a instaurare il procedimento disciplinare, con la procedura dell'art. 1399. L'esito resta aperto (può concludersi con una sanzione minore o senza sanzione), ma il procedimento è doveroso. La pendenza del procedimento penale non sospende, di regola, quello disciplinare (art. 1393, co. 1).",
+   "riferimenti": [
+    "COM art. 1397, co. 7",
+    "COM art. 1399",
+    "COM art. 1393, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 150"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-067",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Nell'irrogazione della consegna di rigore, l'art. 751, co. 2, TUROM impone di tenere conto, anche se non è previsto nella singola fattispecie:",
+   "opzioni": {
+    "A": "dei soli precedenti disciplinari, del grado, dell'età e dell'anzianità di servizio del militare",
+    "B": "della gravità del fatto, della recidività, delle circostanze e del danno al servizio",
+    "C": "del parere della commissione di disciplina, che diventa vincolante se unanime",
+    "D": "della volontà della persona offesa, se il fatto è previsto come reato"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 751, co. 2, TUROM: anche se non è espressamente previsto nelle singole fattispecie, nell'irrogazione della consegna di rigore si tiene conto della gravità del fatto, della recidività, delle circostanze in cui è stata commessa l'infrazione e del danno derivato al servizio e all'amministrazione. Precedenti, grado, età e anzianità sono i criteri generali dell'art. 1355, co. 2, COM, che valgono per tutte le sanzioni.",
+   "riferimenti": [
+    "TUROM art. 751, co. 2",
+    "COM art. 1355, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 150"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-068",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "La richiesta di procedimento del comandante di corpo per i reati dell'art. 260, co. 2, c.p.m.p. non può più essere proposta:",
+   "opzioni": {
+    "A": "decorso un mese dal giorno in cui l'autorità ha avuto notizia del fatto che costituisce reato",
+    "B": "decorsi novanta giorni dalla commissione del fatto, termine del procedimento di corpo",
+    "C": "decorsi tre mesi dalla notizia del fatto, come per la querela",
+    "D": "dopo l'inflizione della consegna di rigore per lo stesso fatto"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 260, co. 4, c.p.m.p.: nei casi del secondo e del terzo comma, la richiesta non può più essere proposta decorso un mese dal giorno in cui l'autorità ha avuto notizia del fatto che costituisce il reato. Il termine di novanta giorni è quello del procedimento di corpo (dalla contestazione). Che l'inflizione della consegna di rigore precluda la richiesta, o la renda inefficace, è la tesi della Cass. pen., sez. I, n. 26536/2023, non una regola dell'art. 260; la Corte costituzionale (sent. n. 406/2000) ha escluso l'illegittimità della norma che non la preclude.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2 e 4",
+    "Corte cost., 31 luglio 2000, n. 406"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-069",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Per stabilire se un reato militare sia punibile a richiesta del comandante di corpo ai sensi dell'art. 260, co. 2, c.p.m.p. si guarda:",
+   "opzioni": {
+    "A": "al minimo della pena edittale, che non deve superare sei mesi di reclusione militare",
+    "B": "al massimo della pena edittale, tenuto conto delle aggravanti a effetto speciale",
+    "C": "alla pena in concreto applicabile, tenuto conto delle attenuanti",
+    "D": "alla pena richiesta dal pubblico ministero nella richiesta di rinvio a giudizio"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 260, co. 2, c.p.m.p. riguarda i reati per i quali la legge stabilisce la reclusione militare non superiore nel massimo a sei mesi: si guarda al massimo edittale, comprese le circostanze aggravanti a effetto speciale. Nel caso deciso da Cass. pen., sez. I, n. 26536/2023, l'ingiuria (art. 226 c.p.m.p., fino a quattro mesi) aggravata dalla finalità di discriminazione razziale (art. 604-ter c.p., aumento fino alla metà) raggiungeva il massimo di sei mesi, e restava quindi procedibile a richiesta.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2",
+    "c.p.m.p. art. 226",
+    "c.p. art. 604-ter"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica pp. 144-145"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-070",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere rivolge un'espressione offensiva a un commilitone presente. Sul piano penale militare:",
+   "opzioni": {
+    "A": "è un'ingiuria militare procedibile d'ufficio, perché punita con la reclusione militare fino a un anno",
+    "B": "non è più reato, perché l'ingiuria è stata depenalizzata anche nel codice penale militare",
+    "C": "è un'ingiuria militare punita fino a quattro mesi, procedibile a richiesta del comandante di corpo",
+    "D": "è un'ingiuria militare procedibile a querela della persona offesa, da proporre entro tre mesi"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 226 c.p.m.p. punisce con la reclusione militare fino a quattro mesi il militare che offende l'onore o il decoro di altro militare presente (fino a sei mesi se l'offesa consiste nell'attribuzione di un fatto determinato). Trattandosi di reato punito nel massimo con non più di sei mesi, è procedibile a richiesta del comandante di corpo (art. 260, co. 2, c.p.m.p.), che può non richiedere il procedimento e punire con la consegna di rigore (art. 1362, co. 7, lett. a, COM).",
+   "riferimenti": [
+    "c.p.m.p. art. 226",
+    "c.p.m.p. art. 260, co. 2",
+    "COM art. 1362, co. 7, lett. a)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-071",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un militare danneggia per colpa l'autovettura di servizio. Il comandante di corpo comunica alla Procura militare che non intende richiedere il procedimento penale. Il fatto:",
+   "opzioni": {
+    "A": "non può più essere valutato disciplinarmente, perché la rinuncia alla richiesta estingue ogni responsabilità",
+    "B": "può essere punito solo con il richiamo, perché il danno colposo è una lieve mancanza",
+    "C": "può essere punito anche con la consegna di rigore, come fatto previsto come reato non perseguito",
+    "D": "deve essere valutato con il procedimento di stato, perché si tratta di un fatto previsto come reato"
+   },
+   "corretta": "C",
+   "spiegazione": "Il danneggiamento colposo di cose mobili militari (artt. 169-170 c.p.m.p.) è punito con la reclusione militare fino a sei mesi ed è quindi procedibile a richiesta del comandante di corpo (art. 260, co. 2, c.p.m.p.). Se il comandante non richiede il procedimento, il fatto può essere punito con la consegna di rigore (art. 1362, co. 7, lett. a, COM), riservata ai casi gravi, o con una sanzione minore, anche rimettendo la valutazione al comandante di reparto. Il procedimento di stato non è obbligatorio; la notizia di reato va comunque comunicata alla Procura.",
+   "riferimenti": [
+    "c.p.m.p. artt. 170 e 260, co. 2",
+    "COM art. 1362, co. 7, lett. a)",
+    "c.p. art. 361"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-072",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo Cass. pen., sez. I, 20 giugno 2023, n. 26536, se il comandante di corpo, dopo aver richiesto il procedimento penale per un reato dell'art. 260 c.p.m.p., infligge la consegna di rigore per lo stesso fatto:",
+   "opzioni": {
+    "A": "la pretesa punitiva si esaurisce con la sanzione disciplinare e l'azione penale diventa improcedibile",
+    "B": "la richiesta resta valida, perché è irrevocabile, e la consegna di rigore va annullata",
+    "C": "il militare può chiedere la conversione della consegna di rigore in pena pecuniaria",
+    "D": "il giudice penale deve detrarre i giorni di consegna di rigore dalla pena inflitta"
+   },
+   "corretta": "A",
+   "spiegazione": "La Corte ha ritenuto che dal combinato disposto degli artt. 260, co. 2, c.p.m.p. e 1362, co. 7, COM derivi, per i reati militari puniti con non più di sei mesi, un principio di alternatività tra sanzione penale e consegna di rigore: applicando la consegna di rigore, il comandante dimostra di non ritenere più opportuna la richiesta; la pretesa punitiva si esaurisce e l'azione penale diventa improcedibile. La tesi dell'irrevocabilità della richiesta (art. 129 c.p.) è l'argomento dei critici della sentenza.",
+   "riferimenti": [
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536",
+    "c.p.m.p. art. 260, co. 2",
+    "COM art. 1362, co. 7, lett. a)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-073",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Nel caso deciso da Cass. pen., sez. I, n. 26536/2023, l'esito per l'allievo maresciallo fu:",
+   "opzioni": {
+    "A": "l'annullamento senza rinvio della condanna, perché l'azione penale non doveva essere iniziata; la consegna di rigore restò",
+    "B": "l'annullamento della consegna di rigore e la conferma della condanna penale",
+    "C": "l'annullamento con rinvio, perché la Corte militare di appello rideterminasse la pena detraendo la consegna",
+    "D": "il rigetto del ricorso, perché le sanzioni disciplinari non hanno natura penale secondo i criteri Engel"
+   },
+   "corretta": "A",
+   "spiegazione": "L'allievo maresciallo era stato condannato a quattro mesi di reclusione militare per ingiurie aggravate e punito con due giorni di consegna di rigore. Il ricorso, fondato sul ne bis in idem e sui criteri Engel, è stato accolto per un percorso diverso: la Corte ha annullato senza rinvio la sentenza perché l'azione penale non doveva essere iniziata per mancanza della condizione di procedibilità. La Cassazione non poteva annullare la consegna di rigore, atto amministrativo, che rimase.",
+   "riferimenti": [
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-074",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "La sentenza Cass. pen., sez. I, n. 26536/2023 richiama come precedente sul principio di alternatività:",
+   "opzioni": {
+    "A": "Corte cost., 31 luglio 2000, n. 406",
+    "B": "Cass. pen., sez. I, 3 settembre 2024, n. 33369",
+    "C": "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179",
+    "D": "Cass. pen., sez. I, 9 luglio 2013, n. 43467"
+   },
+   "corretta": "D",
+   "spiegazione": "La sentenza richiama Cass. pen., sez. I, 9 luglio 2013, n. 43467: in tema di reati militari non sussiste un principio generale di alternatività tra azione disciplinare e richiesta di procedimento penale, al di fuori dell'art. 1362, co. 7, COM. È la stessa pronuncia citata, con il numero errato «43867», dalla circolare del Comando Generale sugli stupefacenti (n. 276/148-78-2009). Corte cost. n. 406/2000 ha escluso invece un'alternatività imposta dalla Costituzione; Cons. Stato n. 2179/2015 riguarda la natura della consegna di rigore; Cass. n. 33369/2024 la disobbedienza.",
+   "riferimenti": [
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536",
+    "Cass. pen., sez. I, 9 luglio 2013, n. 43467"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-075",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Quale argomento normativo si oppone alla tesi dell'alternatività tra richiesta di procedimento e consegna di rigore?",
+   "opzioni": {
+    "A": "l'art. 1362, co. 7, lett. b), COM, che consente la consegna di rigore anche per fatti che hanno determinato un giudizio penale",
+    "B": "l'art. 1393, co. 1, COM, che impone di sospendere il procedimento disciplinare fino all'esito di quello penale",
+    "C": "l'art. 1355, co. 5, COM, che impone un'unica punizione per più trasgressioni",
+    "D": "l'art. 1398, co. 1, COM, che fa decorrere il procedimento dall'archiviazione del procedimento penale"
+   },
+   "corretta": "A",
+   "spiegazione": "Se la consegna di rigore può essere inflitta dopo il giudizio penale (art. 1362, co. 7, lett. b, COM), non si vede perché non possa esserlo prima: il comandante potrebbe comunque attendere l'esito del processo e poi punire. Già la Corte costituzionale (sent. n. 406/2000) aveva letto le norme come dirette a evitare la celebrazione contemporanea dei procedimenti, non il cumulo. L'art. 1393, co. 1, impone invece di procedere anche in pendenza del penale; le lett. b) e c) dell'art. 1398, co. 1, sono abrogate.",
+   "riferimenti": [
+    "COM art. 1362, co. 7, lett. b)",
+    "COM art. 1393, co. 1",
+    "Corte cost., 31 luglio 2000, n. 406"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-076",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 1393, co. 1, COM, il procedimento disciplinare per fatti per i quali procede l'autorità giudiziaria:",
+   "opzioni": {
+    "A": "è sospeso fino all'esito del procedimento penale, salvo che il militare chieda espressamente di procedere",
+    "B": "è avviato in pendenza del penale solo se il militare è sospeso precauzionalmente dall'impiego",
+    "C": "è avviato solo dopo l'archiviazione o la sentenza irrevocabile, per evitare contrasti di giudicati",
+    "D": "è avviato, proseguito e concluso anche in pendenza del penale, salvo eccezioni per i casi più gravi e complessi"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1393, co. 1, COM: il procedimento disciplinare è avviato, proseguito e concluso anche in pendenza del procedimento penale. Solo per le infrazioni punibili con la consegna di rigore o con sanzioni di stato, e solo nei casi di particolare complessità dell'accertamento o di insufficienza degli elementi conoscitivi, l'autorità promuove il procedimento al termine di quello penale. La regola ha sostituito la vecchia pregiudiziale penale (L. 124/2015; D.Lgs. 91/2016).",
+   "riferimenti": [
+    "COM art. 1393, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-077",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "La richiesta di procedimento del comandante di corpo ex art. 260 c.p.m.p.:",
+   "opzioni": {
+    "A": "è revocabile fino all'apertura del dibattimento e richiede motivazione ai sensi della L. 241/1990",
+    "B": "è irrevocabile, deve essere scritta e sottoscritta, e non richiede motivazione perché è atto processuale",
+    "C": "è un atto amministrativo impugnabile davanti al TAR dal militare interessato",
+    "D": "può essere formulata anche oralmente al pubblico ministero, entro tre mesi dalla notizia del fatto"
+   },
+   "corretta": "B",
+   "spiegazione": "La richiesta di procedimento è un atto formale e irrevocabile (art. 129, co. 1, c.p.), da formulare per iscritto e sottoscrivere (art. 342 c.p.p.), da presentare al pubblico ministero presso la Procura militare entro un mese dalla notizia del fatto (art. 260, co. 4, c.p.m.p.). Non è soggetta all'obbligo di motivazione dell'art. 3 della L. 241/1990, perché è atto processuale, non amministrativo.",
+   "riferimenti": [
+    "c.p. art. 129, co. 1",
+    "c.p.m.p. art. 260, co. 4",
+    "c.p.p. art. 342"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-078",
+   "argomento": "disciplina-corpo-stato",
+   "sinossi": "V.1.e",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Davanti a un fatto di dubbia gravità, perché è prudente valutare con attenzione se procedere in via di stato o di corpo?",
+   "opzioni": {
+    "A": "perché la sanzione di corpo può essere convertita in sanzione di stato entro novanta giorni",
+    "B": "perché il procedimento di stato è di competenza del comandante di corpo e quello di corpo del comandante di reparto",
+    "C": "perché scegliendo la via di corpo si preclude la disciplina di stato, mentre avviata quella di stato si può scendere a quella di corpo",
+    "D": "perché le due sanzioni si cumulano e la seconda deve tenere conto della prima"
+   },
+   "corretta": "C",
+   "spiegazione": "Tra sanzione di corpo e sanzione di stato per lo stesso fatto vi è un rapporto di necessaria alternatività: punito il fatto in via di corpo, la disciplina di stato è preclusa; avviato il procedimento di stato, gli atti possono invece essere rimessi al comandante di corpo per la valutazione di corpo (art. 1398, co. 1, lett. d, COM). Per questo comandante di reparto, comandante di corpo e ufficio che tratta la disciplina devono confrontarsi. Le sanzioni non si cumulano né si convertono.",
+   "riferimenti": [
+    "COM art. 1398, co. 1, lett. d)",
+    "TUROM art. 751, co. 4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 7"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-079",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un carabiniere smarrisce il tesserino. Il comandante di corpo, ricevuta l'informativa, non richiede il procedimento penale e ritiene il fatto di competenza del comandante di reparto. Come procede?",
+   "opzioni": {
+    "A": "contesta lui stesso l'addebito al militare e delega al comandante di reparto la sola decisione finale",
+    "B": "attende l'archiviazione del procedimento penale prima di rimettere gli atti al comandante di reparto",
+    "C": "trasmette gli atti alla commissione di disciplina, che decide la sanzione",
+    "D": "comunica alla Procura che non richiede il procedimento e, con un altro foglio, rimette la valutazione al comandante di reparto"
+   },
+   "corretta": "D",
+   "spiegazione": "Nella prassi l'informativa sul fatto è inviata a doppio indirizzo, alla Procura militare e al comandante di corpo; il comandante di corpo comunica alla Procura che non richiede il procedimento penale e, con un distinto foglio («in merito alla CNR si prega di valutare la posizione disciplinare»), rimette la valutazione al comandante di reparto ai fini disciplinari, che apre il procedimento. La commissione di disciplina interviene solo per la consegna di rigore.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2",
+    "COM art. 1362, co. 7, lett. a)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "lezione 8 (7.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-080",
+   "argomento": "doveri-generalita",
+   "sinossi": "II.1",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La consegna punisce la violazione dei doveri diversi da quelli dell'art. 751 TUROM. Dove si trovano questi doveri?",
+   "opzioni": {
+    "A": "soltanto negli artt. 712-731 TUROM, che formano il Capo I, intitolato ai doveri dei militari",
+    "B": "soltanto nell'art. 1346 COM, che enuncia i doveri fondamentali di disciplina e obbedienza",
+    "C": "nel COM, negli artt. 712-731 TUROM e in ogni altra norma del regolamento che ponga al militare un dovere",
+    "D": "nel Codice di comportamento dei dipendenti del Ministero della difesa, che li elenca in modo tassativo"
+   },
+   "corretta": "C",
+   "spiegazione": "I doveri sono anzitutto quelli fondamentali del COM (art. 1346: disciplina, gerarchia, obbedienza) e quelli del Capo I del TUROM (artt. 712-731: generali, dei superiori, degli inferiori). Ma vi sono doveri anche altrove, dovunque la norma dica che il militare «deve» o parli di «dovere»: l'art. 732 elenca ulteriori doveri del personale dell'Arma, l'art. 748 pone un dovere informativo. Il Codice di comportamento della Difesa rinvia, per gli obblighi disciplinari dei militari, al COM e al TUROM.",
+   "riferimenti": [
+    "COM art. 1346",
+    "TUROM artt. 712-731, 732 e 748"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-081",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un militare con ottimi precedenti viola per colpa, una sola volta e senza testimoni, un dovere punibile con la consegna. L'autorità:",
+   "opzioni": {
+    "A": "deve infliggere almeno un giorno di consegna, perché la violazione di un dovere comporta per legge la consegna",
+    "B": "deve archiviare, perché le infrazioni colpose sono punibili solo con il richiamo",
+    "C": "deve infliggere la consegna di rigore, perché la violazione di un dovere è tipizzata nell'art. 751 TUROM",
+    "D": "può graduare la sanzione secondo l'art. 1355 COM fino a qualificare il fatto come lieve trasgressione"
+   },
+   "corretta": "D",
+   "spiegazione": "La violazione di un dovere orienta verso la consegna (art. 1361, co. 1, lett. a, COM), ma la sanzione si determina con i criteri dell'art. 1355: gravità e tipo di mancanza (co. 1), precedenti, grado, età e anzianità (co. 2), maggior rigore per le infrazioni intenzionali, commesse in presenza o in concorso con altri militari, recidive (co. 3). In assenza di aggravanti, con colpa e ottimi precedenti, l'autorità può scendere fino al rimprovero. Le infrazioni colpose non sono limitate al richiamo; la consegna di rigore richiede un comportamento dell'art. 751.",
+   "riferimenti": [
+    "COM art. 1355, co. 1-3",
+    "COM art. 1361, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 150"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E001",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "posizione-docente"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il richiamo punisce solo mancanze colpose di lieve entità",
+    "B": "il richiamo punisce omissioni causate da negligenza, imprudenza o imperizia",
+    "C": "il richiamo punisce lievi trasgressioni alle norme della disciplina e del servizio",
+    "D": "il richiamo punisce lievi mancanze e omissioni causate da negligenza"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1359, co. 1, COM: il richiamo punisce a) lievi mancanze; b) omissioni causate da negligenza. Sono due ipotesi distinte, separate da un punto e virgola: le lievi mancanze possono essere dolose o colpose, e la colpa riguarda le sole omissioni ed è la sola negligenza (non imprudenza o imperizia). Non è quindi esatto dire che il richiamo punisce solo mancanze colpose di lieve entità. Le lievi trasgressioni sono il presupposto del rimprovero (art. 1360).",
+   "riferimenti": [
+    "COM art. 1359, co. 1",
+    "COM art. 1360, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 171"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E002",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "posizione-docente"
+   ],
+   "domanda": "Non v'è obbligo di rapporto se il superiore che infligge il richiamo:",
+   "opzioni": {
+    "A": "non è collocato nella linea gerarchica di dipendenza del manchevole",
+    "B": "è più anziano del manchevole di pari grado",
+    "C": "è collocato nella linea gerarchica di dipendenza del manchevole",
+    "D": "è il Comandante di Corpo del manchevole"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1359, co. 2, COM: il richiamo può essere inflitto da qualsiasi superiore; «se il superiore è collocato nella linea gerarchica di dipendenza del militare non v'è obbligo di rapporto». È la variante con la negazione a essere errata: il superiore estraneo alla linea gerarchica non è esonerato, e deve comunque informare il superiore del militare, che ne ha il controllo disciplinare. Il Comandante di Corpo è nella linea, ma l'opzione non esprime la regola; l'anzianità tra pari grado non è il criterio della norma.",
+   "riferimenti": [
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E003",
+   "argomento": "consegna",
+   "sinossi": "V.5.c",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino"
+   ],
+   "domanda": "Il provvedimento che infligge la consegna è esecutivo:",
+   "opzioni": {
+    "A": "dal giorno della comunicazione scritta all'interessato",
+    "B": "dal giorno della comunicazione verbale all'interessato",
+    "C": "dal giorno della notifica scritta all'interessato",
+    "D": "dal giorno della presa d'atto del Comandante di Corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1361, co. 3, COM: il provvedimento è esecutivo dal giorno della comunicazione verbale all'interessato; la comunicazione scritta (co. 2) segue, contiene la motivazione e fa decorrere il termine per il ricorso, che non sospende l'esecuzione. Lo stesso vale per la consegna di rigore (art. 1362, co. 9). La presa d'atto del Comandante di Corpo sulla nota esplicativa è un controllo successivo, non una condizione di efficacia.",
+   "riferimenti": [
+    "COM art. 1361, co. 2-3",
+    "COM art. 1362, co. 9"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E004",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "istituto-vicino"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la consegna di rigore non si trascrive nella documentazione personale",
+    "B": "il parere della commissione di disciplina è vincolante se unanime",
+    "C": "la consegna di rigore è esecutiva dal giorno della comunicazione verbale",
+    "D": "la consegna di rigore può essere inflitta dal Comandante di Reparto ai fini disciplinari"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1362, co. 8-9, COM: il provvedimento è subito comunicato verbalmente e poi notificato per iscritto, è trascritto nella documentazione personale ed è esecutivo dal giorno della comunicazione verbale. La consegna di rigore è riservata esclusivamente al Comandante di Corpo (art. 1396, co. 1); il parere della commissione non è mai vincolante (art. 1399, co. 6). È il richiamo la sanzione non trascritta.",
+   "riferimenti": [
+    "COM art. 1362, co. 8-9",
+    "COM art. 1396, co. 1",
+    "COM art. 1399, co. 6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E005",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "qualifica",
+    "nome-esatto",
+    "posizione-docente"
+   ],
+   "domanda": "Secondo la CdS 2179/2015, la consegna di rigore:",
+   "opzioni": {
+    "A": "ha natura sostanzialmente penale secondo i criteri Engel",
+    "B": "è una misura restrittiva della libertà personale",
+    "C": "si configura come un mero obbligo giuridico",
+    "D": "è una pena militare accessoria"
+   },
+   "corretta": "C",
+   "spiegazione": "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179: la consegna di rigore non ha carattere di limite alla libertà personale (locali analoghi agli alloggi, mero potere di controllo) e «viene a configurarsi come un mero obbligo giuridico», la cui violazione può fondare solo ulteriori interventi disciplinari. Le pene militari accessorie sono altra cosa (art. 24 c.p.m.p.); la sentenza ha respinto proprio la tesi del contrasto con l'art. 5 CEDU.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E006",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "posizione-docente"
+   ],
+   "domanda": "Quale pronuncia ha escluso che la consegna di rigore limiti la libertà personale?",
+   "opzioni": {
+    "A": "CdS 1592/2021",
+    "B": "Cass. 26536/2023",
+    "C": "CdS 522/2023",
+    "D": "CdS 2179/2015"
+   },
+   "corretta": "D",
+   "spiegazione": "È Cons. Stato, sez. IV, 29 aprile 2015, n. 2179, letta in aula: la consegna di rigore è un mero obbligo giuridico, non una restrizione della libertà personale; la conferma Cons. Stato, sez. II, n. 3720/2022. Cass. pen., sez. I, n. 26536/2023 riguarda l'alternatività tra richiesta di procedimento e consegna di rigore; Cons. Stato, sez. II, n. 522/2023 l'uso di stupefacenti; Cons. Stato, sez. IV, n. 1592/2021 i tatuaggi.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179",
+    "Cons. Stato, sez. II, 11 maggio 2022, n. 3720"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E007",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi"
+   ],
+   "domanda": "La sentenza che ha affermato l'alternatività tra richiesta di procedimento e consegna di rigore è:",
+   "opzioni": {
+    "A": "CdS 3720/2022",
+    "B": "Cass. 33369/2024",
+    "C": "Corte cost. 406/2000",
+    "D": "Cass. 26536/2023"
+   },
+   "corretta": "D",
+   "spiegazione": "Cass. pen., sez. I, 20 giugno 2023, n. 26536 (indicata in aula da studiare): per i reati militari procedibili a richiesta del Comandante di Corpo vige un principio di alternatività tra sanzione penale e consegna di rigore. Corte cost. n. 406/2000 ha invece dichiarato non fondata la questione sull'art. 260, co. 2, c.p.m.p., ritenendo che il sistema non imponga quell'alternatività; Cass. n. 33369/2024 riguarda la disobbedienza; Cons. Stato n. 3720/2022 la natura della consegna.",
+   "riferimenti": [
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536",
+    "Corte cost., 31 luglio 2000, n. 406"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E008",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "premessa-vera"
+   ],
+   "domanda": "Per la Cass. 26536/2023, se il Comandante di Corpo chiede il procedimento penale e poi punisce di rigore per lo stesso fatto:",
+   "opzioni": {
+    "A": "l'azione penale diventa improcedibile",
+    "B": "la consegna di rigore è nulla, essendo la richiesta irrevocabile",
+    "C": "la pena si riduce dei giorni di consegna di rigore",
+    "D": "la consegna di rigore si converte in rimprovero"
+   },
+   "corretta": "A",
+   "spiegazione": "Per la Corte, applicando la consegna di rigore il comandante dimostra di non ritenere più opportuna la richiesta: la pretesa punitiva si esaurisce con la sanzione disciplinare e l'azione penale diventa improcedibile. L'irrevocabilità della richiesta (art. 129 c.p.) è vera, ma è l'argomento dei critici della sentenza, non la sua conclusione; il giudice penale non poteva incidere sulla sanzione, atto amministrativo.",
+   "riferimenti": [
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536",
+    "c.p. art. 129, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E009",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "Nel caso dell'allievo maresciallo, la Cass. 26536/2023 ha:",
+   "opzioni": {
+    "A": "annullato con rinvio la condanna penale",
+    "B": "annullato senza rinvio la condanna",
+    "C": "annullato la consegna di rigore inflitta",
+    "D": "rigettato il ricorso del difensore"
+   },
+   "corretta": "B",
+   "spiegazione": "La Corte ha annullato senza rinvio la sentenza di condanna (quattro mesi di reclusione militare per ingiurie aggravate) perché l'azione penale non doveva essere iniziata per mancanza della condizione di procedibilità. Non ha annullato la consegna di rigore, che è un atto amministrativo: il militare è rimasto con i soli due giorni di consegna di rigore. Il ricorso è stato accolto, sia pure per un percorso logico parzialmente diverso da quello del ne bis in idem.",
+   "riferimenti": [
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E010",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "affermazioni",
+    "rinvio"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "la richiesta di procedimento non può essere proposta decorso un mese dalla notizia del fatto",
+    "B": "con la consegna di rigore possono essere puniti fatti che hanno determinato un giudizio penale",
+    "C": "la richiesta di procedimento è revocabile fino al rinvio a giudizio",
+    "D": "con la consegna di rigore possono essere puniti fatti reato per cui il Comandante di Corpo non ritenga di chiedere il procedimento"
+   },
+   "corretta": "C",
+   "spiegazione": "La richiesta di procedimento è irrevocabile (art. 129, co. 1, c.p.): l'affermazione sulla revocabilità è l'unica errata. Sono corrette le altre: l'art. 1362, co. 7, COM consente la consegna di rigore per i fatti previsti come reato per i quali il Comandante di Corpo non ritenga di richiedere il procedimento ai sensi dell'art. 260 c.p.m.p. (lett. a) e per i fatti che hanno determinato un giudizio penale (lett. b); la richiesta non può essere proposta decorso un mese dalla notizia del fatto (art. 260, co. 4, c.p.m.p.).",
+   "riferimenti": [
+    "c.p. art. 129, co. 1",
+    "COM art. 1362, co. 7",
+    "c.p.m.p. art. 260, co. 4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E011",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "rinvio"
+   ],
+   "domanda": "Sono puniti a richiesta del Comandante di Corpo i reati militari puniti con la reclusione militare:",
+   "opzioni": {
+    "A": "non superiore nel massimo a 6 mesi",
+    "B": "non superiore nel minimo a 6 mesi",
+    "C": "non inferiore nel minimo a 6 mesi",
+    "D": "non superiore nel massimo a 12 mesi"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 260, co. 2, c.p.m.p.: sono puniti a richiesta del Comandante del corpo i reati per i quali la legge stabilisce la pena della reclusione militare non superiore nel massimo a sei mesi (oltre al reato del n. 2 dell'art. 171). Si guarda al massimo edittale, comprese le aggravanti a effetto speciale. È il rinvio che l'art. 1362, co. 7, lett. a), COM opera per la consegna di rigore.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2",
+    "COM art. 1362, co. 7, lett. a)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E012",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "rinvio"
+   ],
+   "domanda": "L'ingiuria militare, nell'ipotesi base, è punita con la reclusione militare:",
+   "opzioni": {
+    "A": "fino a 6 mesi",
+    "B": "fino a 4 mesi",
+    "C": "fino a 1 anno",
+    "D": "da 2 a 6 mesi"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 226, co. 1, c.p.m.p.: il militare che offende l'onore o il decoro di altro militare presente è punito, se il fatto non costituisce un più grave reato, con la reclusione militare fino a quattro mesi; fino a sei mesi se l'offesa consiste nell'attribuzione di un fatto determinato (co. 3). È quindi procedibile a richiesta del Comandante di Corpo (art. 260, co. 2, c.p.m.p.). Nel caso della Cass. 26536/2023 l'aggravante della discriminazione razziale portava il massimo a sei mesi.",
+   "riferimenti": [
+    "c.p.m.p. art. 226",
+    "c.p.m.p. art. 260, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E013",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "rinvio"
+   ],
+   "domanda": "Il principio di alternatività tra richiesta di procedimento e consegna di rigore è enunciato anche:",
+   "opzioni": {
+    "A": "nella circolare del CGA sugli stupefacenti",
+    "B": "nella Guida tecnica della DGPM",
+    "C": "nel Regolamento generale dell'Arma",
+    "D": "nella circolare del CGA sul dovere di imparzialità"
+   },
+   "corretta": "A",
+   "spiegazione": "La circolare del Comando Generale n. 276/148-78-2009 (stupefacenti, alcol e gioco), all. A, afferma che le condotte potranno essere perseguite penalmente, con richiesta del Comandante di Corpo, «OPPURE (principio di alternatività …)» con un procedimento per la consegna di rigore, richiamando la Cassazione del 2013 (n. 43467, indicata nella circolare come 43867). La Guida tecnica afferma l'opposto: il sistema non configura un'ipotesi di alternatività (Corte cost. n. 406/2000). Il Regolamento generale dell'Arma e la circolare sull'imparzialità nei procedimenti disciplinari non ne trattano.",
+   "riferimenti": [
+    "circ. n. 276/148-78-2009 del 1.2.2019, all. A",
+    "Cass. pen., sez. I, 9 luglio 2013, n. 43467"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E014",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "posizione-docente"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la Cass. 26536/2023 è della prima Sezione e non ha avuto seguito",
+    "B": "la Cass. 26536/2023 è stata seguita da numerose conformi",
+    "C": "la Cass. 26536/2023 è stata pronunciata a Sezioni Unite",
+    "D": "il CGA ha diramato linee interpretative sulla Cass. 26536/2023"
+   },
+   "corretta": "A",
+   "spiegazione": "La sentenza è della prima Sezione penale, non delle Sezioni Unite, ed è rimasta isolata: a tre anni di distanza non ve ne sono altre analoghe, anche perché è raro che il Comandante di Corpo punisca e insieme chieda il procedimento penale. Il Comando Generale non ha dato linee interpretative proprio per questo: si attende di vedere se sarà seguita.",
+   "riferimenti": [
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E015",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "istituto-vicino",
+    "variante-minima"
+   ],
+   "domanda": "Con la consegna sono punite:",
+   "opzioni": {
+    "A": "le più gravi trasgressioni alle norme della disciplina e del servizio",
+    "B": "le infrazioni specificamente indicate dall'art. 751 TUROM",
+    "C": "le lievi trasgressioni alle norme della disciplina e del servizio",
+    "D": "la recidiva nelle mancanze per le quali può essere inflitto il richiamo"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1361, co. 1, COM: con la consegna sono punite la violazione dei doveri diversi da quelli dell'art. 751 TUROM, la recidiva nelle mancanze già sanzionate con il rimprovero e le più gravi trasgressioni alle norme della disciplina e del servizio. Le lievi trasgressioni e la recidiva nel richiamo sono punite con il rimprovero (art. 1360); le infrazioni dell'art. 751 con la consegna di rigore (art. 1362, co. 1).",
+   "riferimenti": [
+    "COM art. 1361, co. 1",
+    "COM art. 1360, co. 1",
+    "COM art. 1362, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E016",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino"
+   ],
+   "domanda": "Il Comandante di Reparto ai fini disciplinari può infliggere:",
+   "opzioni": {
+    "A": "tutte e quattro le sanzioni di corpo",
+    "B": "rimprovero, consegna e consegna di rigore",
+    "C": "solo il richiamo e il rimprovero",
+    "D": "solo richiamo, rimprovero e consegna"
+   },
+   "corretta": "D",
+   "spiegazione": "Il Comandante di Reparto ai fini disciplinari dispone delle prime tre sanzioni: il richiamo (che può infliggere qualsiasi superiore), il rimprovero e la consegna (art. 1396, co. 2, COM). Solo il Comandante di Corpo dispone di tutte e quattro, perché la consegna di rigore gli è riservata in via esclusiva (co. 1). I comandanti di distaccamento possono infliggere il rimprovero (co. 3).",
+   "riferimenti": [
+    "COM art. 1396, co. 1-3",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 143"
+   ],
+   "test_vernice": true,
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E017",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "nome-esatto",
+    "istituto-vicino"
+   ],
+   "domanda": "Il rimprovero può essere inflitto anche:",
+   "opzioni": {
+    "A": "dal vice comandante di reparto, ufficiale o sottufficiale",
+    "B": "dal comandante di distaccamento, ufficiale o sottufficiale",
+    "C": "dal pari grado più anziano, ufficiale o sottufficiale",
+    "D": "da qualsiasi superiore, ufficiale o sottufficiale"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1396, co. 3, COM: oltre al Comandante di Corpo e al Comandante di Reparto, il rimprovero può essere inflitto dall'ufficiale comandante di distaccamento e dal sottufficiale comandante di distaccamento avente le attribuzioni di comandante di reparto (è la risposta «più corretta», in forma compressa). Qualsiasi superiore può infliggere soltanto il richiamo (art. 1359, co. 2); il vice comandante non ha potestà sanzionatoria propria, salvo che eserciti le funzioni di comandante; il pari grado non ha potere disciplinare.",
+   "riferimenti": [
+    "COM art. 1396, co. 3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 143"
+   ],
+   "test_vernice": true,
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E018",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "posizione-docente"
+   ],
+   "domanda": "Nella disciplina di corpo i sottoprocedimenti sono:",
+   "opzioni": {
+    "A": "due: quello del richiamo e quello delle altre sanzioni",
+    "B": "tre: del richiamo, fino alla consegna e della consegna di rigore",
+    "C": "tre: davanti al Comandante di Reparto, al Comandante di Corpo e alla commissione",
+    "D": "quattro, uno per ciascuna sanzione di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Tre sottoprocedimenti: quello del richiamo, che può infliggere qualsiasi superiore; quello che arriva fino alla consegna (richiamo, rimprovero, consegna), del Comandante di Reparto ai fini disciplinari o del Comandante di Corpo (art. 1398 COM); quello della consegna di rigore, riservato al Comandante di Corpo con la commissione di disciplina e il difensore (artt. 1399-1400). La commissione non è un'autorità che decide.",
+   "riferimenti": [
+    "COM artt. 1359, 1396, 1398-1400"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E019",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "rinvio"
+   ],
+   "domanda": "Secondo il TUROM, fruiscono di libera uscita:",
+   "opzioni": {
+    "A": "i militari in SP privi di alloggio privato",
+    "B": "tutti i militari, secondo gli orari del Comandante di Corpo",
+    "C": "i volontari in ferma prefissata con meno di 12 mesi di servizio e gli allievi",
+    "D": "i volontari in ferma prefissata con più di 12 mesi di servizio"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 741, co. 1, TUROM: fruiscono di libera uscita i volontari in ferma prefissata con meno di dodici mesi di servizio e gli allievi delle scuole, accademie e istituti di istruzione militare (e, co. 2, il rimanente personale in ferma che fruisce degli alloggiamenti di reparto). Il personale in servizio permanente non ne fruisce: per questo sconta la consegna nel proprio alloggio, nella fascia della libera uscita (art. 1361, co. 4, COM).",
+   "riferimenti": [
+    "TUROM art. 741, co. 1-2",
+    "COM art. 1361, co. 4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E020",
+   "argomento": "consegna",
+   "sinossi": "V.5.c",
+   "tipo": "caso_pratico",
+   "difficolta": 4,
+   "trappole": [
+    "qualifica",
+    "premessa-vera"
+   ],
+   "domanda": "Il militare consegnato che esce dall'alloggio nella fascia della libera uscita:",
+   "opzioni": {
+    "A": "commette un illecito disciplinare",
+    "B": "commette il reato di evasione",
+    "C": "non commette illecito, non essendovi potere coattivo",
+    "D": "può essere ricondotto con la forza nell'alloggio"
+   },
+   "corretta": "A",
+   "spiegazione": "La consegna non restringe la libertà personale: impone un obbligo che il punito osserva da sé. Chi lo viola non commette evasione e non può essere ricondotto con la forza, ma commette un'infrazione disciplinare autonoma: l'inosservanza degli obblighi connessi all'esecuzione della consegna o della consegna di rigore, punibile con la consegna di rigore (art. 751, co. 1, lett. a, n. 41, TUROM). Che manchi un potere coattivo è vero, ma non esclude l'illecito.",
+   "riferimenti": [
+    "TUROM art. 751, co. 1, lett. a), n. 41",
+    "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E021",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "Il proprio alloggio in cui scontare la consegna di rigore può essere:",
+   "opzioni": {
+    "A": "solo quello privato",
+    "B": "solo quello di servizio",
+    "C": "anche la cameretta assegnata",
+    "D": "quello privato o di servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1362, co. 2, COM: il proprio alloggio di cui all'art. 1358, co. 5, può essere sia quello privato sia quello di servizio. La cameretta non è un alloggio: i locali destinati ai puniti devono avere caratteristiche analoghe a quelle degli alloggi della caserma (co. 5), con un minimo abitativo (cucina, bagno, camera).",
+   "riferimenti": [
+    "COM art. 1362, co. 2 e 5"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E022",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.5.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Il controllo dell'esecuzione della consegna di rigore è affidato:",
+   "opzioni": {
+    "A": "a superiori o pari grado del punito",
+    "B": "solo a superiori del punito",
+    "C": "solo a pari grado del punito",
+    "D": "a superiori o inferiori del punito designati"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1362, co. 6, COM: il controllo dell'esecuzione è affidato a superiori o pari grado del punito ed è esercitato secondo le disposizioni di ciascuna Forza armata o Corpo armato. È un mero potere di controllo, senza strumenti coercitivi: anche per questo la consegna di rigore non è una restrizione della libertà personale (Cons. Stato, sez. IV, n. 2179/2015). Gli inferiori non esercitano alcun controllo sul punito.",
+   "riferimenti": [
+    "COM art. 1362, co. 6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E023",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino"
+   ],
+   "domanda": "Il Comandante di Corpo può far scontare la consegna di rigore in apposito spazio dell'ambiente militare anche a chi ha un alloggio:",
+   "opzioni": {
+    "A": "per particolari motivi di servizio",
+    "B": "per particolari esigenze private del punito",
+    "C": "per particolari ragioni di disciplina",
+    "D": "per particolari ragioni di sicurezza"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1362, co. 3, COM: per particolari ragioni di disciplina. I particolari motivi di servizio sono il presupposto del co. 4, che consente al superiore che ha inflitto la punizione di farla scontare con le stesse modalità della consegna: è la soluzione seguita nella prassi, perché la permanenza in un locale della caserma porrebbe problemi di vitto, di servizio e di costi. Le esigenze private giustificano semmai la sospensione dell'esecuzione (art. 1368, co. 1).",
+   "riferimenti": [
+    "COM art. 1362, co. 3-4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E024",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "le infrazioni colpose non sono punibili",
+    "B": "in caso di concorso è punito più severamente il meno anziano",
+    "C": "più trasgressioni commesse in tempi diversi comportano un'unica punizione",
+    "D": "più trasgressioni commesse in tempi diversi comportano punizioni distinte"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1355, co. 5, COM: se il provvedimento riguarda più trasgressioni commesse da un militare, anche in tempi diversi, è inflitta un'unica punizione in relazione alla più grave e al comportamento complessivo. In caso di concorso è punito più severamente il più elevato in grado o, a parità di grado, il più anziano (co. 4). Le infrazioni colpose sono punibili: il co. 3 punisce con maggior rigore quelle intenzionali.",
+   "riferimenti": [
+    "COM art. 1355, co. 3-5"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E025",
+   "argomento": "esecuzione-sanzioni",
+   "sinossi": "V.5.c",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "nome-esatto"
+   ],
+   "domanda": "Il condono collettivo della consegna e della consegna di rigore:",
+   "opzioni": {
+    "A": "in nessun caso comporta la cancellazione della trascrizione",
+    "B": "comporta la cancellazione della trascrizione",
+    "C": "spetta soltanto al Ministro della difesa",
+    "D": "riguarda anche il rimprovero già trascritto nella documentazione"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1368, co. 2-3, COM: il condono collettivo delle consegne e delle consegne di rigore in corso di esecuzione spetta al Ministro in particolari ricorrenze, al Capo di stato maggiore o al Comandante generale per la festa d'Arma e al comandante di corpo per la festa del corpo; non comporta la cancellazione della trascrizione dagli atti matricolari o personali. Il rimprovero non ha esecuzione e non è condonabile; la cessazione degli effetti si chiede con l'istanza dell'art. 1369.",
+   "riferimenti": [
+    "COM art. 1368, co. 2-3",
+    "COM art. 1369"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E026",
+   "argomento": "esecuzione-sanzioni",
+   "sinossi": "V.5.c",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "istituto-vicino",
+    "variante-minima"
+   ],
+   "domanda": "L'esecuzione della consegna può essere sospesa:",
+   "opzioni": {
+    "A": "dall'autorità che decide il ricorso",
+    "B": "dall'autorità superiore a chi l'ha inflitta",
+    "C": "dall'autorità che l'ha inflitta",
+    "D": "dal Ministro della difesa"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1368, co. 1, COM: l'autorità che ha inflitto la consegna o la consegna di rigore può sospenderne l'esecuzione, per il tempo strettamente necessario, per concrete e motivate esigenze private del punito o per motivi di servizio. Il ricorso gerarchico, deciso dall'autorità sovraordinata, non sospende l'esecuzione; al Ministro spetta il condono collettivo (co. 2), istituto diverso.",
+   "riferimenti": [
+    "COM art. 1368, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E027",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "regola-superata",
+    "affermazioni"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il richiamo non si trascrive nella documentazione personale",
+    "B": "il richiamo si annota nel registro dei richiami",
+    "C": "il richiamo può essere documentato per iscritto",
+    "D": "la copia del richiamo si conserva nella pratica 1/7"
+   },
+   "corretta": "B",
+   "spiegazione": "I registri dei richiami, previsti dal testo originario dell'art. 1359, co. 3, COM («annotazione in registri a esclusivo uso interno»), sono stati soppressi dal D.Lgs. 24 febbraio 2012, n. 20: è l'affermazione errata. Il richiamo non si trascrive nella documentazione personale (art. 1359, co. 3), ma può essere documentato per iscritto e la copia si conserva nel carteggio ordinario, pratica 1/7.",
+   "riferimenti": [
+    "COM art. 1359, co. 3",
+    "D.Lgs. 24 febbraio 2012, n. 20"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E028",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "regola-superata",
+    "variante-minima",
+    "estremi",
+    "affermazioni"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "i registri dei richiami sono stati soppressi dal D.Lgs. 20/2012",
+    "B": "i registri dei richiami sono stati soppressi dal D.Lgs. 173/2019",
+    "C": "i registri dei richiami sono stati introdotti dal D.Lgs. 20/2012",
+    "D": "i registri dei richiami sono stati soppressi dal D.P.R. 90/2010"
+   },
+   "corretta": "A",
+   "spiegazione": "Il testo originario dell'art. 1359, co. 3, COM (in vigore dal 9 ottobre 2010) faceva salva «l'annotazione in registri a esclusivo uso interno»; la previsione è stata soppressa dal D.Lgs. 24 febbraio 2012, n. 20 (dal 27 marzo 2012), non introdotta. Il D.Lgs. 27 dicembre 2019, n. 173 ha soppresso un altro inciso (le «particolari forme di comunicazione scritta o pubblicazione»). Il D.P.R. 90/2010 è il TUROM, che non regolava i registri. Nel 2023 la Guida tecnica ha introdotto la memoria agli atti, non un registro.",
+   "riferimenti": [
+    "COM art. 1359, co. 3",
+    "D.Lgs. 24 febbraio 2012, n. 20",
+    "D.Lgs. 27 dicembre 2019, n. 173"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E029",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Il procedimento disciplinare di corpo si svolge:",
+   "opzioni": {
+    "A": "solo oralmente",
+    "B": "anche oralmente",
+    "C": "solo per iscritto",
+    "D": "oralmente, salvo la decisione"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1398, co. 2, COM: il procedimento si svolge, anche oralmente, attraverso contestazione degli addebiti, acquisizione delle giustificazioni ed eventuali prove testimoniali, esame e valutazione, decisione, comunicazione all'interessato. Non è quindi né solo scritto né solo orale; la decisione è comunicata verbalmente senza ritardo e, salvo il richiamo, anche per iscritto con la motivazione (co. 4-5). Per esigenze di prova è consigliabile la forma scritta.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E030",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "premessa-vera"
+   ],
+   "domanda": "Il procedimento di corpo che non si conclude con una sanzione:",
+   "opzioni": {
+    "A": "si estingue decorsi novanta giorni",
+    "B": "non va comunicato, non essendovi sanzione",
+    "C": "si chiude con un provvedimento espresso",
+    "D": "si chiude comunque con il richiamo"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 2 della L. 241/1990 impone di concludere il procedimento con un provvedimento espresso, e l'art. 1398, co. 4, COM impone di comunicare senza ritardo la decisione anche quando non si applica alcuna sanzione. Il procedimento si chiude per iscritto «senza l'adozione di alcuna sanzione disciplinare di corpo». Il termine di novanta giorni non estingue l'obbligo di decidere; l'obbligatorietà dell'azione non obbliga a punire.",
+   "riferimenti": [
+    "L. 241/1990, art. 2",
+    "COM art. 1398, co. 4"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E031",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "distinzione"
+   ],
+   "domanda": "Tra lieve mancanza e lieve trasgressione la differenza è:",
+   "opzioni": {
+    "A": "di elemento psicologico",
+    "B": "solo di gravità",
+    "C": "tra omissione e azione",
+    "D": "tra norme del COM e del TUROM"
+   },
+   "corretta": "B",
+   "spiegazione": "Per l'impostazione seguita a lezione la differenza è solo di gravità, e la qualificazione del fatto spetta alla discrezionalità dell'autorità: con il richiamo si agevola il militare, con il rimprovero il fatto è trascritto. Non è esatta la lettura omissione/azione (si può mancare anche agendo), né quella che lega la mancanza alla colpa o distingue tra fonti; secondo un diverso orientamento la «trasgressione» riguarderebbe le norme del Capo II del TUROM.",
+   "riferimenti": [
+    "COM artt. 1359-1360"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E032",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "premessa-vera"
+   ],
+   "domanda": "Il rimprovero è più grave del richiamo perché:",
+   "opzioni": {
+    "A": "punisce la recidiva nelle mancanze punibili con il richiamo",
+    "B": "è comunicato per iscritto e trascritto nella documentazione personale",
+    "C": "è inflitto dal Comandante di Corpo",
+    "D": "punisce solo infrazioni intenzionali"
+   },
+   "corretta": "A",
+   "spiegazione": "Il rimprovero punisce, oltre alle lievi trasgressioni, la recidiva nelle mancanze per le quali può essere inflitto il richiamo (art. 1360, co. 1, COM): se il richiamo non basta, si sale alla sanzione successiva per il principio di gradualità. È questa la ragione della maggiore gravità, non la forma scritta, che pure è vera (art. 1360, co. 3). Il rimprovero spetta anche al Comandante di Reparto e di distaccamento e punisce trasgressioni intenzionali o colpose.",
+   "riferimenti": [
+    "COM art. 1360, co. 1 e 3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E033",
+   "argomento": "rimprovero",
+   "sinossi": "V.2.c",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "nome-esatto",
+    "variante-minima"
+   ],
+   "domanda": "Nel TUROM, il Capo II del Titolo «Disciplina militare» è intitolato:",
+   "opzioni": {
+    "A": "Norme della disciplina e del servizio",
+    "B": "Doveri dei militari",
+    "C": "Doveri degli inferiori",
+    "D": "Norme di comportamento e di servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "Il Titolo VIII del Libro IV del TUROM comprende il Capo I, «Doveri dei militari» (doveri generali, dei superiori, degli inferiori: artt. 712-731), e il Capo II, «Norme di comportamento e di servizio» (dall'art. 732). «Norme della disciplina e del servizio» è la formula dell'art. 1360 COM: per l'impostazione seguita a lezione la differenza è una svista innocua. «Doveri degli inferiori» è la Sezione III del Capo I.",
+   "riferimenti": [
+    "TUROM Libro IV, Titolo VIII, Capi I e II",
+    "COM art. 1360, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E034",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi"
+   ],
+   "domanda": "La CdS 3720/2022 ha confermato la legittimità di:",
+   "opzioni": {
+    "A": "un rimprovero per uso di stupefacenti",
+    "B": "due giorni di consegna di rigore per ingiuria",
+    "C": "tre giorni di consegna",
+    "D": "un tatuaggio visibile in uniforme"
+   },
+   "corretta": "C",
+   "spiegazione": "Cons. Stato, sez. II, 11 maggio 2022, n. 3720 ha respinto l'appello contro tre giorni di consegna inflitti a un vice comandante di stazione che non si era astenuto da attività di polizia giudiziaria in un'indagine in cui l'indagato era assistito dal coniuge avvocato, escludendo che la sanzione limiti la libertà personale (richiama Cons. Stato n. 2179/2015 e Corte cost. n. 406/2000). I due giorni di consegna di rigore per ingiuria sono il caso della Cass. 26536/2023.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 11 maggio 2022, n. 3720"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E035",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "variante-minima"
+   ],
+   "domanda": "Con la sentenza 406/2000 la Corte costituzionale ha dichiarato:",
+   "opzioni": {
+    "A": "non fondata la questione sull'art. 260 c.p.m.p.",
+    "B": "illegittimo l'art. 260 c.p.m.p.",
+    "C": "illegittima la consegna di rigore",
+    "D": "non fondata la questione sull'art. 1362 COM"
+   },
+   "corretta": "A",
+   "spiegazione": "La Corte ha dichiarato non fondata la questione di legittimità costituzionale dell'art. 260, co. 2, c.p.m.p., sollevata in riferimento agli artt. 2 e 3 Cost. nella parte in cui non preclude la richiesta di procedimento dopo l'inflizione della consegna di rigore. Il COM è del 2010: nel 2000 la consegna di rigore era regolata dalla L. 382/1978 e dal regolamento del 1986. La Corte non ha deciso sulla natura della consegna di rigore.",
+   "riferimenti": [
+    "Corte cost., 31 luglio 2000, n. 406",
+    "c.p.m.p. art. 260, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E036",
+   "argomento": "procedimento-consegna-rigore",
+   "sinossi": "VIII.3",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il Comandante di Reparto deve sempre instaurare il procedimento se il rapporto riguarda un comportamento dell'art. 751",
+    "B": "il Comandante di Corpo deve sempre instaurare il procedimento se il rapporto riguarda un comportamento dell'art. 751",
+    "C": "il Comandante di Corpo deve sempre infliggere la consegna di rigore se il rapporto riguarda un comportamento dell'art. 751",
+    "D": "il Comandante di Corpo può definire con il richiamo, senza procedimento, un comportamento dell'art. 751"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1397, co. 7, COM: se l'infrazione indicata nel rapporto è prevista tra i comportamenti punibili con la consegna di rigore, il comandante di corpo è obbligato a instaurare il procedimento disciplinare (art. 1399). L'obbligo riguarda l'avvio, non l'esito: il procedimento può concludersi con una sanzione minore o senza sanzione. Il Comandante di Reparto non è competente per la consegna di rigore (art. 1396, co. 1); nessuna sanzione si infligge senza contestazione e giustificazioni (art. 1370, co. 1).",
+   "riferimenti": [
+    "COM art. 1397, co. 7",
+    "COM art. 1396, co. 1",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E037",
+   "argomento": "procedimento-consegna-rigore",
+   "sinossi": "VIII.3",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "La commissione di disciplina per la consegna di rigore è composta da:",
+   "opzioni": {
+    "A": "due pari grado e un superiore",
+    "B": "tre superiori",
+    "C": "due superiori e un pari grado",
+    "D": "due superiori e un inferiore"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1400, co. 2, COM: la commissione è composta da tre militari, due di grado superiore e un pari grado del militare che ha commesso la mancanza; è nominata dal comandante di corpo e presieduta dal più elevato in grado o dal più anziano. Nessun inferiore ne fa parte; non ne fanno parte il superiore che ha rilevato la mancanza e il militare offeso o danneggiato (co. 6).",
+   "riferimenti": [
+    "COM art. 1400, co. 2 e 6"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E038",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "istituto-vicino",
+    "posizione-docente"
+   ],
+   "domanda": "Il ricorso gerarchico contro il richiamo inflitto da un superiore di altra linea gerarchica si propone:",
+   "opzioni": {
+    "A": "al Comandante di Corpo del manchevole, responsabile della disciplina",
+    "B": "all'organo gerarchicamente superiore al manchevole",
+    "C": "al CGA",
+    "D": "all'organo gerarchicamente superiore a chi l'ha inflitto"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1363, co. 1, COM: l'organo sovraordinato è quello gerarchicamente superiore a chi ha emesso il provvedimento. Se il richiamo proviene da un superiore estraneo alla linea gerarchica, il ricorso va al suo superiore, non al comandante del manchevole né al superiore del manchevole: è uno degli inconvenienti della competenza diffusa. Il richiamo è impugnabile, perché produce effetti ai fini della recidiva (art. 1360, co. 1).",
+   "riferimenti": [
+    "COM art. 1363, co. 1",
+    "COM art. 1360, co. 1"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E039",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "regola-superata"
+   ],
+   "domanda": "Il procedimento disciplinare per fatti per i quali procede l'autorità giudiziaria:",
+   "opzioni": {
+    "A": "è avviato solo dopo il giudicato penale",
+    "B": "è sospeso fino al giudicato penale",
+    "C": "è avviato solo dopo l'archiviazione",
+    "D": "è avviato anche in pendenza del penale"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1393, co. 1, COM: il procedimento disciplinare è avviato, proseguito e concluso anche in pendenza del procedimento penale; solo per le infrazioni punibili con la consegna di rigore o con sanzioni di stato, nei casi di particolare complessità dell'accertamento o di insufficienza degli elementi, si promuove al termine di quello penale. La sospensione fino al giudicato (pregiudiziale penale) è la regola superata dalla L. 124/2015 e dal D.Lgs. 91/2016.",
+   "riferimenti": [
+    "COM art. 1393, co. 1",
+    "L. 7 agosto 2015, n. 124, art. 15"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E040",
+   "argomento": "disciplina-corpo-stato",
+   "sinossi": "V.1.e",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "distinzione"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la sanzione di corpo e quella di stato si cumulano",
+    "B": "avviata la disciplina di stato, non si può più scendere a quella di corpo",
+    "C": "scelta la via di corpo, si preclude la disciplina di stato",
+    "D": "la scelta tra corpo e stato spetta alla commissione di disciplina"
+   },
+   "corretta": "C",
+   "spiegazione": "Tra sanzione di corpo e sanzione di stato per lo stesso fatto vi è necessaria alternatività: punito il fatto in via di corpo, la disciplina di stato è preclusa; avviato invece il procedimento di stato, gli atti possono essere rimessi al comandante di corpo per la valutazione di corpo (art. 1398, co. 1, lett. d, COM). Per questo la scelta va fatta con attenzione, confrontandosi tra Comandante di Reparto, Comandante di Corpo e ufficio che tratta la disciplina; la commissione di disciplina non decide la via.",
+   "riferimenti": [
+    "COM art. 1398, co. 1, lett. d)"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Guida tecnica p. 7"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E041",
+   "argomento": "esecuzione-sanzioni",
+   "sinossi": "V.5.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "qualifica",
+    "istituto-vicino"
+   ],
+   "domanda": "Durante l'esecuzione della consegna il militare:",
+   "opzioni": {
+    "A": "perde le funzioni di comando per la durata della punizione",
+    "B": "transita nella forza assente del comando di corpo per la durata della punizione",
+    "C": "è sospeso dal servizio",
+    "D": "conserva tutte le qualifiche, comprese quelle di polizia giudiziaria"
+   },
+   "corretta": "D",
+   "spiegazione": "Durante la consegna e la consegna di rigore il militare non subisce alcuna diminuzione del grado, delle funzioni direttive o di comando, né delle qualifiche (ufficiale o agente di polizia giudiziaria): attende al servizio. Il transito nella forza assente e la perdita dell'esercizio delle funzioni sono effetti della sospensione disciplinare dall'impiego, sanzione di stato.",
+   "riferimenti": [
+    "COM artt. 1361-1362"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)",
+    "Sinossi p. 195"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E042",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "la consegna di rigore può essere inflitta solo dal Comandante di Corpo",
+    "B": "il rimprovero può essere inflitto anche dal comandante di distaccamento",
+    "C": "il richiamo può essere inflitto da qualsiasi superiore",
+    "D": "la consegna può essere inflitta solo dal Comandante di Corpo"
+   },
+   "corretta": "D",
+   "spiegazione": "La consegna può essere inflitta dal comandante di corpo e dal comandante di reparto (art. 1396, co. 2, COM): l'affermazione che la riserva al solo Comandante di Corpo è l'unica errata. È riservata al Comandante di Corpo la consegna di rigore (co. 1); il richiamo spetta a qualsiasi superiore (art. 1359, co. 2); il rimprovero anche all'ufficiale e al sottufficiale comandante di distaccamento (art. 1396, co. 3).",
+   "riferimenti": [
+    "COM art. 1396, co. 1-3",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E043",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "estremi",
+    "variante-minima",
+    "qualifica"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la Cass. 26536/2023 qualifica la consegna di rigore come mero obbligo giuridico",
+    "B": "la CdS 2179/2015 qualifica la consegna di rigore come mero obbligo giuridico",
+    "C": "la CdS 2179/2015 qualifica la consegna di rigore come restrizione della libertà personale",
+    "D": "la Corte cost. 406/2000 ha dichiarato illegittima la consegna di rigore"
+   },
+   "corretta": "B",
+   "spiegazione": "Cons. Stato, sez. IV, n. 2179/2015 afferma che la consegna di rigore, più che concretare una misura restrittiva della libertà personale, si configura come un mero obbligo giuridico. La Cass. pen., sez. I, n. 26536/2023 non si occupa della natura della sanzione, ma del rapporto tra richiesta di procedimento e consegna di rigore. Corte cost. n. 406/2000 ha dichiarato non fondata la questione sull'art. 260, co. 2, c.p.m.p.: non ha dichiarato illegittimo nulla.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179",
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536",
+    "Corte cost., 31 luglio 2000, n. 406"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E044",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "estremi",
+    "affermazioni"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "la Cass. 26536/2023 ha annullato senza rinvio la condanna penale",
+    "B": "la Cass. 26536/2023 ha annullato la consegna di rigore",
+    "C": "la CdS 3720/2022 ha confermato tre giorni di consegna",
+    "D": "la Corte cost. 406/2000 ha ritenuto non fondata la questione sull'art. 260 c.p.m.p."
+   },
+   "corretta": "B",
+   "spiegazione": "La Cassazione penale non annulla le sanzioni disciplinari, atti amministrativi: con la sentenza n. 26536/2023 ha annullato senza rinvio la condanna, perché l'azione penale non doveva essere iniziata, e la consegna di rigore è rimasta. È questa l'affermazione errata. Sono corrette le altre: Cons. Stato, sez. II, n. 3720/2022 ha respinto l'appello contro tre giorni di consegna; Corte cost. n. 406/2000 ha dichiarato non fondata la questione sull'art. 260, co. 2, c.p.m.p.",
+   "riferimenti": [
+    "Cass. pen., sez. I, 20 giugno 2023, n. 26536",
+    "Cons. Stato, sez. II, 11 maggio 2022, n. 3720",
+    "Corte cost., 31 luglio 2000, n. 406"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E045",
+   "argomento": "richiamo",
+   "sinossi": "V.2.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "assoluti",
+    "regola-superata"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il rimprovero in nessun caso dà luogo a trascrizione nella documentazione personale",
+    "B": "il richiamo in nessun caso dà luogo a trascrizione nella documentazione personale",
+    "C": "il richiamo dà luogo a trascrizione nella documentazione personale in caso di recidiva",
+    "D": "la consegna condonata non dà luogo a trascrizione nella documentazione personale"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1359, co. 3, COM: il richiamo non dà luogo a trascrizione nella documentazione personale; della recidiva si tiene conto nel biennio (co. 4), ma senza trascrizione. Il rimprovero è trascritto (art. 1360, co. 3). Il condono della consegna non comporta la cancellazione della trascrizione dagli atti matricolari o personali (art. 1368, co. 3).",
+   "riferimenti": [
+    "COM art. 1359, co. 3-4",
+    "COM art. 1360, co. 3",
+    "COM art. 1368, co. 3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E046",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.5.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "la consegna di rigore è esecutiva dal giorno della comunicazione verbale",
+    "B": "la consegna di rigore è comunicata solo per iscritto",
+    "C": "la consegna di rigore è trascritta nella documentazione personale",
+    "D": "la consegna di rigore può essere scontata nell'alloggio di servizio"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1362, co. 8, COM: il provvedimento è subito comunicato verbalmente all'interessato e successivamente notificato per iscritto: non è comunicato «solo per iscritto», ed è questa l'affermazione errata. Sono corrette le altre: è trascritto nella documentazione personale (co. 8), è esecutivo dalla comunicazione verbale (co. 9), il proprio alloggio può essere privato o di servizio (co. 2).",
+   "riferimenti": [
+    "COM art. 1362, co. 2, 8-9"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E047",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "estremi",
+    "regola-superata",
+    "variante-minima"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la pregiudiziale penale è stata superata dalla L. 124/2015",
+    "B": "la pregiudiziale penale è stata introdotta dalla L. 124/2015",
+    "C": "la pregiudiziale penale è stata superata dal D.Lgs. 173/2019",
+    "D": "la pregiudiziale penale è stata superata dal D.Lgs. 66/2010"
+   },
+   "corretta": "A",
+   "spiegazione": "La regola per cui non si poteva punire prima dell'esito del procedimento penale è stata capovolta, per i militari, dalla L. 7 agosto 2015, n. 124 (art. 15), che ha sostituito l'art. 1393 COM, poi riscritto dal D.Lgs. 26 aprile 2016, n. 91: oggi il procedimento disciplinare è avviato, proseguito e concluso anche in pendenza di quello penale, salvo eccezioni per le infrazioni più gravi. Il D.Lgs. 66/2010 (il COM) nel testo originario manteneva la pregiudiziale; il D.Lgs. 173/2019 ha inciso su altre norme.",
+   "riferimenti": [
+    "COM art. 1393, co. 1",
+    "L. 7 agosto 2015, n. 124, art. 15",
+    "D.Lgs. 26 aprile 2016, n. 91"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E048",
+   "argomento": "consegna",
+   "sinossi": "V.2.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "qualifica",
+    "istituto-vicino"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la consegna priva della libera uscita fino a 15 giorni consecutivi",
+    "B": "la consegna priva della libertà personale fino a 7 giorni consecutivi",
+    "C": "la consegna priva della libera uscita fino a 7 giorni consecutivi",
+    "D": "la consegna di rigore priva della libera uscita fino a 15 giorni"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1358, co. 4, COM: la consegna consiste nella privazione della libera uscita fino al massimo di sette giorni consecutivi; non incide sulla libertà personale. Quindici giorni è il massimo della consegna di rigore, che però non consiste nella privazione della libera uscita, ma nel vincolo di rimanere in apposito spazio dell'ambiente militare o nel proprio alloggio (co. 5).",
+   "riferimenti": [
+    "COM art. 1358, co. 4-5"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E049",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "in nessun caso il procedimento di corpo può svolgersi oralmente",
+    "B": "in nessun caso il richiamo richiede la contestazione degli addebiti",
+    "C": "in nessun caso la consegna richiede la previa contestazione degli addebiti",
+    "D": "in nessun caso può essere inflitta una sanzione senza contestazione degli addebiti"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1370, co. 1, COM: nessuna sanzione disciplinare può essere inflitta senza contestazione degli addebiti e senza che siano state acquisite e vagliate le giustificazioni del militare. La regola vale anche per il richiamo, che è una sanzione: la ripresa verbale senza contestazione non è un richiamo. Il procedimento di corpo può svolgersi anche oralmente (art. 1398, co. 2).",
+   "riferimenti": [
+    "COM art. 1370, co. 1",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E050",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "assoluti",
+    "distinzione"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "le sanzioni disciplinari sono tassativamente previste dal COM",
+    "B": "le sanzioni di corpo possono essere integrate dalle circolari del CGA",
+    "C": "le sanzioni di stato sono tassative, quelle di corpo no",
+    "D": "le sanzioni di corpo possono essere integrate dal RGA"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1353 COM: non possono essere inflitte sanzioni disciplinari diverse da quelle previste dal Capo III del Titolo VIII del Libro IV del codice. La tassatività vale per le sanzioni di corpo e di stato; né le circolari né il Regolamento generale dell'Arma, che non sono fonti del diritto, possono introdurne di nuove. Infliggere punizioni non previste è anzi esso stesso un comportamento punibile con la consegna di rigore (art. 751, n. 41, TUROM).",
+   "riferimenti": [
+    "COM art. 1353",
+    "TUROM art. 751, co. 1, lett. a), n. 41"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E051",
+   "argomento": "consegna-di-rigore",
+   "sinossi": "V.2.e",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "posizione-docente"
+   ],
+   "domanda": "Hanno escluso che la consegna di rigore limiti la libertà personale:",
+   "opzioni": {
+    "A": "CdS 522/2023 e CdS 8439/2021",
+    "B": "Cass. 26536/2023 e Cass. 33369/2024",
+    "C": "Corte cost. 406/2000 e Cass. 26536/2023",
+    "D": "CdS 2179/2015 e CdS 3720/2022"
+   },
+   "corretta": "D",
+   "spiegazione": "Cons. Stato, sez. IV, n. 2179/2015 e Cons. Stato, sez. II, n. 3720/2022 escludono il carattere di limite alla libertà personale della consegna di rigore, configurata come mero obbligo giuridico. Le due sentenze della Cassazione riguardano l'alternatività tra richiesta di procedimento e consegna di rigore (n. 26536/2023) e la disobbedienza (n. 33369/2024); Corte cost. n. 406/2000 ha riferito la tesi del mero obbligo senza deciderla; le sentenze del Consiglio di Stato del 2023 e del 2021 riguardano l'uso di stupefacenti.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 29 aprile 2015, n. 2179",
+    "Cons. Stato, sez. II, 11 maggio 2022, n. 3720"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L09-E052",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.2.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il rimprovero è sempre comunicato per iscritto",
+    "B": "la consegna è sempre esecutiva dalla comunicazione scritta",
+    "C": "la consegna di rigore è sempre trascritta nella documentazione personale",
+    "D": "il richiamo non è mai trascritto nella documentazione personale"
+   },
+   "corretta": "B",
+   "spiegazione": "La consegna è esecutiva dal giorno della comunicazione verbale all'interessato (art. 1361, co. 3, COM), non da quella scritta, che segue e fa decorrere il termine per il ricorso: è l'affermazione errata. Sono corrette le altre: il rimprovero è comunicato per iscritto (art. 1360, co. 3); la consegna di rigore è trascritta nella documentazione personale (art. 1362, co. 8); il richiamo non dà luogo a trascrizione (art. 1359, co. 3).",
+   "riferimenti": [
+    "COM art. 1361, co. 2-3",
+    "COM art. 1360, co. 3",
+    "COM art. 1362, co. 8",
+    "COM art. 1359, co. 3"
+   ],
+   "fonti": [
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 9,
+   "data_lezione": "2026-11-11"
   }
  ]
 }
