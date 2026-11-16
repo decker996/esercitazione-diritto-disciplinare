@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
- "aggiornata": "2026-11-12",
- "totale": 1360,
+ "aggiornata": "2026-11-16",
+ "totale": 1458,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -235,6 +235,12 @@
    "slug": "procedimento-stato",
    "titolo": "Procedimento di stato e inchiesta formale",
    "descrizione": "inchiesta formale, ufficiale inquirente, relazione finale, decisione (VIII.4)",
+   "parte": "VIII – I procedimenti disciplinari"
+  },
+  {
+   "slug": "termini-procedimento-stato",
+   "titolo": "Termini del procedimento di stato",
+   "descrizione": "termini perentori del procedimento di stato (art. 1392 COM)",
    "parte": "VIII – I procedimenti disciplinari"
   },
   {
@@ -37199,6 +37205,2653 @@
    ],
    "lezione": 9,
    "data_lezione": "2026-11-11"
+  },
+  {
+   "id": "DD-L10-001",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 626 COM, l'ordine di precedenza tra militari di pari grado è determinato:",
+   "opzioni": {
+    "A": "dall'incarico ricoperto al momento del fatto",
+    "B": "dalla categoria di appartenenza",
+    "C": "dall'età anagrafica dei militari",
+    "D": "dall'anzianità di grado"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 626 COM fonda l'ordinamento gerarchico sul grado (co. 1) e stabilisce che l'ordine di precedenza tra pari grado è determinato dall'anzianità di grado, secondo l'art. 854 (co. 2); dal rapporto di subordinazione deriva il dovere di obbedienza (co. 3). L'incarico di comando conferisce autorità a chi lo esercita, ma non è il criterio di precedenza tra pari grado; l'età e la categoria non lo sono affatto. È per questo che tra pari grado c'è sempre un primo e un secondo.",
+   "riferimenti": [
+    "COM art. 626",
+    "COM art. 854"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Sinossi p. 75"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-002",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "La precedenza che l'anzianità di grado attribuisce a un militare rispetto ai pari grado (art. 854 COM) si riferisce:",
+   "opzioni": {
+    "A": "ai soli atti di cerimoniale e di rappresentanza, non al servizio",
+    "B": "agli atti del servizio, esclusi quelli relativi alla disciplina",
+    "C": "agli atti del servizio o della disciplina militare",
+    "D": "ai soli rapporti tra ufficiali dello stesso ruolo e corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 854, co. 1, COM: l'anzianità di grado, salvo diverse disposizioni, determina la precedenza rispetto ai pari grado, e «la precedenza si intende riferita agli atti del servizio o della disciplina militare». Non è quindi un fatto di cerimoniale, non esclude la disciplina e vale per tutte le categorie. Su questa base si sostiene che tra pari grado il più anziano sia superiore anche ai fini dell'obbedienza e della disciplina.",
+   "riferimenti": [
+    "COM art. 854, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-003",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 854, co. 2, COM, l'anzianità di grado è:",
+   "opzioni": {
+    "A": "assoluta e relativa",
+    "B": "di ruolo e di servizio",
+    "C": "ordinaria e straordinaria",
+    "D": "di grado e di carica"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 854, co. 2, COM distingue l'anzianità di grado in assoluta e relativa, determinate secondo le disposizioni del codice. Proprio l'esistenza di queste due nozioni dimostra che anche tra pari grado c'è sempre una graduatoria (un primo, un secondo, un terzo). L'anzianità di servizio è altra cosa e rileva, ad esempio, nella graduazione delle sanzioni (art. 1355, co. 2, COM).",
+   "riferimenti": [
+    "COM art. 854, co. 2",
+    "COM art. 1355, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-004",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo la pronuncia della Corte di cassazione esaminata a lezione, tra due militari di pari grado in pattuglia:",
+   "opzioni": {
+    "A": "il più anziano assume la posizione di comando e diviene superiore dell'altro",
+    "B": "il più giovane d'età assume la responsabilità, perché è di regola alla guida",
+    "C": "nessuno dei due è superiore, salvo un formale atto di nomina a capo pattuglia",
+    "D": "il più anziano ha la precedenza nel cerimoniale, ma non diviene superiore"
+   },
+   "corretta": "A",
+   "spiegazione": "Per una regola ordinamentale di carattere generale deve sempre essere individuato con precisione il soggetto su cui si incentrano tutte le responsabilità di comando, in ogni situazione operativa e non operativa: tra due pari grado, quello con maggiore anzianità assume la posizione di comando e diviene superiore dell'altro. Non serve una nomina formale; la precedenza non è solo cerimoniale (art. 854, co. 1, COM: atti del servizio o della disciplina). Alla guida siede di regola il meno elevato in grado, mentre il capo servizio è il più anziano. La pronuncia non risulta pubblicata nelle raccolte e l'orientamento non è pacifico.",
+   "riferimenti": [
+    "COM art. 626",
+    "COM art. 854"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-005",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Quale argomento letterale si trae dal codice penale militare di pace a favore della superiorità del più anziano tra pari grado?",
+   "opzioni": {
+    "A": "la disobbedienza riguarda l'ordine intimato «da un superiore», non «da un superiore in grado»",
+    "B": "la disobbedienza riguarda l'ordine intimato «da un superiore in grado», non da chi comanda",
+    "C": "l'insubordinazione riguarda l'offesa al superiore «in grado o in comando», comprese le funzioni",
+    "D": "l'ingiuria tra militari riguarda l'offesa a un «inferiore in grado», non a un pari grado"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 173 c.p.m.p. punisce chi non obbedisce a un ordine «intimatogli da un superiore»; l'art. 189 parla dell'offesa a un «superiore» e l'art. 196 di quella a un «inferiore», senza mai aggiungere «in grado». Se il legislatore avesse voluto riferirsi al solo grado, non avrebbero senso le nozioni di anzianità assoluta e relativa, che servono a graduare i pari grado. Le formule «superiore in grado» o «in grado o in comando» non sono nel testo; l'ingiuria dell'art. 226 riguarda «altro militare», senza riferimento al grado.",
+   "riferimenti": [
+    "c.p.m.p. art. 173",
+    "c.p.m.p. art. 189",
+    "c.p.m.p. art. 196",
+    "c.p.m.p. art. 226",
+    "COM art. 854, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-006",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "II.5.a",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Se più colpevoli di un reato militare punibile a richiesta appartengono a corpi diversi, la richiesta di procedimento è fatta dal comandante del corpo da cui dipende:",
+   "opzioni": {
+    "A": "il militare che ha commesso il fatto più grave, a prescindere dal grado",
+    "B": "il militare più giovane d'età o, a parità d'età, quello con minore servizio",
+    "C": "ciascun militare, con richieste separate per ogni corpo interessato",
+    "D": "il più elevato in grado o, a parità di grado, il superiore in comando o il più anziano"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 260, co. 2, c.p.m.p.: se più sono i colpevoli e appartengono a corpi o forze armate diversi, la richiesta è fatta dal comandante del corpo dal quale dipende il militare più elevato in grado «o, a parità di grado, il superiore in comando o il più anziano». La norma conferma che tra pari grado l'anzianità decide la precedenza anche negli atti di rilevanza penale e disciplinare. Non contano la gravità del singolo fatto né l'età; non servono richieste separate.",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2"
+   ],
+   "fonti": [
+    "Guida tecnica p. 144"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-007",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Due appuntati, di corsi diversi, sono di pattuglia; il meno anziano rifiuta di eseguire una disposizione di servizio impartita dall'altro. Secondo l'impostazione seguita a lezione:",
+   "opzioni": {
+    "A": "la disobbedienza è configurabile, perché il più anziano è superiore anche tra pari grado",
+    "B": "la disobbedienza non è configurabile, perché tra pari grado non vi è rapporto gerarchico",
+    "C": "la disobbedienza è configurabile solo se il più anziano era stato nominato capo pattuglia per iscritto",
+    "D": "si configura l'ingiuria tra militari, perché il rifiuto offende il decoro del collega presente"
+   },
+   "corretta": "A",
+   "spiegazione": "Secondo l'impostazione della lezione e la pronuncia di Cassazione esaminata, tra pari grado il più anziano assume la posizione di comando: l'art. 173 c.p.m.p. richiede un ordine «da un superiore», non «da un superiore in grado», e l'anzianità determina la precedenza negli atti del servizio e della disciplina (artt. 626 e 854 COM). Non serve una nomina scritta; il semplice rifiuto non è un'offesa all'onore o al decoro (art. 226 c.p.m.p.). L'orientamento non è pacifico: una diversa lettura fonda la superiorità sul solo grado. Nella prassi casi del genere raramente giungono a una denuncia.",
+   "riferimenti": [
+    "c.p.m.p. art. 173",
+    "COM art. 626",
+    "COM art. 854",
+    "c.p.m.p. art. 226"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-008",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "L'ingiuria tra militari prevista dall'art. 226 c.p.m.p. è punita:",
+   "opzioni": {
+    "A": "con la reclusione militare fino a quattro mesi, fino a sei se si attribuisce un fatto determinato",
+    "B": "con la reclusione militare fino a sei mesi, fino a un anno se si attribuisce un fatto determinato",
+    "C": "con la reclusione militare fino a due anni, come l'offesa al superiore in sua presenza",
+    "D": "con la reclusione militare da sei mesi a tre anni, come la minaccia a un inferiore"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 226 c.p.m.p.: il militare che offende l'onore o il decoro di altro militare presente è punito, se il fatto non costituisce più grave reato, con la reclusione militare fino a quattro mesi; fino a sei mesi se l'offesa consiste nell'attribuzione di un fatto determinato. Il massimo non supera i sei mesi: il reato è perseguibile a richiesta del comandante di corpo (art. 260, co. 2). Fino a due anni è punita l'offesa al prestigio, all'onore o alla dignità del superiore (art. 189, co. 2) e dell'inferiore (art. 196, co. 2); da sei mesi a tre anni la minaccia (artt. 189 e 196, co. 1).",
+   "riferimenti": [
+    "c.p.m.p. art. 226",
+    "c.p.m.p. art. 260, co. 2",
+    "c.p.m.p. art. 189",
+    "c.p.m.p. art. 196"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-009",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Le disposizioni del c.p.m.p. sull'insubordinazione e sull'abuso di autorità NON si applicano quando il fatto è commesso:",
+   "opzioni": {
+    "A": "per cause estranee al servizio, anche se in presenza di militari riuniti per servizio o da militare in servizio",
+    "B": "da militare libero dal servizio, anche per cause attinenti alla disciplina e in presenza di militari riuniti",
+    "C": "fuori dai luoghi militari, qualunque ne sia la causa, anche da militare in servizio e in presenza di altri militari",
+    "D": "per cause estranee al servizio e alla disciplina, fuori dalla presenza di militari riuniti per servizio e da militare non in servizio"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 199 c.p.m.p.: le disposizioni dei capi III (insubordinazione) e IV (abuso di autorità) non si applicano quando il fatto è commesso per cause estranee al servizio e alla disciplina militare, fuori dalla presenza di militari riuniti per servizio e da militare che non si trovi in servizio o a bordo di nave o aeromobile militare. Le condizioni sono cumulative: basta la presenza di militari riuniti per servizio o una causa attinente alla disciplina per ricadere nel reato militare. Il riferimento ai «luoghi militari» è stato dichiarato illegittimo (Corte cost., sent. n. 22 del 1991).",
+   "riferimenti": [
+    "c.p.m.p. art. 199",
+    "Corte cost., sent. n. 22/1991"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-010",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Il richiamo può essere inflitto, secondo l'art. 1359, co. 2, COM:",
+   "opzioni": {
+    "A": "solo dal superiore collocato nella linea gerarchica di dipendenza del militare",
+    "B": "solo dal superiore in grado, mai dal pari grado più anziano",
+    "C": "da qualsiasi superiore, espressione che secondo la lezione comprende il pari grado più anziano",
+    "D": "solo dal comandante di reparto ai fini disciplinari o dal comandante di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1359, co. 2, COM attribuisce il richiamo a «qualsiasi superiore», non a qualsiasi superiore in grado: secondo l'impostazione della lezione la formula comprende anche il pari grado più anziano, che è in posizione di comando (artt. 626 e 854 COM). La collocazione nella linea gerarchica rileva solo per l'obbligo di rapporto, che non c'è se il superiore vi è collocato. Comandante di reparto e di corpo sono competenti per le altre sanzioni di corpo (art. 1396).",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1396",
+    "COM art. 854"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-011",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Il sistema dei rapporti tra procedimento penale e procedimento disciplinare militare:",
+   "opzioni": {
+    "A": "impone di scegliere tra sanzione disciplinare e richiesta di procedimento per ogni reato militare",
+    "B": "preclude la richiesta di procedimento se per lo stesso fatto è già stata inflitta una sanzione disciplinare",
+    "C": "consente la sanzione disciplinare solo dopo la sentenza penale irrevocabile di condanna",
+    "D": "non configura un'alternatività: la richiesta di procedimento è ammessa anche dopo la sanzione disciplinare"
+   },
+   "corretta": "D",
+   "spiegazione": "Il sistema non configura un'ipotesi di alternatività tra procedimento penale e procedimento disciplinare: la richiesta di procedimento penale non è preclusa qualora per lo stesso fatto sia già stata inflitta una sanzione disciplinare (Corte cost., sent. n. 406 del 2000). La pregiudiziale penale è stata superata: il procedimento disciplinare è avviato, proseguito e concluso anche in pendenza del procedimento penale (art. 1393, co. 1, COM). Un principio di alternatività è stato affermato da Cass. pen., sez. I, n. 26536/2023 solo per la consegna di rigore e i reati dell'art. 260, co. 2, c.p.m.p., ed è criticato.",
+   "riferimenti": [
+    "COM art. 1393, co. 1",
+    "Corte cost., sent. n. 406/2000",
+    "Cass. pen., sez. I, n. 26536/2023"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-012",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Per un reato militare perseguibile a sua richiesta, il comandante di corpo, secondo l'impostazione della lezione e delle istruzioni applicative:",
+   "opzioni": {
+    "A": "può richiedere il procedimento e punire, punire dopo, punire senza richiedere o né punire né richiedere",
+    "B": "deve scegliere tra la richiesta di procedimento e la sanzione disciplinare, che si escludono a vicenda",
+    "C": "può punire in via disciplinare solo se non richiede il procedimento entro un mese dalla notizia",
+    "D": "deve sempre richiedere il procedimento e può punire solo dopo la sentenza penale irrevocabile"
+   },
+   "corretta": "A",
+   "spiegazione": "Secondo la lezione, che concorda con le istruzioni della Direzione generale per il personale militare, tutte le combinazioni sono possibili: chiedere il procedimento e punire; chiedere il procedimento e punire in seguito; punire senza chiedere; non punire e non chiedere (fatto minimo). Lo confermano la non alternatività (Corte cost., sent. n. 406 del 2000) e l'art. 1393, co. 1, COM. La tesi dell'alternatività è quella di Cass. pen., sez. I, n. 26536/2023, per la consegna di rigore, non seguita dalla lezione. Il termine di un mese riguarda la proponibilità della richiesta (art. 260, co. 4, c.p.m.p.), non la sanzione.",
+   "riferimenti": [
+    "COM art. 1393, co. 1",
+    "COM art. 1362, co. 7",
+    "c.p.m.p. art. 260",
+    "Corte cost., sent. n. 406/2000"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-013",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quando l'art. 1393, co. 1, COM consente di promuovere il procedimento disciplinare al termine di quello penale?",
+   "opzioni": {
+    "A": "per quelle punibili con la consegna di rigore o con sanzioni di stato, se l'accertamento è complesso o gli elementi insufficienti",
+    "B": "per le infrazioni punibili con la consegna o con il rimprovero, solo se l'accertamento del fatto è particolarmente complesso",
+    "C": "per ogni infrazione, quando l'autorità ritiene opportuno conoscere l'esito del processo penale prima di decidere",
+    "D": "per le infrazioni punibili con sanzioni di stato, solo se il militare ne fa richiesta motivata all'autorità competente"
+   },
+   "corretta": "A",
+   "spiegazione": "La regola dell'art. 1393, co. 1, COM è che il procedimento disciplinare è avviato, proseguito e concluso anche in pendenza del procedimento penale. L'eccezione riguarda le infrazioni di maggiore gravità, punibili con la consegna di rigore o con le sanzioni di stato: l'autorità competente promuove il procedimento al termine di quello penale solo nei casi di particolare complessità dell'accertamento o se, all'esito degli accertamenti preliminari, non dispone di elementi sufficienti. Non è una facoltà generale né dipende da un'istanza dell'interessato.",
+   "riferimenti": [
+    "COM art. 1393, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-014",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "In quale caso, per l'art. 1393, co. 1, COM, il procedimento disciplinare non è promosso o, se iniziato, è sospeso fino alla conclusione di quello penale?",
+   "opzioni": {
+    "A": "quando i fatti sono stati commessi fuori servizio e hanno avuto risonanza sulla stampa",
+    "B": "quando riguardano atti compiuti nello svolgimento delle funzioni, in adempimento di obblighi e doveri di servizio",
+    "C": "quando il militare è sottoposto a una misura cautelare personale per gli stessi fatti",
+    "D": "quando il comandante di corpo ha presentato la richiesta di procedimento ai sensi dell'art. 260 c.p.m.p."
+   },
+   "corretta": "B",
+   "spiegazione": "Il terzo periodo dell'art. 1393, co. 1, COM prevede una pregiudiziale obbligatoria: il procedimento non è promosso e, se già iniziato, è sospeso fino alla conoscenza integrale della sentenza o del decreto penale irrevocabili o del provvedimento di archiviazione, quando riguarda atti e comportamenti del militare nello svolgimento delle proprie funzioni, in adempimento di obblighi e doveri di servizio; resta salva la sospensione precauzionale (art. 916). La richiesta di procedimento non sospende nulla: è proprio il caso in cui si procede parallelamente. Fatti fuori servizio e misure cautelari non sono il presupposto della norma.",
+   "riferimenti": [
+    "COM art. 1393, co. 1",
+    "COM art. 916"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Guida tecnica p. 147"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-015",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il comandante di corpo che decide di non presentare la richiesta di procedimento per un reato militare:",
+   "opzioni": {
+    "A": "non ha alcun obbligo verso la procura militare, perché la richiesta è facoltativa",
+    "B": "deve informarne il Comando Generale, che decide se trasmettere la notizia",
+    "C": "deve comunque comunicare subito la notizia di reato alla procura militare competente",
+    "D": "deve comunicare la notizia di reato solo se infligge la consegna di rigore per lo stesso fatto"
+   },
+   "corretta": "C",
+   "spiegazione": "Anche quando non si ritiene di presentare la richiesta di procedimento, sussiste l'obbligo della comunicazione immediata della notizia di reato alla procura militare della Repubblica competente; l'omissione integra l'omessa denuncia di reato da parte del pubblico ufficiale (art. 361 c.p.), punita con la reclusione fino a un anno se il colpevole è un ufficiale o agente di polizia giudiziaria. La facoltà riguarda la condizione di procedibilità, non la notizia di reato; non dipende dal Comando Generale né dalla sanzione disciplinare.",
+   "riferimenti": [
+    "c.p. art. 361",
+    "c.p.m.p. art. 260"
+   ],
+   "fonti": [
+    "Guida tecnica p. 145",
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-016",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "L'art. 1393 COM, che ha superato la pregiudiziale penale, è stato sostituito:",
+   "opzioni": {
+    "A": "dalla L. 7 agosto 2015, n. 124, e poi dal D.Lgs. 26 aprile 2016, n. 91",
+    "B": "dal D.Lgs. 24 febbraio 2012, n. 20, e poi dal D.Lgs. 27 dicembre 2019, n. 173",
+    "C": "dal D.Lgs. 25 maggio 2017, n. 75, di riforma del pubblico impiego contrattualizzato",
+    "D": "dalla L. 7 agosto 1990, n. 241, come modificata dalla L. 18 giugno 2009, n. 69"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1393 COM è stato sostituito dall'art. 15, co. 1, della L. 7 agosto 2015, n. 124, e successivamente dall'art. 4, co. 1, lett. t), del D.Lgs. 26 aprile 2016, n. 91: le riforme del 2015-2016 hanno capovolto la regola della pregiudiziale penale, per cui il procedimento disciplinare è avviato, proseguito e concluso anche in pendenza di quello penale. I D.Lgs. 20/2012 e 173/2019 hanno modificato altre norme disciplinari (ad esempio l'art. 1359); il D.Lgs. 75/2017 riguarda il pubblico impiego contrattualizzato; la L. 69/2009 ha riscritto l'art. 2 della L. 241/1990.",
+   "riferimenti": [
+    "COM art. 1393",
+    "L. 124/2015, art. 15",
+    "D.Lgs. 91/2016, art. 4"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-017",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 1,
+   "domanda": "La sentenza della Corte europea dei diritti dell'uomo da cui prendono nome i criteri Engel riguardava:",
+   "opzioni": {
+    "A": "sanzioni disciplinari inflitte a militari di leva dei Paesi Bassi",
+    "B": "sanzioni disciplinari inflitte a magistrati dal loro organo di autogoverno",
+    "C": "sanzioni amministrative per violazioni del codice della strada in Italia",
+    "D": "sanzioni fiscali inflitte dall'amministrazione finanziaria a contribuenti olandesi"
+   },
+   "corretta": "A",
+   "spiegazione": "Corte EDU, 8 giugno 1976, Engel e altri c. Paesi Bassi: i ricorrenti erano militari di leva olandesi sanzionati in via disciplinare. La Corte elaborò i criteri per stabilire quando un'accusa è «penale» ai sensi dell'art. 6 CEDU, indipendentemente dalla qualificazione interna. È quindi una pronuncia nata proprio in materia di disciplina militare, e per questo i criteri Engel sono invocati nei ricorsi contro le sanzioni disciplinari.",
+   "riferimenti": [
+    "CEDU art. 6",
+    "Corte EDU, 8.6.1976, Engel e altri c. Paesi Bassi"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-018",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Nella causa Engel la Corte europea ritenne di natura «penale», ai fini dell'art. 6 CEDU:",
+   "opzioni": {
+    "A": "due giorni di arresti di rigore, perché comportavano una privazione della libertà",
+    "B": "ogni sanzione disciplinare inflitta ai militari, comprese le più lievi",
+    "C": "gli arresti semplici, perché eseguiti in un locale militare separato",
+    "D": "l'assegnazione a un'unità disciplinare per tre o quattro mesi"
+   },
+   "corretta": "D",
+   "spiegazione": "La Corte ritenne penali le assegnazioni a un'unità disciplinare per tre o quattro mesi, privazioni della libertà di apprezzabile gravità; escluse invece i due giorni di arresti di rigore, di durata troppo breve, e gli arresti semplici, che non comportavano una privazione della libertà (§§ 82, 85 e 88). Il criterio decisivo fu la severità della sanzione: natura, durata e modalità di esecuzione. Non ogni sanzione disciplinare militare è quindi «penale».",
+   "riferimenti": [
+    "CEDU art. 6",
+    "Corte EDU, 8.6.1976, Engel e altri c. Paesi Bassi, §§ 82-88"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Corte EDU, testo HUDOC"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-019",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo i criteri Engel, si è in presenza di una violazione di natura penale quando:",
+   "opzioni": {
+    "A": "è definita penale dalla legge nazionale, oppure ha una reale natura penale, oppure comporta una sanzione di elevata severità",
+    "B": "è definita penale dalla legge nazionale e, insieme, comporta una sanzione detentiva superiore a sei mesi",
+    "C": "è prevista da una norma interna e il giudice nazionale la qualifica come penale con sentenza irrevocabile",
+    "D": "comporta una sanzione pecuniaria, qualunque ne sia l'importo, o una sanzione che incide sulla carriera"
+   },
+   "corretta": "A",
+   "spiegazione": "I criteri sono tre e alternativi: la qualificazione penale nella legge nazionale (punto di partenza, che si riconosce dalle pene); la reale natura penale dell'illecito, benché non definito tale; la severità della sanzione, benché l'illecito non sia definito penale. È il terzo che si invoca per la consegna di rigore. Non serve una soglia di sei mesi né una qualificazione del giudice; le sanzioni che incidono sulla carriera non sono per ciò solo penali.",
+   "riferimenti": [
+    "CEDU art. 6",
+    "Corte EDU, 8.6.1976, Engel e altri c. Paesi Bassi"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-020",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quale dei criteri Engel viene invocato per sostenere la natura penale della consegna di rigore?",
+   "opzioni": {
+    "A": "la qualificazione penale della consegna di rigore nel diritto interno",
+    "B": "l'appartenenza della consegna di rigore alla materia penale militare",
+    "C": "l'elevato grado di severità della sanzione, benché non qualificata penale",
+    "D": "la competenza del giudice militare a decidere i ricorsi contro la sanzione"
+   },
+   "corretta": "C",
+   "spiegazione": "La consegna di rigore è qualificata dal diritto interno come sanzione disciplinare di corpo (art. 1358, co. 5, COM): si invoca perciò il terzo criterio, la severità della sanzione, sostenendo che il vincolo di rimanere fino a quindici giorni nell'alloggio o in uno spazio militare equivalga a una privazione della libertà. La giurisprudenza lo esclude: è un obbligo giuridico, non una restrizione della libertà personale. I ricorsi contro le sanzioni disciplinari spettano al giudice amministrativo, non a quello militare.",
+   "riferimenti": [
+    "COM art. 1358, co. 5",
+    "Corte cost., sent. n. 406/2000"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-021",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 17 c.p., le pene principali stabilite per le contravvenzioni sono:",
+   "opzioni": {
+    "A": "la reclusione e la multa",
+    "B": "l'arresto e la multa",
+    "C": "la reclusione e l'ammenda",
+    "D": "l'arresto e l'ammenda"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 17 c.p.: le pene principali per i delitti sono l'ergastolo, la reclusione e la multa; per le contravvenzioni l'arresto e l'ammenda. È dalla pena prevista che si riconosce immediatamente se una norma descrive un reato e di che specie, senza ricostruire la volontà del legislatore: è il primo dei criteri Engel. Le combinazioni miste mescolano pene dei delitti e delle contravvenzioni.",
+   "riferimenti": [
+    "c.p. art. 17"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-022",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 37 c.p.m.p., è reato militare:",
+   "opzioni": {
+    "A": "il solo fatto non previsto come reato dalla legge penale comune",
+    "B": "qualunque violazione della legge penale militare",
+    "C": "qualunque reato commesso da un militare in servizio",
+    "D": "qualunque reato commesso in un luogo militare"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 37 c.p.m.p.: qualunque violazione della legge penale militare è reato militare. È reato esclusivamente militare quello il cui fatto, nei suoi elementi materiali costitutivi, non è in tutto o in parte previsto come reato dalla legge penale comune (co. 2): la prima opzione confonde le due nozioni. Non basta la qualità di militare dell'autore né il luogo del fatto.",
+   "riferimenti": [
+    "c.p.m.p. art. 37"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-023",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quando una norma punisce un fatto «con l'arresto fino a tre mesi», l'arresto è:",
+   "opzioni": {
+    "A": "una misura precautelare, eseguita dalla polizia giudiziaria nella flagranza",
+    "B": "una misura cautelare personale, disposta dal giudice nel corso delle indagini",
+    "C": "la pena principale prevista per le contravvenzioni, da non confondere con l'arresto come misura restrittiva",
+    "D": "una sanzione amministrativa limitativa della libertà, sostitutiva della sanzione pecuniaria"
+   },
+   "corretta": "C",
+   "spiegazione": "L'arresto previsto dalla norma incriminatrice è la pena principale delle contravvenzioni (art. 17 c.p.), insieme all'ammenda. Va distinto dall'arresto come misura restrittiva della libertà personale nel procedimento penale: confonderli porta a credere che la contravvenzione comporti la detenzione in carcere, che invece richiede pene di ben altra entità. Non esiste una sanzione amministrativa privativa della libertà.",
+   "riferimenti": [
+    "c.p. art. 17"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-024",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Perché, secondo la giurisprudenza, i criteri Engel non trovano applicazione nel procedimento disciplinare per la consegna di rigore?",
+   "opzioni": {
+    "A": "perché la Convenzione europea non si applica ai militari in servizio permanente",
+    "B": "perché l'art. 1393 COM vieta di valutare la natura delle sanzioni alla luce della Convenzione",
+    "C": "perché la consegna di rigore non può superare sette giorni, soglia minima fissata dalla Corte europea",
+    "D": "perché il procedimento è amministrativo e la consegna di rigore non restringe la libertà personale"
+   },
+   "corretta": "D",
+   "spiegazione": "La Corte costituzionale (sent. n. 406 del 2000) e il Consiglio di Stato (sez. IV, n. 2179/2015; sez. II, n. 3720/2022) affermano che il procedimento disciplinare ha natura amministrativa e che la consegna di rigore non è paragonabile alla reclusione militare: è un obbligo giuridico per cui il militare si porta da sé nel proprio alloggio, senza restrizione della libertà personale. La Convenzione si applica anche ai militari (Engel riguardava proprio militari); la consegna di rigore arriva a quindici giorni (art. 1358, co. 5); l'art. 1393 regola i rapporti con il processo penale, non la natura delle sanzioni.",
+   "riferimenti": [
+    "Corte cost., sent. n. 406/2000",
+    "Cons. Stato, sez. IV, n. 2179/2015",
+    "Cons. Stato, sez. II, n. 3720/2022",
+    "COM art. 1358, co. 5"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "lezione 9 (11.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-025",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Un ufficiale, condannato in sede penale per violata consegna, è poi sospeso dall'impiego per due mesi per gli stessi fatti. Secondo TAR Friuli-Venezia Giulia, sez. I, n. 226/2024:",
+   "opzioni": {
+    "A": "la sospensione è illegittima, perché ha natura sostanzialmente penale e viola il ne bis in idem",
+    "B": "la sospensione è legittima solo se inflitta prima della condanna penale irrevocabile",
+    "C": "la sospensione è legittima, perché secondo i criteri Engel non ha natura sostanzialmente penale",
+    "D": "la sospensione è illegittima, perché dopo la condanna si può infliggere solo una sanzione di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "Il TAR ha escluso la violazione del ne bis in idem (art. 4 del Protocollo n. 7 alla CEDU): la sospensione disciplinare di due mesi non ha natura sostanzialmente penale secondo i criteri Engel, e la sanzione disciplinare dopo la condanna penale per gli stessi fatti è ammessa. Il procedimento disciplinare può seguire il giudicato penale (art. 1393 COM e, per lo stato, art. 1392, co. 1); non vi è alcun vincolo a infliggere solo sanzioni di corpo.",
+   "riferimenti": [
+    "TAR Friuli-Venezia Giulia, sez. I, 27.6.2024, n. 226",
+    "CEDU, Protocollo n. 7, art. 4",
+    "COM art. 1393"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-026",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.1.e",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Nell'ordinamento disciplinare della Polizia di Stato la pena pecuniaria consiste:",
+   "opzioni": {
+    "A": "nella riduzione, non superiore a cinque trentesimi, di una mensilità dello stipendio e degli assegni fissi",
+    "B": "nella riduzione, non superiore a un decimo, dello stipendio di tre mensilità consecutive",
+    "C": "nel pagamento di una somma da cinquanta a cinquecento euro a favore dell'amministrazione",
+    "D": "nella perdita, non superiore a quindici giorni, della retribuzione e dell'indennità di servizio"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 4 del D.P.R. 25 ottobre 1981, n. 737: la pena pecuniaria consiste nella riduzione in misura non superiore a cinque trentesimi di una mensilità dello stipendio e degli altri assegni a carattere fisso e continuativo. Nell'ordinamento militare non c'è una sanzione pecuniaria: le sanzioni sono tassative (art. 1353 COM) e di corpo o di stato. Si discute dell'opportunità di introdurne una, perché le sanzioni di corpo hanno un contenuto afflittivo limitato per chi non aspira ad avanzare o a trasferirsi.",
+   "riferimenti": [
+    "D.P.R. 737/1981, art. 4",
+    "COM art. 1353"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-027",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.1.e",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Dopo ripetute punizioni di corpo, il trasferimento del militare ad altra sede:",
+   "opzioni": {
+    "A": "è una sanzione disciplinare accessoria alla consegna di rigore, inflitta dal comandante di corpo",
+    "B": "è una sanzione di stato, che richiede il parere della commissione di disciplina",
+    "C": "non è una sanzione disciplinare, ma un provvedimento di impiego con i propri presupposti",
+    "D": "è vietato, perché costituirebbe una seconda sanzione per gli stessi fatti"
+   },
+   "corretta": "C",
+   "spiegazione": "Le sanzioni disciplinari sono tassative (art. 1353 COM): il trasferimento non vi rientra. È un provvedimento di impiego, che può essere disposto per esigenze di servizio o per incompatibilità ambientale, con i presupposti e le garanzie di quegli istituti; le punizioni, anche di piccola entità, possono costituirne un motivo. Va considerato che sanzioni ripetute (tre o quattro richiami) possono dar luogo ad azioni per mobbing, che non significano condanna. Non essendo una sanzione, non viola il divieto di punire due volte lo stesso fatto.",
+   "riferimenti": [
+    "COM art. 1353",
+    "COM artt. 1357-1358"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-028",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 1,
+   "domanda": "Nella disciplina di corpo, il potere di infliggere sanzioni spetta:",
+   "opzioni": {
+    "A": "solo al comandante di corpo, che può delegarlo ai comandanti di reparto",
+    "B": "a qualsiasi superiore, al comandante di reparto e al comandante di corpo, secondo la sanzione",
+    "C": "al comandante di reparto e al comandante di corpo, esclusi gli altri superiori",
+    "D": "a qualsiasi superiore in grado, per tutte le sanzioni di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Le autorità della disciplina di corpo sono tre: qualsiasi superiore (per il richiamo: art. 1359, co. 2, COM), il comandante di reparto ai fini disciplinari e il comandante di corpo (art. 1396 COM), con competenze graduate: la consegna di rigore spetta esclusivamente al comandante di corpo; la consegna anche al comandante di reparto; il rimprovero anche ai comandanti di distaccamento. Gli altri superiori possono infliggere solo il richiamo; per il resto fanno rapporto (art. 1397).",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1396",
+    "COM art. 1397"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-029",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 1396, co. 2, COM, la consegna può essere inflitta:",
+   "opzioni": {
+    "A": "dal comandante di corpo e dal comandante di reparto",
+    "B": "esclusivamente dal comandante di corpo, come la consegna di rigore",
+    "C": "dal comandante di corpo, dal comandante di reparto e dai comandanti di distaccamento",
+    "D": "da qualsiasi superiore, previo rapporto al comandante di reparto"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1396 COM: la consegna di rigore esclusivamente dal comandante del corpo o dell'ente presso cui il militare presta servizio (co. 1); la consegna dal comandante di corpo e dal comandante di reparto (co. 2); il rimprovero, oltre che da questi, anche dall'ufficiale comandante di distaccamento e dal sottufficiale comandante di distaccamento con le attribuzioni di comandante di reparto (co. 3). I comandanti di distaccamento si fermano quindi al rimprovero; qualsiasi superiore al richiamo.",
+   "riferimenti": [
+    "COM art. 1396, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-030",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un sottufficiale comandante di distaccamento, con le attribuzioni di comandante di reparto, ritiene che un proprio dipendente meriti una sanzione di corpo. Può infliggere direttamente:",
+   "opzioni": {
+    "A": "il richiamo e la consegna, ma non il rimprovero, che è scritto",
+    "B": "qualsiasi sanzione di corpo esclusa la consegna di rigore",
+    "C": "solo il richiamo, come qualsiasi superiore, e per il resto deve fare rapporto",
+    "D": "il richiamo e il rimprovero; per la consegna o la consegna di rigore deve fare rapporto"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1396, co. 3, lett. b), COM attribuisce il rimprovero al sottufficiale comandante di distaccamento avente le attribuzioni di comandante di reparto; il richiamo spetta a qualsiasi superiore (art. 1359, co. 2). La consegna è riservata al comandante di reparto e al comandante di corpo (art. 1396, co. 2), la consegna di rigore al solo comandante di corpo (co. 1): per queste il sottufficiale non è competente e deve fare rapporto (art. 1397, co. 1).",
+   "riferimenti": [
+    "COM art. 1396, co. 1-3",
+    "COM art. 1359, co. 2",
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-031",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Nell'organizzazione territoriale dell'Arma, il comandante di tenenza è comandante di reparto ai fini disciplinari:",
+   "opzioni": {
+    "A": "sempre, qualunque sia il suo grado",
+    "B": "solo se è ufficiale",
+    "C": "solo se è luogotenente o ufficiale",
+    "D": "mai: lo è soltanto il comandante di compagnia"
+   },
+   "corretta": "B",
+   "spiegazione": "Secondo la circolare del Comando Generale sulle autorità alle quali compete la potestà sanzionatoria (circ. n. 17/109-2-1996), il comandante di tenenza è comandante di reparto ai fini disciplinari se è ufficiale; se è sottufficiale non lo è. Il comandante di compagnia è comandante di reparto ai fini disciplinari, anche sul comandante di tenenza; il comandante del nucleo operativo è soltanto superiore gerarchico. Quali incarichi comportino le funzioni di comandante di corpo e di reparto lo stabilisce ciascuna Forza armata (art. 726, co. 3, TUROM).",
+   "riferimenti": [
+    "circ. n. 17/109-2-1996 (Comando Generale, I Reparto)",
+    "TUROM art. 726, co. 3",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-032",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Il comandante del nucleo operativo di una compagnia rileva che un brigadiere di una stazione della stessa compagnia ha commesso un'infrazione non lieve. Il comandante del nucleo:",
+   "opzioni": {
+    "A": "infligge il rimprovero, perché comanda un reparto della compagnia",
+    "B": "infligge la consegna, previo nulla osta del comandante di compagnia",
+    "C": "fa constatare la mancanza e fa rapporto, perché è solo superiore gerarchico",
+    "D": "trasmette la notizia al comandante di stazione, che decide se procedere"
+   },
+   "corretta": "C",
+   "spiegazione": "Il comandante del nucleo operativo non è autorità disciplinare ai fini delle sanzioni diverse dal richiamo: è soltanto superiore gerarchico. Se il fatto non è da richiamo, egli non è competente e deve far constatare la mancanza al trasgressore, identificarlo e fare rapporto senza ritardo (art. 1397, co. 1, COM), al comandante di compagnia, comandante di reparto ai fini disciplinari comune a entrambi (co. 3, lett. a). Il comandante di stazione non ha potestà sanzionatoria oltre il richiamo.",
+   "riferimenti": [
+    "COM art. 1397, co. 1 e 3",
+    "COM art. 1396",
+    "circ. n. 17/109-2-1996"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-033",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Nell'organizzazione territoriale dell'Arma, la consegna di rigore a un carabiniere di una stazione è inflitta:",
+   "opzioni": {
+    "A": "dal comandante della compagnia",
+    "B": "dal comandante provinciale",
+    "C": "dal comandante della stazione",
+    "D": "dal comandante della Legione"
+   },
+   "corretta": "D",
+   "spiegazione": "La consegna di rigore può essere inflitta esclusivamente dal comandante di corpo (art. 1396, co. 1, COM); nell'organizzazione territoriale dell'Arma comandante di corpo è il comandante della Legione (circ. n. 17/109-2-1996). Il comandante di compagnia e il comandante provinciale sono comandanti di reparto: possono infliggere rimprovero e consegna. Il comandante di stazione può infliggere solo il richiamo.",
+   "riferimenti": [
+    "COM art. 1396, co. 1",
+    "circ. n. 17/109-2-1996"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-034",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Quali sono le fonti qualificate della notizia di un'infrazione disciplinare?",
+   "opzioni": {
+    "A": "l'esposto anonimo e il rapporto disciplinare",
+    "B": "l'articolo di stampa e la denuncia del privato",
+    "C": "il rapporto disciplinare e la denuncia amministrativa",
+    "D": "la denuncia amministrativa e il post sui social"
+   },
+   "corretta": "C",
+   "spiegazione": "Le fonti qualificate sono essenzialmente due: il rapporto disciplinare del superiore non competente (art. 1397 COM), che riferisce un fatto percepito con i propri sensi e perciò dato per accertato, e la denuncia amministrativa di un'autorità pubblica (procuratore, prefetto, questore, dirigente del servizio di ordine pubblico, sindaco). Stampa, servizi giornalistici, esposti anonimi, post sui social e privati che si presentano in caserma sono fonti non qualificate: il fatto va accertato.",
+   "riferimenti": [
+    "COM art. 1397"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Sinossi pp. 212-214"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-035",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Durante un servizio di ordine pubblico, il dirigente lamenta a voce con il comandante di compagnia la condotta del contingente di carabinieri. La notizia è:",
+   "opzioni": {
+    "A": "non qualificata, perché non proviene da un superiore gerarchico dei militari",
+    "B": "qualificata, perché proviene da un'autorità pubblica, anche se espressa a voce",
+    "C": "irrilevante finché non viene formalizzata con un esposto scritto e firmato",
+    "D": "qualificata solo se il dirigente redige un rapporto disciplinare ai sensi dell'art. 1397 COM"
+   },
+   "corretta": "B",
+   "spiegazione": "La denuncia amministrativa è fonte qualificata quando proviene da un'autorità pubblica, qualsiasi essa sia, e secondo la lezione anche quando la lamentela è espressa a voce (ad esempio dal dirigente del servizio di ordine pubblico sulla condotta del drappello a sua disposizione). Il dirigente non è superiore gerarchico dei carabinieri e non può fare un rapporto disciplinare, che spetta al superiore (art. 1397 COM); ma la notizia non è irrilevante: il comandante deve valutarla e procedere.",
+   "riferimenti": [
+    "COM art. 1397"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-036",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Al comandante di compagnia giunge un esposto anonimo che attribuisce a un appuntato una condotta scorretta fuori servizio. Il comandante:",
+   "opzioni": {
+    "A": "deve archiviarlo, perché l'esposto anonimo non può dare avvio ad alcuna attività disciplinare",
+    "B": "deve contestare subito l'addebito, perché ogni notizia di infrazione obbliga a procedere",
+    "C": "deve trasmetterlo al comandante di corpo, unico competente a valutare le notizie informali",
+    "D": "deve accertare con autonomi accertamenti se il fatto è realmente avvenuto, prima di contestare"
+   },
+   "corretta": "D",
+   "spiegazione": "L'esposto anonimo è una fonte non qualificata: il fatto non è accertato e va accertato, perché la notizia può essere falsa. Il titolare della potestà disciplinare ne valuta la sufficienza e svolge gli accertamenti preliminari; se da questi emerge con certezza una mancanza, è tenuto a instaurare il procedimento. Non si contesta senza aver verificato la storicità del fatto; ma la notizia non si archivia senza valutarla, e gli accertamenti spettano all'autorità competente all'azione, non necessariamente al comandante di corpo.",
+   "riferimenti": [
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Sinossi p. 218"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-037",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché il fatto riferito in un rapporto disciplinare si dà per accertato?",
+   "opzioni": {
+    "A": "perché il rapporto è firmato da un pubblico ufficiale e fa fede fino a querela di falso",
+    "B": "perché il superiore è qualificato a valutarne la rilevanza disciplinare e lo ha percepito con i propri sensi",
+    "C": "perché il rapporto contiene già la proposta di sanzione, che l'autorità competente deve recepire",
+    "D": "perché il militare ha già ammesso il fatto al momento della constatazione della mancanza"
+   },
+   "corretta": "B",
+   "spiegazione": "Il rapporto disciplinare è una notizia qualificata: il superiore gerarchico ha competenza non solo a punire con il richiamo ma anche a valutare che una situazione è disciplinarmente rilevante, e il fatto è avvenuto sotto i suoi sensi. Per questo chi lo riceve non si mette a verificarne il contenuto (esempio della giacca sbottonata). Il rapporto non deve contenere proposte sulla specie o sull'entità della sanzione (art. 1397, co. 2, COM); la constatazione non richiede un'ammissione del militare; la fede privilegiata è propria degli atti pubblici, non è il fondamento invocato.",
+   "riferimenti": [
+    "COM art. 1397, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Sinossi p. 214"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-038",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un rapporto disciplinare riferisce un fatto e indica alcuni militari presenti come testimoni. L'autorità competente:",
+   "opzioni": {
+    "A": "può svolgere un approfondimento (testimoni, immagini, altra versione) per delineare meglio il fatto",
+    "B": "non può svolgere alcun accertamento, perché il fatto riferito nel rapporto è già accertato",
+    "C": "deve sentire i testimoni in contraddittorio con il militare prima di qualsiasi altro atto",
+    "D": "deve restituire il rapporto al compilatore perché lo completi con le dichiarazioni dei testimoni"
+   },
+   "corretta": "A",
+   "spiegazione": "Davanti a un rapporto disciplinare gli accertamenti preliminari, in teoria, non servono: il fatto è dato per accertato. Ma la notizia può essere incompleta: si può allora approfondire, acquisendo le immagini delle telecamere, sentendo testimoni terzi, raccogliendo una versione diversa, per delineare meglio il fatto. La fase è riservata: il contraddittorio con il militare si apre con la contestazione degli addebiti (art. 1398, co. 2, COM). Il compilatore riferisce solo i fatti percepiti; non deve istruire.",
+   "riferimenti": [
+    "COM art. 1397",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-039",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Che cosa significa che il superiore che rileva l'infrazione «non è competente a infliggere la sanzione» (art. 1397, co. 1, COM)?",
+   "opzioni": {
+    "A": "che non appartiene allo stesso corpo del militare che ha commesso l'infrazione",
+    "B": "che non è nella linea gerarchica del militare, anche se il fatto è da richiamo",
+    "C": "che la sanzione richiesta dal fatto eccede la sua potestà, ad esempio perché può infliggere solo il richiamo",
+    "D": "che non è un ufficiale, perché i sottufficiali non hanno potestà sanzionatoria di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "Qualsiasi superiore può infliggere il richiamo (art. 1359, co. 2, COM); se il fatto rilevato non è da richiamo, il superiore che ha solo quella potestà non è competente, e deve far constatare la mancanza, identificare il trasgressore e fare rapporto senza ritardo. L'appartenenza a corpi diversi incide solo sull'inoltro del rapporto (art. 1397, co. 3-5); la linea gerarchica rileva per l'obbligo di rapporto dopo il richiamo; anche i sottufficiali possono avere potestà sanzionatoria (art. 1396, co. 3, lett. b).",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1359, co. 2",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-040",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "La notizia informale di un'infrazione (ad esempio un articolo di stampa):",
+   "opzioni": {
+    "A": "costituisce di per sé l'atto propulsivo degli accertamenti, da cui decorrono i trenta giorni",
+    "B": "obbliga a instaurare il procedimento solo se proviene da un'autorità pubblica",
+    "C": "non ha alcun rilievo, se non è confermata da un rapporto disciplinare scritto",
+    "D": "non è di per sé atto propulsivo: l'autorità ne valuta la sufficienza e la integra con accertamenti"
+   },
+   "corretta": "D",
+   "spiegazione": "La notizia informale, proveniente da soggetti che non sono superiori gerarchici, può contenere elementi vaghi o inadeguati: per questo non è di per sé atto propulsivo degli accertamenti preliminari. Il titolare della potestà disciplinare ne valuta la sufficienza e svolge, più correttamente, attività integrativa; quando ne emerge con certezza una mancanza, è vincolato a instaurare il procedimento. Non serve un rapporto per renderla rilevante; la provenienza da un'autorità pubblica la rende qualificata, ma non elimina la valutazione.",
+   "riferimenti": [
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "Sinossi p. 218",
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-041",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 1,
+   "domanda": "Un termine si dice perentorio quando:",
+   "opzioni": {
+    "A": "il suo superamento non comporta alcuna conseguenza giuridica",
+    "B": "alla sua scadenza decade il potere che doveva essere esercitato",
+    "C": "sollecita l'interessato a compiere un atto nel proprio interesse",
+    "D": "può essere prorogato solo con provvedimento motivato dell'autorità"
+   },
+   "corretta": "B",
+   "spiegazione": "In diritto amministrativo i termini sono perentori, ordinatori e sollecitatori. Perentorio è il termine alla cui scadenza decade il potere (in materia disciplinare, il potere di punire): è il caso dei termini del procedimento di stato (art. 1392 COM). Ordinatorio è il termine il cui superamento non comporta conseguenze, come i novanta giorni del procedimento di corpo; sollecitatorio, specie dell'ordinatorio, quello che sollecita il compimento di un atto, come il termine per le memorie difensive.",
+   "riferimenti": [
+    "COM art. 1392",
+    "TUROM art. 1046, co. 1, lett. h), n. 6"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-042",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Il termine per la presentazione delle memorie difensive nel procedimento di corpo è un esempio di termine:",
+   "opzioni": {
+    "A": "perentorio, perché scaduto il termine le memorie sono inammissibili e il procedimento si estingue",
+    "B": "sollecitatorio, perché sollecita l'interessato e, se non le presenta, le conseguenze ricadono su di lui",
+    "C": "dilatorio, perché prima della sua scadenza l'autorità non può adottare il provvedimento finale",
+    "D": "ordinatorio per l'amministrazione e perentorio per il militare, a pena di decadenza dalla difesa"
+   },
+   "corretta": "B",
+   "spiegazione": "Il termine per le memorie difensive è sollecitatorio: sollecita il militare a presentarle; se non le presenta, la conseguenza ricade su di lui, ma il procedimento non si estingue. Il termine è pari, di norma, a due terzi della durata del procedimento (art. 1029, co. 2, TUROM). La sua natura non è perentoria e la mancata presentazione non comporta alcuna decadenza dal diritto di difesa, che resta garantito dalla contestazione degli addebiti (art. 1370 COM).",
+   "riferimenti": [
+    "TUROM art. 1029, co. 2",
+    "COM art. 1370"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-043",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Dove è fissato il termine di novanta giorni per la conclusione del procedimento per l'irrogazione di sanzioni disciplinari di corpo?",
+   "opzioni": {
+    "A": "nell'art. 1398, co. 1, COM, insieme al dovere di instaurarlo senza ritardo",
+    "B": "nell'art. 1392, co. 3, COM, che regola i termini del procedimento disciplinare",
+    "C": "nell'art. 1046, co. 1, lett. h), n. 6, TUROM, tra i procedimenti di competenza periferica",
+    "D": "nell'art. 1040, co. 1, lett. d), TUROM, tra i procedimenti del Comando generale"
+   },
+   "corretta": "C",
+   "spiegazione": "Il termine è nell'art. 1046, co. 1, lett. h) («disciplina»), n. 6, TUROM: «procedimento per l'irrogazione di sanzioni disciplinari di corpo: 90 giorni dalla contestazione degli addebiti». L'articolo, lunghissimo, elenca i termini dei procedimenti degli organi dell'area periferica del Ministero della difesa. L'art. 1398, co. 1, COM impone solo di instaurare il procedimento senza ritardo; l'art. 1392 riguarda la disciplina di stato (270 giorni dopo il giudizio penale); l'art. 1040 i procedimenti del Comando generale dell'Arma, tra cui gli accertamenti preliminari di stato (180 giorni).",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1398, co. 1",
+    "COM art. 1392",
+    "TUROM art. 1040, co. 1, lett. d), n. 19"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Guida tecnica p. 148"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-044",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 1046, co. 1, lett. h), TUROM, qual è il termine dei procedimenti relativi all'istanza di riesame e al ricorso gerarchico avverso le sanzioni di corpo?",
+   "opzioni": {
+    "A": "trenta giorni per il riesame, novanta per il ricorso gerarchico",
+    "B": "sessanta giorni per entrambi",
+    "C": "novanta giorni per entrambi",
+    "D": "novanta giorni per il riesame, centoventi per il ricorso gerarchico"
+   },
+   "corretta": "C",
+   "spiegazione": "Nella lett. h) («disciplina») dell'art. 1046, co. 1, TUROM, il n. 6 fissa in novanta giorni dalla contestazione il procedimento per l'irrogazione delle sanzioni di corpo; i nn. 7 e 8 fissano in novanta giorni anche i procedimenti relativi all'istanza di riesame e al ricorso gerarchico avverso le sanzioni di corpo. Sono termini per la conclusione dei procedimenti, distinti dai termini per proporre i rimedi.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), nn. 6-8"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-045",
+   "argomento": "termini-procedimento-stato",
+   "sinossi": "VII.1.c",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Quanto alla natura dei termini, la disciplina di corpo e quella di stato si distinguono perché:",
+   "opzioni": {
+    "A": "nella disciplina di corpo i novanta giorni sono perentori, in quella di stato i termini sono ordinatori",
+    "B": "in entrambe i termini sono perentori, ma nella disciplina di corpo sono prorogabili",
+    "C": "in entrambe i termini sono ordinatori, salvo l'estinzione per novanta giorni di inattività",
+    "D": "nella disciplina di corpo i novanta giorni sono ordinatori, in quella di stato i termini sono perentori"
+   },
+   "corretta": "D",
+   "spiegazione": "Nella disciplina di corpo il termine di novanta giorni dalla contestazione (art. 1046, co. 1, lett. h), n. 6, TUROM) è ordinatorio: superarlo non impedisce di punire. Nella disciplina di stato i termini dell'art. 1392 COM sono perentori (ad esempio 270 giorni per il procedimento a seguito di giudizio penale): scaduti, non si può più punire. La ragione è che nella disciplina di stato è in gioco il rapporto di impiego. L'estinzione per novanta giorni di inattività (art. 1392, co. 4) riguarda il procedimento di stato.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1392"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-046",
+   "argomento": "termini-procedimento-stato",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Il procedimento disciplinare di stato instaurato a seguito di giudizio penale deve concludersi entro 270 giorni:",
+   "opzioni": {
+    "A": "dalla contestazione degli addebiti all'incolpato da parte dell'ufficiale inquirente nominato",
+    "B": "dalla conoscenza integrale, da parte dell'amministrazione, della sentenza o del decreto irrevocabili o dell'archiviazione",
+    "C": "dalla data in cui la sentenza penale è divenuta irrevocabile, indipendentemente dalla conoscenza dell'amministrazione",
+    "D": "dalla conclusione degli accertamenti preliminari, che devono essere svolti entro centottanta giorni dal fatto"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1392, co. 3, COM: il procedimento di stato instaurato a seguito di giudizio penale deve concludersi entro 270 giorni dalla data in cui l'amministrazione ha avuto conoscenza integrale della sentenza o del decreto penale divenuti irrevocabili, ovvero del provvedimento di archiviazione. Conta la conoscenza integrale, non l'irrevocabilità in sé né la contestazione. La contestazione va fatta entro novanta giorni dalla stessa conoscenza (co. 1). I 180 giorni degli accertamenti preliminari e i 60 per contestare riguardano il procedimento a seguito di infrazione disciplinare (co. 2).",
+   "riferimenti": [
+    "COM art. 1392, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-047",
+   "argomento": "termini-procedimento-stato",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Nel procedimento di stato a seguito di infrazione disciplinare, la contestazione degli addebiti va fatta:",
+   "opzioni": {
+    "A": "entro 60 giorni dalla conclusione degli accertamenti preliminari",
+    "B": "entro 90 giorni dalla conclusione degli accertamenti preliminari",
+    "C": "entro 30 giorni dalla conoscenza del fatto da parte dell'autorità",
+    "D": "entro 180 giorni dalla conoscenza del fatto da parte dell'autorità"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1392, co. 2, COM: il procedimento di stato a seguito di infrazione disciplinare deve essere instaurato con la contestazione degli addebiti entro 60 giorni dalla conclusione degli accertamenti preliminari, svolti nei termini dell'art. 1040, co. 1, lett. d), n. 19 (180 giorni dalla conoscenza del fatto, per appuntati e carabinieri) e dell'art. 1041 TUROM. I 90 giorni riguardano la contestazione dopo il giudizio penale (co. 1); i 30 giorni sono il parametro giurisprudenziale per il procedimento di corpo.",
+   "riferimenti": [
+    "COM art. 1392, co. 1-2",
+    "TUROM art. 1040, co. 1, lett. d), n. 19"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Sinossi pp. 221-222"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-048",
+   "argomento": "termini-procedimento-stato",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Per gli appuntati e carabinieri, gli accertamenti preliminari disciplinari di stato devono concludersi entro:",
+   "opzioni": {
+    "A": "90 giorni dalla conoscenza del fatto da parte del comandante di corpo",
+    "B": "120 giorni dalla data in cui il fatto è stato commesso",
+    "C": "180 giorni dalla conoscenza del fatto da parte dell'autorità competente",
+    "D": "270 giorni dalla conoscenza del fatto da parte dell'amministrazione"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1040, co. 1, lett. d), n. 19, TUROM, tra i procedimenti di competenza del Comando generale dell'Arma riguardanti appuntati e carabinieri, fissa gli accertamenti preliminari disciplinari di stato in 180 giorni dalla conoscenza del fatto da parte dell'autorità competente; per le altre categorie dispone l'art. 1041, co. 1, lett. s), n. 6, richiamato dall'art. 1392, co. 2, COM. Per la disciplina di corpo non c'è un termine espresso; i 270 giorni riguardano la conclusione del procedimento di stato dopo il giudizio penale.",
+   "riferimenti": [
+    "TUROM art. 1040, co. 1, lett. d), n. 19",
+    "TUROM art. 1041, co. 1, lett. s), n. 6",
+    "COM art. 1392, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-049",
+   "argomento": "termini-procedimento-stato",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 1392, co. 4, COM, il procedimento disciplinare si estingue se:",
+   "opzioni": {
+    "A": "sono decorsi novanta giorni dall'ultimo atto di procedura senza ulteriore attività",
+    "B": "sono decorsi sessanta giorni dalla contestazione senza che il militare abbia presentato giustificazioni",
+    "C": "sono decorsi centottanta giorni dall'ultimo atto senza la decisione dell'autorità competente",
+    "D": "sono decorsi novanta giorni dalla contestazione senza la nomina della commissione di disciplina"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1392, co. 4, COM: in ogni caso il procedimento disciplinare si estingue se sono decorsi novanta giorni dall'ultimo atto di procedura senza che nessuna ulteriore attività sia stata compiuta. È una regola della disciplina di stato, coerente con la natura perentoria dei suoi termini. La mancata presentazione delle giustificazioni non estingue nulla: il termine per le difese è sollecitatorio.",
+   "riferimenti": [
+    "COM art. 1392, co. 4"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-050",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La fase che precede la contestazione degli addebiti nel procedimento di corpo è:",
+   "opzioni": {
+    "A": "endoprocedimentale, perché il procedimento inizia con la notizia dell'infrazione",
+    "B": "pre-procedimentale e strumentale: si chiude senza provvedimento e il procedimento potrebbe non essere instaurato",
+    "C": "endoprocedimentale, perché da essa decorrono i novanta giorni per concludere il procedimento",
+    "D": "pre-procedimentale, ma con l'obbligo di avvisare il militare dell'avvio degli accertamenti"
+   },
+   "corretta": "B",
+   "spiegazione": "Il primo atto del procedimento disciplinare è la contestazione degli addebiti: ciò che viene prima è una fase pre-procedimentale, servente o strumentale, che prepara gli atti prodromici e si chiude senza provvedimento, perché la contestazione non conclude gli accertamenti ma instaura il procedimento (che potrebbe anche non essere instaurato). I novanta giorni decorrono dalla contestazione (art. 1046, co. 1, lett. h), n. 6, TUROM). La fase è riservata: il militare ne viene a conoscenza con la notifica della contestazione.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Sinossi p. 220"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-051",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Negli accertamenti preliminari, quanto alla storicità del fatto, l'autorità deve raggiungere:",
+   "opzioni": {
+    "A": "la certezza piena, come nella sentenza penale di condanna",
+    "B": "la prova oltre ogni ragionevole dubbio, perché poi la contestazione è vincolante",
+    "C": "un fumus di storicità, in una fase istruttoria e riservata come le indagini preliminari",
+    "D": "la confessione del militare o almeno due testimonianze concordanti"
+   },
+   "corretta": "C",
+   "spiegazione": "La fase degli accertamenti preliminari va paragonata alle indagini preliminari: è istruttoria e riservata, e richiede non la certezza propria della condanna, ma un fumus di storicità del fatto. La responsabilità si accerta poi nel procedimento, con le giustificazioni del militare e la valutazione degli elementi (art. 1398, co. 2, COM). Non vi sono regole di prova legale come confessione o numero di testimoni.",
+   "riferimenti": [
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-052",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Quale disposizione della L. 241/1990 fonda il potere del superiore di svolgere accertamenti preliminari nel procedimento di corpo, che il COM non prevede espressamente?",
+   "opzioni": {
+    "A": "l'art. 7, sulla comunicazione dell'avvio del procedimento agli interessati",
+    "B": "l'art. 10, sul diritto dei partecipanti di presentare memorie scritte e documenti",
+    "C": "l'art. 3, sull'obbligo di motivazione di ogni provvedimento amministrativo",
+    "D": "l'art. 6, per cui il responsabile del procedimento accerta d'ufficio i fatti"
+   },
+   "corretta": "D",
+   "spiegazione": "Gli accertamenti preliminari di corpo non sono previsti dal COM né dal TUROM, ma si deducono dal sistema: l'art. 6, co. 1, lett. b), L. 241/1990 stabilisce che il responsabile del procedimento «accerta di ufficio i fatti, disponendo il compimento degli atti all'uopo necessari», e il superiore che punisce è il responsabile del procedimento; inoltre chi ha il potere di punire ha anche quello di accertare. Gli artt. 7 e 10 riguardano l'avvio e la partecipazione (la contestazione vale come avviso); l'art. 3 la motivazione.",
+   "riferimenti": [
+    "L. 241/1990, art. 6, co. 1, lett. b)",
+    "L. 241/1990, artt. 3, 7, 10"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-053",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Perché gli accertamenti preliminari sono legittimi anche nella disciplina di corpo, benché nessuna norma li preveda?",
+   "opzioni": {
+    "A": "perché li impone l'art. 1393 COM per tutti i fatti che hanno anche un rilievo penale",
+    "B": "perché derivano dal potere di punire e dall'art. 6 L. 241/1990, e sono previsti per lo stato",
+    "C": "perché sono disciplinati dalle istruzioni applicative, che hanno valore di regolamento",
+    "D": "perché l'art. 1046 TUROM li include nei novanta giorni del procedimento di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Gli accertamenti preliminari di corpo non hanno «diritto di cittadinanza» nel COM e nel TUROM, ma si deducono dal sistema: se il superiore ha il potere di punire, ha anche quello di svolgere l'istruttoria prodromica; il responsabile del procedimento accerta d'ufficio i fatti (art. 6 L. 241/1990); e, se sono previsti per la disciplina di stato (art. 1040 TUROM; art. 1392, co. 2, COM), non vi è ragione per escluderli in quella di corpo. L'art. 1393 li menziona solo per il rinvio; le istruzioni applicative non sono fonte del diritto; i novanta giorni decorrono dopo, dalla contestazione.",
+   "riferimenti": [
+    "L. 241/1990, art. 6",
+    "COM art. 1392, co. 2",
+    "TUROM art. 1040, co. 1, lett. d), n. 19"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-054",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 3, co. 1, D.Lgs. 165/2001, il personale militare:",
+   "opzioni": {
+    "A": "rimane disciplinato dal proprio ordinamento, in deroga alla contrattualizzazione",
+    "B": "è soggetto alle norme disciplinari del D.Lgs. 165/2001 per quanto non previsto dal COM",
+    "C": "è contrattualizzato, salvo che per la disciplina di stato e per l'avanzamento",
+    "D": "è disciplinato dal D.Lgs. 165/2001 solo in tempo di pace e fuori dalle missioni"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 3, co. 1, D.Lgs. 165/2001 stabilisce che, in deroga all'art. 2, co. 2 e 3, rimangono disciplinati dai rispettivi ordinamenti, tra gli altri, il personale militare e delle Forze di polizia di Stato. Le norme del D.Lgs. 165/2001 (ad esempio l'art. 55-bis) non si applicano quindi ai militari; la giurisprudenza le usa però come parametro interpretativo nei vuoti dell'ordinamento militare, come per i trenta giorni degli accertamenti preliminari.",
+   "riferimenti": [
+    "D.Lgs. 165/2001, art. 3, co. 1",
+    "D.Lgs. 165/2001, art. 55-bis, co. 4"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-055",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Nel pubblico impiego contrattualizzato (art. 55-bis, co. 4, D.Lgs. 165/2001), il responsabile della struttura segnala all'ufficio per i procedimenti disciplinari i fatti di cui ha avuto conoscenza:",
+   "opzioni": {
+    "A": "immediatamente, e comunque entro cinque giorni",
+    "B": "immediatamente, e comunque entro dieci giorni",
+    "C": "senza ritardo, e comunque entro trenta giorni",
+    "D": "entro venti giorni, a pena di decadenza"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 55-bis, co. 4, D.Lgs. 165/2001: per le infrazioni punite con sanzioni superiori al rimprovero verbale, il responsabile della struttura segnala immediatamente, e comunque entro dieci giorni, i fatti all'ufficio per i procedimenti disciplinari; questo provvede alla contestazione scritta «con immediatezza e comunque non oltre trenta giorni» e convoca l'interessato con un preavviso di almeno venti giorni. I trenta giorni sono il parametro che il Consiglio di Stato usa per il «senza ritardo» dell'art. 1398 COM.",
+   "riferimenti": [
+    "D.Lgs. 165/2001, art. 55-bis, co. 4",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-056",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Quale delle seguenti è indicata da Cons. Stato, sez. II, n. 5157/2026 tra le ragioni che possono giustificare il superamento dei trenta giorni per la contestazione?",
+   "opzioni": {
+    "A": "il carico ordinario di lavoro del comando, anche se privo di incidenza specifica sul procedimento",
+    "B": "l'opportunità di attendere il trasferimento del militare ad altro reparto, per evitare tensioni",
+    "C": "la non concordanza della scala gerarchica in ordine alla sottoposizione al procedimento disciplinare",
+    "D": "l'esigenza di verificare, prima di contestare, se il militare reitera la condotta nei mesi successivi"
+   },
+   "corretta": "C",
+   "spiegazione": "Tra le ragioni esemplificative la sentenza elenca la complessità del quadro fattuale o della vicenda penale, la difficoltà di individuare la condotta sui soli atti di polizia giudiziaria, la necessità di circostanziare l'addebito, «la non concordanza della scala gerarchica in ordine alla sottoposizione al procedimento disciplinare» e le difficoltà organizzative che incidono in maniera specifica sul procedimento (assenze, trasferimenti, astensioni nella linea di comando). Il carico ordinario senza incidenza specifica non basta; attendere un trasferimento o una reiterazione è proprio l'inerzia che la regola vuole evitare.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 26.6.2026, n. 5157, par. 12",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-057",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo Cons. Stato, sez. II, n. 5157/2026, le ragioni addotte dall'amministrazione per giustificare il superamento dei trenta giorni:",
+   "opzioni": {
+    "A": "sono riesaminate nel merito dal giudice, che può sostituirle con una propria valutazione",
+    "B": "sono sindacabili solo se manifestamente illogiche, arbitrarie o irragionevoli",
+    "C": "non sono mai sindacabili, perché attengono alla potestà discrezionale del comandante",
+    "D": "sono sindacabili solo se il militare dimostra un pregiudizio concreto al diritto di difesa"
+   },
+   "corretta": "B",
+   "spiegazione": "La sentenza afferma che le ragioni addotte a giustificazione del superamento del limite temporale sono manifestazione tipica della discrezionalità dell'amministrazione e sono sindacabili solo ove manifestamente illogiche, arbitrarie o irragionevoli. Non sono insindacabili, né il giudice le sostituisce con le proprie; la regola del «senza ritardo» tutela la certezza dei rapporti e il buon andamento, non soltanto il diritto di difesa. Se le ragioni non sono allegate, il giudice le cerca negli atti istruttori.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, 26.6.2026, n. 5157, par. 12, lett. d)",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-058",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Prima di contestare un addebito, un comandante di compagnia attende per due mesi l'assenso del comandante provinciale e di quello della Legione, senza che negli atti ne resti traccia. Il provvedimento:",
+   "opzioni": {
+    "A": "è legittimo, perché il «senza ritardo» è sollecitatorio e il superamento non ha conseguenze",
+    "B": "è legittimo, perché la concertazione con la scala gerarchica è sempre una valida ragione del ritardo",
+    "C": "è nullo, perché i trenta giorni sono un termine perentorio a pena di decadenza",
+    "D": "è esposto all'annullamento: superati i trenta giorni, l'amministrazione deve allegare valide ragioni"
+   },
+   "corretta": "D",
+   "spiegazione": "Il potere disciplinare è del titolare e non richiede autorizzazioni dei superiori. I trenta giorni non sono perentori, ma sono il parametro della tempestività: superati, l'amministrazione deve allegare valide ragioni (Cons. Stato, sez. I, pareri nn. 854 e 855/2024; sez. II, n. 5157/2026). La non concordanza della scala gerarchica può giustificare il superamento solo se risulta dagli atti come effettivo dissenso sulla sottoposizione al procedimento; una semplice attesa senza traccia è inerzia ingiustificata, che espone il provvedimento all'annullamento.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "Cons. Stato, sez. I, pareri nn. 854 e 855/2024",
+    "Cons. Stato, sez. II, n. 5157/2026"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-059",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Nella fase degli accertamenti preliminari il comandante vuole chiarimenti dal militare su un fatto nebuloso. Il modo corretto è:",
+   "opzioni": {
+    "A": "chiedergli una relazione di servizio su quanto accaduto, senza contestare nulla",
+    "B": "notificargli una richiesta di giustificazioni con l'indicazione delle norme violate",
+    "C": "convocarlo con un difensore e verbalizzarne l'interrogatorio",
+    "D": "fargli sottoscrivere una dichiarazione di ammissione dei fatti"
+   },
+   "corretta": "A",
+   "spiegazione": "Se il fatto è nebuloso si possono chiedere chiarimenti al militare, ma con cautela: la richiesta potrebbe essere intesa come una contestazione. Lo strumento classico è la relazione di servizio su quanto accaduto, senza contestare nulla e senza indicare norme violate, sanzioni o termini a difesa. Chiedere giustificazioni indicando le norme violate significa contestare: si è già nella fase da cui può derivare un provvedimento, con tutte le garanzie della contestazione (art. 1398, co. 2, lett. a, COM). Interrogatori formali e ammissioni sottoscritte non appartengono a questa fase.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1370"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-060",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un comandante di compagnia legge sui social un post di un proprio militare che potrebbe avere rilievo disciplinare. Secondo la lezione, deve:",
+   "opzioni": {
+    "A": "contestargli subito l'addebito, perché il post è una fonte qualificata",
+    "B": "svolgere prima un'attività riservata e, se non ne ricava elementi, chiedere chiarimenti al militare",
+    "C": "convocare subito il militare e chiedergli di rimuovere il post, senza ulteriori accertamenti",
+    "D": "trasmettere il post alla procura militare, unica competente a verificarne l'autenticità"
+   },
+   "corretta": "B",
+   "spiegazione": "Il post sui social è una fonte non qualificata (potrebbe anche essere falso o prodotto con l'intelligenza artificiale): il fatto va accertato. Il comandante svolge prima un'attività riservata; se da questa non ricava elementi, può interfacciarsi con il militare e chiedergli conto del post, e in base a quanto emerge può aprire il procedimento. La contestazione presuppone un fumus di storicità del fatto; la procura militare è competente per i reati, non per la valutazione disciplinare.",
+   "riferimenti": [
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-061",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "L'autorità competente delega gli accertamenti preliminari a un organo subordinato. Il referto di quest'ultimo:",
+   "opzioni": {
+    "A": "è un rapporto disciplinare e non può quindi contenere proposte sulla sanzione",
+    "B": "non è un rapporto disciplinare e può contenere proposte, che l'organo delegante valuta",
+    "C": "vincola l'organo delegante, che deve contestare l'addebito nei termini proposti",
+    "D": "è inutilizzabile, perché gli accertamenti preliminari non sono delegabili"
+   },
+   "corretta": "B",
+   "spiegazione": "Poiché l'accertamento di una mancanza è di competenza di qualsiasi superiore gerarchico, gli accertamenti preliminari possono essere delegati a un organo subordinato, che riferisce le proprie considerazioni di fatto e di diritto. Il referto non è un rapporto disciplinare: può perciò contenere proposte, a differenza del rapporto (art. 1397, co. 2, COM). Non vincola il delegante; se l'organo delegato si ritiene competente a irrogare la sanzione, ne informa il delegante e, salvo diverso avviso, instaura il procedimento.",
+   "riferimenti": [
+    "COM art. 1397, co. 2"
+   ],
+   "fonti": [
+    "Sinossi p. 222"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-062",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Gli accertamenti preliminari conclusi dopo la contestazione degli addebiti:",
+   "opzioni": {
+    "A": "possono sempre integrare la contestazione, purché comunicati al militare prima della decisione",
+    "B": "fanno decorrere un nuovo termine di novanta giorni per la conclusione del procedimento",
+    "C": "rendono nulla la contestazione, che va rinnovata con i nuovi elementi",
+    "D": "non sono utilizzabili nello stesso procedimento, se non acquisiti nella sua fase istruttoria"
+   },
+   "corretta": "D",
+   "spiegazione": "Gli accertamenti devono essere completati prima della contestazione o acquisiti nella fase istruttoria del procedimento: quelli che si concludono dopo la contestazione, fuori dal procedimento, non possono essere utilizzati nel medesimo procedimento, pena l'illegittimità del provvedimento sanzionatorio. Non fanno decorrere nuovi termini (i novanta giorni decorrono dalla contestazione) e non travolgono automaticamente la contestazione.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "TUROM art. 1046, co. 1, lett. h), n. 6"
+   ],
+   "fonti": [
+    "Sinossi p. 222"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E001",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa",
+    "qualifica"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "tra pari grado la precedenza è determinata dall'anzianità di grado",
+    "B": "l'anzianità di grado è assoluta e relativa",
+    "C": "dal rapporto di subordinazione deriva il dovere di obbedienza",
+    "D": "la precedenza tra pari grado riguarda solo il cerimoniale"
+   },
+   "corretta": "D",
+   "spiegazione": "È errata l'affermazione sul cerimoniale: per l'art. 854, co. 1, COM la precedenza tra pari grado «si intende riferita agli atti del servizio o della disciplina militare». Sono corrette le altre: l'ordine di precedenza tra pari grado è determinato dall'anzianità di grado (art. 626, co. 2, COM), che è assoluta e relativa (art. 854, co. 2), e dal rapporto di subordinazione deriva il dovere di obbedienza (art. 626, co. 3). Trappola: il dato (la precedenza) è vero, la qualificazione («solo cerimoniale») è sbagliata.",
+   "riferimenti": [
+    "COM art. 626",
+    "COM art. 854"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E002",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "La precedenza tra militari di pari grado si intende riferita:",
+   "opzioni": {
+    "A": "agli atti del servizio, esclusi quelli della disciplina",
+    "B": "agli atti del servizio o della disciplina militare",
+    "C": "agli atti della disciplina, esclusi quelli del servizio",
+    "D": "ai soli atti di cerimoniale e di rappresentanza"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 854, co. 1, COM: l'anzianità di grado determina la precedenza rispetto ai pari grado e la precedenza «si intende riferita agli atti del servizio o della disciplina militare». Le varianti che escludono il servizio o la disciplina tolgono una metà della formula; il cerimoniale non è menzionato. È il fondamento normativo della tesi per cui il più anziano tra pari grado è superiore anche ai fini disciplinari.",
+   "riferimenti": [
+    "COM art. 854, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E003",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "posizione-docente",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "tra pari grado c'è sempre un più anziano, in posizione di comando",
+    "B": "tra pari grado non esiste un superiore, salvo nomina a capo servizio",
+    "C": "in pattuglia è capo servizio il militare che siede alla guida",
+    "D": "il pari grado più anziano non può mai infliggere il richiamo"
+   },
+   "corretta": "A",
+   "spiegazione": "Secondo la lezione e la pronuncia di Cassazione esaminata, tra pari grado c'è sempre un primo e un secondo: il più anziano assume la posizione di comando e diviene superiore del meno anziano, senza bisogno di nomina (artt. 626 e 854 COM). In pattuglia alla guida siede di regola il meno elevato in grado, mentre il capo servizio è il più anziano. Il richiamo spetta a «qualsiasi superiore» (art. 1359, co. 2, COM), formula che secondo la lezione comprende il pari grado più anziano: l'avverbio «mai» rende errata l'ultima affermazione.",
+   "riferimenti": [
+    "COM art. 626",
+    "COM art. 854",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E004",
+   "argomento": "doveri-obbedienza",
+   "sinossi": "II.5.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "posizione-docente"
+   ],
+   "domanda": "La disobbedienza riguarda l'ordine attinente al servizio o alla disciplina intimato:",
+   "opzioni": {
+    "A": "da un superiore in grado",
+    "B": "da un superiore in comando",
+    "C": "da un superiore",
+    "D": "da un superiore della linea gerarchica"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 173 c.p.m.p. punisce il militare che rifiuta, omette o ritarda di obbedire a un ordine attinente al servizio o alla disciplina «intimatogli da un superiore»: la norma non dice «in grado», né «in comando», né richiede la linea gerarchica. Proprio questo argomento letterale sostiene la tesi per cui anche il pari grado più anziano è superiore. Le varianti aggiungono una parola che il testo non contiene.",
+   "riferimenti": [
+    "c.p.m.p. art. 173"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E005",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "II.5.a",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "rinvio",
+    "variante-minima"
+   ],
+   "domanda": "Colpevoli di corpi diversi e di pari grado: la richiesta di procedimento spetta al Comandante di Corpo del:",
+   "opzioni": {
+    "A": "più giovane d'età",
+    "B": "militare che ha commesso il fatto più grave",
+    "C": "militare con maggiore anzianità di servizio",
+    "D": "superiore in comando o del più anziano"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 260, co. 2, c.p.m.p.: se più sono i colpevoli e appartengono a corpi o forze armate diversi, la richiesta è fatta dal comandante del corpo dal quale dipende il militare più elevato in grado «o, a parità di grado, il superiore in comando o il più anziano». La gravità del singolo fatto e l'età non contano; l'anzianità di servizio non è il criterio della norma, che segue la precedenza tra pari grado (art. 854 COM).",
+   "riferimenti": [
+    "c.p.m.p. art. 260, co. 2",
+    "COM art. 854"
+   ],
+   "fonti": [
+    "Guida tecnica p. 144"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E006",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "assoluti",
+    "posizione-docente"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "tra procedimento penale e disciplinare vi è sempre alternatività",
+    "B": "l'alternatività vale per le sole sanzioni di stato",
+    "C": "tra procedimento penale e disciplinare non vi è alternatività",
+    "D": "l'alternatività vale per tutte le sanzioni di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "Il sistema non configura un'ipotesi di alternatività: la richiesta di procedimento penale non è preclusa qualora per lo stesso fatto sia già stata inflitta una sanzione disciplinare (Corte cost., sent. n. 406 del 2000); il procedimento disciplinare è avviato, proseguito e concluso anche in pendenza di quello penale (art. 1393, co. 1, COM). L'alternatività affermata da Cass. pen., sez. I, n. 26536/2023 riguarda la sola consegna di rigore per i reati dell'art. 260, co. 2, c.p.m.p., non tutte le sanzioni di corpo né quelle di stato, ed è criticata dalla lezione.",
+   "riferimenti": [
+    "Corte cost., sent. n. 406/2000",
+    "COM art. 1393, co. 1",
+    "Cass. pen., sez. I, n. 26536/2023"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Guida tecnica p. 145"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E007",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "posizione-docente"
+   ],
+   "domanda": "Esclude l'alternatività tra richiesta di procedimento e sanzione disciplinare:",
+   "opzioni": {
+    "A": "Corte cost. 406/2000",
+    "B": "Cass. 26536/2023",
+    "C": "Corte cost. 449/1991",
+    "D": "CdS 2179/2015"
+   },
+   "corretta": "A",
+   "spiegazione": "Corte cost., sent. n. 406 del 2000 è richiamata a fondamento della non alternatività: la richiesta di procedimento non è preclusa se per lo stesso fatto è già stata inflitta una sanzione disciplinare. Cass. pen., sez. I, n. 26536/2023 ha affermato l'opposto principio di alternatività per la consegna di rigore e i reati dell'art. 260, co. 2, c.p.m.p.; Corte cost. n. 449/1991 riguarda il comandante di corpo persona offesa (la richiesta passa al comandante di ente superiore); CdS n. 2179/2015 la natura della consegna di rigore, non limitativa della libertà personale.",
+   "riferimenti": [
+    "Corte cost., sent. n. 406/2000",
+    "Cass. pen., sez. I, n. 26536/2023",
+    "Corte cost., sent. n. 449/1991",
+    "Cons. Stato, sez. IV, n. 2179/2015"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Guida tecnica pp. 144-145"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E008",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "regola-superata",
+    "variante-minima"
+   ],
+   "domanda": "Il procedimento disciplinare per fatti per i quali procede l'autorità giudiziaria è:",
+   "opzioni": {
+    "A": "avviato, proseguito e concluso anche in pendenza del procedimento penale",
+    "B": "avviato e proseguito, ma non concluso, in pendenza del procedimento penale",
+    "C": "avviato, ma sospeso dopo la contestazione, in pendenza del procedimento penale",
+    "D": "avviato solo dopo la conclusione del procedimento penale"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1393, co. 1, primo periodo, COM: il procedimento disciplinare che abbia ad oggetto, in tutto o in parte, fatti in relazione ai quali procede l'autorità giudiziaria «è avviato, proseguito e concluso anche in pendenza del procedimento penale». Le varianti tolgono una parola della formula: il procedimento può anche concludersi, non va sospeso dopo la contestazione, non attende la fine del processo. L'attesa dell'esito penale era la regola superata della pregiudiziale; oggi residua come eccezione (infrazioni più gravi e accertamento complesso; fatti commessi nello svolgimento delle funzioni).",
+   "riferimenti": [
+    "COM art. 1393, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E009",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino",
+    "assoluti"
+   ],
+   "domanda": "Il rinvio del procedimento disciplinare al termine di quello penale è ammesso:",
+   "opzioni": {
+    "A": "per ogni infrazione, a discrezione dell'autorità competente",
+    "B": "solo per infrazioni punibili con la consegna di rigore o con sanzioni di stato",
+    "C": "solo per infrazioni punibili con sanzioni di stato",
+    "D": "per infrazioni punibili con la consegna o con la consegna di rigore"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1393, co. 1, secondo periodo, COM: per le infrazioni di maggiore gravità, punibili con la consegna di rigore o con le sanzioni di stato, l'autorità competente promuove il procedimento al termine di quello penale solo nei casi di particolare complessità dell'accertamento o di insufficienza degli elementi raccolti con gli accertamenti preliminari. È la risposta più corretta, anche se compressa: le altre o estendono il rinvio a ogni infrazione o alla consegna, o lo limitano alle sole sanzioni di stato.",
+   "riferimenti": [
+    "COM art. 1393, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E010",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.d",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "regola-superata"
+   ],
+   "domanda": "La regola per cui il procedimento disciplinare procede anche in pendenza di quello penale deriva da:",
+   "opzioni": {
+    "A": "D.Lgs. 20/2012 e D.Lgs. 173/2019",
+    "B": "L. 382/1978 e D.P.R. 545/1986",
+    "C": "L. 124/2015 e D.Lgs. 91/2016",
+    "D": "D.Lgs. 66/2010 e D.P.R. 90/2010"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1393 COM, che ha capovolto la pregiudiziale penale, è stato sostituito dall'art. 15, co. 1, della L. 7 agosto 2015, n. 124, e poi dall'art. 4, co. 1, lett. t), del D.Lgs. 26 aprile 2016, n. 91. Il testo originario dell'art. 1393 nel D.Lgs. 66/2010 (COM) prevedeva ancora la sospensione, e il D.P.R. 90/2010 è il TUROM; i D.Lgs. 20/2012 e 173/2019 hanno modificato altre norme disciplinari (ad esempio l'art. 1359); la L. 382/1978 e il D.P.R. 545/1986 sono la legge di principio e il regolamento di disciplina previgenti. Distrattori veri, ma di altro tema o superati.",
+   "riferimenti": [
+    "COM art. 1393",
+    "L. 124/2015, art. 15",
+    "D.Lgs. 91/2016, art. 4"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E011",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "nome-esatto"
+   ],
+   "domanda": "I criteri Engel sono stati elaborati:",
+   "opzioni": {
+    "A": "dalla Corte europea dei diritti dell'uomo",
+    "B": "dalla Corte costituzionale",
+    "C": "dal Consiglio di Stato in sede consultiva",
+    "D": "dalla Corte di giustizia dell'Unione europea"
+   },
+   "corretta": "A",
+   "spiegazione": "I criteri Engel nascono dalla sentenza della Corte europea dei diritti dell'uomo dell'8 giugno 1976, Engel e altri c. Paesi Bassi, sull'art. 6 della Convenzione europea dei diritti dell'uomo. La Corte di giustizia dell'Unione europea è un altro giudice (Lussemburgo), che pure li ha ripresi; la Corte costituzionale e il Consiglio di Stato li hanno applicati, escludendone la rilevanza per il procedimento disciplinare militare.",
+   "riferimenti": [
+    "CEDU art. 6",
+    "Corte EDU, 8.6.1976, Engel e altri c. Paesi Bassi"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E012",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "qualifica",
+    "istituto-vicino"
+   ],
+   "domanda": "Nella causa Engel la Corte europea ritenne di natura penale:",
+   "opzioni": {
+    "A": "due giorni di arresti di rigore",
+    "B": "l'assegnazione a un'unità disciplinare per tre o quattro mesi",
+    "C": "quattro giorni di arresti semplici",
+    "D": "ogni sanzione disciplinare inflitta ai militari di leva"
+   },
+   "corretta": "B",
+   "spiegazione": "La Corte ritenne penali le assegnazioni a un'unità disciplinare per tre o quattro mesi, privazioni della libertà di apprezzabile gravità; escluse i due giorni di arresti di rigore, di durata troppo breve, e gli arresti semplici, che non comportavano privazione della libertà (§§ 82, 85 e 88). Non ogni sanzione disciplinare militare è dunque penale: decide la severità (natura, durata, modalità di esecuzione).",
+   "riferimenti": [
+    "Corte EDU, 8.6.1976, Engel e altri c. Paesi Bassi, §§ 82-88"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Corte EDU, testo HUDOC"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E013",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "qualifica",
+    "nome-esatto"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la consegna di rigore comporta la privazione della libertà personale",
+    "B": "i criteri Engel si applicano al procedimento per la consegna di rigore",
+    "C": "la consegna di rigore è una pena militare accessoria",
+    "D": "la consegna di rigore è un vincolo di rimanere fino a 15 giorni"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1358, co. 5, COM: la consegna di rigore comporta il vincolo di rimanere, fino al massimo di quindici giorni, in apposito spazio dell'ambiente militare o nel proprio alloggio. Non è una privazione della libertà personale (Corte cost., sent. n. 406 del 2000; Cons. Stato, sez. IV, n. 2179/2015): per questo i criteri Engel non si applicano. È una sanzione disciplinare di corpo, non una pena militare accessoria. Trappola: il dato dei 15 giorni è vero, la qualificazione «privazione della libertà» no.",
+   "riferimenti": [
+    "COM art. 1358, co. 5",
+    "Corte cost., sent. n. 406/2000",
+    "Cons. Stato, sez. IV, n. 2179/2015"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E014",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa",
+    "assoluti"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "la sanzione disciplinare dopo la condanna penale viola sempre il ne bis in idem",
+    "B": "il procedimento disciplinare ha natura amministrativa",
+    "C": "la consegna di rigore non è paragonabile alla reclusione militare",
+    "D": "i criteri Engel sono spesso invocati nei ricorsi contro le sanzioni"
+   },
+   "corretta": "A",
+   "spiegazione": "È errata l'affermazione sul ne bis in idem: la sanzione disciplinare inflitta dopo la condanna penale per gli stessi fatti non viola l'art. 4 del Protocollo n. 7 CEDU quando non ha natura sostanzialmente penale secondo i criteri Engel (TAR Friuli-Venezia Giulia, sez. I, n. 226/2024, per due mesi di sospensione disciplinare); l'avverbio «sempre» la rende falsa. Sono corrette le altre: il procedimento disciplinare ha natura amministrativa e la consegna di rigore non è paragonabile alla reclusione militare (Corte cost., sent. n. 406 del 2000; Cons. Stato, sez. II, n. 3720/2022); i criteri Engel ricorrono nei ricorsi.",
+   "riferimenti": [
+    "TAR Friuli-Venezia Giulia, sez. I, n. 226/2024",
+    "Corte cost., sent. n. 406/2000",
+    "Cons. Stato, sez. II, n. 3720/2022"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E015",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "Le pene principali stabilite per le contravvenzioni sono:",
+   "opzioni": {
+    "A": "l'arresto e la multa",
+    "B": "la reclusione e l'ammenda",
+    "C": "l'arresto e l'ammenda",
+    "D": "la reclusione e la multa"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 17 c.p.: per le contravvenzioni l'arresto e l'ammenda; per i delitti l'ergastolo, la reclusione e la multa. Le combinazioni miste scambiano una pena dei delitti con una delle contravvenzioni. È dalla pena che si riconosce la natura e la specie del reato: è il primo dei criteri Engel.",
+   "riferimenti": [
+    "c.p. art. 17"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E016",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "nome-esatto",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Qualunque violazione della legge penale militare è:",
+   "opzioni": {
+    "A": "reato militare",
+    "B": "reato esclusivamente militare",
+    "C": "contravvenzione militare",
+    "D": "illecito disciplinare militare"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 37, co. 1, c.p.m.p.: qualunque violazione della legge penale militare è reato militare. Il reato esclusivamente militare è solo quello il cui fatto, nei suoi elementi materiali costitutivi, non è in tutto o in parte previsto come reato dalla legge penale comune (co. 2). I reati del codice sono delitti (co. 3), non contravvenzioni. L'illecito disciplinare è altra cosa, anche se il fatto può avere doppia rilevanza.",
+   "riferimenti": [
+    "c.p.m.p. art. 37"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E017",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.1.e",
+   "tipo": "confronto",
+   "difficolta": 4,
+   "trappole": [
+    "istituto-vicino",
+    "assoluti"
+   ],
+   "domanda": "La pena pecuniaria è prevista dall'ordinamento disciplinare:",
+   "opzioni": {
+    "A": "delle Forze armate",
+    "B": "dell'Arma dei Carabinieri",
+    "C": "di tutte le Forze di polizia",
+    "D": "della Polizia di Stato"
+   },
+   "corretta": "D",
+   "spiegazione": "La pena pecuniaria è una sanzione dell'ordinamento disciplinare della Polizia di Stato: riduzione, non superiore a cinque trentesimi, di una mensilità dello stipendio e degli assegni fissi e continuativi (art. 4 del D.P.R. 25 ottobre 1981, n. 737). Nell'ordinamento militare, che comprende l'Arma dei Carabinieri, le sanzioni sono tassative (art. 1353 COM) e nessuna è pecuniaria; si discute dell'opportunità di introdurla. Non vale per tutte le Forze di polizia.",
+   "riferimenti": [
+    "D.P.R. 737/1981, art. 4",
+    "COM art. 1353"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E018",
+   "argomento": "sanzioni-generalita",
+   "sinossi": "V.1.e",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "istituto-vicino"
+   ],
+   "domanda": "La pena pecuniaria del personale della Polizia di Stato è prevista dal:",
+   "opzioni": {
+    "A": "D.P.R. 737/1981",
+    "B": "D.Lgs. 66/2010 (COM)",
+    "C": "D.P.R. 90/2010",
+    "D": "D.Lgs. 165/2001"
+   },
+   "corretta": "A",
+   "spiegazione": "Le sanzioni disciplinari del personale della Polizia di Stato, tra cui la pena pecuniaria (art. 4), sono previste dal D.P.R. 25 ottobre 1981, n. 737. Il D.Lgs. 66/2010 (COM) e il D.P.R. 90/2010 (TUROM) regolano la disciplina militare, che non conosce sanzioni pecuniarie; il D.Lgs. 165/2001 regola il pubblico impiego contrattualizzato e non si applica né ai militari né alla Polizia di Stato (art. 3, co. 1).",
+   "riferimenti": [
+    "D.P.R. 737/1981, art. 4",
+    "D.Lgs. 165/2001, art. 3, co. 1"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E019",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "assoluti",
+    "variante-minima"
+   ],
+   "domanda": "Nella disciplina di corpo possono punire:",
+   "opzioni": {
+    "A": "solo i superiori della linea gerarchica del manchevole",
+    "B": "solo il Comandante di Reparto ai fini disciplinari e il Comandante di Corpo",
+    "C": "qualsiasi superiore, il Comandante di Reparto ai fini disciplinari e il Comandante di Corpo",
+    "D": "solo i superiori in grado, con esclusione dei pari grado"
+   },
+   "corretta": "C",
+   "spiegazione": "Le autorità della disciplina di corpo sono qualsiasi superiore (per il richiamo, art. 1359, co. 2, COM), il Comandante di Reparto ai fini disciplinari e il Comandante di Corpo (art. 1396 COM). La linea gerarchica rileva solo per l'obbligo di rapporto dopo il richiamo; escludere qualsiasi superiore dimentica il richiamo; «qualsiasi superiore», secondo la lezione, comprende il pari grado più anziano.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E020",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "istituto-vicino",
+    "variante-minima"
+   ],
+   "domanda": "La consegna può essere inflitta:",
+   "opzioni": {
+    "A": "anche dall'ufficiale comandante di distaccamento",
+    "B": "dal Comandante di Corpo e dal Comandante di Reparto",
+    "C": "esclusivamente dal Comandante di Corpo del manchevole",
+    "D": "da qualsiasi superiore, previo rapporto"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1396, co. 2, COM: la consegna può essere inflitta dal Comandante di Corpo e dal Comandante di Reparto. I comandanti di distaccamento possono infliggere il rimprovero (co. 3), non la consegna; «esclusivamente dal Comandante di Corpo» è la regola della consegna di rigore (co. 1); qualsiasi superiore può infliggere solo il richiamo.",
+   "riferimenti": [
+    "COM art. 1396, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "test_vernice": true,
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E021",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "distinzione",
+    "variante-minima",
+    "posizione-docente"
+   ],
+   "domanda": "Il comandante di tenenza sottufficiale:",
+   "opzioni": {
+    "A": "è Comandante di Reparto ai fini disciplinari",
+    "B": "è Comandante di Corpo ai fini disciplinari",
+    "C": "è solo superiore gerarchico, non Comandante di Reparto ai fini disciplinari",
+    "D": "è Comandante di Reparto ai fini disciplinari solo per i carabinieri"
+   },
+   "corretta": "C",
+   "spiegazione": "Nell'organizzazione territoriale dell'Arma (circ. n. 17/109-2-1996 del Comando Generale), il comandante di tenenza è Comandante di Reparto ai fini disciplinari se è ufficiale; se è sottufficiale non lo è, ed è soltanto superiore gerarchico: può infliggere il richiamo (art. 1359, co. 2, COM), non la consegna (art. 1396, co. 2). Comandante di Corpo, nell'organizzazione territoriale, è il comandante della Legione; non esiste una competenza limitata a una categoria di dipendenti.",
+   "riferimenti": [
+    "circ. n. 17/109-2-1996",
+    "COM art. 1396, co. 2",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E022",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.4.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "distinzione",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il comandante del Nucleo Operativo è Comandante di Reparto ai fini disciplinari",
+    "B": "il comandante del Nucleo Operativo è solo superiore gerarchico",
+    "C": "il comandante di tenenza sottufficiale è Comandante di Reparto ai fini disciplinari",
+    "D": "il comandante di stazione può infliggere il rimprovero ai propri dipendenti"
+   },
+   "corretta": "B",
+   "spiegazione": "Secondo la lezione e la circolare del Comando Generale sulle autorità con potestà sanzionatoria (circ. n. 17/109-2-1996), il comandante del nucleo operativo non è autorità disciplinare oltre il richiamo: è soltanto superiore gerarchico, e per i fatti più gravi fa rapporto (art. 1397 COM). Il comandante di tenenza è Comandante di Reparto ai fini disciplinari solo se è ufficiale; il comandante di stazione può infliggere solo il richiamo, non il rimprovero (art. 1396, co. 3, COM). Comandante di Reparto ai fini disciplinari è il comandante di compagnia.",
+   "riferimenti": [
+    "circ. n. 17/109-2-1996",
+    "COM art. 1397",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E023",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "posizione-docente"
+   ],
+   "domanda": "Sono fonti qualificate della notizia dell'infrazione:",
+   "opzioni": {
+    "A": "il rapporto disciplinare e l'esposto anonimo circostanziato",
+    "B": "la denuncia amministrativa e l'articolo di stampa",
+    "C": "il rapporto disciplinare e la denuncia del privato",
+    "D": "il rapporto disciplinare e la denuncia amministrativa"
+   },
+   "corretta": "D",
+   "spiegazione": "Le fonti qualificate sono essenzialmente due: il rapporto disciplinare del superiore non competente (art. 1397 COM) e la denuncia amministrativa di un'autorità pubblica (procuratore, prefetto, questore, dirigente del servizio di ordine pubblico, sindaco). Esposto anonimo, articolo di stampa e lamentela del privato sono fonti non qualificate: il fatto va accertato. Ogni distrattore abbina una fonte qualificata a una non qualificata.",
+   "riferimenti": [
+    "COM art. 1397"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E024",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa",
+    "istituto-vicino"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "l'esposto anonimo è una fonte non qualificata",
+    "B": "il rapporto disciplinare deve contenere la proposta di sanzione",
+    "C": "la denuncia amministrativa proviene da un'autorità pubblica",
+    "D": "il rapporto disciplinare ha necessariamente forma scritta"
+   },
+   "corretta": "B",
+   "spiegazione": "È errata l'affermazione sulla proposta: l'art. 1397, co. 2, COM vieta che il rapporto contenga proposte sulla specie e sull'entità della sanzione; deve indicare con chiarezza e concisione gli elementi di fatto. Sono corrette le altre: l'esposto anonimo è fonte non qualificata; la denuncia amministrativa proviene da un'autorità pubblica; il rapporto è scritto, come si desume dal suo «invio» (art. 1397, co. 3). Il referto dell'organo delegato agli accertamenti, invece, può contenere proposte.",
+   "riferimenti": [
+    "COM art. 1397, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)",
+    "Sinossi p. 214"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E025",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "posizione-docente"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il fatto riferito nel rapporto disciplinare si dà per accertato",
+    "B": "il rapporto disciplinare va sempre verificato con accertamenti preliminari",
+    "C": "la denuncia amministrativa vale solo se presentata per iscritto",
+    "D": "il post sui social è una fonte qualificata se pubblico"
+   },
+   "corretta": "A",
+   "spiegazione": "Il rapporto disciplinare è una notizia qualificata: il superiore che lo redige è competente a valutare la rilevanza disciplinare del fatto e lo ha percepito con i propri sensi, sicché il fatto si dà per accertato; si può approfondire solo se la notizia è incompleta, non «sempre». Secondo la lezione, la lamentela di un'autorità pubblica (ad esempio del dirigente del servizio di ordine pubblico) rileva anche se espressa a voce. Il post sui social è fonte non qualificata, anche se pubblico.",
+   "riferimenti": [
+    "COM art. 1397"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E026",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "I novanta giorni del procedimento di corpo decorrono:",
+   "opzioni": {
+    "A": "dalla conoscenza dell'infrazione da parte del Comandante",
+    "B": "dalla ricezione del rapporto disciplinare da parte del Comandante",
+    "C": "dalla conclusione degli accertamenti preliminari del Comandante",
+    "D": "dalla contestazione degli addebiti da parte del Comandante"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1046, co. 1, lett. h), n. 6, TUROM: procedimento per l'irrogazione di sanzioni di corpo, 90 giorni «dalla contestazione degli addebiti», che è il primo atto del procedimento. Dalla conoscenza dell'infrazione decorre il dovere di instaurarlo «senza ritardo» (art. 1398, co. 1, COM), con i trenta giorni come parametro; la conclusione degli accertamenti fa decorrere i 60 giorni per contestare nel procedimento di stato (art. 1392, co. 2).",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1398, co. 1",
+    "COM art. 1392, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E027",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "rinvio"
+   ],
+   "domanda": "Il termine di conclusione del procedimento disciplinare di corpo è fissato dal:",
+   "opzioni": {
+    "A": "D.Lgs. 66/2010",
+    "B": "D.P.R. 90/2010",
+    "C": "L. 241/1990",
+    "D": "D.Lgs. 165/2001"
+   },
+   "corretta": "B",
+   "spiegazione": "Il termine di novanta giorni dalla contestazione è fissato dall'art. 1046, co. 1, lett. h), n. 6, del D.P.R. 15 marzo 2010, n. 90 (TUROM), tra i termini dei procedimenti degli organi periferici della Difesa. Il D.Lgs. 66/2010 (COM) impone solo di instaurare il procedimento senza ritardo (art. 1398) e fissa i termini dello stato (art. 1392); la L. 241/1990 prevede il termine generale di trenta giorni (art. 2, co. 2); il D.Lgs. 165/2001 non si applica ai militari.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1398",
+    "L. 241/1990, art. 2, co. 2"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E028",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "nome-esatto",
+    "distinzione"
+   ],
+   "domanda": "Il termine di conclusione del procedimento disciplinare di corpo è:",
+   "opzioni": {
+    "A": "perentorio",
+    "B": "decadenziale",
+    "C": "ordinatorio",
+    "D": "dilatorio"
+   },
+   "corretta": "C",
+   "spiegazione": "Nella disciplina di corpo i novanta giorni sono ordinatori: superarli non impedisce di punire. Perentori, a pena di decadenza dal potere, sono i termini della disciplina di stato (art. 1392 COM), perché vi è in gioco il rapporto di impiego. «Decadenziale» è sinonimo di perentorio; dilatorio è il termine prima del quale un atto non può essere compiuto.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1392"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E029",
+   "argomento": "termini-procedimento-stato",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino"
+   ],
+   "domanda": "Il procedimento di stato a seguito di giudizio penale deve concludersi entro:",
+   "opzioni": {
+    "A": "180 giorni",
+    "B": "90 giorni",
+    "C": "60 giorni",
+    "D": "270 giorni"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1392, co. 3, COM: 270 giorni dalla data in cui l'amministrazione ha avuto conoscenza integrale della sentenza o del decreto penale irrevocabili, o del provvedimento di archiviazione; il termine è perentorio. Gli altri numeri sono termini veri di istituti vicini: 90 giorni per contestare dopo il giudizio penale (co. 1) e per l'estinzione per inattività (co. 4); 60 per contestare dopo gli accertamenti preliminari (co. 2); 180 per gli accertamenti preliminari di stato (art. 1040 TUROM).",
+   "riferimenti": [
+    "COM art. 1392, co. 1-4",
+    "TUROM art. 1040, co. 1, lett. d), n. 19"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E030",
+   "argomento": "termini-procedimento-stato",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino"
+   ],
+   "domanda": "Gli accertamenti preliminari disciplinari di stato per appuntati e carabinieri durano:",
+   "opzioni": {
+    "A": "90 giorni dalla commissione del fatto",
+    "B": "180 giorni dalla conoscenza del fatto",
+    "C": "60 giorni dalla conoscenza del fatto",
+    "D": "270 giorni dalla conoscenza del fatto"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1040, co. 1, lett. d), n. 19, TUROM: accertamenti preliminari disciplinari di stato, 180 giorni dalla conoscenza del fatto da parte dell'autorità competente (per le altre categorie, art. 1041, co. 1, lett. s), n. 6); conclusi, la contestazione va fatta entro 60 giorni (art. 1392, co. 2, COM). I 90 e i 270 giorni riguardano il procedimento di stato dopo il giudizio penale (art. 1392, co. 1 e 3). Per la disciplina di corpo non c'è un termine espresso.",
+   "riferimenti": [
+    "TUROM art. 1040, co. 1, lett. d), n. 19",
+    "COM art. 1392, co. 1-3"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E031",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa",
+    "istituto-vicino"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "gli accertamenti preliminari di corpo non sono previsti da alcuna norma",
+    "B": "il responsabile del procedimento accerta d'ufficio i fatti",
+    "C": "gli accertamenti preliminari di corpo durano 180 giorni",
+    "D": "gli accertamenti preliminari sono riservati fino alla contestazione"
+   },
+   "corretta": "C",
+   "spiegazione": "È errata l'affermazione sui 180 giorni: è il termine degli accertamenti preliminari di stato (art. 1040, co. 1, lett. d), n. 19, TUROM). Per la disciplina di corpo nessuna norma prevede gli accertamenti preliminari, che si deducono dal potere di punire e dall'art. 6, co. 1, lett. b), L. 241/1990 (il responsabile del procedimento accerta d'ufficio i fatti); la loro durata si misura sul parametro giurisprudenziale di trenta giorni. Sono una fase riservata, che il militare conosce con la contestazione.",
+   "riferimenti": [
+    "TUROM art. 1040, co. 1, lett. d), n. 19",
+    "L. 241/1990, art. 6, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E032",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi"
+   ],
+   "domanda": "Ha elencato le ragioni che giustificano il superamento dei trenta giorni per contestare:",
+   "opzioni": {
+    "A": "CdS 854/2024 e 855/2024",
+    "B": "CdS 969/2001",
+    "C": "CdS 5157/2026",
+    "D": "CdS 3720/2022"
+   },
+   "corretta": "C",
+   "spiegazione": "Cons. Stato, sez. II, 26 giugno 2026, n. 5157 ha sistematizzato l'orientamento dei pareri della sez. I nn. 854 e 855 del 2024 ed elencato, a titolo esemplificativo, le ragioni che giustificano il superamento dei trenta giorni. I pareri nn. 854 e 855/2024 hanno fissato il parametro dei trenta giorni, ma senza elencare le ragioni; la n. 3355/2015 (parere) ha ritenuto irragionevole un ritardo di sette mesi; la n. 969/2001 ha affermato che «senza ritardo» non significa «immediatamente»; la n. 3720/2022 riguarda la consegna e la natura della consegna di rigore.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, n. 5157/2026",
+    "Cons. Stato, sez. I, pareri nn. 854 e 855/2024",
+    "Cons. Stato, sez. II, parere n. 3355/2015",
+    "Cons. Stato, sez. IV, n. 969/2001",
+    "Cons. Stato, sez. II, n. 3720/2022"
+   ],
+   "fonti": [
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E033",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "assoluti",
+    "distinzione"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la non concordanza della scala gerarchica non giustifica mai il ritardo",
+    "B": "la contestazione entro trenta giorni è sempre tempestiva",
+    "C": "superati i trenta giorni il potere disciplinare decade",
+    "D": "le ragioni del ritardo sono sindacabili nel merito dal giudice"
+   },
+   "corretta": "B",
+   "spiegazione": "Per Cons. Stato, sez. II, n. 5157/2026 la contestazione entro trenta giorni è sempre tempestiva, ed è esclusa la prova contraria; quella successiva non è per ciò solo tardiva, ma l'amministrazione deve esternare valide ragioni; il potere non decade, perché il «senza ritardo» non è perentorio. Tra le ragioni rientra la non concordanza della scala gerarchica sulla sottoposizione al procedimento; le ragioni addotte sono sindacabili solo se manifestamente illogiche, arbitrarie o irragionevoli, non nel merito.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, n. 5157/2026",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "repertorio della giurisprudenza",
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E034",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "posizione-docente"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "negli accertamenti preliminari non si possono chiedere chiarimenti al militare",
+    "B": "la richiesta di chiarimenti deve indicare le norme che si ritengono violate",
+    "C": "la richiesta di chiarimenti apre il procedimento disciplinare",
+    "D": "i chiarimenti si chiedono con la relazione di servizio, senza contestare"
+   },
+   "corretta": "D",
+   "spiegazione": "Secondo la lezione, se il fatto è nebuloso si possono chiedere chiarimenti al militare, ma con cautela, perché la richiesta potrebbe essere intesa come contestazione: lo strumento classico è la relazione di servizio su quanto accaduto, senza contestare nulla. Indicare le norme violate significa contestare: si entra nella fase da cui può derivare un provvedimento. Il procedimento si apre solo con la contestazione degli addebiti (art. 1398, co. 2, COM).",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1370"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E035",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "distinzione"
+   ],
+   "domanda": "Secondo il D.Lgs. 165/2001, il personale militare:",
+   "opzioni": {
+    "A": "rimane disciplinato dal proprio ordinamento",
+    "B": "è soggetto all'art. 55-bis per quanto non previsto dal COM",
+    "C": "è contrattualizzato, salvo che per la disciplina di stato",
+    "D": "rimane disciplinato dal proprio ordinamento solo in servizio"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 3, co. 1, D.Lgs. 165/2001: in deroga alla contrattualizzazione, il personale militare e delle Forze di polizia di Stato rimane disciplinato dai rispettivi ordinamenti. L'art. 55-bis non si applica ai militari: il Consiglio di Stato lo usa solo come parametro interpretativo dei trenta giorni. Non vi è alcuna contrattualizzazione parziale né una limitazione al servizio.",
+   "riferimenti": [
+    "D.Lgs. 165/2001, art. 3, co. 1",
+    "D.Lgs. 165/2001, art. 55-bis, co. 4"
+   ],
+   "fonti": [
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L10-E036",
+   "argomento": "fonti",
+   "sinossi": "I.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "istituto-vicino"
+   ],
+   "domanda": "La sospensione disciplinare inflitta dopo la condanna penale non viola il ne bis in idem secondo:",
+   "opzioni": {
+    "A": "CdS 3720/2022",
+    "B": "CdS 2179/2015",
+    "C": "Corte cost. 406/2000",
+    "D": "TAR FVG 226/2024"
+   },
+   "corretta": "D",
+   "spiegazione": "TAR Friuli-Venezia Giulia, sez. I, 27 giugno 2024, n. 226: la sospensione disciplinare dall'impiego di due mesi, inflitta a un ufficiale già condannato per violata consegna, non ha natura sostanzialmente penale secondo i criteri Engel e non viola l'art. 4 del Protocollo n. 7 CEDU. Le altre pronunce sono vere ma riguardano la consegna e la consegna di rigore (CdS 3720/2022 e 2179/2015: nessun contenuto afflittivo omologo alla reclusione, nessuna restrizione della libertà personale) e la non alternatività e la natura amministrativa del procedimento (Corte cost. 406/2000).",
+   "riferimenti": [
+    "TAR Friuli-Venezia Giulia, sez. I, n. 226/2024",
+    "CEDU, Protocollo n. 7, art. 4",
+    "Cons. Stato, sez. II, n. 3720/2022",
+    "Cons. Stato, sez. IV, n. 2179/2015",
+    "Corte cost., sent. n. 406/2000"
+   ],
+   "fonti": [
+    "repertorio della giurisprudenza",
+    "lezione 10 (14.11.2026)"
+   ],
+   "lezione": 10,
+   "data_lezione": "2026-11-14"
   }
  ]
 }
