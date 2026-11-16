@@ -38141,15 +38141,15 @@
    "difficolta": 2,
    "domanda": "Perché il fatto riferito in un rapporto disciplinare si dà per accertato?",
    "opzioni": {
-    "A": "perché il rapporto è firmato da un pubblico ufficiale e fa fede fino a querela di falso",
+    "A": "perché il rapporto è vistato dal comandante di corpo, che ne attesta la veridicità prima dell'inoltro",
     "B": "perché il superiore è qualificato a valutarne la rilevanza disciplinare e lo ha percepito con i propri sensi",
     "C": "perché il rapporto contiene già la proposta di sanzione, che l'autorità competente deve recepire",
     "D": "perché il militare ha già ammesso il fatto al momento della constatazione della mancanza"
    },
    "corretta": "B",
-   "spiegazione": "Il rapporto disciplinare è una notizia qualificata: il superiore gerarchico ha competenza non solo a punire con il richiamo ma anche a valutare che una situazione è disciplinarmente rilevante, e il fatto è avvenuto sotto i suoi sensi. Per questo chi lo riceve non si mette a verificarne il contenuto (esempio della giacca sbottonata). Il rapporto non deve contenere proposte sulla specie o sull'entità della sanzione (art. 1397, co. 2, COM); la constatazione non richiede un'ammissione del militare; la fede privilegiata è propria degli atti pubblici, non è il fondamento invocato.",
+   "spiegazione": "Il rapporto disciplinare è una notizia qualificata: il superiore gerarchico ha competenza non solo a punire con il richiamo ma anche a valutare che una situazione è disciplinarmente rilevante, e il fatto è avvenuto sotto i suoi sensi. Per questo chi lo riceve non si mette a verificarne il contenuto (esempio della giacca sbottonata). Il rapporto non deve contenere proposte sulla specie o sull'entità della sanzione (art. 1397, co. 2, COM); la constatazione non richiede un'ammissione del militare; il rapporto non richiede alcun visto del comandante di corpo, ma va inoltrato secondo le regole dell'art. 1397, co. 3-6.",
    "riferimenti": [
-    "COM art. 1397, co. 1-2"
+    "COM art. 1397, co. 1-3"
    ],
    "fonti": [
     "lezione 10 (14.11.2026)",
