@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
- "aggiornata": "2026-11-16",
- "totale": 1458,
+ "aggiornata": "2026-11-18",
+ "totale": 1570,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -39852,6 +39852,3017 @@
    ],
    "lezione": 10,
    "data_lezione": "2026-11-14"
+  },
+  {
+   "id": "DD-L11-001",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Quale pronuncia ha per prima letto il «senza ritardo» dell'art. 1398, co. 1, COM alla luce del termine generale di trenta giorni dell'art. 2 della L. 241/1990?",
+   "opzioni": {
+    "A": "Cons. Stato, sez. I, parere 11 luglio 2024, n. 854, su due giorni di consegna",
+    "B": "Cons. Stato, sez. II, 26 giugno 2026, n. 5157, che ha sistematizzato l'orientamento",
+    "C": "Cons. Stato, sez. IV, 9 marzo 2018, n. 1507, su una perdita del grado per rimozione",
+    "D": "Cons. Stato, sez. I, parere 30 aprile 2024, n. 565, su una consegna di rigore"
+   },
+   "corretta": "D",
+   "spiegazione": "Il parere della sez. I n. 565 del 30 aprile 2024 (maggiore dell'Esercito punito con la consegna di rigore) ha letto il «senza ritardo» con il termine generale di trenta giorni dell'art. 2 della L. 241/1990. I pareri nn. 854 e 855 dell'11 luglio 2024 hanno sviluppato il percorso con l'art. 55-bis, co. 4, D.Lgs. 165/2001; la sez. II, n. 5157/2026, lo ha sistematizzato. La sentenza n. 1507/2018 è anteriore e non indica alcun parametro numerico: per essa il «senza ritardo» è una regola di tempestività da valutare secondo ragionevolezza.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 565/2024",
+    "Cons. Stato, sez. I, parere n. 854/2024",
+    "COM art. 1398, co. 1",
+    "L. 241/1990 art. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 220"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-002",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "La regola per cui ventiquattro giorni dal fatto alla contestazione sono ragionevoli anche se il fatto è stato constatato direttamente dal superiore:",
+   "opzioni": {
+    "A": "è stata affermata per la prima volta dal parere n. 854/2024, nel caso dell'alterco del comandante dell'aliquota radiomobile",
+    "B": "deriva dall'art. 1398, co. 1, COM, che fissa in ventiquattro giorni il limite del «senza ritardo» per la disciplina di corpo",
+    "C": "è stata affermata dal parere n. 565/2024 ed è ripresa testualmente dai pareri nn. 854 e 855 dell'11 luglio 2024",
+    "D": "è stata affermata dalla sez. II nel 2026, che ha esteso a ventiquattro giorni il parametro di trenta fissato nel 2024"
+   },
+   "corretta": "C",
+   "spiegazione": "La conclusione sui 24 giorni è del parere della sez. I 30 aprile 2024, n. 565: i pareri nn. 854 e 855 la riportano tra virgolette («la sezione è giunta alla conclusione che…»). Nessuna norma fissa un numero di giorni: l'art. 1398, co. 1, COM dice soltanto «senza ritardo». Il parametro è di trenta giorni (art. 2 L. 241/1990; art. 55-bis, co. 4, D.Lgs. 165/2001); i 24 giorni erano il caso concreto, ritenuto ragionevole anche con constatazione diretta del superiore.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 565/2024",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-003",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo il parere del Consiglio di Stato n. 854/2024, il termine di trenta giorni dell'art. 55-bis, co. 4, D.Lgs. 165/2001, nel pubblico impiego contrattualizzato:",
+   "opzioni": {
+    "A": "ha natura ordinatoria, come il «senza ritardo» del COM, e perciò si applica anche ai militari",
+    "B": "ha natura perentoria, perché è corredato dalla locuzione «non oltre», ma ai militari non si applica",
+    "C": "ha natura sollecitatoria e si applica ai militari solo per le sanzioni di corpo diverse dal richiamo",
+    "D": "ha natura perentoria e si applica anche ai militari, per l'espresso rinvio contenuto nell'art. 1398 COM"
+   },
+   "corretta": "B",
+   "spiegazione": "Il parere osserva che il termine dell'art. 55-bis, co. 4 («con immediatezza e comunque non oltre trenta giorni»), secondo pacifica giurisprudenza ha natura perentoria; per la specificità e l'autosufficienza dell'ordinamento militare (artt. 1 e 625 COM) non si applica ai militari, ma è un «parametro temporale utile» per valutare la tempestività richiesta dall'art. 1398 COM. L'art. 1398 non contiene alcun rinvio al D.Lgs. 165/2001, che per il suo art. 3 non disciplina il personale militare.",
+   "riferimenti": [
+    "D.Lgs. 165/2001 art. 55-bis, co. 4",
+    "D.Lgs. 165/2001 art. 3, co. 1",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-004",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Da quali articoli del COM il parere n. 854/2024 ricava la specificità e l'autosufficienza dell'ordinamento militare?",
+   "opzioni": {
+    "A": "dagli artt. 1346 e 1349, che definiscono la disciplina militare e i limiti del dovere di obbedienza",
+    "B": "dagli artt. 1 e 625, che delimitano il rapporto con le disposizioni di altri rami dell'ordinamento",
+    "C": "dagli artt. 1396 e 1398, che individuano le autorità competenti e le fasi del procedimento",
+    "D": "dagli artt. 1355 e 1370, che fissano i criteri delle sanzioni e il diritto di difesa"
+   },
+   "corretta": "B",
+   "spiegazione": "Il parere afferma che la specificità dell'ordinamento militare «emerge dagli artt. 1 e 625, d.lgs. n. 66/2010» e che ne discende l'autosufficienza rispetto alle disposizioni per le quali non vi sia un espresso rinvio: perciò l'art. 55-bis D.Lgs. 165/2001 non si applica ai militari, ma ne costituisce il parametro. Gli artt. 1346 e 1349 riguardano la disciplina e i suoi limiti, gli artt. 1396 e 1398 la competenza e il procedimento, gli artt. 1355 e 1370 la commisurazione e la contestazione.",
+   "riferimenti": [
+    "COM artt. 1 e 625",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-005",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché la L. 241/1990 e il D.Lgs. 165/2001 entrano in gioco per stabilire la durata degli accertamenti preliminari al procedimento di corpo?",
+   "opzioni": {
+    "A": "perché COM e TUROM non fissano alcun termine per quegli accertamenti, e la giurisprudenza ne ricava un parametro",
+    "B": "perché il COM rinvia espressamente al D.Lgs. 165/2001 per tutto ciò che non disciplina sul procedimento di corpo",
+    "C": "perché il TUROM fissa gli accertamenti in centottanta giorni, che la giurisprudenza ha ridotto a trenta",
+    "D": "perché la L. 241/1990 fissa in trenta giorni la durata della fase preliminare di ogni procedimento disciplinare"
+   },
+   "corretta": "A",
+   "spiegazione": "Gli accertamenti preliminari della disciplina di corpo non sono disciplinati dal COM né dal TUROM, che regolano e scandiscono solo quelli della disciplina di stato (180 giorni: art. 1040, co. 1, lett. d), n. 19, e art. 1041 TUROM). Davanti a questo vuoto la giurisprudenza usa l'art. 2 della L. 241/1990 (termine generale dei procedimenti) e l'art. 55-bis D.Lgs. 165/2001 come parametri, per porre un freno a ritardi che in passato arrivavano a 200-300 giorni. Il D.Lgs. 165/2001 non si applica ai militari (art. 3) e nessuna norma richiama i trenta giorni per la fase preliminare.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "L. 241/1990 art. 2",
+    "D.Lgs. 165/2001 artt. 3 e 55-bis",
+    "TUROM art. 1040"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-006",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Il comandante competente vede personalmente un militare in servizio con le scarpe sporche. Quanto agli accertamenti preliminari:",
+   "opzioni": {
+    "A": "deve comunque svolgerli per trenta giorni, perché il parametro giurisprudenziale non ammette eccezioni",
+    "B": "deve delegarli a un organo subordinato, perché chi constata il fatto non può anche accertarlo",
+    "C": "deve svolgerli sentendo il militare a sommarie informazioni prima di poter contestare l'addebito",
+    "D": "non ve ne sono da compiere, perché la cognizione dell'infrazione deriva da una constatazione immediata"
+   },
+   "corretta": "D",
+   "spiegazione": "Il criterio di ragionevolezza del «senza ritardo» fa salvo «il caso che la cognizione della infrazione sia acquisita direttamente dal superiore attraverso una constatazione immediata del fatto» (pareri della sez. I nn. 565, 854 e 855 del 2024): qui non c'è nulla da accertare e la contestazione può seguire subito. I trenta giorni sono un parametro massimo, non una durata obbligatoria; la delega degli accertamenti è facoltativa; le sommarie informazioni sono un atto di polizia giudiziaria (art. 351 c.p.p.), estraneo al procedimento disciplinare.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-007",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Quale delle seguenti circostanze, documentata negli atti, rientra tra le evenienze che rendono difficoltosa o prematura la contestazione degli addebiti?",
+   "opzioni": {
+    "A": "l'attesa che il fatto venga dimenticato, per evitare di aprire un procedimento non necessario",
+    "B": "la volontà di attendere l'eventuale ripetersi della condotta, per contestare più fatti insieme",
+    "C": "la relazione di servizio chiesta a un militare testimone, impiegato temporaneamente all'estero",
+    "D": "l'opportunità di attendere la redazione delle note caratteristiche, per valutare il militare nel complesso"
+   },
+   "corretta": "C",
+   "spiegazione": "Superati i trenta giorni, l'amministrazione deve dimostrare «evenienze specifiche tali, per un verso, da rendere difficoltosa o prematura la contestazione degli addebiti e, per altro verso, da giustificare la conseguente dilazione nel tempo» (parere n. 565/2024, ripreso dal n. 854/2024): ad esempio un'istruttoria, l'acquisizione delle immagini delle telecamere, una relazione richiesta a un militare all'estero, oppure impegni come due omicidi o servizi a largo raggio. Attendere che il fatto cada nel dimenticatoio, che si ripeta o che arrivino le note caratteristiche non sono ragioni istruttorie e rendono illegittimo il ritardo.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-008",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 3,
+   "domanda": "Secondo il parere n. 854/2024, le ragioni che giustificano il superamento dei trenta giorni:",
+   "opzioni": {
+    "A": "devono essere comunicate al militare insieme alla contestazione degli addebiti, a pena di nullità dell'atto di avvio",
+    "B": "possono essere indicate dall'amministrazione anche solo in giudizio, senza riscontro negli atti",
+    "C": "devono emergere dagli atti o dall'istruttoria, perché l'amministrazione ha l'onere di allegarle in giudizio",
+    "D": "non devono essere esplicitate, perché il parametro dei trenta giorni non ha natura perentoria"
+   },
+   "corretta": "C",
+   "spiegazione": "Il superamento del parametro non rende di per sé illegittimo il procedimento: l'illegittimità deriva da «un ingiustificato procrastinarsi dell'adempimento», e sull'amministrazione «ricade l'onere di allegare valide ragioni giustificatrici». Nel caso deciso, il ricorso è stato accolto perché «dagli atti impugnati e dalla relazione istruttoria dell'Amministrazione non emerge alcuna ragione» dell'attesa di oltre quaranta giorni. La motivazione rileva quando il militare ricorre: nessuna norma impone di indicarla nella contestazione, ma ragioni che non risultano dagli atti non bastano.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-009",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il «senza ritardo» dell'art. 1398, co. 1, COM richiama una formula del codice di procedura penale. Quale?",
+   "opzioni": {
+    "A": "l'obbligo della polizia giudiziaria di assumere sommarie informazioni dalle persone informate",
+    "B": "l'obbligo della polizia giudiziaria di riferire al pubblico ministero la notizia di reato acquisita",
+    "C": "l'obbligo del pubblico ministero di iscrivere la notizia di reato nel registro delle notizie",
+    "D": "l'obbligo del giudice di decidere sulla richiesta di archiviazione presentata dal pubblico ministero"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 347, co. 1, c.p.p. stabilisce che, acquisita la notizia di reato, la polizia giudiziaria «senza ritardo, riferisce al pubblico ministero, per iscritto, gli elementi essenziali del fatto». Anche qui la formula non indica un termine fisso ma una regola di prontezza (le 48 ore del co. 2-bis valgono solo quando si sono compiuti atti con l'assistenza del difensore). Le sommarie informazioni sono disciplinate dall'art. 351 c.p.p., senza alcun «senza ritardo».",
+   "riferimenti": [
+    "c.p.p. art. 347, co. 1",
+    "c.p.p. art. 351",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-010",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Un comandante di compagnia riceve dal prefetto, tre settimane dopo il fatto, una lettera che segnala la condotta di un militare. Il «senza ritardo» decorre:",
+   "opzioni": {
+    "A": "dalla conoscenza dell'infrazione da parte dell'autorità competente, cioè dalla ricezione della lettera",
+    "B": "dalla data del fatto, sicché le tre settimane già trascorse riducono il tempo disponibile per gli accertamenti",
+    "C": "dalla protocollazione della lettera presso il comando provinciale che l'ha trasmessa al reparto",
+    "D": "dalla conclusione degli accertamenti preliminari, entro i quali il prefetto deve essere sentito"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1398, co. 1, lett. a), COM impone di instaurare il procedimento senza ritardo «dalla conoscenza dell'infrazione». Il superiore non sempre vede il fatto: può ricevere un rapporto disciplinare dopo un mese o una lettera del prefetto dopo due o tre settimane, e la tardività va valutata da quando l'autorità competente ne ha avuto conoscenza. Per lo stesso motivo il ritardo ingiustificato nell'inoltro di un rapporto non rende improcedibile l'azione, ma può costituire responsabilità disciplinare di chi lo ha causato.",
+   "riferimenti": [
+    "COM art. 1398, co. 1, lett. a)",
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 217"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-011",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Nel procedimento disciplinare di corpo il superamento dei termini da parte dell'autorità:",
+   "opzioni": {
+    "A": "comporta la decadenza dal potere disciplinare, come nel procedimento disciplinare di stato",
+    "B": "non comporta alcuna conseguenza e non richiede alcuna giustificazione da parte dell'autorità",
+    "C": "comporta l'estinzione del procedimento, che può essere riaperto solo con il consenso del militare",
+    "D": "non comporta la decadenza dal potere disciplinare, ma il superamento deve essere motivato"
+   },
+   "corretta": "D",
+   "spiegazione": "Nella disciplina di corpo i termini sono ordinatori, non perentori: superarli non fa decadere dal potere, ma l'autorità deve motivarne il superamento, perché un ritardo ingiustificato espone il provvedimento all'annullamento. Nella disciplina di stato i termini dell'art. 1392 COM sono invece in larga parte perentori. L'estinzione per inerzia di novanta giorni (art. 1392, co. 4, COM) riguarda il procedimento di stato.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1392"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-012",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Che il termine di novanta giorni per concludere il procedimento disciplinare di corpo sia ordinatorio:",
+   "opzioni": {
+    "A": "è stabilito espressamente dall'art. 1046 TUROM, che fissa il termine",
+    "B": "è stabilito espressamente dall'art. 1398 COM, accanto al «senza ritardo»",
+    "C": "è stabilito dall'art. 1392, co. 4, COM, che regola l'inerzia nel procedimento",
+    "D": "non è scritto in alcuna disposizione, ma è affermato dalla giurisprudenza"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1046, co. 1, lett. h), n. 6, TUROM fissa il termine («90 giorni dalla contestazione degli addebiti») ma non ne dice la natura: che sia ordinatorio, e che dunque il suo superamento non faccia decadere dal potere, lo afferma la giurisprudenza. L'art. 1398 COM disciplina avvio e fasi del procedimento; l'art. 1392, co. 4, riguarda l'estinzione del procedimento di stato per novanta giorni di inerzia.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1398",
+    "COM art. 1392, co. 4"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-013",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 3,
+   "domanda": "Ai fini del termine di novanta giorni del procedimento di corpo, rilevano:",
+   "opzioni": {
+    "A": "la firma della contestazione degli addebiti e la notifica del provvedimento finale",
+    "B": "la notifica della contestazione degli addebiti e la notifica del provvedimento finale",
+    "C": "la notifica della contestazione degli addebiti e l'adozione del provvedimento finale",
+    "D": "la conoscenza dell'infrazione e l'adozione del provvedimento finale da parte dell'autorità"
+   },
+   "corretta": "C",
+   "spiegazione": "I novanta giorni decorrono dalla contestazione degli addebiti (art. 1046, co. 1, lett. h), n. 6, TUROM), atto recettizio che produce effetti con la notifica; il modello 4.C della Guida tecnica li fa decorrere «dalla data di notifica della contestazione». Alla scadenza, invece, conta l'adozione del provvedimento (redatto, protocollato e firmato), non la sua notifica, che attiene all'efficacia: dopo l'adozione dell'atto conclusivo non c'è più inerzia dell'amministrazione. Dalla conoscenza dell'infrazione decorre solo il dovere di contestare «senza ritardo».",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "L. 241/1990 art. 21-bis",
+    "Guida tecnica, all. 4.C"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica pp. 79 e 161"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-014",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "La contestazione degli addebiti è notificata il 1° marzo. Il comandante firma e protocolla il provvedimento di consegna il 25 maggio; il militare lo riceve il 10 giugno. Il termine di novanta giorni:",
+   "opzioni": {
+    "A": "non è rispettato, perché il provvedimento produce effetti solo dalla notifica, avvenuta oltre il termine",
+    "B": "è rispettato, perché rileva la data di adozione del provvedimento e non quella della sua notifica",
+    "C": "non è rispettato, perché decorre dalla firma della contestazione, che precede necessariamente la notifica",
+    "D": "è rispettato, ma solo perché il termine è ordinatorio: se fosse stato superato, il provvedimento sarebbe nullo"
+   },
+   "corretta": "B",
+   "spiegazione": "Dal 1° marzo al 25 maggio corrono 85 giorni. Il termine si considera rispettato quando il provvedimento è adottato entro novanta giorni: la notifica attiene all'efficacia (il provvedimento limitativo acquista efficacia con la comunicazione: art. 21-bis L. 241/1990), non al perfezionamento dell'atto. I novanta giorni decorrono dalla notifica della contestazione, non dalla sua firma. Anche il superamento del termine, essendo ordinatorio, non avrebbe reso nullo il provvedimento: andrebbe motivato.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "L. 241/1990 art. 21-bis",
+    "COM art. 1398, co. 4-5"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica p. 79"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-015",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Secondo l'art. 21-bis della L. 241/1990, il provvedimento limitativo della sfera giuridica dei privati:",
+   "opzioni": {
+    "A": "acquista efficacia nei confronti del destinatario con la comunicazione allo stesso effettuata",
+    "B": "acquista efficacia dalla data della sua adozione, anche se non ancora comunicato al destinatario",
+    "C": "si perfeziona con la comunicazione al destinatario, prima della quale non è giuridicamente esistente",
+    "D": "acquista efficacia con la pubblicazione all'albo dell'ufficio che lo ha adottato, salvo rinuncia"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 21-bis, co. 1, L. 241/1990 stabilisce che il provvedimento limitativo della sfera giuridica dei privati «acquista efficacia nei confronti di ciascun destinatario con la comunicazione allo stesso effettuata». La comunicazione incide sull'efficacia, non sull'esistenza o sul perfezionamento dell'atto, che si perfeziona con l'adozione. Per questo, ai fini del termine di conclusione del procedimento disciplinare, rileva l'adozione. Le forme di pubblicità sono previste solo quando la comunicazione personale è impossibile o gravosa per il numero dei destinatari.",
+   "riferimenti": [
+    "L. 241/1990 art. 21-bis, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-016",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Annullato un atto del procedimento disciplinare di corpo, se la rinnovazione non è esclusa, il nuovo procedimento riprende:",
+   "opzioni": {
+    "A": "dal primo degli atti annullati, entro sessanta giorni dalla piena conoscenza dell'annullamento",
+    "B": "dall'ultimo degli atti annullati, entro sessanta giorni dal deposito della sentenza di annullamento",
+    "C": "sempre dalla contestazione degli addebiti, entro novanta giorni dalla piena conoscenza dell'annullamento",
+    "D": "dagli accertamenti preliminari, senza termini, perché il potere disciplinare di corpo non si prescrive"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1373 COM: annullati uno o più atti del procedimento (in autotutela, anche contenziosa, per giudicato amministrativo o con decreto decisorio di ricorso straordinario), se non è esclusa la facoltà di rinnovarlo e, per le sole sanzioni di stato, non sono decorsi gli originari termini perentori, il nuovo procedimento riprende «a partire dal primo degli atti annullati, nel termine perentorio di sessanta giorni» dalla piena conoscenza dell'annullamento o dall'adozione del provvedimento di autotutela. Nella disciplina di corpo, ripreso con una nuova contestazione, si conclude in novanta giorni.",
+   "riferimenti": [
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 316",
+    "Guida tecnica pp. 15-16"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-017",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Il TAR annulla per difetto di motivazione una consegna inflitta a un appuntato, e il comando ha piena conoscenza della sentenza passata in giudicato. Il comandante:",
+   "opzioni": {
+    "A": "può rinnovare il procedimento in qualsiasi momento e senza termini, perché il potere disciplinare di corpo non decade mai",
+    "B": "non può più procedere, perché un secondo provvedimento sullo stesso fatto violerebbe il ne bis in idem",
+    "C": "può rinnovare il procedimento entro novanta giorni ordinatori, anche ripetendo la stessa motivazione",
+    "D": "può rinnovare il procedimento entro sessanta giorni perentori, adottando un provvedimento adeguatamente motivato"
+   },
+   "corretta": "D",
+   "spiegazione": "Il potere disciplinare di corpo non decade per il superamento dei termini ordinatori del procedimento, ma dopo l'annullamento la rinnovazione è soggetta al termine perentorio di sessanta giorni dell'art. 1373 COM, dalla piena conoscenza dell'annullamento. L'autorità ha l'onere di conformarsi alla sentenza: se l'annullamento è per difetto di motivazione, il nuovo provvedimento va motivato. La rinnovazione non viola il ne bis in idem, perché riprende il procedimento originario.",
+   "riferimenti": [
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica p. 16"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-018",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Quale dei seguenti termini, applicabili al procedimento disciplinare di corpo, è perentorio?",
+   "opzioni": {
+    "A": "i novanta giorni per concludere il procedimento a partire dalla contestazione degli addebiti",
+    "B": "i due terzi del termine del procedimento per presentare memorie scritte e documenti",
+    "C": "i sessanta giorni per riprendere il procedimento dopo l'annullamento di un suo atto",
+    "D": "i novanta giorni entro i quali l'autorità deve decidere il ricorso gerarchico presentato"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1373 COM qualifica espressamente come «perentorio» il termine di sessanta giorni per la ripresa del procedimento annullato. I novanta giorni dell'art. 1046, co. 1, lett. h), n. 6, TUROM sono ordinatori; il termine per le memorie (art. 1029, co. 2, TUROM) è sollecitatorio e le memorie tardive non spostano il termine finale; quanto al ricorso gerarchico, decorsi novanta giorni il militare può adire il giudice (art. 1363, co. 2, COM), ma l'autorità conserva il potere di decidere.",
+   "riferimenti": [
+    "COM art. 1373",
+    "TUROM artt. 1029 e 1046",
+    "COM art. 1363, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-019",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Se il provvedimento disciplinare annullato dal giudice viene rinnovato, l'onere conformativo impone all'autorità di:",
+   "opzioni": {
+    "A": "adottare una sanzione meno grave di quella annullata, per non aggravare la posizione del ricorrente",
+    "B": "rispettare quanto statuito dalla sentenza, eliminando il vizio per cui l'atto è stato annullato",
+    "C": "affidare il nuovo procedimento a un'autorità diversa da quella che aveva adottato l'atto annullato",
+    "D": "chiedere il consenso del militare alla rinnovazione, rinunciando così all'impugnazione già proposta"
+   },
+   "corretta": "B",
+   "spiegazione": "Annullato il provvedimento, l'autorità torna indietro e lo rinnova, ma ha l'onere di conformarsi alla sentenza: se l'atto è stato annullato per difetto di motivazione, il nuovo provvedimento va motivato; se per un vizio procedurale, il vizio va eliminato. Nessuna norma impone una sanzione più mite, un'autorità diversa o il consenso dell'interessato. Per questo molti ricorsi «vinti» sono successi solo apparenti.",
+   "riferimenti": [
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-020",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Annullato in sede giurisdizionale un documento caratteristico, l'amministrazione:",
+   "opzioni": {
+    "A": "non può ricompilarlo, perché il periodo resta coperto dal giudicato e la valutazione si considera definitivamente favorevole all'interessato",
+    "B": "deve ricompilarlo, perché non può esservi un periodo privo di valutazione, e può anche abbassare le qualifiche purché motivi",
+    "C": "deve ricompilarlo conservando almeno le voci del documento annullato, che restano cristallizzate",
+    "D": "può ricompilarlo solo in senso più favorevole al ricorrente, per non punirlo di aver esercitato il ricorso"
+   },
+   "corretta": "B",
+   "spiegazione": "Annullato un documento caratteristico, la valutazione va rinnovata: non può esservi un periodo senza valutazione caratteristica. La ricompilazione incontra come unici limiti i motivi dell'annullamento; le voci del documento annullato non si cristallizzano e il nuovo documento può discostarsene anche in senso meno favorevole, purché armonico e motivato (un calo marcato richiede una motivazione particolarmente accurata). Per questo il ricorso contro l'abbassamento di qualche qualifica ha un'utilità limitata.",
+   "riferimenti": [
+    "TUROM artt. 688 ss."
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "dispensa di Scienze Professionali, cap. 19"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-021",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo Cons. Stato, sez. IV, 9 marzo 2018, n. 1507, la non tempestività dell'azione disciplinare:",
+   "opzioni": {
+    "A": "non fa decadere dal potere, ma può rendere illegittimo l'atto se è sintomo di sviamento o di contraddittorietà",
+    "B": "fa decadere dal potere quando supera il parametro di trenta giorni senza che le ragioni del ritardo siano indicate negli atti",
+    "C": "non rileva in alcun modo, perché il «senza ritardo» ha natura soltanto sollecitatoria e propulsiva",
+    "D": "fa decadere dal potere solo nella disciplina di stato, perché lì è in gioco il rapporto di impiego"
+   },
+   "corretta": "A",
+   "spiegazione": "La sentenza afferma che la non tempestività «lungi dal determinare una decadenza dall'esercizio del relativo potere» può rendere illegittimo l'atto sotto profili diversi, da provare: sintomo di sviamento di potere (un episodio risalente usato per ragioni diverse da quelle disciplinari), di contraddittorietà (l'amministrazione ha medio tempore altrimenti valutato il dipendente) od oggettivo ostacolo al diritto di difesa. Nel caso, una perdita del grado per rimozione dopo 470 giorni, l'appello è stato respinto. Il parametro dei trenta giorni è successivo (pareri del 2024).",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, n. 1507/2018",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 221"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-022",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Dopo un dissidio personale con un maresciallo, il comandante contesta un episodio di due anni prima, mai rilevato. Il ritardo può rendere illegittima la sanzione come sintomo di:",
+   "opzioni": {
+    "A": "incompetenza relativa, perché il fatto risale a un periodo in cui il comandante non era in carica",
+    "B": "violazione di legge, perché i fatti di oltre un anno non possono più essere contestati",
+    "C": "contraddittorietà, perché il comandante non aveva contestato il fatto al momento in cui era avvenuto",
+    "D": "sviamento di potere, se l'episodio risalente è usato per ragioni diverse da quelle disciplinari"
+   },
+   "corretta": "D",
+   "spiegazione": "Il ritardo non fa decadere dal potere, ma può essere sintomo di sviamento di potere quando l'amministrazione «utilizzerebbe a distanza di tempo un qualche risalente episodio per incidere sullo status di un suo dipendente per ragioni diverse da quelle disciplinari» (Cons. Stato, sez. IV, n. 1507/2018). La contraddittorietà ricorre se nel frattempo l'amministrazione ha altrimenti valutato il dipendente, non per il solo fatto della mancata contestazione immediata. Nessuna norma preclude la contestazione dei fatti risalenti a oltre un anno, e la competenza si determina al momento della decisione (art. 1396, co. 5, COM).",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, n. 1507/2018",
+    "COM art. 1396, co. 5"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-023",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Quale delle seguenti NON è tra le ragioni della brevità del termine del procedimento disciplinare di corpo?",
+   "opzioni": {
+    "A": "il fatto che nella disciplina di corpo non è in gioco il rapporto di impiego del militare",
+    "B": "l'esigenza di non lasciare il militare sine die esposto alla minaccia di una sanzione",
+    "C": "la necessità di concludere il procedimento prima della redazione delle note caratteristiche",
+    "D": "il diritto di difesa, che si esercita tanto meglio quanto più il fatto è recente"
+   },
+   "corretta": "C",
+   "spiegazione": "Le ragioni sono tre: nella disciplina di corpo non è in gioco il bene della vita, cioè il rapporto di impiego; il militare non deve restare sine die sotto la spada di Damocle del datore di lavoro (il vero procedimento disciplinare è l'attesa, come nel penale le indagini preliminari), e la sanzione ha anche valore di ius corrigendi, che perde funzione se tardiva; infine il diritto di difesa, perché a distanza di anni il ricordo dei fatti si perde. Il collegamento con le note caratteristiche non è tra queste ragioni.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 220"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-024",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un cittadino segnala che tre anni prima un appuntato, ora in altro reparto, parcheggiò in modo irregolare nel cortile condominiale. Il comandante competente:",
+   "opzioni": {
+    "A": "non apre il procedimento, perché per un fatto lieve di tre anni prima il potere disciplinare è prescritto",
+    "B": "apre il procedimento e infligge necessariamente il richiamo, che è la sanzione proporzionata al fatto",
+    "C": "apre il procedimento, che può poi concludersi senza sanzione anche per la non attualità della sanzione",
+    "D": "non apre il procedimento, perché la competenza appartiene al comandante del reparto dell'epoca"
+   },
+   "corretta": "C",
+   "spiegazione": "Il procedimento va sempre aperto: in futuro potrebbero esservi un esposto o una denuncia, e le pratiche devono essere in ordine (è un ulteriore argomento contro la discrezionalità dell'azione disciplinare). Una volta aperto, può chiudersi anche per la non attualità della sanzione: il militare può essere cambiato, e non serve tornare su un fatto lieve dopo tre anni, in un altro reparto. Il potere disciplinare non si prescrive; la competenza spetta all'autorità da cui il militare dipende al momento della decisione (art. 1396, co. 5, COM).",
+   "riferimenti": [
+    "COM art. 1396, co. 5",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-025",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Si viene a conoscenza, tre anni dopo, di un reato commesso da un militare. Secondo l'impostazione della lezione:",
+   "opzioni": {
+    "A": "il procedimento non si apre, perché decorsi tre anni il potere disciplinare si è estinto",
+    "B": "il procedimento si apre e si procede per la disciplina di stato o per la consegna di rigore",
+    "C": "il procedimento si apre, ma può concludersi soltanto con un richiamo o con un rimprovero",
+    "D": "il procedimento si apre solo dopo la sentenza penale irrevocabile, che ne è il presupposto"
+   },
+   "corretta": "B",
+   "spiegazione": "Per un fatto conosciuto a distanza di anni il procedimento si apre, ma non per concluderlo con un richiamo: un reato scoperto dopo tre anni porta alla disciplina di stato o alla consegna di rigore. Per le sanzioni di corpo minori, che presuppongono l'attualità del fatto percepito dal superiore, una sanzione tanto tardiva non ha senso. Il procedimento disciplinare, inoltre, è avviato e proseguito anche in pendenza del procedimento penale (art. 1393, co. 1, COM), salvi i casi di particolare complessità per le infrazioni più gravi.",
+   "riferimenti": [
+    "COM art. 1393, co. 1",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-026",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Se l'autorità fissa in trenta giorni la durata del procedimento di corpo, il militare può presentare memorie scritte e documenti:",
+   "opzioni": {
+    "A": "entro dieci giorni dall'inizio del procedimento, cioè dalla comunicazione dell'avvio",
+    "B": "entro venti giorni, pari ai due terzi della durata fissata per il procedimento",
+    "C": "entro quindici giorni, pari alla metà della durata fissata per il procedimento",
+    "D": "entro sessanta giorni, perché il termine a difesa non può essere ridotto dall'autorità"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1029, co. 2, TUROM fissa il termine in due terzi della durata del procedimento, ma aggiunge: «Quando il termine del procedimento sia uguale o inferiore a trenta giorni, memorie scritte e documenti dovranno essere presentati entro dieci giorni dall'inizio del procedimento», computati dalla comunicazione dell'avvio. Con trenta giorni, dunque, non si calcolano i due terzi (venti) ma si applicano i dieci giorni. Con il termine ordinario di novanta giorni, il termine per le memorie è di sessanta.",
+   "riferimenti": [
+    "TUROM art. 1029, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-027",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Le memorie difensive presentate dal militare oltre il termine fissato dall'art. 1029 TUROM:",
+   "opzioni": {
+    "A": "sono irricevibili e l'autorità non può tenerne conto nella decisione finale",
+    "B": "sospendono il termine finale del procedimento per il tempo necessario a valutarle",
+    "C": "fanno decorrere un nuovo termine di novanta giorni per la conclusione del procedimento",
+    "D": "non possono determinare lo spostamento del termine finale del procedimento"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1029, co. 3, TUROM: «La presentazione di memorie e documenti oltre i termini di cui al comma 2 non può determinare, comunque, lo spostamento del termine finale del procedimento». Per questo il termine per le memorie è sollecitatorio. Le memorie tardive non sono irricevibili: se il provvedimento non è ancora adottato, l'autorità deve valutarle (l'amministrazione ha l'obbligo di valutare le memorie pertinenti: art. 10, co. 1, lett. b), L. 241/1990).",
+   "riferimenti": [
+    "TUROM art. 1029, co. 3",
+    "L. 241/1990 art. 10, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-028",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Il militare deposita le memorie dopo la scadenza del termine a difesa. Il provvedimento è già stato adottato ed è in corso di notifica. L'autorità:",
+   "opzioni": {
+    "A": "deve annullarlo d'ufficio e decidere di nuovo, a pena di difetto di istruttoria del provvedimento",
+    "B": "deve sospenderne la notifica e valutare le memorie, prorogando il termine finale del procedimento",
+    "C": "deve trasmettere le memorie all'autorità superiore, che le valuterà come ricorso gerarchico",
+    "D": "non è tenuta ad annullarlo per rivalutarlo, perché il procedimento si è già concluso con l'adozione"
+   },
+   "corretta": "D",
+   "spiegazione": "Se il provvedimento è già perfezionato e si trova nella fase della notifica (fase dell'efficacia), per i principi di economicità e di non aggravamento del procedimento l'autorità non deve annullarlo per rivalutarlo: il militare, cui la contestazione aveva comunicato modi e tempi per difendersi, deve dolersi della propria inerzia. Se invece le memorie tardive arrivano prima dell'adozione, vanno valutate, senza spostare il termine finale (art. 1029, co. 3, TUROM). Le memorie non si convertono in ricorso gerarchico.",
+   "riferimenti": [
+    "TUROM art. 1029, co. 3",
+    "L. 241/1990 art. 10"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, pp. 111-112"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-029",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Il militare presenta subito una prima memoria «con riserva di depositare ulteriori documenti a discolpa nei termini assegnati». L'autorità:",
+   "opzioni": {
+    "A": "può concludere subito il procedimento, perché il militare ha già esercitato il diritto di difesa",
+    "B": "deve chiedere al militare di indicare entro tre giorni i documenti che intende produrre",
+    "C": "deve attendere la scadenza del termine a difesa prima di concludere il procedimento",
+    "D": "può concludere subito il procedimento, purché lo comunichi al militare con la decisione"
+   },
+   "corretta": "C",
+   "spiegazione": "Il modello 4.C della Guida tecnica consente di concludere il procedimento prima della scadenza del termine quando l'interessato abbia già esercitato i propri diritti partecipativi e l'accertamento sia esaustivo. Ma se il militare, presentando le prime memorie, si riserva espressamente di integrarle nei termini, il termine a difesa non ha ancora esaurito la sua funzione e l'autorità deve attenderne la scadenza. Nessuna norma prevede l'intimazione a indicare i documenti in pochi giorni.",
+   "riferimenti": [
+    "TUROM art. 1029, co. 2",
+    "Guida tecnica, all. 4.C"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, p. 111"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-030",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Il diritto del militare sottoposto a procedimento disciplinare di presentare memorie scritte e documenti trova fondamento:",
+   "opzioni": {
+    "A": "nell'art. 1363 COM, che disciplina il ricorso all'organo gerarchicamente superiore",
+    "B": "nell'art. 10 della L. 241/1990, per cui l'amministrazione ha l'obbligo di valutarle se pertinenti",
+    "C": "nell'art. 1397 COM, che regola la constatazione dell'infrazione e la redazione del rapporto disciplinare",
+    "D": "nell'art. 21-bis della L. 241/1990, che regola l'efficacia del provvedimento limitativo"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 10, co. 1, lett. b), L. 241/1990 riconosce ai partecipanti il diritto «di presentare memorie scritte e documenti, che l'amministrazione ha l'obbligo di valutare ove siano pertinenti all'oggetto del procedimento»; l'art. 1029 TUROM ne fissa il termine e l'art. 1370, co. 1, COM vieta di infliggere sanzioni senza aver acquisito e vagliato le giustificazioni. L'art. 1363 COM riguarda i ricorsi, l'art. 1397 il rapporto disciplinare, l'art. 21-bis l'efficacia dei provvedimenti.",
+   "riferimenti": [
+    "L. 241/1990 art. 10, co. 1, lett. b)",
+    "TUROM art. 1029",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-031",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Nella terminologia della materia, il militare sottoposto a procedimento disciplinare di corpo è indicato come:",
+   "opzioni": {
+    "A": "manchevole",
+    "B": "inquisito",
+    "C": "imputato",
+    "D": "indagato"
+   },
+   "corretta": "A",
+   "spiegazione": "Nella disciplina di corpo si parla di manchevole; nella disciplina di stato di inquisito, termine usato dalla Guida tecnica e dallo stesso COM (art. 1370, co. 2: «Il militare inquisito è assistito da un difensore…»), grammaticalmente corretto ma evocativo dell'inquisizione: è preferibile «soggetto sottoposto a inchiesta formale» o «a procedimento». Imputato e indagato sono termini del processo penale. Per la consegna di rigore il COM usa anche «incolpato» (art. 1399).",
+   "riferimenti": [
+    "COM art. 1370, co. 2",
+    "COM art. 1399"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-032",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "In quale disposizione il COM usa il termine «inquisito» per il militare sottoposto a procedimento?",
+   "opzioni": {
+    "A": "nell'art. 1370, sul difensore che assiste il militare sottoposto a procedimento",
+    "B": "nell'art. 1398, sulle fasi del procedimento disciplinare di corpo",
+    "C": "nell'art. 1373, sulla rinnovazione del procedimento disciplinare annullato in autotutela",
+    "D": "nell'art. 1355, sui criteri per l'irrogazione delle sanzioni disciplinari"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1370, co. 2, COM: «Il militare inquisito è assistito da un difensore da lui scelto fra militari in servizio…»; il co. 3-bis consente nei procedimenti di stato all'inquisito di farsi assistere anche da un avvocato del libero foro, a sue spese. Gli artt. 1398, 1373 e 1355 non usano quel termine: l'art. 1355 parla del «militare che ha mancato», l'art. 1398 del «trasgressore» e dell'«interessato».",
+   "riferimenti": [
+    "COM art. 1370, co. 2 e 3-bis",
+    "COM art. 1355",
+    "COM art. 1398"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-033",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Un'annotazione di polizia giudiziaria trasmessa alla Procura per «atti relativi» corrisponde, in gergo, a:",
+   "opzioni": {
+    "A": "una comunicazione di notizia di reato a carico di persona nota",
+    "B": "una richiesta di archiviazione presentata dalla polizia giudiziaria",
+    "C": "una denuncia a carico di ignoti per un reato procedibile d'ufficio",
+    "D": "un F.N.C.R., cioè un fatto non costituente notizia di reato"
+   },
+   "corretta": "D",
+   "spiegazione": "L'oggetto «atti relativi a…» si usa per trasmettere al pubblico ministero fatti che non costituiscono notizia di reato (F.N.C.R.), ad esempio nell'informativa su un suicidio: si scrive nell'oggetto «atti relativi a…» oppure «F.N.C.R.» in alto a destra. Nel caso del parere n. 854/2024 l'annotazione per «atti relativi» aveva dato luogo a un procedimento concluso con l'archiviazione del GIP, dopo la quale andava fatto il vaglio disciplinare. La richiesta di archiviazione spetta al pubblico ministero, non alla polizia giudiziaria.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-034",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Nel caso deciso dal parere n. 854/2024 il comandante della Compagnia ha inflitto due giorni di consegna. Avrebbe potuto infliggere la consegna di rigore?",
+   "opzioni": {
+    "A": "sì, perché la consegna di rigore può essere inflitta da ogni comandante di reparto ai fini disciplinari",
+    "B": "sì, purché avesse prima sentito la commissione di disciplina prevista per la consegna di rigore",
+    "C": "no, perché la consegna di rigore può essere inflitta esclusivamente dal comandante del corpo o dell'ente",
+    "D": "no, perché la consegna di rigore può essere inflitta solo all'esito di un procedimento di stato"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1396, co. 1, COM: la consegna di rigore «può essere inflitta esclusivamente dal comandante del corpo o dell'ente presso il quale il militare che subisce la punizione presta servizio»; la consegna può essere inflitta dal comandante di corpo e dal comandante di reparto (co. 2). Il comandante di compagnia è comandante di reparto ai fini disciplinari: se ritiene che vi siano gli estremi della consegna di rigore deve rimettere gli atti al comandante di corpo (art. 1398, co. 3 e 7). Il parere della commissione non sposta la competenza; la consegna di rigore è sanzione di corpo, non di stato.",
+   "riferimenti": [
+    "COM art. 1396, co. 1-2",
+    "COM art. 1398, co. 3 e 7",
+    "COM art. 1399"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-035",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Chi stabilisce quali unità organizzative hanno il rango di reparto o di distaccamento ai fini disciplinari?",
+   "opzioni": {
+    "A": "il Ministro della difesa, con decreto adottato su proposta del Capo di Stato maggiore della difesa",
+    "B": "ciascuna Forza armata o Corpo armato, in relazione alle esigenze funzionali",
+    "C": "il COM stesso, con l'elenco tassativo delle unità contenuto nell'art. 1396",
+    "D": "il comandante di corpo, con atto adottato per ciascun reparto dipendente"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1396, co. 6, COM: «Anche ai soli fini disciplinari, ciascuna Forza armata o Corpo armato, in relazione alle esigenze funzionali, stabilisce le unità organizzative aventi il rango di reparto o di distaccamento». Per questo si parla di comandante di reparto «ai fini disciplinari»: non solo i reparti in senso stretto, ma tutte le unità con quel rango. Per l'Arma gli elenchi sono nella circ. n. 17/109-2-1996 del Comando Generale.",
+   "riferimenti": [
+    "COM art. 1396, co. 6",
+    "circ. n. 17/109-2-1996 del Comando Generale dell'Arma dei Carabinieri"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-036",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "VIII.2.a",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Una contestazione degli addebiti descrive il fatto e si apre con la formula «con minor senso di responsabilità». Secondo l'impostazione illustrata a lezione:",
+   "opzioni": {
+    "A": "la formula è necessaria, perché la contestazione deve indicare già la gravità della mancanza",
+    "B": "la formula è un errore, perché gradua la condotta prima di aver valutato le giustificazioni del militare",
+    "C": "la formula è corretta, perché riproduce la definizione di senso di responsabilità dell'art. 717 TUROM",
+    "D": "la formula è indifferente, perché la contestazione non ha alcuna rilevanza per il diritto di difesa"
+   },
+   "corretta": "B",
+   "spiegazione": "La contestazione indica con precisione il fatto storico e le circostanze di tempo e di luogo (modello 4.C della Guida tecnica): cristallizza i fatti e fissa l'oggetto su cui il militare si difende. Dire «minor» senso di responsabilità significa graduare la condotta prima di aver valutato le memorie difensive: è un giudizio che appartiene alla decisione e alla sua motivazione (art. 1398, co. 2, lett. c) e d), e co. 6, COM). Le pronunce riportano le contestazioni come sono state scritte, ma non per questo sono corrette. L'art. 717 TUROM definisce il senso di responsabilità, non impone formule.",
+   "riferimenti": [
+    "COM art. 1398, co. 2 e 6",
+    "COM art. 1370, co. 1",
+    "TUROM art. 717"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica, all. 4.C"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-037",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.f",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il dovere del militare di astenersi, anche fuori servizio, da comportamenti che possono ledere il prestigio dell'istituzione è previsto:",
+   "opzioni": {
+    "A": "dall'art. 713, co. 2, TUROM, tra i doveri attinenti al grado",
+    "B": "dall'art. 717 TUROM, che definisce il senso di responsabilità",
+    "C": "dall'art. 713, co. 3, TUROM, sul dovere di essere di esempio",
+    "D": "dall'art. 724 TUROM, sull'osservanza di doveri ulteriori"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 713 TUROM («Doveri attinenti al grado») ha tre commi: il co. 1 definisce il grado; il co. 2 impone di astenersi, anche fuori servizio, da comportamenti che possono condizionare l'esercizio delle funzioni, ledere il prestigio dell'istituzione e pregiudicare l'estraneità delle Forze armate alle competizioni politiche; il co. 3 impone al militare investito di un grado di essere di esempio. Nel caso del parere n. 854/2024, il nocumento all'immagine e al prestigio contestato per l'alterco richiamava proprio il co. 2.",
+   "riferimenti": [
+    "TUROM art. 713, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-038",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.b",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Secondo l'art. 717 TUROM, il senso di responsabilità consiste:",
+   "opzioni": {
+    "A": "nell'adempimento dei compiti affidati anche al di là degli ordini ricevuti, prendendo l'iniziativa necessaria",
+    "B": "nel dovere di astenersi da comportamenti che possono ledere il prestigio dell'istituzione di appartenenza",
+    "C": "nella capacità di assumere la responsabilità delle conseguenze degli ordini impartiti ai propri dipendenti",
+    "D": "nella convinzione della necessità di adempiere integralmente ai doveri che derivano dalla condizione di militare"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 717 TUROM: «Il senso di responsabilità consiste nella convinzione della necessità di adempiere integralmente ai doveri che derivano dalla condizione di militare per la realizzazione dei fini istituzionali delle Forze armate». L'iniziativa è oggetto dell'art. 716; l'astensione dai comportamenti lesivi del prestigio è nell'art. 713, co. 2. Nel caso del parere n. 854/2024 il provvedimento richiamava gli artt. 713, 717, 724 e 732 TUROM.",
+   "riferimenti": [
+    "TUROM art. 717",
+    "TUROM art. 716",
+    "TUROM art. 713, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-039",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Un militare ha commesso due trasgressioni in tempi diversi, contestate con due distinti avvii di procedimento. Secondo l'art. 1355, co. 5, COM:",
+   "opzioni": {
+    "A": "sono inflitte due punizioni distinte, una per ciascuna trasgressione contestata",
+    "B": "è inflitta un'unica punizione pari alla somma delle sanzioni previste per ciascuna",
+    "C": "è inflitta un'unica punizione in relazione alla più grave e al comportamento complessivo",
+    "D": "è inflitta la sanzione per la trasgressione più recente, assorbendo quella più risalente"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1355, co. 5, COM: se deve essere adottato un provvedimento riguardante più trasgressioni commesse da un militare, anche in tempi diversi, «è inflitta un'unica punizione in relazione alla più grave delle trasgressioni e al comportamento contrario alla disciplina rivelato complessivamente dalla condotta del militare stesso». Nel caso del parere n. 854/2024 la consegna di due giorni era stata inflitta per due fatti; annullato il primo procedimento per ritardo, l'amministrazione è stata chiamata a rideterminare l'entità della sanzione.",
+   "riferimenti": [
+    "COM art. 1355, co. 5",
+    "Cons. Stato, sez. I, parere n. 854/2024, parr. 8 e 12"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-040",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Nel parere n. 854/2024, accolte le censure sul ritardo relative al primo dei due procedimenti, quale conseguenza è stata tratta per la sanzione unica di due giorni di consegna?",
+   "opzioni": {
+    "A": "la sanzione è stata annullata per intero, perché inflitta con un unico provvedimento per entrambi i fatti",
+    "B": "la sanzione è rimasta ferma, perché il secondo fatto da solo giustificava due giorni di consegna",
+    "C": "l'amministrazione deve rideterminarne l'entità per il solo fatto rimasto, entro termini perentori",
+    "D": "la sanzione è stata convertita dal Consiglio di Stato in un rimprovero, ritenuto proporzionato al fatto"
+   },
+   "corretta": "C",
+   "spiegazione": "Il ricorso è stato accolto in parte: illegittimo il primo procedimento (oltre quaranta giorni dall'acquisizione del decreto di archiviazione senza ragioni negli atti), legittimo il secondo (contestato senza ritardo e definito entro novanta giorni). Poiché la consegna era un'unica punizione per più trasgressioni (art. 1355, co. 5, COM), resta «l'obbligo dell'Amministrazione di rideterminarsi sollecitamente, nei tempi e nei modi di cui all'art. 1373 c.m., circa la entità della sanzione». Il giudice di legittimità non sostituisce la sanzione.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 854/2024, parr. 9-12",
+    "COM artt. 1355, co. 5, e 1373"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-041",
+   "argomento": "ricorsi",
+   "sinossi": "IX.2.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo il parere n. 854/2024, le censure sulla proporzionalità e sulla gradualità della sanzione disciplinare:",
+   "opzioni": {
+    "A": "sono sempre ammissibili, perché il giudice può sostituire la propria valutazione a quella dell'autorità",
+    "B": "sono inammissibili se investono il merito, salvo elementi sintomatici di travisamento o irragionevolezza",
+    "C": "sono ammissibili solo nel ricorso straordinario, non nel ricorso giurisdizionale al TAR",
+    "D": "sono inammissibili in ogni caso, perché la scelta della sanzione è sottratta a ogni sindacato"
+   },
+   "corretta": "B",
+   "spiegazione": "Il parere dichiara inammissibili le censure su motivazione, proporzionalità e gradualità che «impingono nel merito delle valutazioni discrezionali svolte dall'autorità disciplinare»: in sede di legittimità il sindacato è consentito solo in presenza di elementi sintomatici di travisamento dei presupposti di fatto e di irragionevolezza. Non è quindi escluso ogni sindacato, ma il giudice non sostituisce la propria valutazione. Il ricorso straordinario è anch'esso un rimedio di legittimità.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 6"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-042",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "In materia di sanzioni disciplinari, secondo il parere n. 854/2024 l'obbligo di motivazione è soddisfatto:",
+   "opzioni": {
+    "A": "dall'indicazione del fatto contestato, delle ragioni del suo disvalore e degli obblighi violati",
+    "B": "dal rinvio alla contestazione degli addebiti, che contiene già la descrizione completa del fatto",
+    "C": "dalla sola indicazione degli articoli del COM e del TUROM che si ritengono violati",
+    "D": "dal rinvio alla contestazione degli addebiti, che contiene già la descrizione del fatto"
+   },
+   "corretta": "A",
+   "spiegazione": "Il parere afferma che l'obbligo motivazionale è soddisfatto dall'indicazione, nel provvedimento sanzionatorio, «del fatto contestato, delle ragioni del relativo disvalore e degli obblighi violati»; la motivazione non è insufficiente se, letta con i dati istruttori, consente di comprendere i presupposti e le ragioni della decisione. Non serve confutare punto per punto ogni giustificazione, ma non basta citare gli articoli: l'art. 1398, co. 6, COM chiede di configurare esattamente l'infrazione, con le circostanze di tempo e di luogo.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 6",
+    "COM art. 1398, co. 6"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-043",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Nel caso del parere n. 854/2024, la mancata constatazione formale dell'infrazione (la mascherina non indossata) è stata ritenuta irrilevante perché:",
+   "opzioni": {
+    "A": "la constatazione non è mai richiesta per le infrazioni commesse durante il servizio di pattuglia",
+    "B": "il militare aveva ammesso la mancanza nelle memorie difensive, sanando il vizio procedurale",
+    "C": "il rapporto disciplinare redatto da un pari grado presente aveva sostituito la constatazione del superiore",
+    "D": "l'infrazione era stata rilevata dal comandante di corpo del militare, titolare della potestà disciplinare"
+   },
+   "corretta": "D",
+   "spiegazione": "L'obbligo di far constatare la mancanza e di fare rapporto (art. 1397, co. 1, COM) grava sul superiore che rileva l'infrazione per la quale non è competente a infliggere la sanzione. Nel caso, la violazione era stata rilevata dal comandante della Legione, comandante di corpo del militare e titolare della potestà disciplinare, che aveva informato oralmente la scala gerarchica: le censure sono state ritenute infondate. Nessuna norma esclude la constatazione per i servizi di pattuglia, e l'ammissione del militare non è il fondamento della decisione.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 7"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-044",
+   "argomento": "ricorsi",
+   "sinossi": "IX.2.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Nel lessico dei motivi di ricorso, la «falsa applicazione» della norma ricorre quando:",
+   "opzioni": {
+    "A": "l'atto è stato adottato da un'autorità diversa da quella cui la norma attribuisce il potere",
+    "B": "l'autorità ha usato il potere per un fine diverso da quello per cui la norma lo attribuisce",
+    "C": "l'atto non indica i presupposti di fatto e le ragioni giuridiche della decisione adottata",
+    "D": "la norma dice una cosa e l'autorità l'ha interpretata e applicata in modo errato al caso"
+   },
+   "corretta": "D",
+   "spiegazione": "La violazione e la falsa applicazione di legge sono forme del vizio di violazione di legge: si ha falsa applicazione quando la norma è interpretata o applicata in modo errato, ad esempio riconducendo il fatto a una norma che non lo prevede. L'autorità diversa da quella competente configura l'incompetenza; il fine diverso è lo sviamento di potere, figura dell'eccesso di potere; la mancata indicazione di presupposti e ragioni è il difetto di motivazione (art. 3 L. 241/1990). I tre vizi di legittimità sono violazione di legge, eccesso di potere e incompetenza (art. 21-octies L. 241/1990).",
+   "riferimenti": [
+    "L. 241/1990 art. 21-octies",
+    "L. 241/1990 art. 3"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-045",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La contestazione degli addebiti, rispetto alla sanzione disciplinare finale, è:",
+   "opzioni": {
+    "A": "il provvedimento conclusivo della fase degli accertamenti preliminari, impugnabile autonomamente",
+    "B": "un provvedimento sanzionatorio provvisorio, che la decisione finale conferma o revoca",
+    "C": "un atto endoprocedimentale, che apre il procedimento e prepara il provvedimento conclusivo",
+    "D": "un atto estraneo al procedimento, perché adottato prima dell'avvio del procedimento disciplinare"
+   },
+   "corretta": "C",
+   "spiegazione": "Il procedimento disciplinare è la sequenza di atti che si chiude con il provvedimento finale, l'atto con cui l'autorità dispone producendo effetti nella sfera giuridica del destinatario. La contestazione è il primo atto del procedimento (lo instaura) ed è un atto endoprocedimentale: non è l'atto conclusivo degli accertamenti preliminari, che si chiudono senza alcun provvedimento, né una sanzione provvisoria. Da qui la differenza tra procedimento e provvedimento, e tra atto e provvedimento.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 220"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-046",
+   "argomento": "ricorsi",
+   "sinossi": "IX.2.c",
+   "tipo": "competenza",
+   "difficolta": 1,
+   "domanda": "Contro una consegna inflitta dal comandante di una compagnia, il ricorso gerarchico è deciso:",
+   "opzioni": {
+    "A": "dallo stesso comandante di compagnia, che può riesaminare il proprio provvedimento",
+    "B": "dall'organo gerarchicamente superiore a quello che ha emesso il provvedimento",
+    "C": "dal Comandante Generale dell'Arma, organo di vertice per tutte le sanzioni di corpo",
+    "D": "dalla commissione di disciplina, convocata dal comandante di corpo del militare"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1363, co. 1, COM: l'organo sovraordinato di cui all'art. 1 del D.P.R. 24 novembre 1971, n. 1199 «è rappresentato dall'organo gerarchicamente superiore a quello che ha emesso il provvedimento». Nel caso del parere n. 854/2024, contro la consegna inflitta dal comandante di compagnia il ricorso è stato deciso dal comandante provinciale. Il riesame (art. 1363, co. 3) è un rimedio diverso; la commissione di disciplina interviene nel procedimento per la consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1363, co. 1 e 3",
+    "D.P.R. 1199/1971 art. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-047",
+   "argomento": "ricorsi",
+   "sinossi": "IX.2.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il superiore chiamato a decidere un ricorso gerarchico contro una sanzione di corpo:",
+   "opzioni": {
+    "A": "deve esaminarlo nel merito, senza ritenersi vincolato a confermare la decisione dell'autorità inferiore",
+    "B": "deve limitarsi a verificare la competenza dell'autorità, senza entrare nel merito della valutazione",
+    "C": "deve respingerlo se l'autorità inferiore ha rispettato il termine di novanta giorni del procedimento",
+    "D": "deve trasmetterlo al TAR se ritiene fondate le censure, perché non può annullare l'atto dell'inferiore"
+   },
+   "corretta": "A",
+   "spiegazione": "Il ricorso gerarchico è un rimedio amministrativo che consente all'organo superiore di riesaminare l'atto sia per vizi di legittimità sia nel merito, e di accoglierlo annullando o riformando la sanzione. È frequente che venga respinto, ma non dovrebbe essere la regola: chi decide non deve «tenere la linea» dell'autorità che ha sanzionato, perché il provvedimento può essere sbagliato. Deve deciderlo entro novanta giorni dalla presentazione (art. 1046, co. 1, lett. h), n. 8, TUROM).",
+   "riferimenti": [
+    "COM art. 1363",
+    "TUROM art. 1046, co. 1, lett. h), n. 8"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-048",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "VII.1.c",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Il comandante, negli accertamenti preliminari, visiona le immagini delle telecamere comunali. Il modo corretto di farle entrare nel procedimento è:",
+   "opzioni": {
+    "A": "redigere una relazione di servizio su acquisizione e visione delle immagini, con i fermi immagine, e richiamarla nella contestazione",
+    "B": "limitarsi a menzionare nella contestazione di aver visto le immagini, senza alcun atto ulteriore, perché la parola del comandante fa piena fede",
+    "C": "chiedere al comune di trasmettere le immagini direttamente al militare, perché ne prenda visione prima della contestazione",
+    "D": "allegare alla contestazione l'intero filmato, senza relazione, perché la documentazione video non richiede altre formalità"
+   },
+   "corretta": "A",
+   "spiegazione": "Gli accertamenti si documentano con la relazione di servizio, secondo un criterio di massima trasparenza: data di acquisizione e riversamento del supporto, intervallo orario visionato, persona riconosciuta e condotta osservata, con i fermi immagine. La relazione entra agli atti e la contestazione la richiama con il numero di protocollo; il militare ne prende visione esercitando il diritto di accesso dopo la contestazione. Gli accertamenti sono riservati: non si informano prima l'interessato o terzi.",
+   "riferimenti": [
+    "L. 241/1990 art. 6, co. 1, lett. b)",
+    "L. 241/1990 art. 10, co. 1, lett. a)",
+    "TUROM art. 1029, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-049",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Negli accertamenti preliminari di corpo, i militari presenti al fatto si sentono:",
+   "opzioni": {
+    "A": "a sommarie informazioni, con verbale redatto nelle forme dell'art. 351 c.p.p.",
+    "B": "solo dopo la contestazione degli addebiti, in contraddittorio con il militare interessato",
+    "C": "solo con il consenso del militare interessato, che può chiedere di assistere all'audizione",
+    "D": "con relazioni di servizio o con un'intervista amministrativa, non a sommarie informazioni"
+   },
+   "corretta": "D",
+   "spiegazione": "Le sommarie informazioni sono un atto di polizia giudiziaria del procedimento penale (art. 351 c.p.p.). Nel procedimento disciplinare il comandante esercita i poteri istruttori del responsabile del procedimento (art. 6, co. 1, lett. b), L. 241/1990: può chiedere il rilascio di dichiarazioni): di regola chiede ai militari presenti una relazione di servizio su quanto accaduto, oppure li sente con un'intervista amministrativa. La fase è riservata e non richiede la partecipazione o il consenso dell'interessato.",
+   "riferimenti": [
+    "c.p.p. art. 351",
+    "L. 241/1990 art. 6, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-050",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Nel procedimento disciplinare, una persona estranea all'amministrazione può essere sentita come testimone:",
+   "opzioni": {
+    "A": "sì, con obbligo di presentarsi e di rispondere, come nel processo penale",
+    "B": "no, perché possono essere sentiti soltanto militari in servizio",
+    "C": "sì, previa richiesta del suo consenso, che non può essere imposto",
+    "D": "no, perché l'istruttoria disciplinare si basa solo su atti documentali"
+   },
+   "corretta": "C",
+   "spiegazione": "Il responsabile del procedimento può procedere all'assunzione di testimonianze «anche di soggetti non appartenenti all'Amministrazione (ai quali deve essere in precedenza chiesto apposito consenso)» (Guida tecnica, p. 85, sui poteri istruttori dell'art. 6 L. 241/1990). L'amministrazione non ha poteri coercitivi verso i privati; i militari, invece, sono tenuti a riferire con relazione di servizio. Il manchevole può anche allegare alle memorie la dichiarazione scritta del testimone.",
+   "riferimenti": [
+    "L. 241/1990 art. 6, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica p. 85"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-051",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Il comandante di compagnia parla con il procuratore della Repubblica, che gli riferisce un comportamento scorretto di un militare. Rientrato in ufficio, il comandante:",
+   "opzioni": {
+    "A": "contesta subito l'addebito, indicando come fonte il colloquio, senza necessità di altri atti",
+    "B": "redige una relazione di servizio sul colloquio, anche breve, perché il suo contenuto entri nel procedimento",
+    "C": "attende che il procuratore trasmetta una nota scritta, senza la quale non può procedere",
+    "D": "trasmette gli atti al comandante provinciale, perché le notizie dell'autorità giudiziaria sono di sua competenza"
+   },
+   "corretta": "B",
+   "spiegazione": "Ciò che il comandante apprende a voce non entra nel procedimento amministrativo se non è documentato: al rientro va redatta una relazione di servizio, anche di poche righe. Le relazioni di servizio sono spesso assenti nei fascicoli, perché il comandante contesta senza certificare ciò che ha fatto; ma la documentazione serve sia a fondare la contestazione sia a dimostrare i tempi degli accertamenti. La segnalazione orale non impedisce di procedere e non sposta la competenza.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "L. 241/1990 art. 6, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-052",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché è utile che le richieste e i solleciti inviati durante gli accertamenti preliminari siano tracciati?",
+   "opzioni": {
+    "A": "perché i solleciti interrompono il termine di trenta giorni, che ricomincia a decorrere per intero da ciascuno di essi",
+    "B": "perché dimostrano i tempi di ogni passaggio, se si contesta all'autorità di aver avviato tardi il procedimento",
+    "C": "perché senza solleciti scritti il termine di trenta giorni non può essere superato in nessun caso",
+    "D": "perché i solleciti interrompono il termine di trenta giorni, che ricomincia a decorrere da ciascuno"
+   },
+   "corretta": "B",
+   "spiegazione": "Le comunicazioni avvengono ormai per posta elettronica e protocollo informatico, e ogni passaggio è tracciato: se il militare eccepisce la tardività, la documentazione permette all'amministrazione di allegare le ragioni del superamento dei trenta giorni, che devono risultare dagli atti (parere n. 854/2024). Gli accertamenti sono riservati e non vanno comunicati al militare; il parametro dei trenta giorni non si interrompe né ricomincia, e può essere superato per ragioni documentate.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-053",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Il sindaco riferisce a voce al comandante di stazione che una pattuglia lo ha trattato in modo scortese, ma non vuole metterlo per iscritto. Il comandante:",
+   "opzioni": {
+    "A": "redige una relazione di servizio sul colloquio e procede con la contestazione degli addebiti",
+    "B": "non può procedere, perché senza una segnalazione scritta manca una fonte della notizia",
+    "C": "invita il sindaco a presentare querela, senza la quale il fatto non ha rilievo disciplinare",
+    "D": "segnala il fatto al prefetto, competente a valutare le lamentele delle autorità locali"
+   },
+   "corretta": "A",
+   "spiegazione": "Al sindaco si chiede se intende mettere per iscritto la segnalazione; se rifiuta, il comandante redige una relazione di servizio sul colloquio e apre il procedimento con la contestazione degli addebiti. Il fatto non è inventato dal comandante: chi riferisce se ne assume la responsabilità, anche penale, e il militare potrà denunciarlo per diffamazione (art. 595 c.p.). Il rilievo disciplinare non dipende da una querela, e la potestà disciplinare non spetta al prefetto.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "c.p. art. 595"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-054",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Aperto il procedimento sulla base della sola segnalazione orale del sindaco, il militare nega il fatto e non emergono altri riscontri. Il comandante:",
+   "opzioni": {
+    "A": "infligge comunque il richiamo, perché la parola di un'autorità pubblica fa piena prova del fatto",
+    "B": "sospende il procedimento finché il sindaco non presenti una denuncia scritta e circostanziata",
+    "C": "trasmette gli atti alla Procura, perché la prova del fatto disciplinare richiede un accertamento penale",
+    "D": "conclude il procedimento senza sanzione, perché la prova non è raggiunta e non si punisce a tutti i costi"
+   },
+   "corretta": "D",
+   "spiegazione": "Se gli accertamenti sono impossibili e la prova non si raggiunge, il procedimento si chiude, anche se il militare ha effettivamente sbagliato: non si deve punire a tutti i costi. La prova richiesta è quella del procedimento amministrativo, non del processo penale, ma deve esserci. L'apertura del procedimento e la richiesta di memorie hanno già il valore di un avvertimento. La decisione di non sanzionare va comunicata verbalmente senza ritardo all'interessato (art. 1398, co. 4, COM).",
+   "riferimenti": [
+    "COM art. 1398, co. 4",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-055",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il comitato provinciale per l'ordine e la sicurezza pubblica (art. 20 L. 121/1981):",
+   "opzioni": {
+    "A": "è presieduto dal questore e ne fanno parte i sindaci di tutti i comuni della provincia e il comandante della Legione",
+    "B": "è presieduto dal sindaco del comune capoluogo e ne fanno parte il prefetto, il questore e il comandante di compagnia",
+    "C": "è presieduto dal prefetto e ne fanno parte il sindaco del comune capoluogo e il comandante provinciale dei Carabinieri",
+    "D": "è presieduto dal prefetto e ne fanno parte il questore e il procuratore della Repubblica, ma non i sindaci"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 20 L. 1° aprile 1981, n. 121: il comitato, organo ausiliario di consulenza del prefetto, è presieduto dal prefetto ed è composto dal questore, dal sindaco del comune capoluogo e dal presidente della provincia, dai comandanti provinciali dell'Arma e della Guardia di finanza, nonché dai sindaci degli altri comuni interessati quando si trattano questioni dei rispettivi territori; i magistrati possono essere invitati. Per questo la lamentela di un sindaco può arrivare al comandante provinciale o di Legione: il problema va risolto e documentato.",
+   "riferimenti": [
+    "L. 121/1981 art. 20"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-056",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "VIII.2.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "La contestazione degli addebiti richiama più articoli del TUROM, uno dei quali non è pertinente al fatto. Il procedimento:",
+   "opzioni": {
+    "A": "è nullo, perché la contestazione deve indicare a pena di invalidità le sole norme effettivamente violate",
+    "B": "deve essere rinnovato dalla contestazione, eliminando l'articolo non pertinente e riaprendo i termini",
+    "C": "non viene meno per questo: conta per quali disposizioni il militare è punito, indicate nella motivazione",
+    "D": "si estingue, perché l'errore nella qualificazione impedisce al militare di esercitare la difesa"
+   },
+   "corretta": "C",
+   "spiegazione": "Nella contestazione si possono richiamare anche più articoli del COM e del TUROM: ciò che rileva è per quali disposizioni il militare viene punito. È la motivazione del provvedimento che deve configurare esattamente l'infrazione, indicando la disposizione violata o la negligenza commessa e le circostanze di tempo e di luogo (art. 1398, co. 6, COM). La giurisprudenza ha escluso che la mancata o erronea indicazione delle norme violate negli atti del procedimento lo vizi, se la condotta è individuata con certezza e il diritto di difesa è stato esercitato (parere n. 565/2024, par. 11).",
+   "riferimenti": [
+    "COM art. 1398, co. 6",
+    "Cons. Stato, sez. I, parere n. 565/2024, par. 11"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-057",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "VIII.3.a",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Secondo il parere n. 565/2024, nel procedimento per la consegna di rigore la mancata o erronea indicazione delle norme violate negli atti del procedimento:",
+   "opzioni": {
+    "A": "lo vizia sempre, perché la commissione di disciplina deve conoscere le norme su cui esprimere il parere",
+    "B": "non lo vizia, perché la norma sul procedimento richiede la contestazione dei fatti, non delle norme",
+    "C": "lo vizia solo se il militare l'ha eccepita nelle memorie, altrimenti il vizio si considera sanato",
+    "D": "non lo vizia, perché nel procedimento per la consegna di rigore la motivazione non è richiesta"
+   },
+   "corretta": "B",
+   "spiegazione": "Il parere ha ritenuto inammissibile e comunque infondata la censura: l'art. 1399 COM non prevede l'onere di indicare le norme violate, ma la contestazione degli addebiti, le giustificazioni sui fatti, l'eventuale audizione di testimoni, l'esibizione di documenti e l'intervento del difensore; nel caso non vi erano incertezze sulla condotta e il militare si era difeso compiutamente. La motivazione del provvedimento sanzionatorio è invece sempre richiesta, con l'indicazione della disposizione violata o della negligenza (art. 1398, co. 5-6, COM).",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 565/2024, par. 11",
+    "COM art. 1399, co. 2",
+    "COM art. 1398, co. 6"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-058",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il militare che riceve la contestazione degli addebiti decide di non presentare alcuna memoria. Questa scelta:",
+   "opzioni": {
+    "A": "è legittima, non equivale a una confessione e non esime l'autorità dall'istruttoria necessaria",
+    "B": "equivale ad acquiescenza, e preclude al militare di impugnare poi la sanzione con ricorso gerarchico",
+    "C": "è illegittima, perché il militare ha il dovere di collaborare e di rendere le proprie giustificazioni",
+    "D": "comporta che il fatto contestato si consideri ammesso, e l'autorità può decidere senza ulteriore istruttoria"
+   },
+   "corretta": "A",
+   "spiegazione": "Anche nell'ordinamento militare il manchevole può restare silente (ius tacendi) e non presentare memorie, ad esempio per non aggravare la propria posizione; la scelta va però ponderata, perché le memorie instaurano un contraddittorio con l'autorità e le forniscono elementi per decidere. Il silenzio non è una ficta confessio: l'autorità deve comunque svolgere l'attività istruttoria necessaria. La mancata presentazione di memorie non preclude i ricorsi.",
+   "riferimenti": [
+    "COM art. 1370, co. 1",
+    "L. 241/1990 art. 10, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, pp. 116-117"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-059",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il manchevole presenta memorie molto articolate che mettono in luce un vizio della contestazione degli addebiti. Quale rischio corre?",
+   "opzioni": {
+    "A": "che le memorie siano dichiarate inammissibili, perché la contestazione si impugna solo con ricorso gerarchico",
+    "B": "che il termine del procedimento sia raddoppiato, per consentire all'autorità di replicare alle memorie",
+    "C": "che il vizio della contestazione si consideri sanato dalla sua stessa difesa, senza possibilità di ricorso",
+    "D": "che l'autorità annulli la contestazione viziata e la riformuli correttamente, privandolo dell'argomento"
+   },
+   "corretta": "D",
+   "spiegazione": "Le memorie che rivelano un vizio della contestazione consentono all'autorità di correggerlo in autotutela: annullare la contestazione e riformularla. È uno degli elementi della scelta della strategia difensiva (presentare o no le memorie, tacere, «sparare subito» tutti gli argomenti), che va calibrata sul singolo procedimento. Le memorie non sono inammissibili, non raddoppiano i termini e non sanano il vizio.",
+   "riferimenti": [
+    "COM art. 1372",
+    "TUROM art. 1029"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-060",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Nelle memorie difensive il militare:",
+   "opzioni": {
+    "A": "può affermare il falso, perché il diritto di difesa prevale sul dovere di verità del militare",
+    "B": "può usare qualsiasi espressione verso i superiori, perché gli scritti difensivi sono sempre coperti da immunità penale e disciplinare",
+    "C": "deve limitarsi a negare o ammettere il fatto, senza argomenti in diritto riservati al ricorso",
+    "D": "ha il dovere di dire il vero, e le memorie non devono contenere espressioni offensive o penalmente rilevanti"
+   },
+   "corretta": "D",
+   "spiegazione": "Per il militare, e a maggior ragione per un carabiniere, è sempre vietato mentire: il dovere di verità resta anche nella difesa, pena un ulteriore procedimento disciplinare. Le memorie devono restare nei limiti della continenza: espressioni penalmente rilevanti darebbero luogo a procedimento penale e a nuova valutazione disciplinare. Possono contenere argomenti in fatto (la propria versione, circostanze attenuanti) e in diritto (la non riconducibilità del fatto alla norma contestata), e chiedere accertamenti e testimoni.",
+   "riferimenti": [
+    "L. 241/1990 art. 10, co. 1, lett. b)",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, pp. 115-117"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-061",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "L'autorità ha ridotto a trenta giorni la durata del procedimento e a dieci il termine per le memorie. Il militare che vuole una difesa più completa:",
+   "opzioni": {
+    "A": "presenta le memorie dopo la scadenza, perché la riduzione del termine è sempre illegittima",
+    "B": "impugna subito la contestazione con ricorso gerarchico, che sospende il procedimento",
+    "C": "chiede la proroga del termine a difesa, sulla quale l'autorità deve pronunciarsi motivatamente",
+    "D": "attende la sanzione, perché la riduzione del termine la rende comunque annullabile"
+   },
+   "corretta": "C",
+   "spiegazione": "La riduzione dei termini è ammessa quando la semplicità dell'accertamento non richiede una complessa istruttoria, fatto salvo il diritto dell'interessato di chiedere una proroga del termine per memorie e documenti (modello 4.C della Guida tecnica). Chi non la chiede difficilmente potrà lamentare poi la lesione del diritto di difesa. La richiesta obbliga l'autorità a pronunciarsi: può respingerla se pretestuosa o dilatoria. La contestazione, atto endoprocedimentale, non si impugna autonomamente.",
+   "riferimenti": [
+    "TUROM art. 1029, co. 2",
+    "Guida tecnica, all. 4.C"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, p. 114"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-062",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Prima di redigere le memorie difensive è opportuno che il manchevole:",
+   "opzioni": {
+    "A": "chieda al comandante un colloquio riservato per conoscere la sanzione che intende infliggere",
+    "B": "prenda visione degli atti del procedimento presso l'ufficio indicato nella contestazione",
+    "C": "presenti ricorso gerarchico contro la contestazione, per ottenerne la sospensione",
+    "D": "attenda la scadenza dei termini, per conoscere gli accertamenti svolti dopo la contestazione"
+   },
+   "corretta": "B",
+   "spiegazione": "La contestazione indica l'ufficio presso cui prendere visione degli atti ed estrarne copia (modello 4.C della Guida tecnica; art. 10, co. 1, lett. a), L. 241/1990; art. 1029, co. 1, TUROM): non è consigliabile scrivere le memorie «al buio», senza conoscere il contenuto del fascicolo, ad esempio le relazioni di servizio che documentano gli accertamenti. Nell'accesso endoprocedimentale l'interessato non deve motivare l'interesse.",
+   "riferimenti": [
+    "L. 241/1990 art. 10, co. 1, lett. a)",
+    "TUROM art. 1029, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, p. 115"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-063",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché la conoscenza delle strategie di difesa è considerata utile anche a chi esercita il potere disciplinare?",
+   "opzioni": {
+    "A": "perché chi sa fare il difensore sa scrivere contestazioni e provvedimenti che reggono al vaglio della difesa",
+    "B": "perché il comandante deve suggerire al militare la strategia difensiva più opportuna, nell'interesse della sua difesa",
+    "C": "perché il comandante è anche il difensore d'ufficio del militare nel procedimento di corpo",
+    "D": "perché il comandante deve concordare con il difensore il contenuto delle memorie prima del deposito"
+   },
+   "corretta": "A",
+   "spiegazione": "Per essere buoni comandanti occorre saper difendere: le contestazioni possono essere diffuse e giungere anche alle associazioni professionali, che le esaminano con la massima attenzione, sicché il comandante deve scriverle prevedendo come saranno lette dalla difesa. Il comandante non è difensore del militare: nella consegna di rigore il difensore è un militare scelto dall'interessato o designato d'ufficio (art. 1370, co. 2, COM), e non concorda con l'autorità le memorie.",
+   "riferimenti": [
+    "COM art. 1370, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-064",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Nelle memorie difensive, esprimere la comprensione dell'errore e l'assunzione della responsabilità:",
+   "opzioni": {
+    "A": "può essere utile, perché la sanzione di corpo ha una funzione correttiva e l'autorità ne tiene conto",
+    "B": "è sempre sconsigliabile, perché equivale a una confessione che rende obbligatoria la sanzione",
+    "C": "è irrilevante, perché la sanzione dipende soltanto dalla gravità oggettiva del fatto contestato al militare",
+    "D": "è vietato, perché le memorie devono contenere soltanto argomenti in fatto e in diritto"
+   },
+   "corretta": "A",
+   "spiegazione": "Le sanzioni di corpo hanno una funzione correttiva, espressione dello ius corrigendi del superiore: per questo può essere strategico comunicare nelle memorie di aver compreso l'errore e di assumersene la responsabilità, elementi che possono condurre a valutazioni più miti. Nel determinare la sanzione si considerano anche i precedenti, il grado, l'età e l'anzianità (art. 1355, co. 2, COM), non solo la gravità oggettiva. Nessuna norma vieta questo contenuto.",
+   "riferimenti": [
+    "COM art. 1355, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, p. 118"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-065",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo l'impostazione della lezione, se il contenzioso su un richiamo giunge al Consiglio di Stato quattro o cinque anni dopo il fatto:",
+   "opzioni": {
+    "A": "il potere disciplinare è comunque estinto, perché l'art. 1373 COM vieta la rinnovazione oltre tre anni",
+    "B": "la sanzione va sempre rinnovata, perché il potere disciplinare di corpo non conosce limiti di tempo",
+    "C": "il richiamo si converte di diritto in rimprovero, per tenere conto della maggiore gravità accertata",
+    "D": "rinnovare la sanzione non avrebbe più senso, perché ha perso efficacia: è il limite del diritto all'oblio"
+   },
+   "corretta": "D",
+   "spiegazione": "Il potere di corpo non decade per il superamento dei termini ordinatori, e dopo un annullamento il procedimento può essere ripreso (entro i sessanta giorni dell'art. 1373 COM). Esiste però un limite: punire con un richiamo o un rimprovero un fatto di quattro o cinque anni prima non ha più efficacia correttiva (diritto all'oblio). L'art. 1373 non fissa un limite di tre anni; nessuna conversione automatica tra sanzioni è prevista.",
+   "riferimenti": [
+    "COM art. 1373",
+    "COM art. 1359"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-066",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Quando inizia il procedimento disciplinare di corpo e come si qualifica la fase che lo precede?",
+   "opzioni": {
+    "A": "inizia con la conoscenza dell'infrazione; la fase successiva di accertamento è già endoprocedimentale e pubblica",
+    "B": "inizia con il rapporto disciplinare; la fase precedente è la sola constatazione dell'infrazione",
+    "C": "inizia con la contestazione degli addebiti; la fase precedente è servente, prodromica, extraprocedimentale",
+    "D": "inizia con la decisione dell'autorità; la fase precedente è interamente istruttoria e preliminare"
+   },
+   "corretta": "C",
+   "spiegazione": "Il procedimento inizia con la contestazione degli addebiti (art. 1398, co. 2, lett. a), COM), da cui decorrono i novanta giorni (art. 1046 TUROM): con essa si entra nella fase endoprocedimentale. Gli accertamenti preliminari sono una fase servente, prodromica, extraprocedimentale, che si chiude senza alcun provvedimento e dopo la quale il procedimento potrebbe anche non essere instaurato.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "TUROM art. 1046, co. 1, lett. h), n. 6"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 220"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-067",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Il potere di svolgere gli accertamenti preliminari nella disciplina di corpo, che nessuna norma prevede espressamente, si fonda:",
+   "opzioni": {
+    "A": "sulla norma del TUROM che disciplina gli accertamenti preliminari per tutte le sanzioni disciplinari",
+    "B": "sul potere di punire e sui compiti istruttori del responsabile del procedimento amministrativo",
+    "C": "sulla norma del c.p.p. che consente al comandante, ufficiale di p.g., di assumere informazioni",
+    "D": "su un'autorizzazione del comandante di corpo, da chiedere per ciascun procedimento di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Gli accertamenti preliminari di corpo non hanno «diritto di cittadinanza» nel COM e nel TUROM, che disciplinano solo quelli di stato (art. 1040 TUROM per i procedimenti di competenza del Comando generale). Si fondano sul potere stesso di punire, che implica quello di accertare i fatti, e sull'art. 6, co. 1, lett. b), L. 241/1990: il responsabile del procedimento «accerta di ufficio i fatti». I poteri di polizia giudiziaria non si usano per fini disciplinari, e non serve alcuna autorizzazione.",
+   "riferimenti": [
+    "L. 241/1990 art. 6, co. 1, lett. b)",
+    "TUROM art. 1040"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E001",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "qualifica"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il termine di novanta giorni del procedimento di corpo è ordinatorio per giurisprudenza",
+    "B": "il termine di novanta giorni del procedimento di corpo è perentorio per espressa previsione del TUROM",
+    "C": "il termine per presentare le memorie difensive è perentorio a pena di inammissibilità",
+    "D": "il termine di sessanta giorni per rinnovare il procedimento annullato è ordinatorio"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1046, co. 1, lett. h), n. 6, TUROM fissa i novanta giorni senza qualificarli: che siano ordinatori lo afferma la giurisprudenza. Il termine per le memorie è sollecitatorio (le memorie tardive non spostano il termine finale, art. 1029, co. 3, TUROM); quello di sessanta giorni per riprendere il procedimento annullato è espressamente «perentorio» (art. 1373 COM). Dato giusto, qualifica sbagliata nei distrattori.",
+   "riferimenti": [
+    "TUROM artt. 1029 e 1046",
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E002",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "qualifica"
+   ],
+   "domanda": "Il termine di sessanta giorni per riprendere il procedimento disciplinare annullato è:",
+   "opzioni": {
+    "A": "ordinatorio, anche nella disciplina di corpo",
+    "B": "perentorio, ma solo nella disciplina di stato",
+    "C": "sollecitatorio, come quello per le memorie",
+    "D": "perentorio in ogni caso, anche nella disciplina di corpo"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1373 COM: il nuovo procedimento riprende «nel termine perentorio di sessanta giorni» dalla piena conoscenza dell'annullamento o dall'adozione del provvedimento di autotutela. La limitazione «alle sanzioni di stato» riguarda un'altra condizione: che non siano già decorsi gli originari termini perentori. La rinnovazione è quindi soggetta al termine perentorio anche nel procedimento di corpo (che poi si conclude nei novanta giorni dalla nuova contestazione).",
+   "riferimenti": [
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 316"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E003",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "Annullato un atto del procedimento disciplinare, il nuovo procedimento riprende:",
+   "opzioni": {
+    "A": "dall'ultimo degli atti annullati",
+    "B": "sempre dalla contestazione degli addebiti",
+    "C": "sempre dal primo degli atti annullati",
+    "D": "sempre dagli accertamenti preliminari"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1373 COM: il nuovo procedimento «riprende, a partire dal primo degli atti annullati». Non si riparte sempre dalla contestazione né dagli accertamenti: si conservano gli atti validi anteriori al primo annullato. Il termine per la ripresa è di sessanta giorni, perentorio.",
+   "riferimenti": [
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E004",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "rinvio"
+   ],
+   "domanda": "In caso di annullamento con sentenza, i sessanta giorni per la rinnovazione decorrono:",
+   "opzioni": {
+    "A": "dal deposito della sentenza di annullamento in cancelleria",
+    "B": "dalla notifica della sentenza di annullamento al militare",
+    "C": "dalla piena conoscenza dell'annullamento da parte dell'amministrazione",
+    "D": "dalla nuova contestazione degli addebiti al militare"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1373 COM fa decorrere il termine perentorio di sessanta giorni «dalla data in cui l'amministrazione ha avuto piena conoscenza dell'annullamento o dalla data di adozione del provvedimento di autotutela». La norma richiede il giudicato amministrativo: la ripresa presuppone una decisione definitiva. Dalla nuova contestazione decorrono, nel procedimento di corpo, i novanta giorni per concluderlo.",
+   "riferimenti": [
+    "COM art. 1373",
+    "TUROM art. 1046, co. 1, lett. h), n. 6"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E005",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "posizione-docente"
+   ],
+   "domanda": "Ha affermato per prima che 24 giorni dal fatto alla contestazione sono ragionevoli anche con rilievo diretto del superiore:",
+   "opzioni": {
+    "A": "CdS sez. I, parere 854/2024",
+    "B": "CdS sez. I, parere 565/2024",
+    "C": "CdS sez. I, parere 855/2024",
+    "D": "CdS sez. II, 5157/2026"
+   },
+   "corretta": "B",
+   "spiegazione": "La conclusione sui 24 giorni è del parere della sez. I 30 aprile 2024, n. 565 (consegna di rigore a un maggiore dell'Esercito). I pareri nn. 854 e 855 dell'11 luglio 2024, letto in aula il primo, la riportano tra virgolette («la sezione è giunta alla conclusione…») e aggiungono il parametro dell'art. 55-bis D.Lgs. 165/2001; la sez. II, n. 5157/2026, ha sistematizzato l'orientamento. Distrattori veri dello stesso filone.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 565/2024",
+    "Cons. Stato, sez. I, parere n. 854/2024",
+    "Cons. Stato, sez. II, n. 5157/2026"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E006",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "nome-esatto",
+    "estremi"
+   ],
+   "domanda": "Il parere n. 854/2024 sulla durata degli accertamenti preliminari è stato reso:",
+   "opzioni": {
+    "A": "dalla sezione I del Consiglio di Stato, in sede consultiva",
+    "B": "dall'Adunanza plenaria del Consiglio di Stato, in sede giurisdizionale",
+    "C": "dalla sezione II del Consiglio di Stato, in sede giurisdizionale",
+    "D": "dalla sezione IV del Consiglio di Stato, in sede consultiva"
+   },
+   "corretta": "A",
+   "spiegazione": "Il parere 11 luglio 2024, n. 854 è della sezione prima del Consiglio di Stato, nell'adunanza di sezione del 19 giugno 2024, su un ricorso straordinario al Presidente della Repubblica: è un atto della funzione consultiva. Non è una decisione dell'Adunanza plenaria (organo giurisdizionale che risolve i contrasti), né della sez. II, che si è pronunciata sul tema con la sentenza n. 5157/2026. La sez. IV è giurisdizionale.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 854/2024"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E007",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "rinvio"
+   ],
+   "domanda": "Per il Consiglio di Stato, la specificità dell'ordinamento militare emerge dagli artt.:",
+   "opzioni": {
+    "A": "1346 e 1349 D.Lgs. 66/2010",
+    "B": "3 e 55-bis D.Lgs. 165/2001",
+    "C": "2 e 6 L. 241/1990",
+    "D": "1 e 625 D.Lgs. 66/2010"
+   },
+   "corretta": "D",
+   "spiegazione": "Il parere n. 854/2024: «è indiscusso il principio di diritto positivo della specificità dell'ordinamento militare, che emerge dagli artt. 1 e 625, d.lgs. n. 66/2010», da cui l'autosufficienza rispetto alle disposizioni senza espresso rinvio. Gli artt. 3 e 55-bis D.Lgs. 165/2001 sono, rispettivamente, l'esclusione dei militari dal pubblico impiego contrattualizzato e la norma usata come parametro; gli artt. 2 e 6 L. 241/1990 il termine generale e i compiti del responsabile del procedimento; gli artt. 1346 e 1349 COM la disciplina militare e l'obbedienza.",
+   "riferimenti": [
+    "COM artt. 1 e 625",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E008",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "distinzione"
+   ],
+   "domanda": "Nel pubblico impiego contrattualizzato, il termine di trenta giorni per contestare l'addebito è:",
+   "opzioni": {
+    "A": "ordinatorio",
+    "B": "sollecitatorio",
+    "C": "un mero parametro",
+    "D": "perentorio"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 55-bis, co. 4, D.Lgs. 165/2001 impone la contestazione «con immediatezza e comunque non oltre trenta giorni»: corredato dalla locuzione «non oltre», secondo pacifica giurisprudenza il termine è perentorio (parere n. 854/2024). Per i militari, ai quali non si applica (art. 3 D.Lgs. 165/2001), è soltanto un parametro di valutazione della tempestività. La distinzione tra natura del termine nel pubblico impiego e suo uso per i militari è la trappola.",
+   "riferimenti": [
+    "D.Lgs. 165/2001 art. 55-bis, co. 4",
+    "D.Lgs. 165/2001 art. 3",
+    "Cons. Stato, sez. I, parere n. 854/2024"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E009",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "premessa-vera",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "per CdS 1507/2018 il ritardo fa decadere dal potere, essendo il «senza ritardo» un termine",
+    "B": "per CdS 1507/2018 il ritardo non rileva mai, essendo il «senza ritardo» solo sollecitatorio",
+    "C": "per CdS 1507/2018 il ritardo non fa decadere dal potere, ma può essere sintomo di sviamento",
+    "D": "per CdS 1507/2018 il ritardo fa decadere dal potere dopo 470 giorni dalla conoscenza"
+   },
+   "corretta": "C",
+   "spiegazione": "Cons. Stato, sez. IV, 9 marzo 2018, n. 1507: la non tempestività «lungi dal determinare una decadenza» può rendere illegittimo l'atto se è sintomo di sviamento di potere o di contraddittorietà, o se ostacola il diritto di difesa. «Non rileva mai» parte da una premessa vera (natura sollecitatoria) per giungere a una conclusione falsa; i 470 giorni erano il caso concreto, in cui l'appello è stato respinto.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, n. 1507/2018"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E010",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa",
+    "variante-minima"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il termine per le memorie difensive è sollecitatorio",
+    "B": "le memorie tardive spostano il termine finale del procedimento",
+    "C": "con un procedimento di trenta giorni le memorie vanno presentate entro dieci giorni",
+    "D": "il termine per le memorie decorre dalla comunicazione dell'avvio del procedimento"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1029, co. 3, TUROM: la presentazione di memorie oltre il termine «non può determinare, comunque, lo spostamento del termine finale del procedimento». Sono corrette le altre: il termine per le memorie è sollecitatorio; con un procedimento di durata uguale o inferiore a trenta giorni il termine è di dieci giorni; il termine si computa dalla comunicazione dell'avvio (art. 1029, co. 2).",
+   "riferimenti": [
+    "TUROM art. 1029, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E011",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino"
+   ],
+   "domanda": "Se il procedimento di corpo è fissato in trenta giorni, le memorie si presentano entro:",
+   "opzioni": {
+    "A": "dieci giorni",
+    "B": "venti giorni",
+    "C": "quindici giorni",
+    "D": "sessanta giorni"
+   },
+   "corretta": "A",
+   "spiegazione": "Di regola il termine è pari ai due terzi della durata del procedimento (art. 1029, co. 2, TUROM): sessanta giorni su novanta. Ma «quando il termine del procedimento sia uguale o inferiore a trenta giorni, memorie scritte e documenti dovranno essere presentati entro dieci giorni dall'inizio del procedimento». Venti (due terzi di trenta) è la regola generale applicata dove non vale.",
+   "riferimenti": [
+    "TUROM art. 1029, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E012",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "nome-esatto",
+    "posizione-docente"
+   ],
+   "domanda": "Nella disciplina di corpo, il militare sottoposto a procedimento è:",
+   "opzioni": {
+    "A": "il manchevole",
+    "B": "l'inquisito",
+    "C": "l'imputato",
+    "D": "l'indagato"
+   },
+   "corretta": "A",
+   "spiegazione": "Nella disciplina di corpo si parla di manchevole; nella disciplina di stato di inquisito, termine usato dalla Guida tecnica e dall'art. 1370, co. 2, COM, grammaticalmente corretto ma evocativo dell'inquisizione (meglio «soggetto sottoposto a inchiesta formale»). Imputato e indagato appartengono al processo penale. Per il procedimento di corpo è preferibile evitare anche «incolpato», che implica un'imputazione soggettiva di responsabilità.",
+   "riferimenti": [
+    "COM art. 1370, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, p. 108"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E013",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "posizione-docente"
+   ],
+   "domanda": "Il termine di novanta giorni è rispettato se entro il novantesimo giorno il provvedimento è:",
+   "opzioni": {
+    "A": "notificato",
+    "B": "comunicato verbalmente",
+    "C": "trascritto nella documentazione",
+    "D": "adottato"
+   },
+   "corretta": "D",
+   "spiegazione": "Per il rispetto del termine conta la data di adozione del provvedimento (redatto, protocollato e firmato, in attesa di notifica): la notifica attiene all'efficacia, non al perfezionamento dell'atto (art. 21-bis L. 241/1990). Dopo l'adozione dell'atto conclusivo non c'è inerzia dell'amministrazione. La comunicazione verbale riguarda la decisione (art. 1398, co. 4, COM); la trascrizione è un effetto, escluso per il richiamo.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "L. 241/1990 art. 21-bis",
+    "COM art. 1398, co. 4"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica p. 79"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E014",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "distinzione",
+    "variante-minima"
+   ],
+   "domanda": "La notifica del provvedimento disciplinare al militare attiene:",
+   "opzioni": {
+    "A": "al perfezionamento del provvedimento",
+    "B": "alla validità del provvedimento",
+    "C": "solo all'efficacia del provvedimento",
+    "D": "alla legittimità del provvedimento"
+   },
+   "corretta": "C",
+   "spiegazione": "Il provvedimento limitativo della sfera giuridica «acquista efficacia nei confronti di ciascun destinatario con la comunicazione» (art. 21-bis L. 241/1990): la notifica è la fase dell'efficacia. Il provvedimento si perfeziona con l'adozione; validità e legittimità dipendono dalla conformità alla legge e dall'assenza di vizi, non dalla notifica. Per questo, ai fini del termine di novanta giorni, rileva l'adozione.",
+   "riferimenti": [
+    "L. 241/1990 art. 21-bis"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E015",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "istituto-vicino",
+    "nome-esatto"
+   ],
+   "domanda": "Il Comandante di Reparto ai fini disciplinari può infliggere:",
+   "opzioni": {
+    "A": "la consegna e la consegna di rigore, non il rimprovero",
+    "B": "il rimprovero e la consegna, mai la consegna di rigore",
+    "C": "solo il richiamo e il rimprovero, non la consegna",
+    "D": "tutte le sanzioni di corpo, sentita la commissione"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1396 COM: la consegna di rigore può essere inflitta esclusivamente dal comandante del corpo o dell'ente (co. 1); la consegna dal comandante di corpo e dal comandante di reparto (co. 2); il rimprovero anche dal comandante di distaccamento (co. 3); il richiamo da qualsiasi superiore (art. 1359, co. 2). Nel caso del parere n. 854/2024 il comandante di compagnia ha inflitto due giorni di consegna: la consegna di rigore non era nella sua competenza. La commissione di disciplina dà un parere, non attribuisce competenza.",
+   "riferimenti": [
+    "COM art. 1396, co. 1-3",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E016",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "rinvio"
+   ],
+   "domanda": "Le unità organizzative con rango di reparto ai fini disciplinari sono stabilite:",
+   "opzioni": {
+    "A": "dal Ministro della difesa con decreto",
+    "B": "da ciascuna Forza armata o Corpo armato",
+    "C": "dall'art. 1396 COM con elenco tassativo",
+    "D": "dal Comandante di Corpo per i reparti dipendenti"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1396, co. 6, COM: «Anche ai soli fini disciplinari, ciascuna Forza armata o Corpo armato, in relazione alle esigenze funzionali, stabilisce le unità organizzative aventi il rango di reparto o di distaccamento». Per l'Arma, la circ. n. 17/109-2-1996 del Comando Generale. Il COM non contiene un elenco; il comandante di corpo non attribuisce il rango.",
+   "riferimenti": [
+    "COM art. 1396, co. 6"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E017",
+   "argomento": "gradualita",
+   "sinossi": "V.3.e",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "Per più trasgressioni commesse anche in tempi diversi, si infligge:",
+   "opzioni": {
+    "A": "sempre un'unica punizione in relazione alla più grave",
+    "B": "un'unica punizione in relazione alla più recente",
+    "C": "una punizione per ciascuna trasgressione",
+    "D": "un'unica punizione pari alla somma delle sanzioni"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1355, co. 5, COM: se deve essere adottato un provvedimento riguardante più trasgressioni commesse da un militare, anche in tempi diversi, è inflitta un'unica punizione «in relazione alla più grave delle trasgressioni e al comportamento contrario alla disciplina rivelato complessivamente dalla condotta». Nel parere n. 854/2024, annullato uno dei due procedimenti, la sanzione unica andava rideterminata.",
+   "riferimenti": [
+    "COM art. 1355, co. 5"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E018",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "VIII.2.a",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "posizione-docente",
+    "variante-minima"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "nella contestazione la formula «con minor senso di responsabilità» è sempre necessaria",
+    "B": "nella contestazione la formula «con minor senso di responsabilità» riprende la norma",
+    "C": "nella contestazione la formula «con minor senso di responsabilità» è indifferente",
+    "D": "nella contestazione la formula «con minor senso di responsabilità» anticipa la decisione"
+   },
+   "corretta": "D",
+   "spiegazione": "La contestazione descrive con precisione il fatto storico e le sue circostanze (modello 4.C della Guida tecnica): fissa l'oggetto su cui il militare si difende. Il «minor» senso di responsabilità è un giudizio di gravità che si può esprimere solo alla fine, dopo aver valutato le memorie, nella motivazione della decisione (art. 1398, co. 2 e 6, COM). Il richiamo all'art. 717 è una premessa vera (il senso di responsabilità è lì definito) che non rende corretta la formula; la contestazione non è un atto interno ma recettizio.",
+   "riferimenti": [
+    "COM art. 1398, co. 2 e 6",
+    "TUROM art. 717"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E019",
+   "argomento": "doveri-condotta",
+   "sinossi": "II.3.f",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "variante-minima"
+   ],
+   "domanda": "Il nocumento all'immagine e al prestigio dell'istituzione arrecato fuori servizio è riconducibile:",
+   "opzioni": {
+    "A": "all'art. 713, co. 3, TUROM",
+    "B": "all'art. 717 TUROM",
+    "C": "all'art. 713, co. 2, TUROM",
+    "D": "all'art. 724 TUROM"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 713 TUROM («Doveri attinenti al grado») ha tre commi: il co. 2 impone di astenersi, anche fuori servizio, da comportamenti che possono ledere il prestigio dell'istituzione; il co. 3 impone di essere di esempio nel compimento dei doveri. L'art. 717 definisce il senso di responsabilità; l'art. 724 riguarda l'osservanza di doveri ulteriori. Nel parere n. 854/2024, l'alterco fuori servizio con un militare in servizio era contestato come nocumento al prestigio.",
+   "riferimenti": [
+    "TUROM art. 713, co. 2-3",
+    "TUROM artt. 717 e 724"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E020",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.8.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "istituto-vicino"
+   ],
+   "domanda": "La «convinzione della necessità di adempiere integralmente ai doveri» è la definizione:",
+   "opzioni": {
+    "A": "dello spirito di iniziativa",
+    "B": "del dovere di esempio",
+    "C": "del senso di responsabilità",
+    "D": "della disciplina militare"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 717 TUROM: «Il senso di responsabilità consiste nella convinzione della necessità di adempiere integralmente ai doveri che derivano dalla condizione di militare per la realizzazione dei fini istituzionali delle Forze armate». L'iniziativa è nell'art. 716 TUROM; l'esempio nell'art. 713, co. 3; la disciplina militare è definita dall'art. 1346, co. 1, COM come «osservanza consapevole delle norme attinenti allo stato di militare».",
+   "riferimenti": [
+    "TUROM art. 717",
+    "TUROM art. 716",
+    "COM art. 1346, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E021",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa",
+    "posizione-docente"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni sul parere n. 854/2024 non è corretta?",
+   "opzioni": {
+    "A": "sono state ritenute fondate le censure sul ritardo",
+    "B": "il ricorso è stato accolto integralmente",
+    "C": "le censure sulla proporzionalità sono state dichiarate inammissibili",
+    "D": "la motivazione è stata ritenuta sufficiente"
+   },
+   "corretta": "B",
+   "spiegazione": "Il parere ha accolto il ricorso solo in parte: fondate le censure sul ritardo per il primo procedimento (oltre quaranta giorni dall'acquisizione dell'archiviazione senza ragioni negli atti), respinto il resto; inammissibili le censure su motivazione, proporzionalità e gradualità che investono il merito; sufficiente la motivazione che indica il fatto, il suo disvalore e gli obblighi violati. L'amministrazione è stata chiamata a rideterminare la sanzione unica.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 854/2024, parr. 6-12"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E022",
+   "argomento": "ricorsi",
+   "sinossi": "IX.2.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "distinzione",
+    "istituto-vicino"
+   ],
+   "domanda": "Si ha falsa applicazione della norma quando:",
+   "opzioni": {
+    "A": "la norma è interpretata e applicata in modo errato",
+    "B": "l'atto è adottato da un'autorità diversa da quella competente",
+    "C": "il potere è usato per un fine diverso da quello previsto",
+    "D": "l'atto non indica le ragioni giuridiche della decisione"
+   },
+   "corretta": "A",
+   "spiegazione": "La falsa applicazione è una forma della violazione di legge: la norma dice una cosa e l'autorità l'ha interpretata o applicata male. L'autorità diversa configura l'incompetenza; il fine diverso è lo sviamento di potere (eccesso di potere); la mancata indicazione delle ragioni è il difetto di motivazione. Violazione di legge, eccesso di potere e incompetenza sono i vizi dell'art. 21-octies L. 241/1990.",
+   "riferimenti": [
+    "L. 241/1990 artt. 3 e 21-octies"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E023",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "distinzione",
+    "nome-esatto"
+   ],
+   "domanda": "La contestazione degli addebiti è:",
+   "opzioni": {
+    "A": "il provvedimento finale",
+    "B": "l'atto conclusivo degli accertamenti preliminari",
+    "C": "un provvedimento di autotutela",
+    "D": "un atto endoprocedimentale"
+   },
+   "corretta": "D",
+   "spiegazione": "La contestazione instaura il procedimento (art. 1398, co. 2, lett. a), COM) ed è un atto endoprocedimentale, che prepara il provvedimento conclusivo. Non è l'atto conclusivo degli accertamenti preliminari, che si chiudono senza alcun provvedimento e dopo i quali il procedimento potrebbe anche non essere instaurato. Il provvedimento finale è la decisione; l'autotutela è il riesame di un atto già adottato.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 220"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E024",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino"
+   ],
+   "domanda": "Negli accertamenti preliminari di corpo, i militari presenti al fatto si sentono:",
+   "opzioni": {
+    "A": "a sommarie informazioni, con verbale",
+    "B": "in contraddittorio con il manchevole",
+    "C": "solo dopo la contestazione degli addebiti",
+    "D": "con relazione di servizio o intervista amministrativa"
+   },
+   "corretta": "D",
+   "spiegazione": "Le sommarie informazioni sono un atto di polizia giudiziaria del procedimento penale (art. 351 c.p.p.): nel procedimento disciplinare il comandante usa i poteri istruttori del responsabile del procedimento (art. 6 L. 241/1990), chiedendo ai militari una relazione di servizio o sentendoli con un'intervista amministrativa. La fase è riservata: niente contraddittorio con il manchevole, che conoscerà gli atti dopo la contestazione.",
+   "riferimenti": [
+    "c.p.p. art. 351",
+    "L. 241/1990 art. 6, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E025",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "assoluti"
+   ],
+   "domanda": "Il sindaco segnala a voce la condotta scorretta di una pattuglia e rifiuta di scrivere. Il Comandante:",
+   "opzioni": {
+    "A": "archivia, mancando una segnalazione scritta",
+    "B": "attende che il sindaco presenti querela",
+    "C": "redige una relazione di servizio e apre il procedimento",
+    "D": "trasmette la segnalazione al prefetto"
+   },
+   "corretta": "C",
+   "spiegazione": "Al sindaco si chiede se intende mettere per iscritto la segnalazione; se rifiuta, il comandante documenta il colloquio con una relazione di servizio e apre il procedimento con la contestazione. Chi riferisce un fatto se ne assume la responsabilità, anche penale (il militare può denunciarlo per diffamazione, art. 595 c.p.). Il rilievo disciplinare non dipende da querela; la potestà disciplinare non è del prefetto. Se poi la prova non si raggiunge, il procedimento si chiude senza sanzione.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "c.p. art. 595"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E026",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "del comitato provinciale per l'ordine e la sicurezza pubblica fanno parte tutti i sindaci della provincia",
+    "B": "del comitato provinciale per l'ordine e la sicurezza pubblica fa parte il sindaco del capoluogo",
+    "C": "del comitato provinciale per l'ordine e la sicurezza pubblica fa parte il comandante della Legione",
+    "D": "il comitato provinciale per l'ordine e la sicurezza pubblica è presieduto dal procuratore della Repubblica"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 20 L. 121/1981: il comitato è presieduto dal prefetto ed è composto dal questore, dal sindaco del comune capoluogo, dal presidente della provincia e dai comandanti provinciali dell'Arma e della Guardia di finanza; i sindaci degli altri comuni vi partecipano solo quando si trattano questioni dei rispettivi territori; i magistrati possono essere invitati, d'intesa con il procuratore. Per l'Arma siede il comandante provinciale, non quello della Legione.",
+   "riferimenti": [
+    "L. 121/1981 art. 20"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E027",
+   "argomento": "tecniche-redazionali",
+   "sinossi": "VIII.2.b",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "assoluti",
+    "premessa-vera"
+   ],
+   "domanda": "Se uno degli articoli richiamati nella contestazione non è pertinente al fatto, il procedimento:",
+   "opzioni": {
+    "A": "non viene meno solo per questo",
+    "B": "è nullo, per errore nella qualificazione",
+    "C": "si estingue, per lesione del diritto di difesa",
+    "D": "va sempre rinnovato dalla contestazione"
+   },
+   "corretta": "A",
+   "spiegazione": "Nella contestazione si possono richiamare più articoli del COM e del TUROM: ciò che rileva è per quali disposizioni il militare viene punito, da indicare nella motivazione (art. 1398, co. 6, COM). La giurisprudenza esclude che la mancata o erronea indicazione delle norme violate vizi il procedimento se la condotta è individuata e la difesa esercitata (parere n. 565/2024, par. 11). La lesione del diritto di difesa è una premessa plausibile che qui non ricorre.",
+   "riferimenti": [
+    "COM art. 1398, co. 6",
+    "Cons. Stato, sez. I, parere n. 565/2024, par. 11"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E028",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "premessa-vera"
+   ],
+   "domanda": "La mancata presentazione di memorie difensive da parte del manchevole:",
+   "opzioni": {
+    "A": "non esime in nessun caso l'autorità dall'istruttoria necessaria",
+    "B": "equivale a confessione, sicché il fatto si dà per ammesso",
+    "C": "preclude il ricorso gerarchico contro la sanzione",
+    "D": "è illegittima, gravando sul militare un dovere di collaborazione"
+   },
+   "corretta": "A",
+   "spiegazione": "Il manchevole può restare silente (ius tacendi): la scelta è legittima, ma rinuncia al contraddittorio. Il silenzio non è una ficta confessio e non esime l'autorità dall'attività istruttoria necessaria; non preclude i ricorsi. Il dovere di verità vieta di mentire nelle memorie, non impone di presentarle: il «dovere di collaborazione» è una premessa plausibile ma la conclusione è falsa.",
+   "riferimenti": [
+    "COM art. 1370, co. 1",
+    "L. 241/1990 art. 10, co. 1, lett. b)"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, pp. 116-117"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E029",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "rinvio",
+    "nome-esatto"
+   ],
+   "domanda": "Il «senza ritardo» con cui va instaurato il procedimento richiama la formula del c.p.p. sull'obbligo:",
+   "opzioni": {
+    "A": "della p.g. di assumere sommarie informazioni",
+    "B": "del p.m. di iscrivere la notizia di reato",
+    "C": "del giudice di decidere sull'archiviazione",
+    "D": "della p.g. di riferire al p.m. la notizia di reato"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 347, co. 1, c.p.p.: acquisita la notizia di reato, la polizia giudiziaria «senza ritardo, riferisce al pubblico ministero, per iscritto, gli elementi essenziali del fatto». Come nel COM, la formula non fissa un termine numerico ma una regola di prontezza. Le sommarie informazioni sono nell'art. 351 c.p.p.",
+   "riferimenti": [
+    "c.p.p. art. 347, co. 1",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E030",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "assoluti",
+    "posizione-docente"
+   ],
+   "domanda": "Annullato un documento caratteristico, la nuova valutazione:",
+   "opzioni": {
+    "A": "non può essere meno favorevole di quella annullata",
+    "B": "deve conservare le voci non censurate del documento annullato",
+    "C": "può essere anche meno favorevole, purché armonica e motivata",
+    "D": "non va redatta, coprendo il giudicato l'intero periodo"
+   },
+   "corretta": "C",
+   "spiegazione": "Annullato il documento, la valutazione va rinnovata, perché non può esservi un periodo privo di valutazione caratteristica. La ricompilazione ha come unici limiti i motivi dell'annullamento: le voci del documento annullato non si cristallizzano e il nuovo documento può discostarsene anche in senso meno favorevole, purché armonico e motivato (un calo marcato richiede una motivazione accurata). Per questo il ricorso contro l'abbassamento di qualche qualifica è di utilità limitata.",
+   "riferimenti": [
+    "TUROM artt. 688 ss."
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "dispensa di Scienze Professionali, cap. 19"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E031",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "posizione-docente"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "oltre i trenta giorni il potere disciplinare di corpo si consuma",
+    "B": "oltre i trenta giorni si può contestare, ma le ragioni del ritardo devono risultare dagli atti",
+    "C": "le ragioni del ritardo vanno comunicate al manchevole con la contestazione",
+    "D": "i trenta giorni decorrono sempre dalla data di commissione del fatto"
+   },
+   "corretta": "B",
+   "spiegazione": "Superati i trenta giorni il procedimento può essere aperto, ma l'amministrazione ha l'onere di allegare valide ragioni del superamento, che devono emergere dagli atti o dall'istruttoria (parere n. 854/2024): rilevano quando il militare ricorre, non vanno comunicate con la contestazione. Il potere non si consuma; il «senza ritardo» decorre dalla conoscenza dell'infrazione da parte dell'autorità competente (art. 1398, co. 1, lett. a), COM), non dal fatto.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E032",
+   "argomento": "ricorsi",
+   "sinossi": "IX.2.c",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "rinvio"
+   ],
+   "domanda": "Il ricorso gerarchico contro una sanzione di corpo è deciso entro novanta giorni:",
+   "opzioni": {
+    "A": "dalla notifica della sanzione",
+    "B": "dalla presentazione del ricorso",
+    "C": "dalla contestazione degli addebiti",
+    "D": "dall'adozione della sanzione"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1046, co. 1, lett. h), n. 8, TUROM fissa in novanta giorni il termine per il ricorso gerarchico avverso sanzioni di corpo; l'art. 1363, co. 2, COM consente il ricorso giurisdizionale o straordinario dopo l'esperimento del ricorso gerarchico o decorsi novanta giorni «dalla data di presentazione del ricorso». Dalla contestazione decorrono i novanta giorni del procedimento (n. 6).",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), nn. 6 e 8",
+    "COM art. 1363, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E033",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "distinzione",
+    "posizione-docente"
+   ],
+   "domanda": "Gli accertamenti preliminari al procedimento di corpo si concludono:",
+   "opzioni": {
+    "A": "in ogni caso senza l'adozione di alcun provvedimento",
+    "B": "con un provvedimento di avvio del procedimento",
+    "C": "con un provvedimento di archiviazione motivato",
+    "D": "con la contestazione, quale loro atto conclusivo"
+   },
+   "corretta": "A",
+   "spiegazione": "Gli accertamenti preliminari sono un'attività strumentale, extraprocedimentale, che si chiude senza alcun provvedimento: la contestazione degli addebiti non è l'atto conclusivo degli accertamenti, ma l'atto che instaura il procedimento, che potrebbe anche non essere instaurato. La trappola sta nella distinzione tra la fine degli accertamenti e l'inizio del procedimento.",
+   "riferimenti": [
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Sinossi p. 220"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E034",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "caso_pratico",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "premessa-vera"
+   ],
+   "domanda": "Il manchevole, con memorie molto articolate, svela un vizio della contestazione. Il rischio è che l'autorità:",
+   "opzioni": {
+    "A": "dichiari le memorie inammissibili per eccesso di difesa",
+    "B": "raddoppi il termine per concludere il procedimento",
+    "C": "consideri il vizio sanato dalla stessa difesa",
+    "D": "annulli la contestazione e la riformuli correttamente"
+   },
+   "corretta": "D",
+   "spiegazione": "Le memorie che rivelano un vizio della contestazione consentono all'autorità di correggerlo in autotutela (art. 1372 COM): annullare la contestazione e riformularla. È uno degli elementi della strategia difensiva su cui il docente ha chiesto di riflettere: presentare o no le memorie, tacere, impiegare subito tutti gli argomenti. Le memorie non sono mai inammissibili per ampiezza; il termine non si raddoppia; la difesa non sana il vizio, ma ne provoca la correzione.",
+   "riferimenti": [
+    "COM art. 1372",
+    "TUROM art. 1029"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E035",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "istituto-vicino"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "gli accertamenti preliminari di corpo durano centottanta giorni per espressa previsione del TUROM",
+    "B": "gli accertamenti preliminari di corpo vanno comunicati al militare interessato fin dall'inizio",
+    "C": "gli accertamenti preliminari di corpo non sono disciplinati né dal COM né dal TUROM",
+    "D": "gli accertamenti preliminari di corpo si svolgono assumendo sommarie informazioni dai testimoni"
+   },
+   "corretta": "C",
+   "spiegazione": "Gli accertamenti preliminari della disciplina di corpo non hanno «diritto di cittadinanza» nel COM e nel TUROM, che regolano solo quelli di stato (180 giorni: art. 1040, co. 1, lett. d), n. 19, TUROM; art. 1041): si fondano sul potere di punire e sull'art. 6 L. 241/1990, con i trenta giorni come parametro giurisprudenziale. Sono una fase riservata, non comunicata al militare; le sommarie informazioni sono un atto di polizia giudiziaria (art. 351 c.p.p.).",
+   "riferimenti": [
+    "TUROM art. 1040",
+    "L. 241/1990 art. 6",
+    "c.p.p. art. 351"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E036",
+   "argomento": "autotutela",
+   "sinossi": "IX.2.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il procedimento annullato riprende dal primo degli atti annullati",
+    "B": "la rinnovazione è possibile se la decisione di annullamento non la esclude",
+    "C": "la rinnovazione del procedimento annullato viola il divieto di ne bis in idem",
+    "D": "nel rinnovare il provvedimento l'autorità deve conformarsi alla decisione"
+   },
+   "corretta": "C",
+   "spiegazione": "La rinnovazione non viola il ne bis in idem, perché comporta la ripresa del procedimento originario, non un nuovo procedimento per lo stesso fatto. Sono corrette le altre: il procedimento riprende «a partire dal primo degli atti annullati», se non è esclusa la facoltà di rinnovarlo, entro sessanta giorni perentori (art. 1373 COM); l'autorità ha l'onere di conformarsi alla decisione (se annullato per difetto di motivazione, va motivato).",
+   "riferimenti": [
+    "COM art. 1373"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica p. 16"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E037",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "nome-esatto"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "nella disciplina di corpo si parla di inquisito, termine usato anche dal COM",
+    "B": "nella disciplina di stato si parla di inquisito, termine usato anche dal COM",
+    "C": "il COM non usa mai il termine inquisito, che si trova solo nella Guida tecnica",
+    "D": "incolpato è il termine preferibile per la disciplina di corpo, perché neutro"
+   },
+   "corretta": "B",
+   "spiegazione": "Nella disciplina di stato si parla di inquisito: lo usa la Guida tecnica e lo usa il COM (art. 1370, co. 2: «Il militare inquisito è assistito da un difensore…»). Nella disciplina di corpo si parla di manchevole. «Incolpato» non è neutro: implica un'imputazione soggettiva di responsabilità, e per il procedimento di corpo è preferibile evitarlo (il COM lo usa per la consegna di rigore, art. 1399).",
+   "riferimenti": [
+    "COM art. 1370, co. 2",
+    "COM art. 1399"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, p. 108"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E038",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa",
+    "posizione-docente"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il termine di trenta giorni del pubblico impiego si applica ai militari per espresso rinvio",
+    "B": "superati i trenta giorni, grava sull'amministrazione l'onere di allegare valide ragioni",
+    "C": "l'illegittimità deriva da un ingiustificato procrastinarsi, non dal mero superamento",
+    "D": "ventiquattro giorni sono ragionevoli anche se il superiore ha rilevato direttamente il fatto"
+   },
+   "corretta": "A",
+   "spiegazione": "Il parere n. 854/2024 esclude l'applicazione dell'art. 55-bis ai militari, per la specificità e l'autosufficienza dell'ordinamento militare (artt. 1 e 625 COM; v. anche art. 3 D.Lgs. 165/2001): il termine vale solo come parametro. Le altre affermazioni riproducono il parere: onere di allegare valide ragioni; illegittimità per ingiustificato procrastinarsi; 24 giorni ragionevoli anche con rilievo diretto (dal parere n. 565/2024).",
+   "riferimenti": [
+    "Cons. Stato, sez. I, parere n. 854/2024, par. 9",
+    "D.Lgs. 165/2001 artt. 3 e 55-bis"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E039",
+   "argomento": "ricorsi",
+   "sinossi": "IX.2.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il ricorso gerarchico è deciso dalla stessa autorità che ha inflitto la sanzione di corpo",
+    "B": "decorsi novanta giorni dalla presentazione, l'autorità perde il potere di decidere il ricorso gerarchico",
+    "C": "il ricorso gerarchico contro la sanzione di corpo è ammesso solo per vizi di legittimità",
+    "D": "contro la sanzione di corpo il TAR è adito solo dopo il ricorso gerarchico o decorsi novanta giorni"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1363, co. 2, COM: avverso le sanzioni di corpo il ricorso giurisdizionale o straordinario non è ammesso se prima non è stato esperito il ricorso gerarchico o non sono trascorsi novanta giorni dalla sua presentazione. Il ricorso gerarchico è deciso dall'organo gerarchicamente superiore (co. 1), anche nel merito; l'autorità conserva il potere di decidere dopo i novanta giorni. Il riesame (co. 3) è il rimedio rivolto alla stessa autorità.",
+   "riferimenti": [
+    "COM art. 1363"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica p. 154"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E040",
+   "argomento": "procedimento-generalita",
+   "sinossi": "VIII.1.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "posizione-docente"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "le memorie tardive vanno valutate anche dopo l'adozione del provvedimento finale",
+    "B": "il silenzio del manchevole sulla contestazione equivale a confessione del fatto",
+    "C": "nelle memorie il militare può affermare il falso, prevalendo il diritto di difesa",
+    "D": "il manchevole che presenta prime memorie può riservarsi di integrarle nei termini"
+   },
+   "corretta": "D",
+   "spiegazione": "Il manchevole può presentare prime memorie «con riserva» di integrarle nei termini: in tal caso l'autorità deve attendere la scadenza del termine a difesa. Le memorie tardive vanno valutate solo se il provvedimento non è ancora adottato; se è già adottato e in notifica, non va annullato per rivalutarlo. Il silenzio non è ficta confessio; il dovere di verità del militare vale anche nelle memorie.",
+   "riferimenti": [
+    "TUROM art. 1029, co. 2-3",
+    "COM art. 1370, co. 1"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "A. Dell'Olio, «Le memorie difensive nel procedimento disciplinare di corpo», Rassegna dell'Arma dei Carabinieri, 2025, n. 4, pp. 111-117"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E041",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "negativa",
+    "variante-minima"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "i novanta giorni del procedimento di corpo decorrono dalla contestazione degli addebiti",
+    "B": "i novanta giorni del procedimento di corpo possono essere ridotti dall'autorità procedente",
+    "C": "i novanta giorni del procedimento di corpo si computano fino alla notifica della sanzione",
+    "D": "i novanta giorni del procedimento di corpo, se superati, non fanno decadere dal potere"
+   },
+   "corretta": "C",
+   "spiegazione": "Ai fini dei novanta giorni rileva l'adozione del provvedimento, non la sua notifica, che attiene all'efficacia (art. 21-bis L. 241/1990). Sono corrette le altre: il termine decorre dalla contestazione (art. 1046, co. 1, lett. h), n. 6, TUROM); l'autorità può ridurlo quando non serva usarlo per intero; è ordinatorio, e il suo superamento non fa decadere dal potere.",
+   "riferimenti": [
+    "TUROM art. 1046, co. 1, lett. h), n. 6",
+    "L. 241/1990 art. 21-bis"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)",
+    "Guida tecnica pp. 79 e 148"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E042",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "istituto-vicino"
+   ],
+   "domanda": "Il termine generale di trenta giorni per concludere i procedimenti amministrativi è fissato:",
+   "opzioni": {
+    "A": "dal D.Lgs. 165/2001",
+    "B": "dalla L. 241/1990",
+    "C": "dal D.P.R. 90/2010",
+    "D": "dal D.Lgs. 66/2010"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 2, co. 2, L. 241/1990: nei casi in cui disposizioni di legge non prevedono un termine diverso, i procedimenti delle amministrazioni statali si concludono entro trenta giorni. L'art. 55-bis, co. 4, D.Lgs. 165/2001 prevede trenta giorni, ma solo per la contestazione nel pubblico impiego contrattualizzato; l'art. 1046 TUROM fissa i novanta giorni del procedimento di corpo; l'art. 1398 COM dice «senza ritardo». I due trenta giorni sono i parametri usati dal Consiglio di Stato per gli accertamenti preliminari.",
+   "riferimenti": [
+    "L. 241/1990 art. 2, co. 2",
+    "D.Lgs. 165/2001 art. 55-bis, co. 4",
+    "TUROM art. 1046",
+    "COM art. 1398"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E043",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "estremi"
+   ],
+   "domanda": "Il comitato provinciale per l'ordine e la sicurezza pubblica è disciplinato:",
+   "opzioni": {
+    "A": "dalla L. 121/1981",
+    "B": "dalla L. 241/1990",
+    "C": "dal D.Lgs. 66/2010",
+    "D": "dal D.P.R. 90/2010"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 20 della L. 1° aprile 1981, n. 121 (nuovo ordinamento dell'Amministrazione della pubblica sicurezza) istituisce presso la prefettura il comitato provinciale per l'ordine e la sicurezza pubblica, presieduto dal prefetto, di cui fanno parte tra gli altri il sindaco del comune capoluogo e il comandante provinciale dei Carabinieri. Gli altri sono la legge sul procedimento amministrativo, il COM e il TUROM.",
+   "riferimenti": [
+    "L. 121/1981 art. 20"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E044",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "estremi",
+    "posizione-docente"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "CdS 854/2024 ha accolto il ricorso solo in parte",
+    "B": "CdS 855/2024 ha accolto integralmente il ricorso",
+    "C": "CdS 1507/2018 ha annullato la perdita del grado",
+    "D": "CdS 565/2024 ha annullato la consegna di rigore"
+   },
+   "corretta": "A",
+   "spiegazione": "Il parere n. 854/2024, letto in aula, ha accolto il ricorso in parte (ritardo nel primo procedimento) e ha chiamato l'amministrazione a rideterminare la sanzione unica. Gli altri esiti sono rovesciati: il parere n. 855/2024 e il parere n. 565/2024 hanno concluso per il rigetto; la sentenza n. 1507/2018 ha respinto l'appello del militare rimosso dopo 470 giorni. Pronunce vere dello stesso filone, con l'esito scambiato.",
+   "riferimenti": [
+    "Cons. Stato, sez. I, pareri nn. 565, 854 e 855/2024",
+    "Cons. Stato, sez. IV, n. 1507/2018"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L11-E045",
+   "argomento": "ricorsi",
+   "sinossi": "IX.2.d",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "variante-minima"
+   ],
+   "domanda": "Il parere n. 854/2024 è stato reso su un:",
+   "opzioni": {
+    "A": "ricorso gerarchico, D.P.R. 1199/1971",
+    "B": "ricorso giurisdizionale, D.Lgs. 104/2010",
+    "C": "ricorso per revocazione, D.Lgs. 104/2010",
+    "D": "ricorso straordinario, D.P.R. 1199/1971"
+   },
+   "corretta": "D",
+   "spiegazione": "Il parere della sez. I del Consiglio di Stato è stato reso su un ricorso straordinario al Presidente della Repubblica, proposto con presentazione diretta ex art. 11 del D.P.R. 24 novembre 1971, n. 1199: sul ricorso straordinario il Consiglio di Stato si pronuncia in sede consultiva. Lo stesso D.P.R. disciplina anche il ricorso gerarchico, deciso dall'organo superiore (per le sanzioni di corpo, art. 1363 COM); il D.Lgs. 104/2010 è il codice del processo amministrativo.",
+   "riferimenti": [
+    "D.P.R. 1199/1971",
+    "COM art. 1363",
+    "Cons. Stato, sez. I, parere n. 854/2024"
+   ],
+   "fonti": [
+    "lezione 11 (18.11.2026)"
+   ],
+   "lezione": 11,
+   "data_lezione": "2026-11-18"
   }
  ]
 }
