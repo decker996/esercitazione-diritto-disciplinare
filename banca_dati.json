@@ -1,7 +1,7 @@
 {
  "materia": "Diritto Disciplinare",
- "aggiornata": "2026-11-18",
- "totale": 1570,
+ "aggiornata": "2026-11-20",
+ "totale": 1668,
  "argomenti": [
   {
    "slug": "diritto-disciplinare",
@@ -110,6 +110,12 @@
    "titolo": "Norme di comportamento",
    "descrizione": "norme di comportamento (art. 732 TUROM ss.): debiti e pignoramenti, stupefacenti, tatuaggi e simili",
    "parte": "II – I doveri dei militari"
+  },
+  {
+   "slug": "diritti-generalita",
+   "titolo": "I diritti: generalità e limiti",
+   "descrizione": "riconoscimento dei diritti, limiti e loro legittimità (III.1)",
+   "parte": "III – I diritti dei militari e le loro limitazioni"
   },
   {
    "slug": "diritti-politici",
@@ -42863,6 +42869,2639 @@
    ],
    "lezione": 11,
    "data_lezione": "2026-11-18"
+  },
+  {
+   "id": "DD-L12-001",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Nel lessico dell'art. 1397 COM, il superiore non competente che assiste a un'infrazione:",
+   "opzioni": {
+    "A": "constata l'infrazione e la contesta al trasgressore",
+    "B": "contesta l'infrazione e ne fa rapporto al comandante di corpo",
+    "C": "rileva l'infrazione e la fa constatare al trasgressore",
+    "D": "accerta l'infrazione e ne propone la sanzione al comandante di reparto"
+   },
+   "corretta": "C",
+   "spiegazione": "Il superiore non competente «rileva» la mancanza (la percepisce) e la «fa constatare» al trasgressore: non constata egli stesso e, soprattutto, non contesta. La contestazione degli addebiti è l'atto con cui il titolare della potestà sanzionatoria apre il procedimento (art. 1398, co. 2, lett. a), COM); il rapporto, poi, non contiene proposte di sanzione (art. 1397, co. 2).",
+   "riferimenti": [
+    "COM art. 1397, co. 1-2",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 213"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-002",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Qual è la funzione principale della constatazione della mancanza?",
+   "opzioni": {
+    "A": "interrompere il comportamento illecito e rendere il militare consapevole della mancanza",
+    "B": "aprire il procedimento disciplinare e fissarne l'oggetto, ai fini della difesa del militare",
+    "C": "acquisire le giustificazioni del militare prima che il superiore rediga il rapporto",
+    "D": "documentare la mancanza ai fini della successiva trascrizione nella documentazione personale"
+   },
+   "corretta": "A",
+   "spiegazione": "Con la constatazione il superiore fa cessare la mancanza (come l'arresto in flagranza interrompe il reato) e rende il militare edotto dell'infrazione e del fatto che ne seguirà qualcosa; esprime anche l'obbligo di intervento immediato di ogni superiore. Aprire il procedimento e fissarne l'oggetto è la funzione della contestazione degli addebiti; le giustificazioni si acquisiscono nel procedimento (art. 1398, co. 2, lett. b), COM).",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 213"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-003",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un superiore fa notare a un militare in uniforme che ha la giacca sbottonata e gli intima di ricomporsi; il militare non lo fa. Oltre alla mancanza originaria, la condotta può integrare:",
+   "opzioni": {
+    "A": "soltanto una circostanza aggravante della mancanza originaria, da indicare nel rapporto disciplinare",
+    "B": "il reato militare di disobbedienza, perché l'intimazione a ricomporsi è un ordine attinente alla disciplina",
+    "C": "nessuna conseguenza ulteriore, perché la constatazione è una presa d'atto e non contiene alcun ordine",
+    "D": "il reato di insubordinazione con minaccia, perché il militare disconosce l'autorità del superiore presente"
+   },
+   "corretta": "B",
+   "spiegazione": "La constatazione si accompagna all'ordine attinente alla disciplina («si ricomponga»): il superiore non ha poteri coattivi diretti, ma il militare che rifiuta di obbedire commette disobbedienza (art. 173 c.p.m.p.: rifiutare, omettere o ritardare di obbedire a un ordine attinente al servizio o alla disciplina). L'insubordinazione presuppone violenza, minaccia o ingiuria al superiore, qui assenti.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "c.p.m.p. art. 173"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 213"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-004",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Un generale, durante una conferenza con un ospite, nota un ufficiale addormentato e non interviene per non interrompere l'ospite. Nel rapporto disciplinare:",
+   "opzioni": {
+    "A": "non può riferire il fatto, perché la mancata constatazione impedisce di fare rapporto",
+    "B": "indica le ragioni per le quali non è stato possibile far constatare la mancanza",
+    "C": "deve allegare la relazione di servizio dell'ufficiale, che sostituisce la constatazione",
+    "D": "chiede al comandante di reparto di effettuare la constatazione in luogo del compilatore"
+   },
+   "corretta": "B",
+   "spiegazione": "La constatazione può mancare quando non è opportuna o non è possibile (un ospite presente, un superiore a bordo di un autobus che vede un militare in motorino senza casco): il rapporto va fatto comunque, e vi si indicano le ragioni per cui la constatazione non è avvenuta. L'illecito sussiste; la constatazione non è delegabile né sostituibile con una relazione del militare.",
+   "riferimenti": [
+    "COM art. 1397, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 158 (all. 4.A)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-005",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo TAR Friuli-Venezia Giulia, sez. I, 13 marzo 2024, n. 102, la constatazione prevista dall'art. 1397, co. 1, COM:",
+   "opzioni": {
+    "A": "può essere omessa quando il superiore conosce già il trasgressore e il suo reparto",
+    "B": "è adempimento inderogabile anche quando il trasgressore è già identificato dal superiore",
+    "C": "è richiesta soltanto per le mancanze punibili con la consegna di rigore",
+    "D": "è assorbita dalla contestazione degli addebiti, che ne fa le veci a ogni effetto"
+   },
+   "corretta": "B",
+   "spiegazione": "Il TAR ha annullato il rimprovero inflitto a un militare in missione su rapporto di un superiore che non gli aveva fatto constatare la mancanza: la constatazione è inderogabile anche se il trasgressore è identificato, perché la sua omissione priva il militare del contributo partecipativo prima del formale avvio del procedimento. Constatazione e contestazione sono atti distinti, e la prima non si limita alla consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "TAR Friuli-Venezia Giulia, sez. I, 13.3.2024, n. 102"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-006",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "In quale caso la giurisprudenza ha ritenuto non esigibile la constatazione della mancanza da parte del superiore?",
+   "opzioni": {
+    "A": "quando il militare era già noto al superiore che aveva rilevato la mancanza durante il servizio",
+    "B": "quando gli accertamenti erano coperti dal segreto istruttorio dopo la denuncia all'autorità giudiziaria",
+    "C": "quando la mancanza era punibile soltanto con il richiamo e non con sanzioni più gravi",
+    "D": "quando il superiore che aveva rilevato la mancanza era un ufficiale generale di altra Forza armata"
+   },
+   "corretta": "B",
+   "spiegazione": "TAR Friuli-Venezia Giulia, sez. I, 16 gennaio 2026, n. 5 ha respinto il ricorso di un militare cui la mancanza non era stata fatta constatare, perché i fatti erano stati denunciati all'autorità giudiziaria e coperti dal segreto istruttorio. Il fatto che il militare sia già noto non esonera (TAR FVG n. 102/2024); la gravità della mancanza e il grado del superiore non incidono sull'obbligo.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "TAR Friuli-Venezia Giulia, sez. I, 16.1.2026, n. 5"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-007",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un comandante interregionale nota un appuntato senza copricapo, non gli fa constatare la mancanza e ne riferisce a voce al comandante di compagnia, che infligge il rimprovero. Il provvedimento:",
+   "opzioni": {
+    "A": "è legittimo, perché il comandante di compagnia ha comunque contestato l'addebito",
+    "B": "è viziato, perché mancano la constatazione formale e il rapporto scritto",
+    "C": "è legittimo, perché un ufficiale generale può riferire oralmente la mancanza",
+    "D": "è viziato solo se il militare dimostra di non aver compreso l'addebito contestato"
+   },
+   "corretta": "B",
+   "spiegazione": "Cons. Stato, sez. II, parere 4 marzo 2013, n. 973: l'assenza di una formale constatazione e di un rapporto scritto vizia il procedimento disciplinare anche quando l'autorità competente abbia provveduto oralmente alle relative incombenze. La forma scritta del rapporto si desume dall'art. 1397, co. 3, che parla di rapporto «inviato»; i generali inviano il rapporto direttamente al comandante di corpo (co. 6), ma per iscritto.",
+   "riferimenti": [
+    "COM art. 1397, co. 1, 3 e 6",
+    "Cons. Stato, sez. II, parere 4.3.2013, n. 973"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-008",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "A che cosa serve, soprattutto, l'identificazione del trasgressore prevista dall'art. 1397, co. 1, COM?",
+   "opzioni": {
+    "A": "a verificarne i precedenti penali e di polizia, a fini di pubblica sicurezza",
+    "B": "a consentirne il fermo in attesa dell'arrivo del comandante di reparto",
+    "C": "a redigere il verbale di identificazione da allegare alla contestazione degli addebiti",
+    "D": "a conoscerne le generalità e il reparto, per individuare il destinatario del rapporto"
+   },
+   "corretta": "D",
+   "spiegazione": "L'identificazione non ha finalità di pubblica sicurezza: accerta le sommarie generalità (grado, nome e cognome) e il reparto, per sapere a chi inviare il rapporto (superiore competente nella linea, comandante di corpo). Il superiore non ha poteri coattivi di fermo; la contestazione spetta all'autorità competente e non richiede alcun verbale di identificazione.",
+   "riferimenti": [
+    "COM art. 1397, co. 1 e 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 213"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-009",
+   "argomento": "doveri-servizio",
+   "sinossi": "II.10.f",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il militare cui un superiore ha fatto constatare una mancanza, annunciandogli il rapporto, deve informarne il proprio comando. Su quale norma si fonda l'obbligo?",
+   "opzioni": {
+    "A": "sull'art. 748, co. 5, TUROM, che impone di comunicare gli eventi con riflessi sul servizio",
+    "B": "sull'art. 1397, co. 1, COM, che impone al trasgressore di riferire la constatazione",
+    "C": "sull'art. 722 TUROM, che impone di riferire ai superiori ogni fatto riservato",
+    "D": "sull'art. 1398, co. 8, COM, che impone di rendere note le decisioni al compilatore"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 748, co. 5, lett. b), TUROM impone al militare di dare sollecita comunicazione al proprio comando degli eventi in cui è rimasto coinvolto e che possono avere riflessi sul servizio. L'art. 1397 regola gli obblighi del superiore, non del trasgressore; l'art. 722 TUROM riguarda il riserbo; l'art. 1398, co. 8, COM riguarda le comunicazioni al compilatore del rapporto.",
+   "riferimenti": [
+    "TUROM art. 748, co. 5, lett. b)",
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-010",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Il comandante di compagnia che ha ricevuto un rapporto viene trasferito prima di contestare l'addebito. Chi prosegue la pratica?",
+   "opzioni": {
+    "A": "il comandante subentrato nell'incarico, perché la pratica disciplinare segue il militare",
+    "B": "il comandante trasferito, che resta competente fino alla conclusione del procedimento",
+    "C": "il comandante di corpo, che avoca la pratica in ragione del cambio di comandante",
+    "D": "nessuno, finché il compilatore non rinnovi il rapporto indirizzandolo al nuovo comandante"
+   },
+   "corretta": "A",
+   "spiegazione": "La competenza disciplinare è legata all'incarico, non alla persona: il comandante subentrato prende in carico il procedimento (il docente lo chiama «diritto di sequela»: la pratica disciplinare segue il militare). Il trasferito perde la competenza; non vi è avocazione del comandante di corpo né necessità di rinnovare il rapporto, che resta valido.",
+   "riferimenti": [
+    "COM art. 1397, co. 3",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-011",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "In un rapporto disciplinare il superiore scrive che il militare si presentava «in uniforme in disordine». La descrizione:",
+   "opzioni": {
+    "A": "è preferibile, perché evita al compilatore valutazioni troppo minute sul militare",
+    "B": "è necessaria, perché la qualificazione del fatto spetta al compilatore del rapporto",
+    "C": "è insufficiente, perché non indica l'elemento di fatto obiettivo che configura l'infrazione",
+    "D": "è sufficiente, purché il militare sia stato identificato e la mancanza constatata"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1397, co. 2, COM esige ogni elemento di fatto obiettivo utile a configurare esattamente l'infrazione: «uniforme in disordine» può indicare maniche arrotolate, bavero fuori posto, colletto alzato. Si scrive il fatto («camicia con i primi tre bottoni slacciati», «macchia di sugo sul taschino destro»). La qualificazione spetta all'autorità competente, non al compilatore.",
+   "riferimenti": [
+    "COM art. 1397, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 214"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-012",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Indicare nel rapporto che il fatto è avvenuto alla presenza di altri militari:",
+   "opzioni": {
+    "A": "è vietato, perché costituirebbe una proposta implicita sull'entità della sanzione",
+    "B": "è superfluo, perché i testimoni si individuano soltanto con la contestazione degli addebiti",
+    "C": "è necessario soltanto quando il fatto è punibile con la consegna di rigore",
+    "D": "è utile, perché le infrazioni commesse in presenza di altri militari si puniscono con maggior rigore"
+   },
+   "corretta": "D",
+   "spiegazione": "Il rapporto riporta il fatto con tutte le circostanze di tempo, di luogo e di persona: giorno, ora, luogo, presenti. La presenza di altri militari è una circostanza di fatto rilevante, perché l'art. 1355, co. 3, lett. b), COM impone maggior rigore per le infrazioni commesse in presenza di altri militari. Riferire una circostanza di fatto non è una proposta di sanzione.",
+   "riferimenti": [
+    "COM art. 1397, co. 2",
+    "COM art. 1355, co. 3, lett. b)"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 214"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-013",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Perché il rapporto disciplinare non può contenere proposte sulla specie e sull'entità della sanzione?",
+   "opzioni": {
+    "A": "per non condizionare l'autorità competente, cui spetta configurare l'infrazione e scegliere la sanzione",
+    "B": "perché la sanzione può essere proposta soltanto dalla commissione di disciplina, previo parere",
+    "C": "perché la proposta spetta al comandante di corpo, con la nota esplicativa di fine procedimento",
+    "D": "perché il compilatore non ha accesso ai precedenti disciplinari del militare manchevole"
+   },
+   "corretta": "A",
+   "spiegazione": "Il divieto dell'art. 1397, co. 2, COM preserva la libera valutazione dell'autorità competente: la provenienza del rapporto da un superiore, magari di grado elevato, esercita già un'influenza, che una proposta renderebbe esplicita. È l'autorità competente a formulare l'addebito e a scegliere la sanzione. La commissione di disciplina dà pareri nella consegna di rigore e nella disciplina di stato; la nota esplicativa segue la sanzione.",
+   "riferimenti": [
+    "COM art. 1397, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 214"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-014",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Il comandante di compagnia ritiene che la mancanza di un proprio dipendente sia punibile con la consegna di rigore. Come procede?",
+   "opzioni": {
+    "A": "contesta l'addebito e infligge la consegna di rigore, previo parere della commissione",
+    "B": "infligge la consegna nella misura massima e ne informa il comandante di corpo",
+    "C": "archivia il fatto e lo segnala alla procura militare, unica autorità competente",
+    "D": "fa rapporto al comandante di corpo, che è obbligato a instaurare il procedimento"
+   },
+   "corretta": "D",
+   "spiegazione": "La consegna di rigore può essere inflitta esclusivamente dal comandante di corpo (art. 1396, co. 1, COM): il comandante di reparto ai fini disciplinari, non competente per quella sanzione, fa rapporto, e il comandante di corpo è obbligato a instaurare il procedimento (art. 1397, co. 7) secondo l'art. 1399. Sostituire la consegna di rigore con la consegna massima eluderebbe la valutazione dell'autorità competente.",
+   "riferimenti": [
+    "COM art. 1396, co. 1",
+    "COM art. 1397, co. 7",
+    "COM art. 1399"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-015",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 1,
+   "domanda": "Quale dei seguenti superiori è «non competente» ai sensi dell'art. 1397 COM e deve perciò fare rapporto?",
+   "opzioni": {
+    "A": "il comandante di compagnia che rileva una mancanza da rimprovero di un proprio dipendente",
+    "B": "il comandante di sezione che rileva una mancanza punibile con la consegna di rigore",
+    "C": "il comandante di corpo che rileva una mancanza da consegna di rigore di un dipendente",
+    "D": "il superiore della linea gerarchica che rileva una lieve mancanza da richiamo"
+   },
+   "corretta": "B",
+   "spiegazione": "Non competente è sia il superiore estraneo alla linea (competente solo per il richiamo), sia il superiore della linea che non può infliggere la sanzione che il fatto richiede: il comandante di sezione non può infliggere la consegna di rigore, riservata al comandante di corpo (art. 1396, co. 1, COM). Il comandante di compagnia può infliggere il rimprovero (art. 1396, co. 2-3); per il richiamo, il superiore della linea non ha obbligo di rapporto (art. 1359, co. 2).",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1396",
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-016",
+   "argomento": "richiamo",
+   "sinossi": "V.2.a",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il superiore estraneo alla linea gerarchica del militare che gli infligge il richiamo:",
+   "opzioni": {
+    "A": "deve darne comunicazione, perché l'esonero dal rapporto vale solo per il superiore della linea",
+    "B": "non deve comunicare nulla, perché il richiamo non dà luogo a trascrizione né a comunicazioni",
+    "C": "deve fare rapporto disciplinare al comandante di corpo, che conferma o annulla il richiamo",
+    "D": "non può infliggerlo: deve sempre fare rapporto al comandante di reparto del militare"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1359, co. 2, COM: il richiamo può essere inflitto da qualsiasi superiore; «se il superiore è collocato nella linea gerarchica di dipendenza del militare non v'è obbligo di rapporto». Ne segue che il superiore estraneo alla linea comunica il richiamo inflitto: è una comunicazione, non il rapporto disciplinare dell'art. 1397, che precede la punizione. Il richiamo non è trascritto (co. 3), ma ciò non esclude la comunicazione.",
+   "riferimenti": [
+    "COM art. 1359, co. 2-3",
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-017",
+   "argomento": "richiamo",
+   "sinossi": "V.2.a",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Un ufficiale di altro comando, rilevata una lieve mancanza di un carabiniere, gli infligge il richiamo. Quale atto segue?",
+   "opzioni": {
+    "A": "il rapporto disciplinare per via gerarchica al comandante di corpo del militare",
+    "B": "la contestazione degli addebiti da parte del comandante di reparto del militare",
+    "C": "una comunicazione al superiore del militare sul richiamo inflitto e sul suo motivo",
+    "D": "la nota esplicativa dell'ufficiale inviata direttamente al Comando Generale"
+   },
+   "corretta": "C",
+   "spiegazione": "Il rapporto disciplinare precede la punizione ed è fatto da chi non è competente; chi infligge il richiamo ha già punito, e comunica per iscritto al superiore del militare di averlo fatto e per quale motivo (art. 1359, co. 2, COM). Una nuova contestazione da parte del comandante di reparto porterebbe a punire due volte lo stesso fatto.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-018",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Il comandante di compagnia riceve un rapporto palesemente infondato: i militari indossavano la giacca a vento su sua autorizzazione. Come procede?",
+   "opzioni": {
+    "A": "restituisce il rapporto al compilatore senza altri adempimenti, data la scriminante evidente",
+    "B": "conserva il rapporto agli atti senza seguito, essendo l'azione disciplinare discrezionale",
+    "C": "contesta comunque l'addebito, perché il rapporto obbliga sempre a infliggere una sanzione",
+    "D": "redige una valutazione scritta, dispone l'archiviazione e ne informa il comando di corpo"
+   },
+   "corretta": "D",
+   "spiegazione": "L'obbligatorietà dell'azione disciplinare si traduce nell'obbligo di valutare e di dare un esito espresso: anche davanti a una scriminante evidente il destinatario redige una valutazione scritta, archivia e ne informa il comando di corpo, che prende atto. Lasciare il rapporto agli atti senza seguito espone a lamentele del compilatore e a censure di disparità di trattamento; il rapporto non obbliga a punire.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 8"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-019",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Nella prospettiva dell'obbligatorietà dell'azione disciplinare, il superiore che riceve un rapporto disciplinare è obbligato:",
+   "opzioni": {
+    "A": "a valutarlo e a dare alla pratica un esito espresso, positivo o negativo",
+    "B": "ad aprire sempre il procedimento e a infliggere almeno il richiamo",
+    "C": "ad aprire il procedimento solo se il compilatore è un suo superiore gerarchico",
+    "D": "a inoltrarlo al comandante di corpo, unico titolare della valutazione disciplinare"
+   },
+   "corretta": "A",
+   "spiegazione": "Chi fa rapporto non è un quisque de populo: ha già valutato il fatto come disciplinarmente rilevante. Il destinatario non può ignorarlo, ma l'obbligo è di valutare (anche negativamente, archiviando con atto scritto), non di punire. Il grado del compilatore non incide sull'obbligo; il comandante di reparto è titolare della valutazione per le sanzioni di sua competenza.",
+   "riferimenti": [
+    "COM art. 1397, co. 1 e 7",
+    "COM art. 1398, co. 1 e 8"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "lezioni 02-03"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-020",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 3,
+   "domanda": "Secondo l'impostazione del docente, al compilatore del rapporto estraneo alla linea gerarchica del militare si comunica, ai sensi dell'art. 1398, co. 8, COM:",
+   "opzioni": {
+    "A": "la sanzione inflitta e la relativa motivazione, cui ha diritto in quanto compilatore",
+    "B": "nulla, perché la norma è stata superata dalla disciplina sulla protezione dei dati",
+    "C": "l'esito del procedimento, ma soltanto se il militare vi acconsente per iscritto",
+    "D": "che la posizione disciplinare del militare è stata valutata, senza rivelare l'eventuale sanzione"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 1398, co. 8, COM («Le decisioni adottate a seguito di rapporto sono rese note al compilatore») va applicato, ma per il docente al compilatore estraneo alla linea si comunica che la posizione è stata valutata: l'esito riguarda la linea gerarchica e il militare, e la notizia di una punizione tocca la riservatezza, l'onore e la dignità del militare. Esiste un'interpretazione che vi legge l'obbligo di comunicare l'esito; la norma non è abrogata.",
+   "riferimenti": [
+    "COM art. 1398, co. 8"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-021",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Trascorsi due mesi dal rapporto senza alcun riscontro, il compilatore può scrivere all'autorità competente:",
+   "opzioni": {
+    "A": "«si prega di voler sciogliere la riserva di cui all'art. 1398, co. 8, COM»",
+    "B": "«si chiede di conoscere la sanzione inflitta ai sensi dell'art. 1397, co. 7, COM»",
+    "C": "«si diffida l'autorità a concludere il procedimento entro i novanta giorni»",
+    "D": "«si propone, in difetto di diversa valutazione, la sanzione della consegna»"
+   },
+   "corretta": "A",
+   "spiegazione": "Il compilatore ha titolo a conoscere le decisioni adottate (art. 1398, co. 8, COM): nella lettera di trasmissione si indica che si resta in attesa delle valutazioni di cui a quella norma e, in assenza di riscontro, si sollecita lo scioglimento della riserva. L'art. 1397, co. 7, riguarda l'obbligo del comandante di corpo per la consegna di rigore; il compilatore non può diffidare né proporre sanzioni (art. 1397, co. 2).",
+   "riferimenti": [
+    "COM art. 1398, co. 8",
+    "COM art. 1397, co. 2 e 7"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-022",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Nella lettera con cui trasmette il rapporto disciplinare, il compilatore indica opportunamente:",
+   "opzioni": {
+    "A": "la sanzione ritenuta adeguata, per agevolare l'autorità competente",
+    "B": "che si resta in attesa di conoscere le decisioni che saranno adottate",
+    "C": "le norme del TUROM che ritiene violate, ai fini della contestazione",
+    "D": "i precedenti disciplinari del militare, tratti dalla documentazione personale"
+   },
+   "corretta": "B",
+   "spiegazione": "La lettera di trasmissione inoltra il rapporto per le valutazioni di competenza e ricorda l'art. 1398, co. 8, COM: le decisioni adottate sono rese note al compilatore. Proposte di sanzione e valutazioni giuridiche sono escluse dall'art. 1397, co. 2 (la configurazione dell'illecito e l'indicazione delle norme violate spettano all'autorità competente); i precedenti li valuta l'autorità che decide (art. 1355, co. 2).",
+   "riferimenti": [
+    "COM art. 1397, co. 2",
+    "COM art. 1398, co. 8",
+    "COM art. 1355, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 160 (all. 4.B)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-023",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 1,
+   "domanda": "Il comandante del nucleo operativo di una compagnia rileva una mancanza da rimprovero di un militare del proprio nucleo. A chi invia il rapporto?",
+   "opzioni": {
+    "A": "direttamente al comandante della compagnia, reparto comune",
+    "B": "al comandante provinciale, per via gerarchica",
+    "C": "al comandante della Legione, per via gerarchica",
+    "D": "al comandante della stazione capoluogo, per competenza"
+   },
+   "corretta": "A",
+   "spiegazione": "Superiore e militare appartengono allo stesso corpo e allo stesso reparto ai fini disciplinari (la compagnia): il rapporto va direttamente al comandante di reparto comune (art. 1397, co. 3, lett. a), COM), con lettera protocollata. La via gerarchica fino al comandante di corpo vale per i militari di altro reparto (lett. b).",
+   "riferimenti": [
+    "COM art. 1397, co. 3, lett. a)"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-024",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Il comandante di compagnia, in visita a una tenenza retta da un ufficiale, rileva una mancanza da rimprovero di un militare della tenenza. Come procede?",
+   "opzioni": {
+    "A": "chiede al comandante della tenenza di contestare l'addebito, essendone il diretto superiore",
+    "B": "fa rapporto per via gerarchica al comandante di corpo, perché compagnia e tenenza sono reparti diversi",
+    "C": "contesta egli stesso l'addebito, essendo superiore gerarchico del comandante della tenenza",
+    "D": "fa rapporto direttamente al comandante della tenenza, quale comandante di reparto comune"
+   },
+   "corretta": "B",
+   "spiegazione": "Per la circolare sulle autorità competenti, il comandante di tenenza ufficiale è comandante di reparto: compagnia e tenenza sono due reparti diversi dello stesso corpo, e il rapporto va per via gerarchica al comandante di corpo (art. 1397, co. 3, lett. b), COM), che lo valuta e lo trasmette al reparto competente. Il comandante della tenenza non ha percepito il fatto e non può essere «incaricato» di punire; il comandante di compagnia non è comandante di reparto dei militari della tenenza.",
+   "riferimenti": [
+    "COM art. 1397, co. 3, lett. b)",
+    "circ. n. 17/109-2-1996, ed. 2022"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-025",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Nella trasmissione per via gerarchica del rapporto dalla compagnia alla Legione, il comandante provinciale:",
+   "opzioni": {
+    "A": "valuta se la mancanza sia da rimprovero e, in tal caso, la definisce direttamente",
+    "B": "lo ritrasmette senza compiere valutazioni, non essendo l'autorità destinataria",
+    "C": "lo trasmette con il proprio parere sulla sanzione, perché il comandante di corpo ne tenga conto",
+    "D": "può archiviarlo, se ritiene il fatto privo di rilevanza disciplinare"
+   },
+   "corretta": "B",
+   "spiegazione": "Nell'ipotesi dell'art. 1397, co. 3, lett. b), COM le autorità che valutano sono il comandante di corpo e, a scendere, il comandante di reparto competente: i comandi intermedi sono un mero tramite e ritrasmettono senza valutare. Un parere sulla sanzione sarebbe una forma di condizionamento, contraria alla ratio del co. 2 e del co. 3.",
+   "riferimenti": [
+    "COM art. 1397, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-026",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Un militare in licenza in un'altra regione commette una mancanza, rilevata dal comandante della stazione del luogo, che redige una relazione di servizio. Il comandante della compagnia locale:",
+   "opzioni": {
+    "A": "trasmette la relazione al proprio comando di corpo, che scrive al comando di corpo del militare",
+    "B": "fa rapporto disciplinare al comandante di corpo del militare, sulla base della relazione",
+    "C": "contesta l'addebito al militare, essendo il superiore competente per territorio",
+    "D": "trasmette la relazione direttamente al comandante di compagnia del militare"
+   },
+   "corretta": "A",
+   "spiegazione": "Superiore e militare appartengono a corpi diversi: si comunica tra comandi di corpo (art. 1397, co. 5, COM). Il comandante di compagnia non fa rapporto, perché non ha percepito il fatto: il rapporto presuppone la compresenza del superiore e del trasgressore. Non ha potestà sul militare di altro corpo, e non scrive direttamente al reparto di un altro corpo.",
+   "riferimenti": [
+    "COM art. 1397, co. 5"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-027",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Un tenente colonnello dell'Esercito, comandante di battaglione, rileva un'infrazione commessa da un carabiniere. Il rapporto va:",
+   "opzioni": {
+    "A": "tramite il comando di brigata al comando di corpo del carabiniere",
+    "B": "direttamente al comandante di corpo del carabiniere",
+    "C": "al comandante di reparto del carabiniere, per conoscenza al corpo",
+    "D": "al comando di presidio del luogo, per il successivo inoltro"
+   },
+   "corretta": "B",
+   "spiegazione": "L'art. 1397, co. 6, COM: generali, ammiragli, colonnelli, capitani di vascello «e gli ufficiali di grado inferiore investiti delle funzioni di comandante di corpo, anche se di Forza armata o di Corpo armato diversi» inviano il rapporto direttamente al comandante del corpo da cui dipende il militare. Il comandante di battaglione è comandante di corpo. Il comando di presidio riguarda il superiore fuori sede (co. 5).",
+   "riferimenti": [
+    "COM art. 1397, co. 5-6"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-028",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Nel parere sull'affare n. 5000/2012, il Consiglio di Stato ha ritenuto illegittimo il rimprovero inflitto a un comandante di stazione perché:",
+   "opzioni": {
+    "A": "il comandante di compagnia aveva superato il termine di novanta giorni del procedimento",
+    "B": "la motivazione del rimprovero non indicava le norme del TUROM che si assumevano violate",
+    "C": "il comandante del gruppo, non competente, aveva inviato il rapporto al comandante di compagnia",
+    "D": "la mancanza era stata rilevata da un superiore estraneo all'Arma dei Carabinieri"
+   },
+   "corretta": "C",
+   "spiegazione": "Il comandante del gruppo, che non era comandante di reparto ai fini disciplinari del maresciallo (stesso corpo, reparti diversi), avrebbe dovuto indirizzare il rapporto per via gerarchica al comandante di corpo (art. 1397, co. 3, lett. b), COM); averlo inviato al comandante di compagnia costituisce violazione di una garanzia procedurale posta a tutela del militare. La motivazione indicava gli artt. 717 e 729, co. 1, TUROM.",
+   "riferimenti": [
+    "COM art. 1397, co. 3",
+    "Cons. Stato, sez. II, parere sull'affare n. 5000/2012"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-029",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "Perché l'art. 1397, co. 3, lett. b), COM indirizza il rapporto al comandante di corpo quando superiore e militare appartengono a reparti diversi?",
+   "opzioni": {
+    "A": "per accelerare il procedimento, concentrando le decisioni nell'autorità di livello più elevato",
+    "B": "per consentire al comandante di corpo di infliggere comunque la consegna di rigore",
+    "C": "per garantire il segreto sull'identità del superiore che ha rilevato la mancanza",
+    "D": "per far giudicare i fatti al superiore comune, evitando condizionamenti sul comandante di reparto"
+   },
+   "corretta": "D",
+   "spiegazione": "La scelta di destinatari diversi secondo l'inquadramento del militare e del superiore risponde alla ratio di far giudicare i fatti al superiore comune a entrambi, al fine di evitare, per quanto possibile, condizionamenti nell'esercizio del potere sanzionatorio: il comandante di reparto che ricevesse il rapporto di un proprio superiore subirebbe una naturale soggezione gerarchica. La via gerarchica, semmai, allunga i tempi.",
+   "riferimenti": [
+    "COM art. 1397, co. 3",
+    "Cons. Stato, sez. II, parere sull'affare n. 5000/2012"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 215"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-030",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 3,
+   "domanda": "TAR Sicilia, sez. I, 4 luglio 2023, n. 2233 ha ritenuto infondata la censura di violazione dell'art. 1397 COM in un caso in cui il comandante provinciale:",
+   "opzioni": {
+    "A": "aveva inflitto egli stesso la consegna, senza informare il comandante di corpo del militare",
+    "B": "aveva omesso di far constatare la mancanza, pur essendo presente al fatto contestato",
+    "C": "aveva inviato la segnalazione al comandante di compagnia e, con nota distinta, al comandante di corpo",
+    "D": "aveva proposto nel rapporto la sanzione della consegna di rigore al comandante di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "Il comandante provinciale aveva inviato una nota al comandante di compagnia per l'esame disciplinare e una seconda al comandante della Legione, con riserva di comunicare gli esiti: per il TAR la competenza era del comandante di compagnia (art. 1397, co. 3) e non vi era violazione. È un orientamento diverso da quello del parere sull'affare n. 5000/2012 (si trattava, peraltro, di post su un social network, non di un fatto percepito in flagranza).",
+   "riferimenti": [
+    "COM art. 1397, co. 3 e 6",
+    "TAR Sicilia, sez. I, 4.7.2023, n. 2233"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-031",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 2,
+   "domanda": "Secondo Cons. Stato, sez. IV, 20 gennaio 2020, n. 450, la doglianza sulla mancata trasmissione al militare del rapporto dell'art. 1397 COM:",
+   "opzioni": {
+    "A": "comporta sempre l'annullamento, trattandosi di una garanzia procedurale del militare",
+    "B": "rende nullo il procedimento soltanto quando la sanzione è la consegna di rigore",
+    "C": "non inficia la sanzione, se i fatti contestati e non negati hanno consentito una piena difesa",
+    "D": "obbliga l'amministrazione a rinnovare la contestazione entro sessanta giorni"
+   },
+   "corretta": "C",
+   "spiegazione": "Il Consiglio di Stato ha confermato la consegna inflitta a un caporal maggiore che aveva rifiutato un ordine: i fatti, riferiti al comandante di compagnia e contestati, non erano stati specificamente negati e il militare si era difeso con un'articolata memoria, sicché la doglianza «di carattere formale» sul rapporto non poteva inficiare la sanzione. È l'orientamento sostanzialistico, accanto a quello che annulla per violazione della garanzia (parere sull'affare n. 5000/2012).",
+   "riferimenti": [
+    "COM art. 1397",
+    "Cons. Stato, sez. IV, 20.1.2020, n. 450"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-032",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Il comandante di compagnia riceve dal comandante del gruppo un rapporto che andava indirizzato al comandante di corpo. Qual è la condotta più corretta?",
+   "opzioni": {
+    "A": "procedere comunque alla contestazione, perché l'errore di indirizzo è irrilevante",
+    "B": "annullare il rapporto in autotutela e archiviare definitivamente il fatto",
+    "C": "chiedere che il rapporto sia rinnovato e indirizzato correttamente, prima di procedere",
+    "D": "trasmettere il rapporto al militare, invitandolo a eccepire il vizio"
+   },
+   "corretta": "C",
+   "spiegazione": "Procedere su un rapporto indirizzato in violazione dell'art. 1397, co. 3, COM espone la sanzione all'annullamento (parere sull'affare n. 5000/2012). Il docente suggerisce di chiedere al comando da cui proviene di rinnovarlo correttamente, con un nuovo protocollo della stessa pratica: il fatto non va archiviato, perché resta disciplinarmente rilevante, né spetta al comandante sollecitare eccezioni del militare.",
+   "riferimenti": [
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-033",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 1,
+   "domanda": "Come si trasmette il rapporto disciplinare che deve risalire per via gerarchica?",
+   "opzioni": {
+    "A": "con una lettera di trasmissione a parte, che lo inoltra per le valutazioni di competenza",
+    "B": "in busta chiusa e sigillata, indirizzata personalmente al comandante di corpo",
+    "C": "allegandolo alla contestazione degli addebiti già predisposta dal compilatore",
+    "D": "per le vie brevi, salvo conferma scritta entro i trenta giorni successivi"
+   },
+   "corretta": "A",
+   "spiegazione": "Il rapporto ha un solo indirizzo ed è trasmesso con lettera a parte (modello di lettera di trasmissione), protocollata: la busta chiusa non certifica nulla e l'atto potrebbe essere sostituito. Il compilatore non contesta (la contestazione spetta all'autorità competente); il rapporto è sempre scritto (art. 1397, co. 3: «inviato»).",
+   "riferimenti": [
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 160 (all. 4.B)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-034",
+   "argomento": "procedimento-corpo",
+   "sinossi": "V.2.a",
+   "tipo": "confronto",
+   "difficolta": 2,
+   "domanda": "Il superiore che corregge un militare per un comportamento che non costituisce mancanza disciplinare esercita:",
+   "opzioni": {
+    "A": "un richiamo verbale, che non richiede lo svolgimento delle fasi del procedimento",
+    "B": "una constatazione, cui deve seguire in ogni caso il rapporto disciplinare",
+    "C": "un rimprovero orale, da annotare nel memoriale del servizio del reparto",
+    "D": "un'azione di comando, distinta dal richiamo, che presuppone una valutazione disciplinare"
+   },
+   "corretta": "D",
+   "spiegazione": "L'azione di comando (correzione, indirizzo, chiarimento) si esercita quando non vi è mancanza disciplinare; il richiamo è una sanzione, presuppone una valutazione disciplinare e un procedimento, anche orale e rapidissimo, con tutte le fasi dell'art. 1398, co. 2, COM. La constatazione riguarda una mancanza; il rimprovero è sanzione scritta (art. 1398, co. 5).",
+   "riferimenti": [
+    "COM art. 1359",
+    "COM art. 1398, co. 2 e 5"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "lezione 09"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-035",
+   "argomento": "autotutela",
+   "sinossi": "IX.2",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Un superiore di altro comando ha inflitto il richiamo a un militare. Il comandante di reparto del militare, che lo ritiene ingiusto:",
+   "opzioni": {
+    "A": "può annullarlo direttamente, in quanto superiore della linea gerarchica del militare",
+    "B": "può soltanto chiedere all'autore o al suo superiore di valutarne l'annullamento in autotutela",
+    "C": "può sostituirlo con un'altra sanzione, all'esito di un nuovo procedimento",
+    "D": "deve comunque trascriverlo nella documentazione personale del militare"
+   },
+   "corretta": "B",
+   "spiegazione": "Il comandante del militare non è l'autore dell'atto né il suo superiore: può soltanto sollecitare l'autotutela di chi ha inflitto il richiamo o del superiore di questi. Un nuovo procedimento per lo stesso fatto violerebbe il divieto di punire due volte; il richiamo non dà luogo a trascrizione (art. 1359, co. 3, COM). Le pressioni per ottenere l'annullamento possono avere rilievo penale.",
+   "riferimenti": [
+    "COM art. 1359, co. 2-3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-036",
+   "argomento": "rapporti-penale-disciplinare",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 3,
+   "domanda": "Il superiore che minaccia per telefono un ingiusto danno a un inferiore, per indurlo ad annullare un provvedimento disciplinare:",
+   "opzioni": {
+    "A": "non commette reato, perché la minaccia a un inferiore richiede la presenza fisica di questi",
+    "B": "commette soltanto un illecito disciplinare, trattandosi di rapporti interni al servizio",
+    "C": "commette il reato di abuso d'ufficio, per l'ingerenza nel procedimento disciplinare",
+    "D": "può commettere il reato di minaccia a un inferiore, punibile anche se commesso per telefono"
+   },
+   "corretta": "D",
+   "spiegazione": "L'art. 196 c.p.m.p. punisce il militare che minaccia un ingiusto danno a un inferiore in sua presenza e, al terzo comma, lo stesso fatto commesso mediante comunicazione telefonica o con altro mezzo diretto all'inferiore. Il reato di abuso d'ufficio (art. 323 c.p.) è stato abrogato dalla L. 9 agosto 2024, n. 114.",
+   "riferimenti": [
+    "c.p.m.p. art. 196"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-037",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Che cosa accertano, rispettivamente, gli accertamenti preliminari e il procedimento disciplinare?",
+   "opzioni": {
+    "A": "la storicità del fatto, gli uni; la responsabilità disciplinare del militare, l'altro",
+    "B": "la responsabilità del militare, gli uni; la specie della sanzione da infliggere, l'altro",
+    "C": "la competenza dell'autorità, gli uni; la storicità del fatto contestato, l'altro",
+    "D": "l'identità del trasgressore, gli uni; la gravità del fatto rapportato, l'altro"
+   },
+   "corretta": "A",
+   "spiegazione": "Gli accertamenti preliminari, fase pre-procedimentale e riservata, verificano che il fatto storico sia avvenuto (almeno il suo fumus e i suoi contorni); il procedimento, che inizia con la contestazione degli addebiti, accerta in contraddittorio la responsabilità disciplinare del militare per quel fatto. Con il rapporto o con la percezione diretta del competente il fatto si dà per accertato.",
+   "riferimenti": [
+    "COM art. 1398, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 215"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-038",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Le telecamere confermano che un militare era in servizio con la giacca aperta e le scarpe infangate; contestato l'addebito, egli giustifica di aver appena effettuato un inseguimento. Ne segue che:",
+   "opzioni": {
+    "A": "la giustificazione è irrilevante, perché il fatto è documentato dalle telecamere",
+    "B": "gli accertamenti preliminari vanno ripetuti, perché il fatto non è più certo",
+    "C": "il procedimento si estingue, perché il fatto è avvenuto durante il servizio",
+    "D": "il fatto è accertato, ma la giustificazione può escludere la responsabilità disciplinare"
+   },
+   "corretta": "D",
+   "spiegazione": "Il fatto storico è accertato (fase degli accertamenti); la responsabilità si accerta nel procedimento, con l'esame e la valutazione degli elementi contestati e di quelli addotti a giustificazione (art. 1398, co. 2, lett. c), COM): l'inseguimento spiega la condizione dell'uniforme e può escludere la responsabilità. La giustificazione non rimette in discussione la storicità del fatto.",
+   "riferimenti": [
+    "COM art. 1398, co. 2, lett. b)-c)"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-039",
+   "argomento": "richiamo",
+   "sinossi": "VIII.2.a",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Il procedimento che si conclude con il richiamo:",
+   "opzioni": {
+    "A": "comprende tutte le cinque fasi del procedimento, anche se svolte oralmente in pochi istanti",
+    "B": "non richiede la contestazione, essendo il richiamo un mero ammonimento verbale del superiore",
+    "C": "si svolge per iscritto, con un termine di cinque giorni per le giustificazioni del militare",
+    "D": "richiede soltanto la decisione e la sua comunicazione all'interessato, per ragioni di celerità"
+   },
+   "corretta": "A",
+   "spiegazione": "Le cinque fasi (contestazione, giustificazioni, esame e valutazione, decisione, comunicazione) devono esserci in ogni procedimento, anche nel richiamo; l'art. 1398, co. 2, COM ammette che il procedimento si svolga «anche oralmente». Esempio: il superiore fa notare il fatto e ne chiede la ragione, ascolta la giustificazione, valuta e dichiara «le infliggo il richiamo». Una ripresa verbale senza queste fasi non è un richiamo.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1359"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-040",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "normativo",
+   "difficolta": 1,
+   "domanda": "Quale delle seguenti NON è una fase del procedimento disciplinare di corpo elencata dall'art. 1398, co. 2, COM?",
+   "opzioni": {
+    "A": "l'acquisizione delle giustificazioni ed eventuali prove testimoniali",
+    "B": "l'esame e la valutazione degli elementi contestati e addotti",
+    "C": "la comunicazione della decisione all'interessato",
+    "D": "la proposta di sanzione del compilatore del rapporto"
+   },
+   "corretta": "D",
+   "spiegazione": "Le fasi sono: contestazione degli addebiti; acquisizione delle giustificazioni ed eventuali prove testimoniali; esame e valutazione degli elementi contestati e di quelli addotti a giustificazione; decisione; comunicazione all'interessato. Il compilatore del rapporto non può proporre sanzioni (art. 1397, co. 2, COM), e il rapporto si colloca prima del procedimento.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1397, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Sinossi p. 254"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-041",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "La decisione dell'autorità competente che non ritiene di infliggere alcuna sanzione:",
+   "opzioni": {
+    "A": "non è comunicata, perché il procedimento si chiude con l'archiviazione agli atti",
+    "B": "è comunicata per iscritto e motivata, entro i novanta giorni del procedimento",
+    "C": "è comunicata verbalmente e senza ritardo all'interessato",
+    "D": "è comunicata soltanto al compilatore del rapporto, ai sensi dell'art. 1398, co. 8"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1398, co. 4, COM: la decisione dell'autorità competente è comunicata verbalmente senza ritardo all'interessato «anche se l'autorità stessa non ritiene di far luogo all'applicazione di alcuna sanzione». La forma scritta con motivazione è prevista per il provvedimento sanzionatorio diverso dal richiamo (co. 5); al compilatore le decisioni sono rese note (co. 8), ma in aggiunta all'interessato.",
+   "riferimenti": [
+    "COM art. 1398, co. 4-5 e 8"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-042",
+   "argomento": "diritti-generalita",
+   "tipo": "normativo",
+   "difficolta": 2,
+   "domanda": "Il militare richiamato dalla licenza ordinaria per imprescindibili esigenze di impiego ha diritto:",
+   "opzioni": {
+    "A": "a una licenza straordinaria pari ai giorni non goduti, senza alcun rimborso",
+    "B": "al rimborso delle spese anticipate per il periodo non goduto e delle spese di viaggio",
+    "C": "al solo recupero dei giorni di licenza non goduti, da fruire entro l'anno",
+    "D": "a un'indennità forfettaria sostitutiva dei rimborsi, pari a una diaria giornaliera"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1794, co. 2, COM: il richiamo dalla licenza ordinaria per imprescindibili esigenze di impiego comporta il rimborso delle spese anticipate per il periodo non goduto, il trattamento previsto per i servizi isolati fuori sede e il rimborso delle spese di viaggio per il rientro in sede ed eventualmente per il ritorno nella località della licenza. In caso di revoca prima della fruizione si rimborsano le spese del mancato viaggio e soggiorno non altrimenti recuperabili (co. 1).",
+   "riferimenti": [
+    "COM art. 1794"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-043",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Il comandante vuole sentire un militare in licenza su un fatto disciplinarmente rilevante del giorno precedente. Qual è la condotta più corretta?",
+   "opzioni": {
+    "A": "richiamarlo subito dalla licenza, senza rimborso trattandosi di esigenze disciplinari",
+    "B": "rimproverarlo per telefono durante il viaggio, per interrompere tempestivamente l'illecito",
+    "C": "convocarlo al rientro in servizio, non essendovi urgenza che giustifichi l'interruzione della licenza",
+    "D": "contestargli l'addebito per telefono, senza attendere il rientro, per non superare i trenta giorni"
+   },
+   "corretta": "C",
+   "spiegazione": "La contestazione deve avvenire senza ritardo, ma secondo ragionevolezza: la licenza non impedisce di attendere il rientro. Il richiamo dalla licenza è ammesso per imprescindibili esigenze di impiego e comporta i rimborsi (art. 1794 COM). Telefonare a un militare in viaggio per rimproverarlo è inopportuno e rischioso; l'illecito non è più in corso e non vi è nulla da interrompere.",
+   "riferimenti": [
+    "COM art. 1398, co. 1",
+    "COM art. 1794"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-044",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "L'espressione «stai a rapporto» indica:",
+   "opzioni": {
+    "A": "l'apertura del procedimento disciplinare a carico del militare",
+    "B": "l'obbligo del militare di redigere una relazione di servizio",
+    "C": "la notifica al militare del rapporto disciplinare a suo carico",
+    "D": "la convocazione del militare presso il superiore per conferire con lui"
+   },
+   "corretta": "D",
+   "spiegazione": "«Stare a rapporto» significa essere convocati dal superiore per conferire; non ha nulla a che vedere con il rapporto disciplinare dell'art. 1397 COM, che è l'atto scritto del superiore non competente, indirizzato all'autorità competente e non notificato al militare. Il procedimento si apre con la contestazione degli addebiti.",
+   "riferimenti": [
+    "COM art. 1397"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-045",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 2,
+   "domanda": "Per un fatto della disciplina di corpo scoperto alcuni anni dopo, l'autorità competente:",
+   "opzioni": {
+    "A": "non può procedere, perché il potere disciplinare di corpo si prescrive in due anni",
+    "B": "deve infliggere almeno il richiamo, in ossequio all'obbligatorietà dell'azione",
+    "C": "deve rimettere gli atti al procedimento di stato, l'unico ancora esperibile",
+    "D": "deve aprire il procedimento, ma valutare se la sanzione conservi una funzione correttiva"
+   },
+   "corretta": "D",
+   "spiegazione": "Il potere disciplinare di corpo non si prescrive e il procedimento va aperto (l'obbligo è di valutare, non di punire), ma il docente richiama il diritto all'oblio: punire dopo anni un militare che ha un altro incarico, in un'altra sede e con un'altra maturità non ha funzione correttiva. Il procedimento di stato ha presupposti propri e non è un ripiego per i fatti risalenti.",
+   "riferimenti": [
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "lezione 11"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-046",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "Secondo l'impostazione del docente, il superiore che rileva una mancanza può fotografare il militare per documentarla?",
+   "opzioni": {
+    "A": "no: la constatazione si fonda sulla parola del superiore; diverso è fotografare un veicolo per identificarlo",
+    "B": "sì, perché la fotografia rende superflua la constatazione e l'identificazione del trasgressore",
+    "C": "sì, purché la fotografia sia allegata al rapporto e notificata al militare con la contestazione",
+    "D": "no, salvo che il militare rifiuti di farsi identificare, nel qual caso la foto sostituisce le generalità"
+   },
+   "corretta": "A",
+   "spiegazione": "Per il docente il superiore ha visto, e ciò basta: la sua parola fa fede, perché ha il dovere di riferire il vero. Ammettere la fotografia legittimerebbe la registrazione da parte del militare e la presenza di testimoni di parte. Altro è fotografare un'auto in sosta in uno spazio riservato, per identificarne il proprietario. Il rifiuto di farsi identificare ha conseguenze penali, non si supera con una foto.",
+   "riferimenti": [
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-047",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 2,
+   "domanda": "Come si fa, di regola, la constatazione della mancanza?",
+   "opzioni": {
+    "A": "per iscritto, con atto notificato al militare entro ventiquattro ore",
+    "B": "davanti al reparto, perché abbia anche funzione di esempio",
+    "C": "chiamando il militare in disparte, senza rimproverarlo davanti ad altri",
+    "D": "per telefono, tramite il comandante di reparto del militare"
+   },
+   "corretta": "C",
+   "spiegazione": "La constatazione è una presa d'atto fatta di persona, nell'immediatezza: il superiore chiama il militare in disparte e lo invita a trattenersi un momento; il superiore deve evitare, di massima, di richiamare in pubblico il militare (art. 725, co. 2, lett. b), TUROM). Non richiede atti scritti; la constatazione telefonica è possibile ma sconsigliabile e, comunque, non passa per il comandante di reparto.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "TUROM art. 725, co. 2, lett. b)"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-048",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "confronto",
+   "difficolta": 3,
+   "domanda": "Per l'ipotesi dell'art. 1397, co. 3, lett. b), COM (militare di altro reparto dello stesso corpo), la Guida tecnica «Procedure disciplinari» prevede che il rapporto sia inviato:",
+   "opzioni": {
+    "A": "soltanto al comandante di reparto del trasgressore, per conoscenza al comandante di corpo",
+    "B": "soltanto al comandante di corpo, che lo trasmette poi al comandante di reparto competente",
+    "C": "per via gerarchica al comandante di corpo e, contestualmente, al comandante di reparto competente",
+    "D": "al comando di presidio del luogo, che lo inoltra al comandante di corpo del trasgressore"
+   },
+   "corretta": "C",
+   "spiegazione": "Il modello di lettera di trasmissione della Guida (all. 4.B) prevede, per le mancanze non punibili con la consegna di rigore, l'invio per via gerarchica al comandante di corpo e contestualmente al comandante di reparto con competenza disciplinare, che procede senza ritardo salvo diverso avviso del comandante di corpo. Secondo il docente, conforme alla lettera della norma, il rapporto va soltanto al comandante di corpo, che lo trasmette a scendere: due soluzioni da conoscere entrambe.",
+   "riferimenti": [
+    "COM art. 1397, co. 3, lett. b)"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica pp. 159-160 (all. 4.A-4.B)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-049",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 2,
+   "domanda": "Come si individuano, per un militare dell'Arma, il comandante di reparto ai fini disciplinari e il comandante di corpo destinatari del rapporto?",
+   "opzioni": {
+    "A": "in base a quanto dichiara il militare al superiore che procede all'identificazione",
+    "B": "con l'ordine di servizio del comando presso cui presta servizio il superiore",
+    "C": "con la circolare del Comando Generale sulle autorità cui compete la potestà sanzionatoria",
+    "D": "in base all'organigramma riportato nel memoriale di servizio del reparto"
+   },
+   "corretta": "C",
+   "spiegazione": "Chi siano, per ciascun militare, il comandante di reparto e il comandante di corpo lo stabilisce la circolare del Comando Generale «Autorità alle quali compete la potestà sanzionatoria» (circ. n. 17/109-2-1996, ed. 2022): il militare potrebbe non sapere a quale reparto ci si riferisce. Nell'organizzazione territoriale sono comandanti di corpo, tra gli altri, il Comandante della Legione; comandanti di reparto il Comandante di Compagnia e il Comandante di Tenenza ufficiale.",
+   "riferimenti": [
+    "circ. n. 17/109-2-1996, ed. 2022",
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-050",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 1,
+   "domanda": "Tra il rapporto «senza ritardo» e la «tempestiva instaurazione» del procedimento disciplinare si colloca:",
+   "opzioni": {
+    "A": "la fase delle giustificazioni del militare",
+    "B": "il parere della commissione di disciplina",
+    "C": "la fase, eventuale, degli accertamenti preliminari",
+    "D": "la nota esplicativa al comando di corpo"
+   },
+   "corretta": "C",
+   "spiegazione": "L'art. 1397, co. 1, COM impone il rapporto senza ritardo allo scopo di consentire la tempestiva instaurazione del procedimento: in mezzo si collocano, se c'è qualcosa da definire, gli accertamenti preliminari dell'autorità competente. Le giustificazioni appartengono al procedimento; la nota esplicativa ne segue la conclusione; la commissione di disciplina interviene nella consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-051",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 2,
+   "domanda": "La sequenza constatazione, identificazione, rapporto dell'art. 1397 COM presuppone:",
+   "opzioni": {
+    "A": "che il militare abbia già ammesso la mancanza davanti al superiore",
+    "B": "che il superiore appartenga alla linea gerarchica del militare",
+    "C": "che la mancanza sia punibile almeno con la sanzione del rimprovero",
+    "D": "la compresenza del superiore e del militare al momento del fatto"
+   },
+   "corretta": "D",
+   "spiegazione": "Le incombenze del superiore non competente presuppongono una situazione di immediatezza: la compresenza del superiore e del trasgressore. Quando il superiore apprende il fatto per altra via (stampa, segnalazione, relazione di altri) non vi è rapporto in senso proprio, ma una segnalazione all'autorità competente. Il rapporto può farlo anche un superiore estraneo alla linea, e serve per mancanze che vanno oltre il richiamo che egli potrebbe infliggere, non necessariamente da rimprovero.",
+   "riferimenti": [
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-052",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 3,
+   "domanda": "Il comandante provinciale apprende da un articolo di stampa la condotta scorretta di un militare di una stazione. Che cosa redige?",
+   "opzioni": {
+    "A": "una segnalazione all'autorità competente per le sue valutazioni, non un rapporto disciplinare",
+    "B": "un rapporto disciplinare, previa constatazione telefonica della mancanza al militare",
+    "C": "la contestazione degli addebiti, essendo superiore gerarchico del militare",
+    "D": "nulla, perché le fonti non qualificate non hanno alcun rilievo disciplinare"
+   },
+   "corretta": "A",
+   "spiegazione": "Il rapporto disciplinare presuppone che il superiore abbia percepito direttamente il fatto, in compresenza con il trasgressore: qui manca. La notizia di stampa è una fonte non qualificata, che va trasmessa all'autorità competente perché la accerti; non è irrilevante. Il comandante provinciale non è comandante di reparto ai fini disciplinari del militare di stazione e non può contestare.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "lezione 10"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-053",
+   "argomento": "richiamo",
+   "sinossi": "V.2.a",
+   "tipo": "caso_pratico",
+   "difficolta": 2,
+   "domanda": "Il comandante di sezione vede un proprio dipendente appisolato in servizio e ritiene sufficiente il richiamo. Come procede?",
+   "opzioni": {
+    "A": "fa rapporto al comandante di compagnia, unico competente nei confronti dei dipendenti",
+    "B": "contesta direttamente l'addebito e, sentite le giustificazioni, decide, senza rapporto né accertamenti",
+    "C": "dispone accertamenti preliminari per trenta giorni, prima di poter contestare l'addebito",
+    "D": "fa constatare la mancanza e ne riferisce per iscritto al comandante di corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Il superiore della linea che ritiene sufficiente il richiamo è competente (art. 1359, co. 2, COM: «non v'è obbligo di rapporto»): non applica l'art. 1397, ma procede direttamente secondo l'art. 1398, anche oralmente; il fatto, avvenuto sotto i suoi occhi, non richiede accertamenti preliminari. Farebbe rapporto solo se ritenesse necessaria una sanzione più grave.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E001",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il superiore non competente constata la mancanza e la contesta",
+    "B": "il superiore non competente contesta l'addebito e acquisisce le giustificazioni",
+    "C": "il superiore non competente rileva la mancanza e la fa constatare",
+    "D": "il superiore competente deve sempre fare rapporto prima delle contestazioni"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1397, co. 1, COM: il superiore non competente «rileva» e «fa constatare» la mancanza, identifica il trasgressore e fa rapporto. Contestare e acquisire le giustificazioni sono fasi del procedimento, riservate all'autorità competente (art. 1398, co. 2). Il superiore competente non fa rapporto: procede direttamente alle contestazioni (salvo il caso della consegna di rigore, per cui non è competente).",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E002",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "istituto-vicino"
+   ],
+   "domanda": "La constatazione della mancanza serve anzitutto a:",
+   "opzioni": {
+    "A": "aprire il procedimento disciplinare",
+    "B": "fissare il thema decidendum",
+    "C": "acquisire le giustificazioni",
+    "D": "interrompere l'illecito"
+   },
+   "corretta": "D",
+   "spiegazione": "La constatazione fa cessare la mancanza (parallelo con l'arresto in flagranza) e rende il militare consapevole. Aprire il procedimento e fissarne l'oggetto (thema decidendum) sono funzioni della contestazione degli addebiti; le giustificazioni si acquisiscono nella seconda fase del procedimento (art. 1398, co. 2, lett. b), COM): sono tutte funzioni dell'istituto vicino.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E003",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "qualifica",
+    "nome-esatto"
+   ],
+   "domanda": "L'assenza di una formale constatazione nell'immediatezza dei fatti costituisce:",
+   "opzioni": {
+    "A": "eccesso di potere",
+    "B": "incompetenza relativa",
+    "C": "violazione di legge",
+    "D": "mera irregolarità"
+   },
+   "corretta": "C",
+   "spiegazione": "Per l'orientamento recepito dalle istruzioni dell'Amministrazione (Cons. Stato, sez. II, parere n. 973/2013), quando superiore e trasgressore sono presenti l'omessa constatazione è violazione di legge, vizio tipico dell'atto amministrativo, idonea a inficiare il procedimento. Non è un'incompetenza (il vizio riguarda la sequenza degli adempimenti, non l'autorità) né, secondo questo orientamento, una mera irregolarità; vi sono pronunce che la ritengono non esigibile in casi particolari (TAR FVG n. 5/2026).",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "Cons. Stato, sez. II, parere 4.3.2013, n. 973"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E004",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi"
+   ],
+   "domanda": "Quale pronuncia afferma che la constatazione è inderogabile anche se il trasgressore è già identificato?",
+   "opzioni": {
+    "A": "TAR FVG 5/2026",
+    "B": "TAR FVG 102/2024",
+    "C": "CdS 450/2020",
+    "D": "TAR Sicilia 2233/2023"
+   },
+   "corretta": "B",
+   "spiegazione": "TAR Friuli-Venezia Giulia, sez. I, 13.3.2024, n. 102: la constatazione è inderogabile anche se il trasgressore è identificato. Gli altri estremi sono veri ma di segno o tema diverso: TAR FVG n. 5/2026 ha ritenuto non esigibile la constatazione per il segreto istruttorio; Cons. Stato, sez. IV, n. 450/2020 non annulla per la mancata trasmissione del rapporto se il militare si è difeso; TAR Sicilia n. 2233/2023 riguarda i destinatari del rapporto.",
+   "riferimenti": [
+    "TAR Friuli-Venezia Giulia, sez. I, 13.3.2024, n. 102"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E005",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi"
+   ],
+   "domanda": "Quale pronuncia ha ritenuto non esigibile la constatazione per il segreto istruttorio?",
+   "opzioni": {
+    "A": "TAR FVG 102/2024",
+    "B": "TAR FVG 580/2006",
+    "C": "CdS 973/2013",
+    "D": "TAR FVG 5/2026"
+   },
+   "corretta": "D",
+   "spiegazione": "TAR Friuli-Venezia Giulia, sez. I, 16.1.2026, n. 5: i fatti erano stati denunciati all'autorità giudiziaria e gli accertamenti erano coperti dal segreto istruttorio, sicché la constatazione non era esigibile. Le altre tre pronunce affermano il valore della constatazione: TAR FVG n. 102/2024 (inderogabile anche con trasgressore identificato), TAR FVG n. 580/2006 (l'omissione vizia gli atti successivi), Cons. Stato n. 973/2013 (vizio anche se l'autorità ha provveduto oralmente).",
+   "riferimenti": [
+    "TAR Friuli-Venezia Giulia, sez. I, 16.1.2026, n. 5"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E006",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "rinvio",
+    "premessa-vera"
+   ],
+   "domanda": "Il rapporto disciplinare deve essere scritto perché:",
+   "opzioni": {
+    "A": "deve essere notificato al manchevole",
+    "B": "deve indicare le norme violate",
+    "C": "lo impone il Regolamento generale dell'Arma",
+    "D": "la norma prevede che sia inviato"
+   },
+   "corretta": "D",
+   "spiegazione": "L'obbligo della forma scritta si desume dall'art. 1397, co. 3, COM, che parla di rapporto «inviato» (Cons. Stato, sez. II, n. 973/2013: il rapporto orale vizia il procedimento). Il rapporto non si notifica al manchevole e non indica le norme violate, che spetta all'autorità competente individuare; il Regolamento generale dell'Arma non è la fonte dell'obbligo.",
+   "riferimenti": [
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "Guida tecnica p. 146"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E007",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "variante-minima"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il rapporto indica ogni elemento di fatto obiettivo",
+    "B": "il rapporto non contiene proposte sulla sanzione",
+    "C": "il rapporto è redatto con chiarezza e concisione, riferendo solo i fatti",
+    "D": "il rapporto può proporre la specie della sanzione, ma non l'entità"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1397, co. 2, COM: il rapporto indica con chiarezza e concisione ogni elemento di fatto obiettivo utile a configurare esattamente l'infrazione e «non deve contenere proposte relative alla specie e alla entità della sanzione». Il divieto riguarda entrambe: è falsa l'affermazione che ammette la proposta sulla specie.",
+   "riferimenti": [
+    "COM art. 1397, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E008",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "Superiore e manchevole appartengono allo stesso corpo ma a reparti diversi: il rapporto va",
+   "opzioni": {
+    "A": "direttamente al Comandante di Corpo",
+    "B": "per via gerarchica al Comandante di Corpo",
+    "C": "per via gerarchica al Comandante di Reparto",
+    "D": "direttamente al Comandante di Reparto del manchevole"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1397, co. 3, lett. b), COM: «per via gerarchica al comandante del corpo, se trattasi di militare di altro reparto». L'invio diretto al comandante di corpo spetta ai generali, ai colonnelli e agli ufficiali comandanti di corpo (co. 6); l'invio diretto al comandante di reparto vale quando questi è comune ai due militari (lett. a). Il caso del parere sull'affare n. 5000/2012: il rapporto inviato alla compagnia anziché al corpo è stato causa di annullamento.",
+   "riferimenti": [
+    "COM art. 1397, co. 3 e 6"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E009",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "istituto-vicino",
+    "assoluti"
+   ],
+   "domanda": "Superiore e manchevole appartengono a corpi diversi: il rapporto va",
+   "opzioni": {
+    "A": "tramite il proprio comando di corpo a quello del manchevole",
+    "B": "tramite il proprio comando di corpo al Comandante di Reparto del manchevole",
+    "C": "tramite il proprio comando di corpo al Comando Generale dell'Arma",
+    "D": "tramite il proprio Comandante di Reparto al Comandante di Reparto del manchevole"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1397, co. 5, COM: negli altri casi (corpi diversi) il superiore, tramite il proprio comando di corpo o ente, invia il rapporto al comando di corpo da cui il trasgressore dipende; se si trova fuori dalla propria sede presenta il rapporto, per l'inoltro, al locale comando di presidio. Il Comando Generale non è destinatario del rapporto, e tra corpi diversi non si scrive da reparto a reparto.",
+   "riferimenti": [
+    "COM art. 1397, co. 5"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E010",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "assoluti",
+    "variante-minima"
+   ],
+   "domanda": "Inviano il rapporto direttamente al Comandante di Corpo del manchevole:",
+   "opzioni": {
+    "A": "anche i tenenti colonnelli comandanti di battaglione",
+    "B": "solo i generali e gli ammiragli",
+    "C": "solo i colonnelli e i generali, non gli ufficiali di grado inferiore",
+    "D": "tutti gli ufficiali superiori"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1397, co. 6, COM: generali, ammiragli, colonnelli, capitani di vascello e ufficiali di grado inferiore investiti delle funzioni di comandante di corpo, anche di altra Forza armata. Il tenente colonnello comandante di battaglione è comandante di corpo; non tutti gli ufficiali superiori (un maggiore non comandante di corpo segue le regole ordinarie). L'avverbio «anche» è qui nell'esatta.",
+   "riferimenti": [
+    "COM art. 1397, co. 6"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E011",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni"
+   ],
+   "domanda": "Il compilatore del rapporto disciplinare:",
+   "opzioni": {
+    "A": "deve proporre l'entità della sanzione",
+    "B": "ha titolo a conoscere le decisioni adottate",
+    "C": "deve contestare l'addebito al manchevole dopo la constatazione",
+    "D": "non ha titolo a conoscere alcuna decisione"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1398, co. 8, COM: le decisioni adottate a seguito di rapporto sono rese note al compilatore. Il compilatore non propone sanzioni (art. 1397, co. 2) e non contesta (la contestazione spetta all'autorità competente). Sul contenuto della comunicazione (valutazione o esito) v. la posizione del docente.",
+   "riferimenti": [
+    "COM art. 1398, co. 8",
+    "COM art. 1397, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E012",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente"
+   ],
+   "domanda": "Secondo il docente, al compilatore estraneo alla linea gerarchica si comunica:",
+   "opzioni": {
+    "A": "la sanzione inflitta e la motivazione del provvedimento",
+    "B": "copia del provvedimento notificato",
+    "C": "che la posizione disciplinare è stata valutata",
+    "D": "nulla, salvo sua richiesta scritta"
+   },
+   "corretta": "C",
+   "spiegazione": "Per il docente l'art. 1398, co. 8, COM va applicato comunicando che la posizione del militare è stata valutata, senza rivelare l'esito: la sanzione riguarda la linea gerarchica e il militare, e la sua diffusione lede riservatezza, onore e dignità. Se il compilatore è della linea, lo si informa dell'esito. La comunicazione non dipende da una richiesta (ma il compilatore può sollecitarla: «si prega di voler sciogliere la riserva…»).",
+   "riferimenti": [
+    "COM art. 1398, co. 8"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E013",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "nome-esatto"
+   ],
+   "domanda": "Il cosiddetto «diritto di sequela» indica che:",
+   "opzioni": {
+    "A": "la pratica disciplinare segue il militare",
+    "B": "il rapporto segue il compilatore trasferito",
+    "C": "la sanzione segue il militare anche in congedo",
+    "D": "il ricorso segue l'autorità che ha punito"
+   },
+   "corretta": "A",
+   "spiegazione": "Con l'espressione il docente indica che, cambiato il comandante (ad esempio per i trasferimenti estivi), il procedimento è seguito dal comandante subentrato: la pratica segue il militare, non la persona del comandante. Gli altri significati sono inventati sulla stessa parola.",
+   "riferimenti": [
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E014",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "istituto-vicino"
+   ],
+   "domanda": "Il Comandante Provinciale che riceve il rapporto da inoltrare alla Legione:",
+   "opzioni": {
+    "A": "lo valuta e lo definisce se è da rimprovero",
+    "B": "lo trasmette con il proprio parere",
+    "C": "lo trasmette senza valutarlo",
+    "D": "lo restituisce se manca la constatazione"
+   },
+   "corretta": "C",
+   "spiegazione": "Nella via gerarchica dell'art. 1397, co. 3, lett. b), COM i comandi intermedi sono un mero tramite: le autorità che valutano sono il Comandante di Corpo e, a scendere, il Comandante di Reparto competente. Un parere sulla sanzione sarebbe un condizionamento, che la norma vuole evitare; non spetta al tramite sindacare la constatazione.",
+   "riferimenti": [
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E015",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "premessa-vera"
+   ],
+   "domanda": "Il comandante di gruppo inviò il rapporto al comandante di compagnia anziché al Comandante di Corpo. Il CdS:",
+   "opzioni": {
+    "A": "confermò il rimprovero, trattandosi di mera irregolarità di forma",
+    "B": "annullò il rimprovero per tardività della contestazione",
+    "C": "dichiarò inammissibile il ricorso per difetto del gerarchico",
+    "D": "annullò il rimprovero per l'errata trasmissione del rapporto"
+   },
+   "corretta": "D",
+   "spiegazione": "È il parere sull'affare n. 5000/2012 letto in aula: stesso corpo, reparti diversi, il rapporto doveva andare per via gerarchica al Comandante di Corpo, superiore comune, per evitare condizionamenti; la violazione tocca una garanzia procedurale posta a tutela del militare e il rimprovero è stato annullato. L'orientamento che considera l'errore di forma irrilevante quando il militare si è difeso (CdS 450/2020) riguarda un caso diverso.",
+   "riferimenti": [
+    "COM art. 1397, co. 3",
+    "Cons. Stato, sez. II, parere sull'affare n. 5000/2012"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E016",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "distinzione",
+    "estremi"
+   ],
+   "domanda": "Per TAR Sicilia 2233/2023, la nota del Comandante Provinciale alla compagnia e, a parte, alla Legione:",
+   "opzioni": {
+    "A": "non viola l'art. 1397",
+    "B": "viola l'art. 1397, co. 6",
+    "C": "è nulla per omessa constatazione",
+    "D": "vale come contestazione degli addebiti"
+   },
+   "corretta": "A",
+   "spiegazione": "Il TAR ha ritenuto infondata la censura: competente era il Comandante di Compagnia (art. 1397, co. 3, COM) e il Comandante di Corpo era stato informato con nota separata. Orientamento diverso da quello del parere sull'affare n. 5000/2012; si trattava di fatti non percepiti in flagranza (post su un social network), per i quali non vi era stata constatazione. Una nota di segnalazione non è una contestazione.",
+   "riferimenti": [
+    "COM art. 1397, co. 3 e 6",
+    "TAR Sicilia, sez. I, 4.7.2023, n. 2233"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E017",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "assoluti",
+    "distinzione"
+   ],
+   "domanda": "Per CdS 450/2020, la mancata trasmissione al militare del rapporto disciplinare:",
+   "opzioni": {
+    "A": "non vizia la sanzione",
+    "B": "vizia sempre la sanzione",
+    "C": "vizia solo la consegna di rigore",
+    "D": "impone di rinnovare la contestazione"
+   },
+   "corretta": "A",
+   "spiegazione": "Cons. Stato, sez. IV, 20.1.2020, n. 450: la doglianza «di carattere formale» sul rapporto dell'art. 1397 COM non può inficiare la sanzione quando i fatti, contestati, non sono stati negati e il militare si è difeso con un'articolata memoria. È l'orientamento sostanzialistico, che non contraddice quello sul rapporto mal indirizzato (affare n. 5000/2012), dove era violata la garanzia del superiore comune.",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 20.1.2020, n. 450"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E018",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "distinzione"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "gli accertamenti preliminari riguardano la responsabilità del militare",
+    "B": "gli accertamenti preliminari sono sempre necessari",
+    "C": "gli accertamenti preliminari riguardano la storicità del fatto",
+    "D": "il procedimento inizia con il rapporto disciplinare"
+   },
+   "corretta": "C",
+   "spiegazione": "Gli accertamenti preliminari verificano il fatto storico (il suo fumus); la responsabilità si accerta nel procedimento, che inizia con la contestazione degli addebiti, non con il rapporto. Gli accertamenti non sono sempre necessari: non servono quando il competente ha percepito il fatto o quando il rapporto non lascia nulla da definire.",
+   "riferimenti": [
+    "COM art. 1398, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E019",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima",
+    "istituto-vicino"
+   ],
+   "domanda": "Il Comandante di Reparto ai fini disciplinari che assiste personalmente a una mancanza da rimprovero:",
+   "opzioni": {
+    "A": "fa rapporto al Comandante di Corpo",
+    "B": "procede sempre direttamente alle contestazioni",
+    "C": "svolge prima gli accertamenti preliminari",
+    "D": "la fa constatare e poi ne fa rapporto"
+   },
+   "corretta": "B",
+   "spiegazione": "Il superiore competente non applica l'art. 1397 COM (che riguarda il non competente): il fatto storico è avvenuto sotto i suoi occhi e non vi è nulla da accertare, sicché contesta direttamente l'addebito (art. 1398, co. 2, lett. a). Farebbe rapporto al Comandante di Corpo solo per una mancanza da consegna di rigore, per cui non è competente.",
+   "riferimenti": [
+    "COM art. 1397, co. 1 e 7",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E020",
+   "argomento": "richiamo",
+   "sinossi": "VIII.2.a",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "assoluti",
+    "variante-minima"
+   ],
+   "domanda": "Il procedimento che si conclude con il richiamo:",
+   "opzioni": {
+    "A": "comprende sempre tutte le cinque fasi, anche oralmente",
+    "B": "non richiede le contestazioni",
+    "C": "si svolge solo per iscritto",
+    "D": "comprende solo la decisione e la sua comunicazione, anche oralmente"
+   },
+   "corretta": "A",
+   "spiegazione": "Le cinque fasi dell'art. 1398, co. 2, COM devono esserci anche nel richiamo; il procedimento si svolge «anche oralmente» e può durare pochi istanti (contestazione, giustificazioni, valutazione, decisione, comunicazione). Una ripresa verbale priva di queste fasi non è un richiamo.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1359"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E021",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.a",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "nome-esatto",
+    "istituto-vicino"
+   ],
+   "domanda": "Non è una fase del procedimento disciplinare di corpo:",
+   "opzioni": {
+    "A": "la constatazione",
+    "B": "la decisione",
+    "C": "la comunicazione all'interessato",
+    "D": "l'esame e la valutazione"
+   },
+   "corretta": "A",
+   "spiegazione": "Le fasi dell'art. 1398, co. 2, COM sono contestazione degli addebiti, acquisizione delle giustificazioni ed eventuali prove testimoniali, esame e valutazione, decisione, comunicazione all'interessato. La constatazione è un adempimento del superiore non competente (art. 1397, co. 1), anteriore al procedimento: il nome somiglia a «contestazione», ma l'istituto è un altro.",
+   "riferimenti": [
+    "COM art. 1398, co. 2",
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E022",
+   "argomento": "richiamo",
+   "sinossi": "V.2.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "rinvio",
+    "variante-minima"
+   ],
+   "domanda": "Il superiore estraneo alla linea gerarchica che infligge il richiamo:",
+   "opzioni": {
+    "A": "fa rapporto disciplinare",
+    "B": "ne dà comunicazione",
+    "C": "non comunica nulla",
+    "D": "chiede la ratifica al Comandante di Corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1359, co. 2, COM: il richiamo può essere inflitto da qualsiasi superiore; solo per il superiore della linea «non v'è obbligo di rapporto». Il superiore estraneo comunica dunque il richiamo inflitto: è una comunicazione, non il rapporto disciplinare dell'art. 1397, che precede la punizione. Il richiamo non richiede ratifiche.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E023",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "caso_pratico",
+   "difficolta": 4,
+   "trappole": [
+    "nome-esatto",
+    "rinvio"
+   ],
+   "domanda": "Il militare che, dopo la constatazione, non interrompe la mancanza commette:",
+   "opzioni": {
+    "A": "insubordinazione",
+    "B": "abbandono di posto",
+    "C": "rifiuto d'indicazioni sull'identità",
+    "D": "disobbedienza"
+   },
+   "corretta": "D",
+   "spiegazione": "L'intimazione a ricomporsi è un ordine attinente alla disciplina: il rifiuto integra la disobbedienza (art. 173 c.p.m.p.). L'insubordinazione richiede violenza, minaccia o ingiuria al superiore; l'abbandono di posto riguarda il servizio armato o la consegna; il rifiuto d'indicazioni sull'identità (art. 651 c.p.) riguarda le generalità, non la cessazione della mancanza.",
+   "riferimenti": [
+    "c.p.m.p. art. 173",
+    "COM art. 1397, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E024",
+   "argomento": "diritti-generalita",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "assoluti",
+    "variante-minima"
+   ],
+   "domanda": "Il richiamo dalla licenza ordinaria per imprescindibili esigenze di impiego comporta:",
+   "opzioni": {
+    "A": "la sola restituzione dei giorni non goduti",
+    "B": "una licenza straordinaria compensativa",
+    "C": "il rimborso delle spese di viaggio e di quelle anticipate",
+    "D": "nessun ristoro, trattandosi di un dovere connesso allo stato di militare"
+   },
+   "corretta": "C",
+   "spiegazione": "Art. 1794, co. 2, COM: rimborso delle spese anticipate per il periodo di licenza non goduto, trattamento previsto per i servizi isolati fuori sede, rimborso delle spese di viaggio per il rientro in sede ed eventualmente per il ritorno nella località della licenza. Per questo il docente sconsiglia di revocare o interrompere una licenza per un fatto disciplinare di scarso rilievo: si convoca il militare al rientro.",
+   "riferimenti": [
+    "COM art. 1794"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E025",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "assoluti"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il rapporto si trasmette con una lettera a parte, sempre protocollata",
+    "B": "il rapporto può essere orale, se confermato entro trenta giorni",
+    "C": "il rapporto non si invia in busta chiusa al destinatario",
+    "D": "il rapporto si fa senza ritardo dopo la constatazione"
+   },
+   "corretta": "B",
+   "spiegazione": "Il rapporto è sempre scritto (art. 1397, co. 3, COM: «inviato»; Cons. Stato, sez. II, n. 973/2013): nessuna conferma successiva sana il rapporto orale. Si fa senza ritardo (co. 1), si trasmette con lettera a parte e, secondo il docente, protocollato e non in busta chiusa, che non certifica nulla.",
+   "riferimenti": [
+    "COM art. 1397, co. 1 e 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E026",
+   "argomento": "azione-disciplinare",
+   "sinossi": "VII.2.a",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "assoluti"
+   ],
+   "domanda": "Il rapporto ricevuto e ritenuto palesemente infondato:",
+   "opzioni": {
+    "A": "si restituisce al compilatore",
+    "B": "si conserva agli atti senza seguito",
+    "C": "obbliga comunque ad aprire il procedimento con le contestazioni",
+    "D": "si archivia sempre con una valutazione scritta"
+   },
+   "corretta": "D",
+   "spiegazione": "L'obbligatorietà dell'azione disciplinare impone di valutare e di dare un esito espresso, non di punire: il destinatario redige una valutazione scritta, dispone l'archiviazione e ne informa il comando di corpo, che prende atto. Lasciare il rapporto senza seguito o restituirlo viola la trasparenza ed espone a lamentele del compilatore e a censure di disparità di trattamento.",
+   "riferimenti": [
+    "COM art. 1397",
+    "COM art. 1398, co. 8"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E027",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi"
+   ],
+   "domanda": "Le autorità cui compete la potestà sanzionatoria nell'Arma sono individuate dalla circolare:",
+   "opzioni": {
+    "A": "n. 228/2-1-2022",
+    "B": "n. 276/148-78-2009",
+    "C": "n. 17/109-2-1996",
+    "D": "n. 216/1-1-2022"
+   },
+   "corretta": "C",
+   "spiegazione": "La circ. n. 17/109-2-1996 del Comando Generale (I Reparto – SM – Ufficio Ordinamento), «Autorità alle quali compete la potestà sanzionatoria», ed. 2022, individua i comandanti di corpo e di reparto: serve anche a sapere a chi inviare il rapporto. Gli altri estremi sono veri ma di altro tema: n. 228/2-1-2022 (imparzialità nei procedimenti disciplinari), n. 276/148-78-2009 (stupefacenti), lett. n. 216/1-1-2022 (assistenza del legale).",
+   "riferimenti": [
+    "circ. n. 17/109-2-1996, ed. 2022",
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E028",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.c",
+   "tipo": "termini",
+   "difficolta": 4,
+   "trappole": [
+    "qualifica"
+   ],
+   "domanda": "Il «senza ritardo» con cui va fatto il rapporto disciplinare esprime:",
+   "opzioni": {
+    "A": "una regola di ragionevole prontezza",
+    "B": "un termine perentorio di trenta giorni",
+    "C": "un termine di ventiquattro ore",
+    "D": "un obbligo di immediatezza assoluta"
+   },
+   "corretta": "A",
+   "spiegazione": "Il «senza ritardo» dell'art. 1397, co. 1, COM ha lo stesso significato di quello dell'art. 1398, co. 1: termine sollecitatorio, regola di ragionevole prontezza, non «immediatamente» (Cons. Stato, sez. II, n. 3355/2015; sez. I, n. 854/2024). I trenta giorni sono un parametro giurisprudenziale, non un termine perentorio.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 1"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E029",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "variante-minima"
+   ],
+   "domanda": "Compagnia e tenenza retta da ufficiale sono, ai fini disciplinari:",
+   "opzioni": {
+    "A": "un unico reparto",
+    "B": "due corpi diversi",
+    "C": "due reparti diversi",
+    "D": "un corpo e un reparto"
+   },
+   "corretta": "C",
+   "spiegazione": "Per la circolare sulle autorità competenti il Comandante di Tenenza, quando è ufficiale, è comandante di reparto per il personale dipendente; il Comandante di Compagnia lo è per il proprio personale, compreso il Comandante di Tenenza. Sono due reparti diversi dello stesso corpo (la Legione): il comandante di compagnia che rileva la mancanza di un militare della tenenza fa rapporto per via gerarchica al Comandante di Corpo.",
+   "riferimenti": [
+    "circ. n. 17/109-2-1996, ed. 2022",
+    "COM art. 1397, co. 3, lett. b)"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E030",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "distinzione"
+   ],
+   "domanda": "Il rapporto disciplinare è:",
+   "opzioni": {
+    "A": "una fonte non qualificata della notizia",
+    "B": "l'atto che apre il procedimento",
+    "C": "sempre una fonte qualificata della notizia",
+    "D": "una contestazione anticipata"
+   },
+   "corretta": "C",
+   "spiegazione": "Il rapporto è la fonte qualificata per eccellenza: il fatto è stato percepito da un superiore, nell'attualità dell'illecito, e si dà per accertato. Non apre il procedimento (lo apre la contestazione degli addebiti, dell'autorità competente) e non contiene contestazioni né proposte (art. 1397, co. 2, COM).",
+   "riferimenti": [
+    "COM art. 1397, co. 1-2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "lezione 10"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E031",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "procedura",
+   "difficolta": 4,
+   "trappole": [
+    "posizione-docente",
+    "assoluti"
+   ],
+   "domanda": "Il comandante di compagnia che riceve un rapporto indirizzato in modo errato dovrebbe:",
+   "opzioni": {
+    "A": "procedere comunque alle contestazioni",
+    "B": "archiviarlo, essendo l'atto invalido",
+    "C": "annullarlo in autotutela e chiudere la pratica",
+    "D": "chiederne il rinnovo con l'indirizzo corretto"
+   },
+   "corretta": "D",
+   "spiegazione": "Procedere su un rapporto che viola l'art. 1397, co. 3, COM espone la sanzione all'annullamento (parere sull'affare n. 5000/2012); il fatto, però, resta disciplinarmente rilevante e non va archiviato. Il docente suggerisce di chiedere al comando di provenienza di rinnovare l'atto, con un nuovo protocollo della stessa pratica, indirizzandolo correttamente.",
+   "riferimenti": [
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E032",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il rapporto disciplinare è sempre redatto per iscritto",
+    "B": "il rapporto disciplinare non contiene mai proposte sulla specie o sull'entità della sanzione",
+    "C": "il rapporto disciplinare è sempre inviato direttamente al Comandante di Corpo",
+    "D": "il rapporto disciplinare è sempre fatto senza ritardo"
+   },
+   "corretta": "C",
+   "spiegazione": "Il rapporto va direttamente al Comandante di Reparto se comune ai due militari, per via gerarchica al Comandante di Corpo se il manchevole è di altro reparto, tramite i comandi di corpo se i corpi sono diversi; solo generali, colonnelli e ufficiali comandanti di corpo lo inviano direttamente al Comandante di Corpo (art. 1397, co. 3-6, COM). Le altre affermazioni sono vere: forma scritta (co. 3: «inviato»), divieto di proposte (co. 2), «senza ritardo» (co. 1).",
+   "riferimenti": [
+    "COM art. 1397"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E033",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "la constatazione spetta al superiore non competente che fa rapporto",
+    "B": "la constatazione spetta solo al Comandante di Reparto ai fini disciplinari",
+    "C": "la contestazione spetta al Comandante di Reparto ai fini disciplinari competente",
+    "D": "la contestazione spetta anche al Comandante di Corpo"
+   },
+   "corretta": "B",
+   "spiegazione": "La constatazione è adempimento del superiore non competente (art. 1397, co. 1, COM); la contestazione degli addebiti spetta all'autorità competente a infliggere la sanzione, cioè al Comandante di Reparto ai fini disciplinari e, per le sanzioni di sua competenza (consegna di rigore compresa), al Comandante di Corpo. È falsa l'affermazione che attribuisce la constatazione, per giunta in via esclusiva, al Comandante di Reparto: constatazione e contestazione differiscono per una lettera e per l'autorità.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1398, co. 2",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E034",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "estremi",
+    "variante-minima"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "CdS 973/2013: il rapporto orale è una mera irregolarità",
+    "B": "CdS 973/2013: il rapporto orale vizia il procedimento",
+    "C": "CdS 450/2020: il rapporto mal indirizzato vizia sempre la sanzione",
+    "D": "TAR FVG 5/2026: la constatazione è sempre esigibile"
+   },
+   "corretta": "B",
+   "spiegazione": "Cons. Stato, sez. II, parere 4.3.2013, n. 973: l'assenza di una formale constatazione e di un rapporto scritto vizia il procedimento anche quando l'autorità competente abbia provveduto oralmente. Cons. Stato, sez. IV, n. 450/2020 non riguarda il rapporto mal indirizzato e non annulla (mancata trasmissione del rapporto, piena difesa); TAR FVG n. 5/2026 ha ritenuto la constatazione non esigibile per il segreto istruttorio.",
+   "riferimenti": [
+    "Cons. Stato, sez. II, parere 4.3.2013, n. 973",
+    "Cons. Stato, sez. IV, 20.1.2020, n. 450",
+    "TAR Friuli-Venezia Giulia, sez. I, 16.1.2026, n. 5"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E035",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "estremi",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "TAR FVG 102/2024: la constatazione è superflua se il trasgressore è noto",
+    "B": "TAR Sicilia 2233/2023: la nota inviata alla sola compagnia viola sempre l'art. 1397",
+    "C": "CdS 450/2020: la mancata trasmissione del rapporto vizia sempre la sanzione",
+    "D": "TAR FVG 102/2024: la constatazione è dovuta anche se il trasgressore è noto"
+   },
+   "corretta": "D",
+   "spiegazione": "TAR Friuli-Venezia Giulia, sez. I, n. 102/2024: la constatazione è inderogabile anche quando il trasgressore è già identificato. TAR Sicilia n. 2233/2023 ha ritenuto legittima la nota del Comandante Provinciale alla compagnia (con nota distinta alla Legione); Cons. Stato, sez. IV, n. 450/2020 ha escluso che la doglianza sulla mancata trasmissione del rapporto inficiasse la sanzione.",
+   "riferimenti": [
+    "TAR Friuli-Venezia Giulia, sez. I, 13.3.2024, n. 102",
+    "TAR Sicilia, sez. I, 4.7.2023, n. 2233",
+    "Cons. Stato, sez. IV, 20.1.2020, n. 450"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E036",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "VII.1.b",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il Comandante Provinciale è Comandante di Corpo per i militari delle stazioni",
+    "B": "il Comandante di Compagnia è Comandante di Reparto ai fini disciplinari",
+    "C": "il Comandante di Gruppo è Comandante di Corpo ai fini disciplinari",
+    "D": "il Comandante di Stazione è Comandante di Corpo ai fini disciplinari"
+   },
+   "corretta": "B",
+   "spiegazione": "Nell'organizzazione territoriale, secondo la circ. n. 17/109-2-1996 (ed. 2022), sono comandanti di corpo il Comandante Interregionale e il Comandante della Legione; il Comandante Provinciale e il Comandante di Gruppo figurano tra i comandanti di reparto (per il personale indicato), e il Comandante di Compagnia è Comandante di Reparto per il personale dipendente. Il Comandante di Stazione non è Comandante di Corpo.",
+   "riferimenti": [
+    "circ. n. 17/109-2-1996, ed. 2022",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E037",
+   "argomento": "richiamo",
+   "sinossi": "V.2.a",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "assoluti",
+    "istituto-vicino"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il rimprovero può essere inflitto da tutti i superiori",
+    "B": "la consegna può essere inflitta da tutti i superiori",
+    "C": "la consegna di rigore può essere inflitta da tutti i Comandanti di Reparto",
+    "D": "il richiamo può essere inflitto da tutti i superiori"
+   },
+   "corretta": "D",
+   "spiegazione": "Art. 1359, co. 2, COM: il richiamo «può essere inflitto da qualsiasi superiore». Il rimprovero spetta al Comandante di Corpo, al Comandante di Reparto e ai comandanti di distaccamento indicati dall'art. 1396, co. 3; la consegna al Comandante di Corpo e al Comandante di Reparto (co. 2); la consegna di rigore esclusivamente al Comandante di Corpo (co. 1). Per questo chi non può infliggere la sanzione che il fatto richiede fa rapporto.",
+   "riferimenti": [
+    "COM art. 1359, co. 2",
+    "COM art. 1396"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E038",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "nozione",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "distinzione"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il rapporto disciplinare segue la punizione",
+    "B": "il rapporto disciplinare sostituisce la contestazione",
+    "C": "il rapporto disciplinare precede la punizione",
+    "D": "il rapporto disciplinare apre il procedimento"
+   },
+   "corretta": "C",
+   "spiegazione": "Il rapporto è l'atto del superiore non competente che riferisce la mancanza all'autorità competente, perché questa instauri il procedimento: viene prima della punizione e prima del procedimento, che si apre con la contestazione degli addebiti. Ciò che segue la punizione è, ad esempio, la comunicazione del richiamo inflitto da un superiore estraneo alla linea (art. 1359, co. 2, COM) o la nota esplicativa al comando di corpo.",
+   "riferimenti": [
+    "COM art. 1397, co. 1",
+    "COM art. 1359, co. 2",
+    "COM art. 1398, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E039",
+   "argomento": "potesta-sanzionatoria",
+   "sinossi": "V.1.e",
+   "tipo": "competenza",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "solo il Comandante di Corpo può infliggere la consegna di rigore",
+    "B": "solo il Comandante di Reparto ai fini disciplinari può infliggere la consegna",
+    "C": "solo il Comandante di Corpo può infliggere il rimprovero",
+    "D": "solo il superiore della linea può infliggere il richiamo"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1396, co. 1, COM: la consegna di rigore può essere inflitta «esclusivamente» dal comandante del corpo o dell'ente presso il quale il militare presta servizio. La consegna spetta al Comandante di Corpo e al Comandante di Reparto (co. 2); il rimprovero anche ai comandanti di distaccamento indicati (co. 3); il richiamo a qualsiasi superiore (art. 1359, co. 2). Da qui il rapporto del Comandante di Reparto che ritiene il fatto da consegna di rigore.",
+   "riferimenti": [
+    "COM art. 1396",
+    "COM art. 1359, co. 2",
+    "COM art. 1397, co. 7"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E040",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "estremi",
+    "rinvio"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il rapporto disciplinare è disciplinato dall'art. 1397 COM",
+    "B": "il rapporto disciplinare è disciplinato dall'art. 1398 COM",
+    "C": "il rapporto disciplinare è disciplinato dall'art. 1399, co. 1, COM",
+    "D": "il rapporto disciplinare è disciplinato dall'art. 1370 COM"
+   },
+   "corretta": "A",
+   "spiegazione": "L'art. 1397 COM («Procedura da seguire nel rilevare l'infrazione») regola constatazione, identificazione, rapporto, contenuto e destinatari. L'art. 1398 disciplina il procedimento di corpo (fasi, decisione, comunicazione; al co. 8 le decisioni rese note al compilatore); l'art. 1399 il procedimento per la consegna di rigore; l'art. 1370 la contestazione degli addebiti e il diritto di difesa.",
+   "riferimenti": [
+    "COM artt. 1370, 1397, 1398, 1399"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E041",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi"
+   ],
+   "domanda": "Quale pronuncia non ha annullato la sanzione nonostante la mancata trasmissione del rapporto?",
+   "opzioni": {
+    "A": "CdS 973/2013",
+    "B": "CdS 450/2020",
+    "C": "TAR FVG 102/2024",
+    "D": "TAR FVG 580/2006"
+   },
+   "corretta": "B",
+   "spiegazione": "Cons. Stato, sez. IV, 20.1.2020, n. 450 ha confermato la consegna: la doglianza formale sul rapporto dell'art. 1397 COM non inficiava la sanzione, perché i fatti, contestati, non erano stati negati e il militare si era difeso. Le altre pronunce sono di segno opposto: Cons. Stato, sez. II, n. 973/2013 (rapporto orale e constatazione mancante viziano il procedimento), TAR FVG n. 102/2024 e n. 580/2006 (omessa constatazione).",
+   "riferimenti": [
+    "Cons. Stato, sez. IV, 20.1.2020, n. 450",
+    "Cons. Stato, sez. II, parere 4.3.2013, n. 973"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E042",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VII.1.b",
+   "tipo": "giurisprudenza",
+   "difficolta": 4,
+   "trappole": [
+    "estremi",
+    "posizione-docente"
+   ],
+   "domanda": "Quale pronuncia ha ritenuto legittima la nota del Comandante Provinciale inviata alla compagnia?",
+   "opzioni": {
+    "A": "CdS 450/2020",
+    "B": "CdS 973/2013",
+    "C": "TAR FVG 5/2026",
+    "D": "TAR Sicilia 2233/2023"
+   },
+   "corretta": "D",
+   "spiegazione": "TAR Sicilia, sez. I, 4.7.2023, n. 2233: il Comandante Provinciale aveva inviato la segnalazione al Comandante di Compagnia per l'esame disciplinare e, con nota distinta, al Comandante di Legione; censura di violazione dell'art. 1397 COM infondata. È un orientamento diverso da quello del parere sull'affare n. 5000/2012 letto in aula, che ha annullato il rimprovero per il rapporto inviato alla compagnia anziché al Comandante di Corpo.",
+   "riferimenti": [
+    "TAR Sicilia, sez. I, 4.7.2023, n. 2233",
+    "COM art. 1397, co. 3"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)",
+    "repertorio della giurisprudenza"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E043",
+   "argomento": "richiamo",
+   "sinossi": "V.2.a",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "negativa",
+    "variante-minima",
+    "assoluti",
+    "rinvio"
+   ],
+   "domanda": "Quale fra le seguenti affermazioni non è corretta?",
+   "opzioni": {
+    "A": "il superiore della linea deve sempre fare rapporto per il richiamo",
+    "B": "il superiore della linea non deve fare rapporto per il richiamo",
+    "C": "il superiore estraneo alla linea può infliggere il richiamo",
+    "D": "il superiore estraneo alla linea comunica il richiamo inflitto"
+   },
+   "corretta": "A",
+   "spiegazione": "Art. 1359, co. 2, COM: il richiamo può essere inflitto da qualsiasi superiore; «se il superiore è collocato nella linea gerarchica di dipendenza del militare non v'è obbligo di rapporto». È falsa, dunque, l'affermazione che impone sempre il rapporto al superiore della linea; il superiore estraneo, invece, comunica il richiamo inflitto (comunicazione, non rapporto disciplinare dell'art. 1397).",
+   "riferimenti": [
+    "COM art. 1359, co. 2"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E044",
+   "argomento": "procedimento-corpo",
+   "sinossi": "VIII.2.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "la decisione è comunicata all'interessato solo se si infligge una sanzione",
+    "B": "la decisione è comunicata all'interessato in ogni caso, anche senza sanzione",
+    "C": "la decisione è comunicata al solo compilatore se non si infligge sanzione",
+    "D": "la decisione è comunicata per iscritto anche in caso di richiamo"
+   },
+   "corretta": "B",
+   "spiegazione": "Art. 1398, co. 4, COM: la decisione è comunicata verbalmente senza ritardo all'interessato «anche se l'autorità stessa non ritiene di far luogo all'applicazione di alcuna sanzione». Il provvedimento sanzionatorio è comunicato per iscritto con la motivazione «salvo che sia stata inflitta la sanzione del richiamo» (co. 5); al compilatore del rapporto le decisioni sono rese note (co. 8), non in luogo dell'interessato.",
+   "riferimenti": [
+    "COM art. 1398, co. 4-5 e 8"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
+  },
+  {
+   "id": "DD-L12-E045",
+   "argomento": "notizia-accertamenti",
+   "sinossi": "VII.1.b",
+   "tipo": "normativo",
+   "difficolta": 4,
+   "trappole": [
+    "affermazioni",
+    "variante-minima",
+    "assoluti"
+   ],
+   "domanda": "Quale delle seguenti affermazioni è corretta?",
+   "opzioni": {
+    "A": "il superiore non competente fa sempre rapporto per iscritto",
+    "B": "il superiore non competente fa rapporto per iscritto solo per la consegna di rigore",
+    "C": "il superiore non competente fa rapporto anche oralmente, se vi è urgenza",
+    "D": "il superiore competente fa sempre rapporto per iscritto"
+   },
+   "corretta": "A",
+   "spiegazione": "Il rapporto è sempre scritto: lo si desume dall'art. 1397, co. 3, COM, che parla di rapporto «inviato», e il rapporto orale vizia il procedimento (Cons. Stato, sez. II, n. 973/2013); la forma non dipende dalla sanzione né dall'urgenza. Il superiore competente non fa rapporto: procede direttamente alla contestazione degli addebiti.",
+   "riferimenti": [
+    "COM art. 1397, co. 1 e 3",
+    "Cons. Stato, sez. II, parere 4.3.2013, n. 973"
+   ],
+   "fonti": [
+    "lezione 12 (20.11.2026)"
+   ],
+   "lezione": 12,
+   "data_lezione": "2026-11-20"
   }
  ]
 }
